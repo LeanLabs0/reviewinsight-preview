@@ -1,0 +1,175 @@
+{
+  "slug": "basecamp",
+  "name": "Basecamp",
+  "domain": "basecamp.com",
+  "category": "project-management",
+  "category_name": "Project Management",
+  "captured_at": "2026-08-12T20:01:24.148877+00:00",
+  "portals": {
+    "g2": {
+      "portal": "g2",
+      "status": "ok",
+      "rating": 4.1,
+      "count": 5488,
+      "quotes": [
+        {
+          "text": "I've used more powerful project management tools, but a lot of them start feeling heavy the moment you bring clients or external people into the process. Basecamp is different in that sense. Clients usually understand pretty quickly where to leave\u2026",
+          "title": "Basecamp keeps projects simple, organized, and easy to follow",
+          "role": "Marketing and Advertising",
+          "company_size": "Mid-Market (51-1000 emp.)",
+          "date": "7/11/2026",
+          "rating": 4.5,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/basecamp/reviews"
+        },
+        {
+          "text": "I usually have information scattered across emails, documents, chats, and spreadsheets. Basecamp is one of the first tools where everything finally feels like it's in the same place without making the day-to-day work more complicated. Message Boards look like a\u2026",
+          "title": "Message Boards and To-dos cut out a lot of unnecessary follow-ups",
+          "role": "Information Technology and Services",
+          "company_size": "Mid-Market (51-1000 emp.)",
+          "date": "6/30/2026",
+          "rating": 5.0,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/basecamp/reviews"
+        },
+        {
+          "text": "After years of using tools packed with automations, dashboards, custom views, and endless configuration options, I ended up trying Basecamp with a fair amount of skepticism. I expected it to feel too basic, but that wasn\u2019t really the case. What\u2026",
+          "title": "Basecamp continues to stick to its simplicity, for better or worse",
+          "role": "Information Technology and Services",
+          "company_size": "Mid-Market (51-1000 emp.)",
+          "date": "6/19/2026",
+          "rating": 4.5,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/basecamp/reviews"
+        },
+        {
+          "text": "Basecamp is one of the easiest project management and team collaboration tools to adopt and use well. It centralizes communication, tasks, files, and project updates in a way that stays streamlined without becoming overly complicated.",
+          "title": "Basecamp Keeps Team Communication Streamlined with an Intuitive, Simple Setup",
+          "role": "Outsourcing/Offshoring",
+          "company_size": "Mid-Market (51-1000 emp.)",
+          "date": "5/25/2026",
+          "rating": 5.0,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/basecamp/reviews"
+        }
+      ],
+      "url": "https://www.g2.com/products/basecamp/reviews",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00"
+    },
+    "capterra": {
+      "portal": "capterra",
+      "status": "ok",
+      "rating": 4.3,
+      "count": 14434,
+      "sub_ratings": {
+        "Ease of use": 4.3,
+        "Customer Service": 4.3
+      },
+      "quotes": [
+        {
+          "text": "Basecamp has been a reliable project management and client collaboration platform since the classic version, delivering consistent core functionality across message boards, to-dos, file storage, campfire chat, and schedules",
+          "title": null,
+          "role": "CEOComputer Software, 2 - 10 employees",
+          "company_size": "2-10 employees",
+          "date": "June 1, 2026",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/56808/Basecamp/reviews/"
+        },
+        {
+          "text": "It has limited customization, lacks advanced features, and can feel too simple for complex projects.",
+          "title": null,
+          "role": "Finance",
+          "company_size": "11-50 employees",
+          "date": "May 14, 2026",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/56808/Basecamp/reviews/"
+        },
+        {
+          "text": "The intuitive interface seamlessly integrates message boards, to-do lists, and file sharing, which significantly reduces internal email clutter and keeps cross-functional teams aligned.",
+          "title": null,
+          "role": "Assistantship",
+          "company_size": "11-50 employees",
+          "date": "June 9, 2026",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/56808/Basecamp/reviews/"
+        },
+        {
+          "text": "Not as customizable as some software, so if you need more depth, then it might not work well for your needs.",
+          "title": null,
+          "role": "Director of Operations",
+          "company_size": "2-10 employees",
+          "date": "July 1, 2026",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/56808/Basecamp/reviews/"
+        }
+      ],
+      "url": "https://www.capterra.com/p/56808/Basecamp/reviews/",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00"
+    },
+    "gartner": {
+      "portal": "gartner",
+      "status": "parse_failed",
+      "rating": null,
+      "count": null,
+      "ratings_count": null,
+      "quotes": [],
+      "url": "https://www.gartner.com/reviews/market/collaborative-work-management",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00",
+      "bodies_gated": false
+    },
+    "trustpilot": {
+      "portal": "trustpilot",
+      "status": "ok",
+      "rating": 2.3,
+      "count": 41,
+      "quotes": [
+        {
+          "text": "Basecamp has been useful for managing our work, but the new desktop app does not feel as easy to use as the previous version. The older app had some issues too. For example, while editing a document, we often had\u2026",
+          "title": "The New Desktop App Feels Less Intuitive",
+          "role": null,
+          "company_size": null,
+          "date": "2026-07-28",
+          "rating": 3,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all"
+        },
+        {
+          "text": "So- This roll out has been so disastrous, they are on their 3rd (or is it 4th?) \"Live Walkthrough & Q/A\" It's gone from a 20 min video, (who has time for that?) to a 60-90 minute session?! Are you\u2026",
+          "title": "Change for Change's Sake? Ugh...It's Brutal.",
+          "role": null,
+          "company_size": null,
+          "date": "2026-07-21",
+          "rating": 2,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all"
+        },
+        {
+          "text": "i've had a great experience with basecamp, is easy, intuitive and perfect for a solo business like mine",
+          "title": "i've had a great experience with\u2026",
+          "role": null,
+          "company_size": null,
+          "date": "2026-07-16",
+          "rating": 4,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all"
+        },
+        {
+          "text": "My office has used this app for almost a decade, and it's been a pain from the very beginning. If you manage dozens of clients, locating a specific project can feel like an assignment all on its own.",
+          "title": "Consider Alternative Project Management Tools",
+          "role": null,
+          "company_size": null,
+          "date": "2026-07-10",
+          "rating": 1,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all"
+        }
+      ],
+      "url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00"
+    }
+  }
+}

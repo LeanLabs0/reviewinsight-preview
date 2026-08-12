@@ -1,0 +1,200 @@
+{
+  "slug": "klaviyo",
+  "name": "Klaviyo",
+  "domain": "klaviyo.com",
+  "category": "marketing-automation",
+  "category_name": "Marketing Automation",
+  "captured_at": "2026-08-12T20:01:24.148877+00:00",
+  "portals": {
+    "g2": {
+      "portal": "g2",
+      "status": "ok",
+      "rating": 4.6,
+      "count": 1360,
+      "quotes": [
+        {
+          "text": "What I like most about Klaviyo is how simple it makes email marketing. I use it mainly to build automated flows like welcome emails and abandoned cart reminders, and the visual Flow Builder makes it easy to update everything without\u2026",
+          "title": "Makes Email Marketing Much Easier",
+          "role": "Junior AI Engineer",
+          "company_size": "Mid-Market (51-1000 emp.)",
+          "date": "8/6/2026",
+          "rating": 5.0,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/klaviyo/reviews"
+        },
+        {
+          "text": "What i like most about klaviyo is how simple it makes email marketing automation. i user it my projects, and setting up flows like welcome emails or abandoned cart is very easy.The segmentation is powerful and helps target the right\u2026",
+          "title": "Klaviyo Makes Email Automation Simple, Powerful, and Reliable",
+          "role": "Fullstack Developer",
+          "company_size": "Small-Business (50 or fewer emp.)",
+          "date": "5/3/2026",
+          "rating": 4.5,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/klaviyo/reviews"
+        },
+        {
+          "text": "What I like most about Klaviyo is how easy it makes it to build targeted email campaigns and automate customer communication. I also find the reporting helpful for seeing what\u2019s working, identifying what isn\u2019t, and making adjustments to improve overall\u2026",
+          "title": "Easy-to-Use Platform for Email Marketing Automation",
+          "role": "Marketing and Advertising",
+          "company_size": "Small-Business (50 or fewer emp.)",
+          "date": "6/15/2026",
+          "rating": 4.0,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/klaviyo/reviews"
+        },
+        {
+          "text": "What I like best about Klaviyo is how well it performs across the board. The UI/UX is easy to use, and the integrations with our eCommerce tools make everything seamless. It delivers strong performance and clear ROI through effective segmentation\u2026",
+          "title": "Klaviyo Delivers Strong ROI with Seamless Integrations and Powerful Automation",
+          "role": "Marketing Director",
+          "company_size": "Small-Business (50 or fewer emp.)",
+          "date": "4/15/2026",
+          "rating": 4.5,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/klaviyo/reviews"
+        }
+      ],
+      "url": "https://www.g2.com/products/klaviyo/reviews",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00"
+    },
+    "capterra": {
+      "portal": "capterra",
+      "status": "ok",
+      "rating": 4.6,
+      "count": 534,
+      "sub_ratings": {
+        "Ease of use": 4.5,
+        "Customer Service": 4.3
+      },
+      "quotes": [
+        {
+          "text": "Klaviyo deep data integration allows us to track exact customer behavior and trigger precise email campaigns based on purchase history, which heavily drives our repeat sales and revenue.",
+          "title": null,
+          "role": "CEORetail, 2 - 10 employees",
+          "company_size": "2-10 employees",
+          "date": "May 16, 2026",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/156699/Klaviyo/reviews/"
+        },
+        {
+          "text": "They've continued to add features to try and justify the costs, but it gets harder to keep up as a small business.",
+          "title": null,
+          "role": "Lead Strategist, Designer",
+          "company_size": "2-10 employees",
+          "date": "March 19, 2026",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/156699/Klaviyo/reviews/"
+        },
+        {
+          "text": "It gives us deep insights into customer behavior and allows us to build complex, high-converting automated flows that consistently generate sales. Despite the premium price, the ROI makes it completely worth it.",
+          "title": null,
+          "role": "CEORetail, 2 - 10 employees",
+          "company_size": "2-10 employees",
+          "date": "May 16, 2026",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/156699/Klaviyo/reviews/"
+        },
+        {
+          "text": "Customer support is quick, however at the peak time it is sometimes slow which is frustrating for troubleshooting.",
+          "title": null,
+          "role": "Secretary General",
+          "company_size": "11-50 employees",
+          "date": "June 26, 2026",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/156699/Klaviyo/reviews/"
+        }
+      ],
+      "url": "https://www.capterra.com/p/156699/Klaviyo/reviews/",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00"
+    },
+    "gartner": {
+      "portal": "gartner",
+      "status": "ok",
+      "rating": 4.7,
+      "count": 170,
+      "ratings_count": 168,
+      "quotes": [
+        {
+          "text": null,
+          "title": "Quick learning curve and strong support drive greater business growth",
+          "role": "Director of Marketing",
+          "company_size": "<50M USD, Consumer Goods",
+          "date": "Jun 15, 2026",
+          "rating": 5.0,
+          "sentiment": "FAVORABLE",
+          "body_gated": true,
+          "portal": "Gartner Peer Insights",
+          "source_url": "https://www.gartner.com/reviews/product/klaviyo"
+        },
+        {
+          "text": null,
+          "title": "Smooth setup and workflows, but advanced features increase expenses",
+          "role": "Director Of Marketing",
+          "company_size": "<50M USD, Media",
+          "date": "May 15, 2026",
+          "rating": 3.0,
+          "sentiment": "CRITICAL",
+          "body_gated": true,
+          "portal": "Gartner Peer Insights",
+          "source_url": "https://www.gartner.com/reviews/product/klaviyo"
+        }
+      ],
+      "url": "https://www.gartner.com/reviews/product/klaviyo",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00",
+      "bodies_gated": true
+    },
+    "trustpilot": {
+      "portal": "trustpilot",
+      "status": "ok",
+      "rating": 1.7,
+      "count": 365,
+      "quotes": [
+        {
+          "text": "Absolutely ridiculous billing practices. I was on a Klaviyo plan and assumed fairly standard business practices would apply, if I turned auto-upgrade off, my account wouldn't suddenly be moved onto a much more expensive plan without my approval. While developing\u2026",
+          "title": "Absolutely ridiculous billing\u2026",
+          "role": null,
+          "company_size": null,
+          "date": "2026-08-10",
+          "rating": 1,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all"
+        },
+        {
+          "text": "Tried to get help with template code issues, but Klaviyo locks email/chat support strictly behind paid tiers. To make matters worse, accessing the community forum leads to endless login popup loops. If basic support and community tools don't even function\u2026",
+          "title": "Tried to get help with template code\u2026",
+          "role": null,
+          "company_size": null,
+          "date": "2026-08-10",
+          "rating": 1,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all"
+        },
+        {
+          "text": "They clearly don't care about poor reviews, but adding mine anyway. Awful billing policy - charging for dormant profiles that are not even subscribed to receive marketing. Terrible customer support.",
+          "title": "They clearly don't care about poor\u2026",
+          "role": null,
+          "company_size": null,
+          "date": "2026-08-08",
+          "rating": 1,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all"
+        },
+        {
+          "text": "The worst customer service / software support i ever seen in my like",
+          "title": "The worst customer service",
+          "role": null,
+          "company_size": null,
+          "date": "2026-07-14",
+          "rating": 1,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all"
+        }
+      ],
+      "url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00"
+    }
+  }
+}

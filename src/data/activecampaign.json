@@ -1,0 +1,200 @@
+{
+  "slug": "activecampaign",
+  "name": "ActiveCampaign",
+  "domain": "activecampaign.com",
+  "category": "marketing-automation",
+  "category_name": "Marketing Automation",
+  "captured_at": "2026-08-12T20:01:24.148877+00:00",
+  "portals": {
+    "g2": {
+      "portal": "g2",
+      "status": "ok",
+      "rating": 4.4,
+      "count": 14779,
+      "quotes": [
+        {
+          "text": "The interface is user-friendly, and I appreciate both the support provided and the easy access to information. Also the integration with other CRMs is quite simple. Review collected by and hosted on G2.com.",
+          "title": "User-Friendly Interface, Powerful Features, and Excellent Support",
+          "role": "Marketing Manager",
+          "company_size": "Small-Business (50 or fewer emp.)",
+          "date": "10/14/2025",
+          "rating": 5.0,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/activecampaign/reviews"
+        },
+        {
+          "text": "The automation builder is the standout for our team - we run multiple email sequences (re-engagement, nurtures, promotional) and being able to visually map out the logic, branching, and tagging makes it easy to see the whole customer journey at\u2026",
+          "title": "Powerful Automations and Reporting That Drive Strategic Decisions",
+          "role": "Business Operations Manager",
+          "company_size": "Small-Business (50 or fewer emp.)",
+          "date": "8/3/2026",
+          "rating": 4.5,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/activecampaign/reviews"
+        },
+        {
+          "text": "ActiveCampaign is easy to use. The email builder, and especially the automation builder are SUPER intuitive.",
+          "title": "Super Intuitive Email & Automation Builder That\u2019s Easy to Use",
+          "role": "Founder &amp; Chief Strategist",
+          "company_size": "Small-Business (50 or fewer emp.)",
+          "date": "8/2/2026",
+          "rating": 4.5,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/activecampaign/reviews"
+        },
+        {
+          "text": "After using for years I know how it works, so I can quickly work out what is going and how to build an automation / campaign. It integrates well with typeform, and performance has improved in the past 6 months\u2026",
+          "title": "Pricey & Email Builder Formatting Is a Pain with good Automations and some Integrations",
+          "role": "Director",
+          "company_size": "Small-Business (50 or fewer emp.)",
+          "date": "7/29/2026",
+          "rating": 3.5,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/activecampaign/reviews"
+        }
+      ],
+      "url": "https://www.g2.com/products/activecampaign/reviews",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00"
+    },
+    "capterra": {
+      "portal": "capterra",
+      "status": "ok",
+      "rating": 4.6,
+      "count": 2568,
+      "sub_ratings": {
+        "Ease of use": 4.2,
+        "Customer Service": 4.4
+      },
+      "quotes": [
+        {
+          "text": "The AI-powered recommendations further improve campaign performance and lead qualification and with email, SMS, and WhatsApp communication available from one platform, we can engage customers through the channels that work best for them.",
+          "title": null,
+          "role": "Sales Director",
+          "company_size": "11-50 employees",
+          "date": "July 13, 2026",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/79367/ActiveCampaign/reviews/"
+        },
+        {
+          "text": "The drawback isn't that big, but it can be annoying in times that demand prompt changes, say during busy tourist season.",
+          "title": null,
+          "role": "ERP Supervisor",
+          "company_size": "11-50 employees",
+          "date": "June 20, 2026",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/79367/ActiveCampaign/reviews/"
+        },
+        {
+          "text": "Another standout feature is its multi-channel marketing capabilities, enabling us to coordinate email, SMS and WhatsApp campaigns from a single platform while monitoring engagement across every channel.",
+          "title": null,
+          "role": "Sales and Marketing Specialist",
+          "company_size": "11-50 employees",
+          "date": "July 6, 2026",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/79367/ActiveCampaign/reviews/"
+        },
+        {
+          "text": "I am using AC to send automated sequences to my leads, but I am not using the campaign features, and I am considering swtiching to another tool if I can't delete my inactive leads (else the costs will constantly increase)",
+          "title": null,
+          "role": "CEOEducation Management, 2 - 10 employees",
+          "company_size": "2-10 employees",
+          "date": "August 23, 2024",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/79367/ActiveCampaign/reviews/"
+        }
+      ],
+      "url": "https://www.capterra.com/p/79367/ActiveCampaign/reviews/",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00"
+    },
+    "gartner": {
+      "portal": "gartner",
+      "status": "ok",
+      "rating": 4.3,
+      "count": 97,
+      "ratings_count": 97,
+      "quotes": [
+        {
+          "text": null,
+          "title": "Efficient personalization in email marketing, with challenges in detailed analysis",
+          "role": "Marketing Associate",
+          "company_size": "50M - 250M USD, Healthcare and Biotech",
+          "date": "Jun 16, 2026",
+          "rating": 4.0,
+          "sentiment": "FAVORABLE",
+          "body_gated": true,
+          "portal": "Gartner Peer Insights",
+          "source_url": "https://www.gartner.com/reviews/product/active-campaign-platform"
+        },
+        {
+          "text": null,
+          "title": "Powerful automation depth offset by average deliverability and usability",
+          "role": "Marketing Manager",
+          "company_size": "250M - 500M USD, IT Services",
+          "date": "Jul 21, 2026",
+          "rating": 3.0,
+          "sentiment": "CRITICAL",
+          "body_gated": true,
+          "portal": "Gartner Peer Insights",
+          "source_url": "https://www.gartner.com/reviews/product/active-campaign-platform"
+        }
+      ],
+      "url": "https://www.gartner.com/reviews/product/active-campaign-platform",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00",
+      "bodies_gated": true
+    },
+    "trustpilot": {
+      "portal": "trustpilot",
+      "status": "ok",
+      "rating": 2.8,
+      "count": 1426,
+      "quotes": [
+        {
+          "text": "La plataoforma es robusta y tiene varias funciones para empezar, pero es bastante cara y el soporte es nefasto, te van dando largas de manera indefinida y no resultaven ningun problema ademas es muy cara para lo que ofrecen. En\u2026",
+          "title": "Nefasta, problems continuos",
+          "role": null,
+          "company_size": null,
+          "date": "2026-08-10",
+          "rating": 1,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/activecampaign.com?sort=recency&languages=all"
+        },
+        {
+          "text": "Free trial limits contacts to only 100, it is too small a sample size to make it worth it. Huge rip-off.",
+          "title": "Free trial limits contacts to only 100",
+          "role": null,
+          "company_size": null,
+          "date": "2026-08-08",
+          "rating": 1,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/activecampaign.com?sort=recency&languages=all"
+        },
+        {
+          "text": "I have used Active Campaign for years and love the automations which are powerful and straight forward to set up once you have your head around the way it works. The email designer is much improved recently and the AI\u2026",
+          "title": "Great product - support not as good as it used to be",
+          "role": null,
+          "company_size": null,
+          "date": "2026-08-04",
+          "rating": 3,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/activecampaign.com?sort=recency&languages=all"
+        },
+        {
+          "text": "I had a decent experience with Active Campaign although it is quite complicated to use and definitely expensive. Really disappointed though that when I cancelled they offered to save my profile info for 3 months and then sent me the\u2026",
+          "title": "Will go with Klaviyo in the future",
+          "role": null,
+          "company_size": null,
+          "date": "2026-08-03",
+          "rating": 2,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/activecampaign.com?sort=recency&languages=all"
+        }
+      ],
+      "url": "https://www.trustpilot.com/review/activecampaign.com?sort=recency&languages=all",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00"
+    }
+  }
+}

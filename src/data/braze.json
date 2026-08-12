@@ -1,0 +1,190 @@
+{
+  "slug": "braze",
+  "name": "Braze",
+  "domain": "braze.com",
+  "category": "marketing-automation",
+  "category_name": "Marketing Automation",
+  "captured_at": "2026-08-12T20:01:24.148877+00:00",
+  "portals": {
+    "g2": {
+      "portal": "g2",
+      "status": "ok",
+      "rating": 4.5,
+      "count": 1689,
+      "quotes": [
+        {
+          "text": "I love how Braze has united our applications, logins, and event data so a fan's full history is in a single view, making the consolidation invaluable to me. I appreciate the precision in carving out the right audience and delivering\u2026",
+          "title": "Unified Channels, Precision Engagement",
+          "role": "Events Services",
+          "company_size": "Small-Business (50 or fewer emp.)",
+          "date": "8/11/2026",
+          "rating": 4.0,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/braze/reviews"
+        },
+        {
+          "text": "Braze spent the last year really expanding their AI toolset. The big ones include Decisioning Studio (basically AI instead of manual A/B testing), an Agent Console for building custom AI agents right in Canvas, and a Content Optimizer that auto-generates\u2026",
+          "title": "Powerful multi-channel engagement platform",
+          "role": "Lifecycle Marketing Manager",
+          "company_size": "Mid-Market (51-1000 emp.)",
+          "date": "4/23/2026",
+          "rating": 4.0,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/braze/reviews"
+        },
+        {
+          "text": "Braze continues to outpace the market by shifting from simple automation to true AI-native orchestration. In 2026, the standout feature is definitely the BrazeAI\u2122 Decisioning Studio. Unlike old-school A/B testing, it uses reinforcement learning to autonomously decide the best channel\u2026",
+          "title": "Engage your users with an higher level AI-native orchestration tool",
+          "role": "Senior Product Manager",
+          "company_size": "Mid-Market (51-1000 emp.)",
+          "date": "1/14/2022",
+          "rating": 4.5,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/braze/reviews"
+        },
+        {
+          "text": "Braze is intuitive and easy to navigate, and its user-friendly design makes working with it especially smooth. It offers a solid range of tools that can be integrated without much hassle, making it a dependable choice. Another great aspect is\u2026",
+          "title": "Allrounder - Tool for Email- & Automation Marketing",
+          "role": "CRM",
+          "company_size": "Mid-Market (51-1000 emp.)",
+          "date": "10/26/2022",
+          "rating": 3.5,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/braze/reviews"
+        }
+      ],
+      "url": "https://www.g2.com/products/braze/reviews",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00"
+    },
+    "capterra": {
+      "portal": "capterra",
+      "status": "ok",
+      "rating": 4.7,
+      "count": 168,
+      "sub_ratings": {
+        "Ease of use": 4.5,
+        "Customer Service": 4.5
+      },
+      "quotes": [
+        {
+          "text": "The ability to visualize customer journeys and orchestrate campaigns (Canvas etc.), which helps with planning, debugging, and optimizing over time.",
+          "title": null,
+          "role": "Customer Service Representative",
+          "company_size": "51-200 employees",
+          "date": "September 12, 2025",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/155423/Appboy/reviews/"
+        },
+        {
+          "text": "Some limitations or friction with custom event handling, identity management, or naming conventions. If your data isn\u2019t clean or you don\u2019t have strict internal standards, things can get messy.",
+          "title": null,
+          "role": "Customer Service Representative",
+          "company_size": "51-200 employees",
+          "date": "September 12, 2025",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/155423/Appboy/reviews/"
+        },
+        {
+          "text": "Canvas journeys are able to support our complex subscription flows, creating and augmenting the SMS campaigns is also simple.",
+          "title": null,
+          "role": "Lifecycle Marketing",
+          "company_size": "51-200 employees",
+          "date": "September 15, 2025",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/155423/Appboy/reviews/"
+        },
+        {
+          "text": "some small bugs in the campaign/canvas search where it didn't retain the same page after i click to campaign and press back, the search logic in the content block also a bit messed up",
+          "title": null,
+          "role": "CRM Lead",
+          "company_size": "51-200 employees",
+          "date": "February 25, 2025",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/155423/Appboy/reviews/"
+        }
+      ],
+      "url": "https://www.capterra.com/p/155423/Appboy/reviews/",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00"
+    },
+    "gartner": {
+      "portal": "gartner",
+      "status": "ok",
+      "rating": 4.5,
+      "count": 462,
+      "ratings_count": 457,
+      "quotes": [
+        {
+          "text": null,
+          "title": "Long-Term Platform Use Highlights Reliable Data Handling and Community Engagement",
+          "role": "Marketing Associate",
+          "company_size": "250M - 500M USD, Travel and Hospitality",
+          "date": "Mar 27, 2026",
+          "rating": 4.0,
+          "sentiment": "FAVORABLE",
+          "body_gated": true,
+          "portal": "Gartner Peer Insights",
+          "source_url": "https://www.gartner.com/reviews/product/braze-customer-engagement-platform"
+        },
+        {
+          "text": null,
+          "title": "Braze Enhances User Targeting Yet Struggles With Design Integration and Flexibility",
+          "role": "Designer",
+          "company_size": "<50M USD, Telecommunication",
+          "date": "Jun 16, 2025",
+          "rating": 3.0,
+          "sentiment": "CRITICAL",
+          "body_gated": true,
+          "portal": "Gartner Peer Insights",
+          "source_url": "https://www.gartner.com/reviews/product/braze-customer-engagement-platform"
+        }
+      ],
+      "url": "https://www.gartner.com/reviews/product/braze-customer-engagement-platform",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00",
+      "bodies_gated": true
+    },
+    "trustpilot": {
+      "portal": "trustpilot",
+      "status": "ok",
+      "rating": 2.8,
+      "count": 3,
+      "quotes": [
+        {
+          "text": "Braze attemped to access 19 personal identifiers via the ScrewFix app. I have not used Braze so I don't understant why they're trying to steal my data other that for there own profit. I understand in this day and age\u2026",
+          "title": "Braze attemped to access 19 personal\u2026",
+          "role": null,
+          "company_size": null,
+          "date": "2026-06-11",
+          "rating": 1,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/braze.com?sort=recency&languages=all"
+        },
+        {
+          "text": "They have a great customer support and the tool is flexible, finally I can send personalised communications! 5 stars for me.",
+          "title": "They have a great customer support and\u2026",
+          "role": null,
+          "company_size": null,
+          "date": "2023-02-16",
+          "rating": 5,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/braze.com?sort=recency&languages=all"
+        },
+        {
+          "text": "Really poor customer service. This is a technical product, but the technical support doesn't really seem to know what they're doing, nor do they seem to try terribly hard to figure it out. They tend to reply with more vague\u2026",
+          "title": "Really poor customer service",
+          "role": null,
+          "company_size": null,
+          "date": "2022-09-23",
+          "rating": 2,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/braze.com?sort=recency&languages=all"
+        }
+      ],
+      "url": "https://www.trustpilot.com/review/braze.com?sort=recency&languages=all",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00"
+    }
+  }
+}

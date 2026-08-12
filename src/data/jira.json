@@ -1,0 +1,200 @@
+{
+  "slug": "jira",
+  "name": "Jira",
+  "domain": "atlassian.com",
+  "category": "project-management",
+  "category_name": "Project Management",
+  "captured_at": "2026-08-12T20:01:24.148877+00:00",
+  "portals": {
+    "g2": {
+      "portal": "g2",
+      "status": "ok",
+      "rating": 4.3,
+      "count": 7935,
+      "quotes": [
+        {
+          "text": "in my internship Jira helped me to stay organized while working on multiple campaign and sales activities, it gave me a clear view of my daily tasks, deadlines and project progress making it much easier to manage my work \u2026",
+          "title": "Organized and Collaborative, but Too Many Custom Fields Slow Simple Tasks",
+          "role": "Sales And Marketing Intern",
+          "company_size": "Mid-Market (51-1000 emp.)",
+          "date": "8/10/2026",
+          "rating": 3.0,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/jira/reviews"
+        },
+        {
+          "text": "I have only three tools saved to my browser bookmarks bar: Jira, ITONICS, and a stopwatch timer.",
+          "title": "It's flexible for every department",
+          "role": "Marketing Manager",
+          "company_size": "Mid-Market (51-1000 emp.)",
+          "date": "8/7/2026",
+          "rating": 4.0,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/jira/reviews"
+        },
+        {
+          "text": "Jira\u2019s greatest strength is its unmatched customizability for Agile workflows. Whether you follow Scrum, Kanban, or a hybrid approach, Jira can be tailored to fit your exact process. The ability to create complex workflows, automate repetitive tasks (via automation rules)\u2026",
+          "title": "Unmatched Customizability for Agile Workflows",
+          "role": "Instructional Designer",
+          "company_size": "Mid-Market (51-1000 emp.)",
+          "date": "8/11/2026",
+          "rating": 5.0,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/jira/reviews"
+        },
+        {
+          "text": "What I like most about Jira is how it brings our entire project workflow into one place. Creating and tracking tasks is simple, and features like Kanban and Scrum boards make it easy to see progress at every stage. Custom\u2026",
+          "title": "Jira Keeps Our Workflow Organized, Transparent, and On Track",
+          "role": "Insurance",
+          "company_size": "Mid-Market (51-1000 emp.)",
+          "date": "8/7/2026",
+          "rating": 5.0,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/jira/reviews"
+        }
+      ],
+      "url": "https://www.g2.com/products/jira/reviews",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00"
+    },
+    "capterra": {
+      "portal": "capterra",
+      "status": "ok",
+      "rating": 4.4,
+      "count": 15446,
+      "sub_ratings": {
+        "Ease of use": 4.1,
+        "Customer Service": 4.2
+      },
+      "quotes": [
+        {
+          "text": "Its customizable workflows, issue tracking, dashboards, and collaboration features help development and IT teams stay organized while making it easy to monitor project status and ongoing work.",
+          "title": null,
+          "role": "Manager",
+          "company_size": "11-50 employees",
+          "date": "July 11, 2026",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/19319/JIRA/reviews/"
+        },
+        {
+          "text": "Once properly configured, it provides unparalleled visibility into project timelines, resource allocation, and issue tracking. While it can feel heavy and a bit rigid for smaller, fast-moving projects, its scalability and deep integration features make it an essential tool for\u2026",
+          "title": null,
+          "role": "Systems Engineer",
+          "company_size": "501-1,000 employees",
+          "date": "June 21, 2026",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/19319/JIRA/reviews/"
+        },
+        {
+          "text": "There are a lot of menus, settings, boards, fields, and workflow options, so it takes time to learn where everything is. If it is not set up properly, it can also become cluttered pretty quickly.",
+          "title": null,
+          "role": "IT Manager",
+          "company_size": "51-200 employees",
+          "date": "June 22, 2026",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/19319/JIRA/reviews/"
+        },
+        {
+          "text": "Powerful workflow automation (especially for ticket lifecycles and SLA monitoring), robust dashboard reporting capabilities for operational visibility, and seamless integration with tools like Confluence.",
+          "title": null,
+          "role": "Software Engineer",
+          "company_size": "5,001-10,000 employees",
+          "date": "June 17, 2026",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/19319/JIRA/reviews/"
+        }
+      ],
+      "url": "https://www.capterra.com/p/19319/JIRA/reviews/",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00"
+    },
+    "gartner": {
+      "portal": "gartner",
+      "status": "ok",
+      "rating": 4.4,
+      "count": 7891,
+      "ratings_count": 7865,
+      "quotes": [
+        {
+          "text": null,
+          "title": "Automated notifications and robust workflows boost reliability, but setup is complex",
+          "role": "Bid Manager",
+          "company_size": "50M - 250M USD, Software",
+          "date": "Jun 30, 2026",
+          "rating": 4.0,
+          "sentiment": "FAVORABLE",
+          "body_gated": true,
+          "portal": "Gartner Peer Insights",
+          "source_url": "https://www.gartner.com/reviews/product/jira"
+        },
+        {
+          "text": null,
+          "title": "Incredibly useful and powerful tool, but can get overly complicated and costly if you're not careful",
+          "role": "Director of Marketing",
+          "company_size": "<50M USD, Consumer Goods",
+          "date": "Jul 7, 2026",
+          "rating": 3.0,
+          "sentiment": "CRITICAL",
+          "body_gated": true,
+          "portal": "Gartner Peer Insights",
+          "source_url": "https://www.gartner.com/reviews/product/jira"
+        }
+      ],
+      "url": "https://www.gartner.com/reviews/product/jira",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00",
+      "bodies_gated": true
+    },
+    "trustpilot": {
+      "portal": "trustpilot",
+      "status": "ok",
+      "rating": 1.2,
+      "count": 174,
+      "quotes": [
+        {
+          "text": "I dont use your product I get an email and it says this is so important that you can not unsubcribe!!!!!!!",
+          "title": "I dont use your product",
+          "role": null,
+          "company_size": null,
+          "date": "2026-08-11",
+          "rating": 1,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all"
+        },
+        {
+          "text": "I used loom for years and paid around $20 per month for the software, randomly we started being charged $60 per month and when I looked into it they just increased the prices by 3x and started charging us for\u2026",
+          "title": "Loom Subscription went up 3x without consent",
+          "role": null,
+          "company_size": null,
+          "date": "2026-08-10",
+          "rating": 1,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all"
+        },
+        {
+          "text": "I signed up for a basic account simply to browse Trello and check out a standard project board. I had absolutely no intention of buying anything or starting a premium service. Instead of a straightforward signup, Atlassian instantly hit my\u2026",
+          "title": "I signed up for a basic account on Trello...",
+          "role": null,
+          "company_size": null,
+          "date": "2026-08-10",
+          "rating": 1,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all"
+        },
+        {
+          "text": "I downloaded the loom app to make a video for a job interview. I downloaded a free app. Used free features and now I'm being charged without consent by atlassian without being informed...i did not save my banking details, because\u2026",
+          "title": "LOOM AND ATLASSIAN SCAM.",
+          "role": null,
+          "company_size": null,
+          "date": "2026-07-30",
+          "rating": 1,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all"
+        }
+      ],
+      "url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00"
+    }
+  }
+}

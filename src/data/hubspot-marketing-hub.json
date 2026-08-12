@@ -1,0 +1,200 @@
+{
+  "slug": "hubspot-marketing-hub",
+  "name": "HubSpot Marketing Hub",
+  "domain": "hubspot.com",
+  "category": "marketing-automation",
+  "category_name": "Marketing Automation",
+  "captured_at": "2026-08-12T20:01:24.148877+00:00",
+  "portals": {
+    "g2": {
+      "portal": "g2",
+      "status": "ok",
+      "rating": 4.4,
+      "count": 14913,
+      "quotes": [
+        {
+          "text": "The access to our entire marketing audience and customers' information and the ability to organize that information quickly and easily is enormously helpful. In addition being able to filter the info as needed to target individuals is also very useful\u2026",
+          "title": "Powerful Audience & Campaign Tools, But an Overwhelming Interface and Limited Design Flexibility",
+          "role": "Father",
+          "company_size": "Small-Business (50 or fewer emp.)",
+          "date": "8/11/2026",
+          "rating": 3.5,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/hubspot-marketing-hub/reviews"
+        },
+        {
+          "text": "The ability to navigate easily is the top reason I like HubSpot Marketing Hub. I can find every aspect that I need to watch on the left panel and nested options. I integrate HubSpot in the custom SaaS tools I\u2026",
+          "title": "Easy Navigation, Centralised Data, Powerful Filters, and Great Value in HubSpot Marketing Hub",
+          "role": "Creative Technologist",
+          "company_size": "Small-Business (50 or fewer emp.)",
+          "date": "8/10/2026",
+          "rating": 5.0,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/hubspot-marketing-hub/reviews"
+        },
+        {
+          "text": "It helps automate and streamline a good amount of our work, and is easy to collaborate through. There is a robust number of features available for what is included in our subscription as well, which helps us experiment with a\u2026",
+          "title": "Streamlines Workflows with Robust Features and Easy Collaboration",
+          "role": "Business Intelligence Analyst",
+          "company_size": "Small-Business (50 or fewer emp.)",
+          "date": "8/5/2026",
+          "rating": 4.5,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/hubspot-marketing-hub/reviews"
+        },
+        {
+          "text": "I like that HubSpot Marketing Hub is one organized place where I can have everything in one central hub. It has everything I need, and all the data I require is in one place. I also value being able to\u2026",
+          "title": "Centralized Excellence for CRM Management",
+          "role": "Business Development Representative",
+          "company_size": "Mid-Market (51-1000 emp.)",
+          "date": "11/14/2022",
+          "rating": 5.0,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/hubspot-marketing-hub/reviews"
+        }
+      ],
+      "url": "https://www.g2.com/products/hubspot-marketing-hub/reviews",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00"
+    },
+    "capterra": {
+      "portal": "capterra",
+      "status": "ok",
+      "rating": 4.5,
+      "count": 6249,
+      "sub_ratings": {
+        "Ease of use": 4.3,
+        "Customer Service": 4.4
+      },
+      "quotes": [
+        {
+          "text": "From email marketing and social media scheduling to landing pages, forms, workflows, and campaign reporting, everything works together seamlessly.",
+          "title": null,
+          "role": "Sales Marketing Coordinator",
+          "company_size": "51-200 employees",
+          "date": "June 26, 2026",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/171840/HubSpot-Marketing/reviews/"
+        },
+        {
+          "text": "Restricted Customization on Lower Tiers: The reporting and template customization options feel unnecessarily locked down in the basic plans, forcing you to upgrade to incredibly expensive premium tiers just for flexible reporting.",
+          "title": null,
+          "role": "IT Exedutive",
+          "company_size": "11-50 employees",
+          "date": "July 20, 2026",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/171840/HubSpot-Marketing/reviews/"
+        },
+        {
+          "text": "What I liked about HubSpot Marketing Hub is how seamlessly it connects email campaigns, landing pages, automation workflows, and analytics in one intuitive dashboard.",
+          "title": null,
+          "role": "Administrator",
+          "company_size": "11-50 employees",
+          "date": "February 25, 2026",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/171840/HubSpot-Marketing/reviews/"
+        },
+        {
+          "text": "Additionally, some customization options for emails and landing pages can feel limiting compared to specialized design tools.",
+          "title": null,
+          "role": "Sales Marketing Coordinator",
+          "company_size": "51-200 employees",
+          "date": "June 26, 2026",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/171840/HubSpot-Marketing/reviews/"
+        }
+      ],
+      "url": "https://www.capterra.com/p/171840/HubSpot-Marketing/reviews/",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00"
+    },
+    "gartner": {
+      "portal": "gartner",
+      "status": "ok",
+      "rating": 4.4,
+      "count": 2683,
+      "ratings_count": 2678,
+      "quotes": [
+        {
+          "text": null,
+          "title": "Customizable reports and easy UI simplify team onboarding process",
+          "role": "Sales Manager",
+          "company_size": "<50M USD, Software",
+          "date": "Jul 13, 2026",
+          "rating": 5.0,
+          "sentiment": "FAVORABLE",
+          "body_gated": true,
+          "portal": "Gartner Peer Insights",
+          "source_url": "https://www.gartner.com/reviews/product/hubspot-marketing-hub"
+        },
+        {
+          "text": null,
+          "title": "HubSpot Marketing Hub Simplifies Workflows With Integrated Campaign and Analytics Tools",
+          "role": "MARKET RESEARCH ANALYST",
+          "company_size": "500M - 1B USD, Real Estate",
+          "date": "Feb 27, 2026",
+          "rating": 3.0,
+          "sentiment": "CRITICAL",
+          "body_gated": true,
+          "portal": "Gartner Peer Insights",
+          "source_url": "https://www.gartner.com/reviews/product/hubspot-marketing-hub"
+        }
+      ],
+      "url": "https://www.gartner.com/reviews/product/hubspot-marketing-hub",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00",
+      "bodies_gated": true
+    },
+    "trustpilot": {
+      "portal": "trustpilot",
+      "status": "ok",
+      "rating": 1.5,
+      "count": 1152,
+      "quotes": [
+        {
+          "text": "Underwhelming customer support while experiencing payment issues. Costs also increased tremendously",
+          "title": "Underwhelming customer support while\u2026",
+          "role": null,
+          "company_size": null,
+          "date": "2026-08-12",
+          "rating": 1,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/hubspot.com?sort=recency&languages=all"
+        },
+        {
+          "text": "A terrible start with HubSpot My experience with HubSpot started by leaving a very bad taste in my mouth. While setting up HubSpot, its AI assistant directed me to a screen that began downloading approximately 2,000 emails. After only 250\u2026",
+          "title": "A terrible start with HubSpot",
+          "role": null,
+          "company_size": null,
+          "date": "2026-08-12",
+          "rating": 1,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/hubspot.com?sort=recency&languages=all"
+        },
+        {
+          "text": "Hubspot used to be great. We've been using it for many years but over the last 1-2 years they have removed many things that previously worked well and replaced them with a new UX features that don't work. So many\u2026",
+          "title": "Hubspot used to be great but now unusable",
+          "role": null,
+          "company_size": null,
+          "date": "2026-08-07",
+          "rating": 1,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/hubspot.com?sort=recency&languages=all"
+        },
+        {
+          "text": "After being a loyal HubSpot customer for many years, I can honestly say the platform has become one of our biggest business disappointments. The pricing continues to increase while the level of customer service and support has steadily declined. Long-term\u2026",
+          "title": "After being a loyal HubSpot customer\u2026",
+          "role": null,
+          "company_size": null,
+          "date": "2026-08-07",
+          "rating": 1,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/hubspot.com?sort=recency&languages=all"
+        }
+      ],
+      "url": "https://www.trustpilot.com/review/hubspot.com?sort=recency&languages=all",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00"
+    }
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "slug": "smartsheet",
+  "name": "Smartsheet",
+  "domain": "smartsheet.com",
+  "category": "project-management",
+  "category_name": "Project Management",
+  "captured_at": "2026-08-12T20:01:24.148877+00:00",
+  "portals": {
+    "g2": {
+      "portal": "g2",
+      "status": "ok",
+      "rating": 4.4,
+      "count": 22701,
+      "quotes": [
+        {
+          "text": "Coming from a background of using various project management tools, Smartsheet stands out for its depth and sophistication. I have been using it for about fifteen months now and I continue to discover new capabilities that make our work easier\u2026",
+          "title": "Feature-Rich Platform That Means Business",
+          "role": "Hospital & Health Care",
+          "company_size": "Mid-Market (51-1000 emp.)",
+          "date": "8/12/2026",
+          "rating": 5.0,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/smartsheet/reviews"
+        },
+        {
+          "text": "I have been using Smartsheet consistently for the past year and it has become our go-to platform for managing work across the organization. The scalability of the platform is impressive. We started with a small team using basic sheets and\u2026",
+          "title": "Scalable Reporting Powerhouse, But Setup and Training Take Time",
+          "role": "Retail",
+          "company_size": "Mid-Market (51-1000 emp.)",
+          "date": "8/11/2026",
+          "rating": 3.5,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/smartsheet/reviews"
+        },
+        {
+          "text": "What drew me to Smartsheet initially was its reputation for handling complexity and it has certainly lived up to that expectation. We have been using it for about ten months and it has transformed how we manage our initiatives. The\u2026",
+          "title": "Smartsheet Transformed Our Initiative Management with Powerful Gantt and Resource Planning",
+          "role": "Accounting",
+          "company_size": "Mid-Market (51-1000 emp.)",
+          "date": "8/11/2026",
+          "rating": 5.0,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/smartsheet/reviews"
+        },
+        {
+          "text": "My company uses Smartsheet primarily for creating and sharing project plans with our clients or for internal purposes. I like that it simplifies the process of building schedules, managing task dependencies, and tracking progress. It's also easy to collaborate with\u2026",
+          "title": "Smartsheet Simplifies Project Planning with Clear Dashboards and Collaboration",
+          "role": "Project Manager",
+          "company_size": "Small-Business (50 or fewer emp.)",
+          "date": "8/6/2026",
+          "rating": 5.0,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/smartsheet/reviews"
+        }
+      ],
+      "url": "https://www.g2.com/products/smartsheet/reviews",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00"
+    },
+    "capterra": {
+      "portal": "capterra",
+      "status": "ok",
+      "rating": 4.5,
+      "count": 3536,
+      "sub_ratings": {
+        "Ease of use": 4.3,
+        "Customer Service": 4.3
+      },
+      "quotes": [
+        {
+          "text": "Smartsheet supports a wide range of use cases, from workflow automation and reporting to governance, compliance, project management, and client-facing solutions.",
+          "title": null,
+          "role": "Group Technology Director",
+          "company_size": "1,001-5,000 employees",
+          "date": "June 5, 2026",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/79104/Smartsheet/reviews/"
+        },
+        {
+          "text": "You can't just click on a random cell and type a formula; it forces you to apply formulas to entire columns. Plus, referencing data across different sheets requires a bunch of extra, tedious steps.",
+          "title": null,
+          "role": "HUMAN RELATIONSAlternative Dispute Resolution, 11 - 50 employees",
+          "company_size": "11-50 employees",
+          "date": "July 12, 2026",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/79104/Smartsheet/reviews/"
+        },
+        {
+          "text": "I used it for project tracking, surveys, dashboards, and automations, and it gave me a flexible way to organize a lot of different work in one place.",
+          "title": null,
+          "role": "COORetail, 51 - 200 employees",
+          "company_size": "51-200 employees",
+          "date": "June 22, 2026",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/79104/Smartsheet/reviews/"
+        },
+        {
+          "text": "Smartsheet has a few frustrating elements when it comes to collaborations. If different team members have different license levels it can complicate things if you\u2019re trying to create smartsheets collaboratively.",
+          "title": null,
+          "role": "Owner",
+          "company_size": "2-10 employees",
+          "date": "July 19, 2026",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/79104/Smartsheet/reviews/"
+        }
+      ],
+      "url": "https://www.capterra.com/p/79104/Smartsheet/reviews/",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00"
+    },
+    "gartner": {
+      "portal": "gartner",
+      "status": "ok",
+      "rating": 4.5,
+      "count": 2827,
+      "ratings_count": 2818,
+      "quotes": [
+        {
+          "text": null,
+          "title": "Amazing product that makes processes more efficient with automation replacing manual work. Excited to see future improvements.",
+          "role": "Manager, Project Management",
+          "company_size": "250M - 500M USD, Real Estate",
+          "date": "Mar 11, 2026",
+          "rating": 5.0,
+          "sentiment": "FAVORABLE",
+          "body_gated": true,
+          "portal": "Gartner Peer Insights",
+          "source_url": "https://www.gartner.com/reviews/product/smartsheet"
+        },
+        {
+          "text": null,
+          "title": "Spreadsheet Layout Facilitates Project Outlining But Limits Task Execution Capabilities",
+          "role": "It Associate",
+          "company_size": "3B - 10B USD, Consumer Goods",
+          "date": "Jun 2, 2026",
+          "rating": 3.0,
+          "sentiment": "CRITICAL",
+          "body_gated": true,
+          "portal": "Gartner Peer Insights",
+          "source_url": "https://www.gartner.com/reviews/product/smartsheet"
+        }
+      ],
+      "url": "https://www.gartner.com/reviews/product/smartsheet",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00",
+      "bodies_gated": true
+    },
+    "trustpilot": {
+      "portal": "trustpilot",
+      "status": "ok",
+      "rating": 1.3,
+      "count": 121,
+      "quotes": [
+        {
+          "text": "I wish I could give a better review as the software itself is a blessing but their support is truly some of the worst and least professionally managed one's I've every experienced at their level. As a long-term paying customer\u2026",
+          "title": "I wish I could give a better review as\u2026",
+          "role": null,
+          "company_size": null,
+          "date": "2026-07-27",
+          "rating": 2,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all"
+        },
+        {
+          "text": "It's unbelievable how terrible their tech/customer support is. The system has been good for our business when it works, but god forbid something goes wrong because you'll be waiting at least a month to try and get support and even\u2026",
+          "title": "Terrible tech/customer support",
+          "role": null,
+          "company_size": null,
+          "date": "2026-06-29",
+          "rating": 2,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all"
+        },
+        {
+          "text": "Customer Service? Nope! I have been trying for months to get their help to switch over to my new email address, switched companies but I brought SmartSheet with me as I used it daily and have been for close to\u2026",
+          "title": "Customer Service?  Nope!",
+          "role": null,
+          "company_size": null,
+          "date": "2026-06-26",
+          "rating": 1,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all"
+        },
+        {
+          "text": "Hands down the worst company in the world for tech support. They will literally charge you $78 a month and then tell you if you are having a technical issue (system glitch) you have to pay an additional $12 per\u2026",
+          "title": "Hands down the worst company in the\u2026",
+          "role": null,
+          "company_size": null,
+          "date": "2026-06-20",
+          "rating": 1,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all"
+        }
+      ],
+      "url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00"
+    }
+  }
+}

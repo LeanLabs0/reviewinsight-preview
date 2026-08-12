@@ -1,0 +1,200 @@
+{
+  "slug": "adobe-marketo-engage",
+  "name": "Adobe Marketo Engage",
+  "domain": "marketo.com",
+  "category": "marketing-automation",
+  "category_name": "Marketing Automation",
+  "captured_at": "2026-08-12T20:01:24.148877+00:00",
+  "portals": {
+    "g2": {
+      "portal": "g2",
+      "status": "ok",
+      "rating": 4.1,
+      "count": 3149,
+      "quotes": [
+        {
+          "text": "Marketo offers a complete marketing automation and marketing operations platform. From email sends and nurture programs to triggered web content, scoring, and routing, Marketo can handle it all. Many tools on the market prioritize ease of use but end up\u2026",
+          "title": "The Most Powerful Marketing Operations & Automation Tool",
+          "role": "Digital Marketing Instructor",
+          "company_size": "Mid-Market (51-1000 emp.)",
+          "date": "5/31/2023",
+          "rating": 5.0,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews"
+        },
+        {
+          "text": "What I like most about Adobe Marketo Engage is how scalable and flexible it is. It\u2019s powerful enough to support complex initiatives such as lead scoring, segmentation, personalized content, and operational data cleanup, while still giving me the control to\u2026",
+          "title": "Scalable, Flexible Platform for Complex Marketing Automation",
+          "role": "Manager, Campaign and Journey Automation",
+          "company_size": "Mid-Market (51-1000 emp.)",
+          "date": "5/27/2026",
+          "rating": 4.0,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews"
+        },
+        {
+          "text": "I like how reliable Adobe Marketo Engage is once the workflows are properly set up. It's solid for running long, multi-step nurture journeys without things randomly breaking. The level of control with segmentation and automation is pretty strong, providing the\u2026",
+          "title": "Reliable Automation with Room for Improvement",
+          "role": "Product Design Manager 2",
+          "company_size": "Mid-Market (51-1000 emp.)",
+          "date": "5/14/2026",
+          "rating": 3.5,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews"
+        },
+        {
+          "text": "Adobe Marketo Engage is very useful for managing marketing campaigns in a structured and organized way. It helps with automating emails, lead nurturing, and tracking customer journeys in one platform. As a designer working with marketing teams, it also helps\u2026",
+          "title": "Adobe Marketo Engage Streamlines Campaigns with Powerful Automation and Insightful Tracking",
+          "role": "Graphic Design",
+          "company_size": "Small-Business (50 or fewer emp.)",
+          "date": "5/14/2026",
+          "rating": 5.0,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews"
+        }
+      ],
+      "url": "https://www.g2.com/products/adobe-marketo-engage/reviews",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00"
+    },
+    "capterra": {
+      "portal": "capterra",
+      "status": "ok",
+      "rating": 4.3,
+      "count": 712,
+      "sub_ratings": {
+        "Ease of use": 3.8,
+        "Customer Service": 3.9
+      },
+      "quotes": [
+        {
+          "text": "The platform\u2019s seamless integration with design assets and its ability to track campaign performance makes it ideal for creating targeted, visually engaging content.",
+          "title": null,
+          "role": "Freelance Designer",
+          "company_size": null,
+          "date": "November 10, 2024",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/75130/Marketo-Lead-Management/reviews/"
+        },
+        {
+          "text": "It can feel overwhelming for designers who are not focused on marketing, as it requires dealing with complex workflows, data, and integrations, which can detract from the creative process.",
+          "title": null,
+          "role": "Freelance Designer",
+          "company_size": null,
+          "date": "November 10, 2024",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/75130/Marketo-Lead-Management/reviews/"
+        },
+        {
+          "text": "It\u2019s allowed us to scale our client visits much more efficiently thanks to automatically-followups and content personalization, which has resulted in higher engagement rates without having to stretch out our small team.",
+          "title": null,
+          "role": "Digital Marketing Specialist",
+          "company_size": "11-50 employees",
+          "date": "April 28, 2025",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/75130/Marketo-Lead-Management/reviews/"
+        },
+        {
+          "text": "convoluted ways of filtering distribution lists which leaves open to error.",
+          "title": null,
+          "role": "Senior project manager",
+          "company_size": "51-200 employees",
+          "date": "February 10, 2026",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/75130/Marketo-Lead-Management/reviews/"
+        }
+      ],
+      "url": "https://www.capterra.com/p/75130/Marketo-Lead-Management/reviews/",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00"
+    },
+    "gartner": {
+      "portal": "gartner",
+      "status": "ok",
+      "rating": 4.3,
+      "count": 1106,
+      "ratings_count": 1086,
+      "quotes": [
+        {
+          "text": null,
+          "title": "Powerful B2B Marketing Automation with deep customisation capabilities for international enterprises",
+          "role": "Marketing Associate",
+          "company_size": "1B - 3B USD, Manufacturing",
+          "date": "Jul 3, 2026",
+          "rating": 4.0,
+          "sentiment": "FAVORABLE",
+          "body_gated": true,
+          "portal": "Gartner Peer Insights",
+          "source_url": "https://www.gartner.com/reviews/product/adobe-marketo-engage"
+        },
+        {
+          "text": null,
+          "title": "Marketing integrations and analytics shine, but clunky UI slows workflow",
+          "role": "Marketing Manager",
+          "company_size": "<50M USD, Software",
+          "date": "Jun 1, 2026",
+          "rating": 3.0,
+          "sentiment": "CRITICAL",
+          "body_gated": true,
+          "portal": "Gartner Peer Insights",
+          "source_url": "https://www.gartner.com/reviews/product/adobe-marketo-engage"
+        }
+      ],
+      "url": "https://www.gartner.com/reviews/product/adobe-marketo-engage",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00",
+      "bodies_gated": true
+    },
+    "trustpilot": {
+      "portal": "trustpilot",
+      "status": "ok",
+      "rating": 2.4,
+      "count": 6,
+      "quotes": [
+        {
+          "text": "100% Sleezeballs. These idiots buy bulk email and spam the b*ck out of them. They should be in jail",
+          "title": "100% Sleezeballs",
+          "role": null,
+          "company_size": null,
+          "date": "2026-06-11",
+          "rating": 1,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/marketo.com?sort=recency&languages=all"
+        },
+        {
+          "text": "Honestly - they have great support. Their software is good and the analytics really work. Thanks!",
+          "title": "Honestly",
+          "role": null,
+          "company_size": null,
+          "date": "2023-10-15",
+          "rating": 4,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/marketo.com?sort=recency&languages=all"
+        },
+        {
+          "text": "I saw their product somewhere else and tried it myself. All I can say is there is nothing to blame on.",
+          "title": "I saw their product somewhere else and\u2026",
+          "role": null,
+          "company_size": null,
+          "date": "2020-02-27",
+          "rating": 4,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/marketo.com?sort=recency&languages=all"
+        },
+        {
+          "text": "Powerful but steep learning curve to get the most out of it.",
+          "title": "Powerful but steep learning curve",
+          "role": null,
+          "company_size": null,
+          "date": "2020-01-27",
+          "rating": 4,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/marketo.com?sort=recency&languages=all"
+        }
+      ],
+      "url": "https://www.trustpilot.com/review/marketo.com?sort=recency&languages=all",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00"
+    }
+  }
+}

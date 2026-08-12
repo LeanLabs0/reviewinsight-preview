@@ -1,0 +1,200 @@
+{
+  "slug": "notion",
+  "name": "Notion",
+  "domain": "notion.so",
+  "category": "project-management",
+  "category_name": "Project Management",
+  "captured_at": "2026-08-12T20:01:24.148877+00:00",
+  "portals": {
+    "g2": {
+      "portal": "g2",
+      "status": "ok",
+      "rating": 4.6,
+      "count": 13744,
+      "quotes": [
+        {
+          "text": "Notion has a clean, flexible UI that makes organizing notes, projects, and tasks feel natural. I like the range of integrations and how quickly pages and databases load. The pricing offers good value for the amount of functionality included, and\u2026",
+          "title": "Clean, Flexible Notion That Makes Organizing Work Feel Effortless",
+          "role": "Online MCAT Physics Tutor",
+          "company_size": "Small-Business (50 or fewer emp.)",
+          "date": "8/12/2026",
+          "rating": 4.5,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/notion/reviews"
+        },
+        {
+          "text": "What I like most about Notion is that I can look at the same task list in different ways depending on what I'm trying to check. I mostly use Task Databases, Status Views, Assignees, Due Dates, Priorities, and Task Types\u2026",
+          "title": "Makes Task Tracking Easier with Custom Views, Priorities, and Status Updates",
+          "role": "Computer Software",
+          "company_size": "Mid-Market (51-1000 emp.)",
+          "date": "8/9/2026",
+          "rating": 4.5,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/notion/reviews"
+        },
+        {
+          "text": "I love how flexible and customizable Notion is. I can create my own book library, habit tracker, and money tracker exactly the way I want. It helps me keep everything organized in one place. I find the customizable templates in\u2026",
+          "title": "Flexible Tool for Personal Organization",
+          "role": "Data Engineer Trainee",
+          "company_size": "Small-Business (50 or fewer emp.)",
+          "date": "7/28/2026",
+          "rating": 4.5,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/notion/reviews"
+        },
+        {
+          "text": "I like Notion's flexibility and organization. I can customize it around the way I work, keep everything in one place, and quickly find the information I need, which makes managing multiple properties easier. It helps me stay organized and reduces\u2026",
+          "title": "Flexible and Organized Workspace for Property Management",
+          "role": "Hospitality",
+          "company_size": "Small-Business (50 or fewer emp.)",
+          "date": "7/24/2026",
+          "rating": 5.0,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/notion/reviews"
+        }
+      ],
+      "url": "https://www.g2.com/products/notion/reviews",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00"
+    },
+    "capterra": {
+      "portal": "capterra",
+      "status": "ok",
+      "rating": 4.7,
+      "count": 2792,
+      "sub_ratings": {
+        "Ease of use": 4.4,
+        "Customer Service": 4.4
+      },
+      "quotes": [
+        {
+          "text": "It is ideal for project management and allows for a variety of views and filters, such as bullet points, kantan board, etc. As expected from task management solutions it allows for different status' flags that can be customised (Completed, pending\u2026",
+          "title": null,
+          "role": "IT Team Lead",
+          "company_size": "201-500 employees",
+          "date": "April 2, 2026",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/186596/Notion/reviews/"
+        },
+        {
+          "text": "The application faces clear challenges in terms of performance and speed; when dealing with large databases or heavy pages cluttered with elements, slow response times and data loading issues arise.",
+          "title": null,
+          "role": "free lancer",
+          "company_size": null,
+          "date": "July 13, 2026",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/186596/Notion/reviews/"
+        },
+        {
+          "text": "I can create what works for my own personal workflow system and even link task to my calendar which helps with being a business owner, a research assistant, full time grad student and consultant.",
+          "title": null,
+          "role": "Maternal and child health systems analyst",
+          "company_size": null,
+          "date": "May 2, 2026",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/186596/Notion/reviews/"
+        },
+        {
+          "text": "the mobile application sometimes displays frustrating loading delays when pages contain large data tables, complicating quick verifications while on the move.",
+          "title": null,
+          "role": "Rebel and Founder Co-CEO Huda Beauty",
+          "company_size": "201-500 employees",
+          "date": "July 6, 2026",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/186596/Notion/reviews/"
+        }
+      ],
+      "url": "https://www.capterra.com/p/186596/Notion/reviews/",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00"
+    },
+    "gartner": {
+      "portal": "gartner",
+      "status": "ok",
+      "rating": 4.5,
+      "count": 250,
+      "ratings_count": 250,
+      "quotes": [
+        {
+          "text": null,
+          "title": "Still a great platform, but moving away due to unsustainable per seat pricing",
+          "role": "Chief Executive Officer",
+          "company_size": "<50M USD, Hardware",
+          "date": "May 28, 2026",
+          "rating": 4.0,
+          "sentiment": "FAVORABLE",
+          "body_gated": true,
+          "portal": "Gartner Peer Insights",
+          "source_url": "https://www.gartner.com/reviews/product/notion-1730700624"
+        },
+        {
+          "text": null,
+          "title": "Notion Centralizes Project Management But Setup Process Remains Complex for Many",
+          "role": "Marketing Manager",
+          "company_size": "<50M USD, Media",
+          "date": "Apr 2, 2026",
+          "rating": 3.0,
+          "sentiment": "CRITICAL",
+          "body_gated": true,
+          "portal": "Gartner Peer Insights",
+          "source_url": "https://www.gartner.com/reviews/product/notion-1730700624"
+        }
+      ],
+      "url": "https://www.gartner.com/reviews/product/notion-1730700624",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00",
+      "bodies_gated": true
+    },
+    "trustpilot": {
+      "portal": "trustpilot",
+      "status": "ok",
+      "rating": 2.3,
+      "count": 424,
+      "quotes": [
+        {
+          "text": "I've used Notion for years and am a huge advocate for this template-based, user-friendly software that has continued to set the bar high in performance, convenience, and adaptability. They're continually running good programs, in-person events, and have a fantastic community\u2026",
+          "title": "I've used Notion for years and am A MASSIVE Fan",
+          "role": null,
+          "company_size": null,
+          "date": "2026-08-11",
+          "rating": 5,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all"
+        },
+        {
+          "text": "Notion generated an invoice on 13 July 2026. I deleted the related workspace and account about an hour later because I no longer wanted or used the service. Despite the account being deleted, Notion continued retrying the payment and eventually\u2026",
+          "title": "Charged after deleting my account",
+          "role": null,
+          "company_size": null,
+          "date": "2026-08-04",
+          "rating": 1,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all"
+        },
+        {
+          "text": "I\u2019d strongly recommend that people do not use this product or sign up for the free trial. I signed up to try the product and didn\u2019t feel that it met my needs. It was overly complicated and not what I\u2026",
+          "title": "Do not trial or provide payment details",
+          "role": null,
+          "company_size": null,
+          "date": "2026-07-31",
+          "rating": 1,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all"
+        },
+        {
+          "text": "J'ai voulu passer \u00e0 l'abonnement payant sauf qu'on m'a fait payer plus que ce qui \u00e9tait affich\u00e9. M\u00eame si cela correspond \u00e0 des taxes, c'est ill\u00e9gal de pr\u00e9lever plus que le prix affich\u00e9. Une plainte sera d\u00e9pos\u00e9. A fuir.",
+          "title": "Arnaque, \u00e0 fuir !",
+          "role": null,
+          "company_size": null,
+          "date": "2026-07-28",
+          "rating": 1,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all"
+        }
+      ],
+      "url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00"
+    }
+  }
+}

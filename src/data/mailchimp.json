@@ -1,0 +1,200 @@
+{
+  "slug": "mailchimp",
+  "name": "Mailchimp",
+  "domain": "mailchimp.com",
+  "category": "marketing-automation",
+  "category_name": "Marketing Automation",
+  "captured_at": "2026-08-12T20:01:24.148877+00:00",
+  "portals": {
+    "g2": {
+      "portal": "g2",
+      "status": "ok",
+      "rating": 4.4,
+      "count": 5429,
+      "quotes": [
+        {
+          "text": "What I like most about Intuit Mailchimp is how easy it is to create, run, and manage email marketing campaigns. The drag-and-drop editor, audience management tools, and built-in analytics make it straightforward to design professional-looking emails, monitor performance, and refine\u2026",
+          "title": "Easy Email Campaigns with Powerful Drag-and-Drop and Analytics",
+          "role": "AI Engineer",
+          "company_size": "Mid-Market (51-1000 emp.)",
+          "date": "7/15/2026",
+          "rating": 4.5,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews"
+        },
+        {
+          "text": "Mailchimp is the best marketing automation platform. It helps me to create, send, and analyze email campaigns. I have been using Mailchimp for the last 3 years and I like the features such as easy interface, user-friendly dashboard, ab testing\u2026",
+          "title": "Easy to use email marketing solution",
+          "role": "Sr. Executive Online Marketing",
+          "company_size": "Mid-Market (51-1000 emp.)",
+          "date": "5/26/2022",
+          "rating": 5.0,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews"
+        },
+        {
+          "text": "The ease of archiving and updating contacts. Review collected by and hosted on G2.com.",
+          "title": "Communications Gem",
+          "role": "Data Analyst and Evaluation Specialist",
+          "company_size": "Mid-Market (51-1000 emp.)",
+          "date": "2/27/2020",
+          "rating": 4.5,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews"
+        },
+        {
+          "text": "The UI is very clean and looks great. Mailchimp helps me manage my email campaigns, and I can easily connect everything to Shopify, Canva, and more. It provides AI features, which I mostly use for email subject recommendations. Everything is\u2026",
+          "title": "Clean UI, Powerful Analytics, and Seamless Shopify Integrations",
+          "role": "Freelancer",
+          "company_size": "Small-Business (50 or fewer emp.)",
+          "date": "5/22/2026",
+          "rating": 4.5,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews"
+        }
+      ],
+      "url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00"
+    },
+    "capterra": {
+      "portal": "capterra",
+      "status": "ok",
+      "rating": 4.5,
+      "count": 17667,
+      "sub_ratings": {
+        "Ease of use": 4.4,
+        "Customer Service": 4.2
+      },
+      "quotes": [
+        {
+          "text": "It\u2019s a great option for businesses and individuals looking to manage marketing campaigns efficiently without needing advanced technical skills. While pricing can increase as your audience grows and some advanced features require higher-tier plans, the overall functionality and ease of\u2026",
+          "title": null,
+          "role": "Operator",
+          "company_size": "201-500 employees",
+          "date": "May 15, 2026",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/110228/MailChimp/reviews/"
+        },
+        {
+          "text": "The worst part is that Mailchimp includes unsubscribed or inactive contacts in the billing, forcing me to do a recurring and tedious manual cleanup to avoid paying for empty space.",
+          "title": null,
+          "role": "Artist and Tour Manager",
+          "company_size": "10,001+ employees",
+          "date": "June 8, 2026",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/110228/MailChimp/reviews/"
+        },
+        {
+          "text": "The templates, automation features, and reporting tools make it efficient to communicate with audiences and track engagement. While there can occasionally be a learning curve with some advanced features, the platform generally provides a reliable and effective solution for email\u2026",
+          "title": null,
+          "role": "Associate",
+          "company_size": "11-50 employees",
+          "date": "June 8, 2026",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/110228/MailChimp/reviews/"
+        },
+        {
+          "text": "Multiple test phone numbers texted the assigned keyword, but the entries did not reliably show in the dashboard, did not appear in the queue, and did not receive the automated SMS response.",
+          "title": null,
+          "role": "Marketing Coordinator",
+          "company_size": "501-1,000 employees",
+          "date": "June 17, 2026",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/110228/MailChimp/reviews/"
+        }
+      ],
+      "url": "https://www.capterra.com/p/110228/MailChimp/reviews/",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00"
+    },
+    "gartner": {
+      "portal": "gartner",
+      "status": "ok",
+      "rating": 4.4,
+      "count": 1254,
+      "ratings_count": 1255,
+      "quotes": [
+        {
+          "text": null,
+          "title": "Reliable Email Marketing Platform That Scales With Your Business",
+          "role": "Cmo",
+          "company_size": "50M - 250M USD, Consumer Goods",
+          "date": "Apr 9, 2026",
+          "rating": 4.0,
+          "sentiment": "FAVORABLE",
+          "body_gated": true,
+          "portal": "Gartner Peer Insights",
+          "source_url": "https://www.gartner.com/reviews/product/ailchimp-594139131"
+        },
+        {
+          "text": null,
+          "title": "Mailchimp Suited Basic Needs But Faced Challenges With Advanced Ecommerce Automation",
+          "role": "E-Commerce Coordinator",
+          "company_size": "50M - 250M USD, Retail",
+          "date": "May 13, 2026",
+          "rating": 3.0,
+          "sentiment": "CRITICAL",
+          "body_gated": true,
+          "portal": "Gartner Peer Insights",
+          "source_url": "https://www.gartner.com/reviews/product/ailchimp-594139131"
+        }
+      ],
+      "url": "https://www.gartner.com/reviews/product/ailchimp-594139131",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00",
+      "bodies_gated": true
+    },
+    "trustpilot": {
+      "portal": "trustpilot",
+      "status": "ok",
+      "rating": 2.6,
+      "count": 1490,
+      "quotes": [
+        {
+          "text": "Paid for a plan, banned the next day, no refund and support completely ignores me My experience with this service has been absolutely unacceptable. I purchased a paid plan for 10,000 contacts. Initially, I uploaded more contacts than my plan\u2026",
+          "title": "Paid for a plan, banned the next day, no refund",
+          "role": null,
+          "company_size": null,
+          "date": "2026-08-12",
+          "rating": 1,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all"
+        },
+        {
+          "text": "Outlook compatibility. We use MailChimp for internal communications rather than marketing communications. I wish that MailChimp was more compatible with outlook. I think that when you are looking at demographics that maybe an area that you could tap into.",
+          "title": "Outlook compatibility.",
+          "role": null,
+          "company_size": null,
+          "date": "2026-08-11",
+          "rating": 3,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all"
+        },
+        {
+          "text": "Mail chimp is simply awful. Login gets stuck if you have another Intuit account like QuickBooks. I tried to log in so many times today. I used the forgot my Username and it told me what my username was after\u2026",
+          "title": "Mail chimp is simply awful",
+          "role": null,
+          "company_size": null,
+          "date": "2026-08-11",
+          "rating": 1,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all"
+        },
+        {
+          "text": "Terrible customer service. After getting locked out of my account, I repeatedly emailed customer support to cancel my membership, but they refused to process the request. I was ultimately forced to issue a chargeback and block recurring debits through my\u2026",
+          "title": "Terrible customer service",
+          "role": null,
+          "company_size": null,
+          "date": "2026-08-10",
+          "rating": 1,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all"
+        }
+      ],
+      "url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00"
+    }
+  }
+}

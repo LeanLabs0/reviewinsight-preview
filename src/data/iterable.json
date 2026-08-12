@@ -1,0 +1,159 @@
+{
+  "slug": "iterable",
+  "name": "Iterable",
+  "domain": "iterable.com",
+  "category": "marketing-automation",
+  "category_name": "Marketing Automation",
+  "captured_at": "2026-08-12T20:01:24.148877+00:00",
+  "portals": {
+    "g2": {
+      "portal": "g2",
+      "status": "ok",
+      "rating": 4.4,
+      "count": 825,
+      "quotes": [
+        {
+          "text": "It's an intuitive platform that makes connecting your data and making it actionable incredibly easy. The platform allows my team and I to quickly move from idea to execution to orchestrate user touch points that create real value to the\u2026",
+          "title": "Iterable: The Intuitive Platform That Makes Data Actionable",
+          "role": "Senior Marketing Ops manager",
+          "company_size": "Enterprise (> 1000 emp.)",
+          "date": "6/10/2026",
+          "rating": 4.5,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/iterable/reviews"
+        },
+        {
+          "text": "1\\. Iterable Team: From the moment we started working with them, their team was there to guide us through every step of the process. They provide expert advice, support and very quick to respond to any questions or concerns our\u2026",
+          "title": "Amazing customer service and high-quality cross channel marketing platform!",
+          "role": "Marketing Technology and Operations Lead",
+          "company_size": "Mid-Market (51-1000 emp.)",
+          "date": "4/14/2023",
+          "rating": 5.0,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/iterable/reviews"
+        },
+        {
+          "text": "Iterable is a straightforward platform that can do a lot. Its engagement and personalisation features are great and customer support is amazing. The UI is easy to use and they don't over-complicate their tools. They're also bringing in a bunch\u2026",
+          "title": "Easy-to-use ESP with flexible and versatile tools and impressive customer support",
+          "role": "Senior channel marketing specialist",
+          "company_size": "Mid-Market (51-1000 emp.)",
+          "date": "3/19/2023",
+          "rating": 4.5,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/iterable/reviews"
+        },
+        {
+          "text": "I like Iterable for its ease of use and user-friendly interface. The ability to integrate with AI is really valuable to us, as it helps in growing our company. It's easy to make visible changes, which adds to the flexibility\u2026",
+          "title": "Streamlined Our Email Marketing with Confidence",
+          "role": "Social Media Manager",
+          "company_size": "Small-Business (50 or fewer emp.)",
+          "date": "4/22/2026",
+          "rating": 5.0,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/iterable/reviews"
+        }
+      ],
+      "url": "https://www.g2.com/products/iterable/reviews",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00"
+    },
+    "capterra": {
+      "portal": "capterra",
+      "status": "ok",
+      "rating": 4.3,
+      "count": 63,
+      "sub_ratings": {
+        "Ease of use": 4.3,
+        "Customer Service": 4.4
+      },
+      "quotes": [
+        {
+          "text": "Iterable records various customer events, which are visible in two formats - charts and table listing, which helps us to understand better customer's behaviour and target marketing campaigns, also manage targeted emails sent to customers.",
+          "title": null,
+          "role": "Senior QA Analyst",
+          "company_size": "201-500 employees",
+          "date": "February 25, 2026",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/143902/Iterable/reviews/"
+        },
+        {
+          "text": "Hidden fee - they charge extra for something as simple as creating new senders, something which is usually self serve in even the most basic tools and they don't tell you this when signing you on.",
+          "title": null,
+          "role": "Product",
+          "company_size": "11-50 employees",
+          "date": "May 15, 2025",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/143902/Iterable/reviews/"
+        },
+        {
+          "text": "The ability to deliver personalization data to customers and easy communication management Iterable provides the most reliable functions.",
+          "title": null,
+          "role": "Advertising Specialist",
+          "company_size": "11-50 employees",
+          "date": "October 19, 2025",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/143902/Iterable/reviews/"
+        },
+        {
+          "text": "I am weary of signing on new products with them, because I also don't know which parts of the tool will be free to use, and what I would have to pay for after I have signed.",
+          "title": null,
+          "role": "Product",
+          "company_size": "11-50 employees",
+          "date": "May 15, 2025",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/143902/Iterable/reviews/"
+        }
+      ],
+      "url": "https://www.capterra.com/p/143902/Iterable/reviews/",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00"
+    },
+    "gartner": {
+      "portal": "gartner",
+      "status": "ok",
+      "rating": 4.4,
+      "count": 326,
+      "ratings_count": 326,
+      "quotes": [
+        {
+          "text": null,
+          "title": "Hands down the best platform of its kind out there.",
+          "role": "Engineer",
+          "company_size": "<50M USD, Services (non-Government)",
+          "date": "Jun 15, 2026",
+          "rating": 5.0,
+          "sentiment": "FAVORABLE",
+          "body_gated": true,
+          "portal": "Gartner Peer Insights",
+          "source_url": "https://www.gartner.com/reviews/product/iterable-1860591838"
+        },
+        {
+          "text": null,
+          "title": "Easy to use but overcomplicated segmentation and inefficient updates",
+          "role": "Marketing Associate",
+          "company_size": "50M - 250M USD, Transportation",
+          "date": "Jan 28, 2026",
+          "rating": 3.0,
+          "sentiment": "CRITICAL",
+          "body_gated": true,
+          "portal": "Gartner Peer Insights",
+          "source_url": "https://www.gartner.com/reviews/product/iterable-1860591838"
+        }
+      ],
+      "url": "https://www.gartner.com/reviews/product/iterable-1860591838",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00",
+      "bodies_gated": true
+    },
+    "trustpilot": {
+      "portal": "trustpilot",
+      "status": "ok",
+      "rating": null,
+      "count": 0,
+      "quotes": [],
+      "url": "https://www.trustpilot.com/review/iterable.com?sort=recency&languages=all",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00"
+    }
+  }
+}

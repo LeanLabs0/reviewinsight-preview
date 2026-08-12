@@ -1,0 +1,200 @@
+{
+  "slug": "monday-com",
+  "name": "monday.com",
+  "domain": "monday.com",
+  "category": "project-management",
+  "category_name": "Project Management",
+  "captured_at": "2026-08-12T20:01:24.148877+00:00",
+  "portals": {
+    "g2": {
+      "portal": "g2",
+      "status": "ok",
+      "rating": 4.7,
+      "count": 17119,
+      "quotes": [
+        {
+          "text": "What I like best about the Monday AI Work Platform is how it seamlessly integrates AI capabilities into my existing workflows on Monday.com. As someone who has been using Monday.com for client management and process automation at Buk, the addition\u2026",
+          "title": "A Game-Changer: Seamless AI Integration That Boosts Monday.com Productivity",
+          "role": "Project Manager",
+          "company_size": "Enterprise (> 1000 emp.)",
+          "date": "8/7/2026",
+          "rating": 4.5,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/monday-com/reviews"
+        },
+        {
+          "text": "What I like best about the monday AI Work Platform is how easy it makes communicating and collaborating with both my clients and team. I love the color-coding system because it allows me to quickly see where things stand, prioritize\u2026",
+          "title": "Easy Collaboration, Smart Automations, and Great Value with monday AI Work Platform",
+          "role": "Founder and CEO",
+          "company_size": "Small-Business (50 or fewer emp.)",
+          "date": "8/6/2026",
+          "rating": 5.0,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/monday-com/reviews"
+        },
+        {
+          "text": "The customizable boards, automations, and dashboards have made the biggest difference in my daily work. I use monday.com to track HR requests, payroll tasks, and project deadlines in one place. Automated reminders and status updates save me time by reducing\u2026",
+          "title": "Streamlined Our Team's Daily Workflows",
+          "role": "HR Administrator",
+          "company_size": "Mid-Market (51-1000 emp.)",
+          "date": "8/6/2026",
+          "rating": 4.5,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/monday-com/reviews"
+        },
+        {
+          "text": "What I like most about the Monday AI Work Platform is its flexibility. It doesn\u2019t force you to change how you work; instead, it lets you build workflows that match your team\u2019s existing processes. We use it for everything from\u2026",
+          "title": "Flexible, Reliable Workflows That Replace Spreadsheets and Boost Collaboration",
+          "role": "Employee Engagement Specialist",
+          "company_size": "Mid-Market (51-1000 emp.)",
+          "date": "8/4/2026",
+          "rating": 5.0,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/monday-com/reviews"
+        }
+      ],
+      "url": "https://www.g2.com/products/monday-com/reviews",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00"
+    },
+    "capterra": {
+      "portal": "capterra",
+      "status": "ok",
+      "rating": 4.6,
+      "count": 6086,
+      "sub_ratings": {
+        "Ease of use": 4.5,
+        "Customer Service": 4.4
+      },
+      "quotes": [
+        {
+          "text": "The AI integrations have been a game-changer for me, specifically for summarizing complex technical documentation and generating SEO-ready marketing content, which has significantly compressed our project lifecycles.",
+          "title": null,
+          "role": "Application Developer",
+          "company_size": "201-500 employees",
+          "date": "April 30, 2026",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/147657/monday-com/reviews/"
+        },
+        {
+          "text": "Monday.com lacks a native functionality for tracking overhead allocation, depreciation schedules, complex billing and earned value management .",
+          "title": null,
+          "role": "Director of Project Controls and Finance",
+          "company_size": "11-50 employees",
+          "date": "June 29, 2026",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/147657/monday-com/reviews/"
+        },
+        {
+          "text": "Boards, columns, automations, and views can be tailored to suit different teams and workflows, allowing us to manage everything from day\u2011to\u2011day tasks to more complex operational processes in one platform.",
+          "title": null,
+          "role": "Senior Manager",
+          "company_size": "501-1,000 employees",
+          "date": "April 28, 2026",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/147657/monday-com/reviews/"
+        },
+        {
+          "text": "Additionally, certain views and reporting tools lack depth compared to more specialised project management software, making it harder to extract detailed insights without extra setup or external tools.",
+          "title": null,
+          "role": "Operations Manager",
+          "company_size": "11-50 employees",
+          "date": "April 30, 2026",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/147657/monday-com/reviews/"
+        }
+      ],
+      "url": "https://www.capterra.com/p/147657/monday-com/reviews/",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00"
+    },
+    "gartner": {
+      "portal": "gartner",
+      "status": "ok",
+      "rating": 4.5,
+      "count": 1333,
+      "ratings_count": 1326,
+      "quotes": [
+        {
+          "text": null,
+          "title": "solid and flexible, but pricing tiers and mobile experience hold it back",
+          "role": "Operations Associate",
+          "company_size": "250M - 500M USD, Energy and Utilities",
+          "date": "Apr 22, 2026",
+          "rating": 4.0,
+          "sentiment": "FAVORABLE",
+          "body_gated": true,
+          "portal": "Gartner Peer Insights",
+          "source_url": "https://www.gartner.com/reviews/product/monday"
+        },
+        {
+          "text": null,
+          "title": "Clear visual layout and strong integrations, but navigation feels clunky",
+          "role": "Digital Solutions",
+          "company_size": "50M - 250M USD, Manufacturing",
+          "date": "Jul 15, 2026",
+          "rating": 3.0,
+          "sentiment": "CRITICAL",
+          "body_gated": true,
+          "portal": "Gartner Peer Insights",
+          "source_url": "https://www.gartner.com/reviews/product/monday"
+        }
+      ],
+      "url": "https://www.gartner.com/reviews/product/monday",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00",
+      "bodies_gated": true
+    },
+    "trustpilot": {
+      "portal": "trustpilot",
+      "status": "ok",
+      "rating": 2.3,
+      "count": 3424,
+      "quotes": [
+        {
+          "text": "We've been using Monday for a few years now. Since they decided to push Ai, the app is getting worse with every update. I can't make a single move without some popup asking if I want an Ai agent to\u2026",
+          "title": "We've been using Monday for a few years\u2026",
+          "role": null,
+          "company_size": null,
+          "date": "2026-08-12",
+          "rating": 1,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all"
+        },
+        {
+          "text": "As a frequent user of Jira, Monday compares very poorly against it. The logic is flawed and makes the interaction clunky and counter-intuitive. Worst element is the AI agents, which is laughable at best. Unfortunately my company made the switch\u2026",
+          "title": "Compares poorly against Jira",
+          "role": null,
+          "company_size": null,
+          "date": "2026-08-11",
+          "rating": 1,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all"
+        },
+        {
+          "text": "ONLY GOAL IS THEIR REVENUE Basic features are locked behind paywall, for example teams for guests are in enterprise plan xDDDDD Didn't know that I need a corporation to not tag every client team member separately.. Useless support. It could\u2026",
+          "title": "ONLY GOAL IS THEIR REVENUE",
+          "role": null,
+          "company_size": null,
+          "date": "2026-08-01",
+          "rating": 1,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all"
+        },
+        {
+          "text": "monday.com biete Testabo an. Der eigene KI Support f\u00fchrt in die Irre, wo man die K\u00fcndigungsoptionen finden kann, hier das Zitat, als Beweis: Um zuk\u00fcnftige Verl\u00e4ngerungen zu stoppen, m\u00fcssen Sie den Plan k\u00fcndigen: \u00d6ffnen Sie monday.com Gehen Sie zu Admin\u2026",
+          "title": "monday.com zockt ab mit Dark Patterns im Userinterface",
+          "role": null,
+          "company_size": null,
+          "date": "2026-08-01",
+          "rating": 1,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all"
+        }
+      ],
+      "url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00"
+    }
+  }
+}

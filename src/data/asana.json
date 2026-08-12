@@ -1,0 +1,200 @@
+{
+  "slug": "asana",
+  "name": "Asana",
+  "domain": "asana.com",
+  "category": "project-management",
+  "category_name": "Project Management",
+  "captured_at": "2026-08-12T20:01:24.148877+00:00",
+  "portals": {
+    "g2": {
+      "portal": "g2",
+      "status": "ok",
+      "rating": 4.4,
+      "count": 13853,
+      "quotes": [
+        {
+          "text": "Asana's project management features work well enough for our team's needs. I like how tasks can be assigned to specific people and due dates can be set. The calendar view is also pretty solid. We've found it's taken a bit\u2026",
+          "title": "Asana Fits Our Team\u2019s Needs with Strong Project Management Features",
+          "role": "Computer Software",
+          "company_size": "Mid-Market (51-1000 emp.)",
+          "date": "8/9/2026",
+          "rating": 5.0,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/asana/reviews"
+        },
+        {
+          "text": "What I like best about Asana is how easy it is to navigate. The interface is intuitive, making it simple to organize tasks, manage projects, and collaborate with team members without a steep learning curve. It has a good variety\u2026",
+          "title": "Intuitive, Easy-to-Navigate Project Management with Asana",
+          "role": "Virtual Assistant",
+          "company_size": "Small-Business (50 or fewer emp.)",
+          "date": "8/3/2026",
+          "rating": 4.0,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/asana/reviews"
+        },
+        {
+          "text": "The process of planning projects and managing tasks in Asana feels smooth and intuitive. Creating projects, creating tasks, setting their dependencies and tracking milestones is easy enough, and having five views available allows to choose the most suitable for the\u2026",
+          "title": "Smooth, Intuitive Project Planning and Task Management in Asana.",
+          "role": "Data Entry Operator",
+          "company_size": "Mid-Market (51-1000 emp.)",
+          "date": "8/2/2026",
+          "rating": 4.5,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/asana/reviews"
+        },
+        {
+          "text": "I like the ability to upload documents and files to Asana, which is especially useful for tasks like new onboarding for sponsors where they can upload logos and videos. I also appreciate using forms to start projects and automate the\u2026",
+          "title": "Automates Project Management and Boosts Collaboration",
+          "role": "Director of Engagement",
+          "company_size": "Small-Business (50 or fewer emp.)",
+          "date": "5/6/2025",
+          "rating": 5.0,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/asana/reviews"
+        }
+      ],
+      "url": "https://www.g2.com/products/asana/reviews",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00"
+    },
+    "capterra": {
+      "portal": "capterra",
+      "status": "ok",
+      "rating": 4.5,
+      "count": 13631,
+      "sub_ratings": {
+        "Ease of use": 4.4,
+        "Customer Service": 4.3
+      },
+      "quotes": [
+        {
+          "text": "It helped me bring structure and clarity to managing my beauty coworking space, especially with part-time staff. Once everything was set up, it became a reliable system for keeping tasks organized and the team aligned.",
+          "title": null,
+          "role": "Founder",
+          "company_size": "2-10 employees",
+          "date": "March 24, 2026",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/184581/Asana-PM/reviews/"
+        },
+        {
+          "text": "The platform can also feel a bit overwhelming when managing large projects with many tasks, and certain reporting and automation capabilities are only available in higher-tier plans.",
+          "title": null,
+          "role": "Lead software engineer",
+          "company_size": "10,001+ employees",
+          "date": "June 12, 2026",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/184581/Asana-PM/reviews/"
+        },
+        {
+          "text": "Our design projects are usually intensive and always demand proper planning and efficient team coordination and cooperation and thats why we introduced Asana to provide us with a digital workspace where we get to do all the work planning for\u2026",
+          "title": null,
+          "role": "Creative Director",
+          "company_size": "2-10 employees",
+          "date": "July 15, 2026",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/184581/Asana-PM/reviews/"
+        },
+        {
+          "text": "posts and comments could be edited or deleted entirely without going to an archive or edit log, so someone could make a big mistake and there's no proof if they covered up for themselves.",
+          "title": null,
+          "role": "President",
+          "company_size": "2-10 employees",
+          "date": "July 22, 2026",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/184581/Asana-PM/reviews/"
+        }
+      ],
+      "url": "https://www.capterra.com/p/184581/Asana-PM/reviews/",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00"
+    },
+    "gartner": {
+      "portal": "gartner",
+      "status": "ok",
+      "rating": 4.5,
+      "count": 2446,
+      "ratings_count": 2433,
+      "quotes": [
+        {
+          "text": null,
+          "title": "Exploring Asana\u2019s Strengths in Project Setup, Product Management, and Team Collaboration Functions",
+          "role": "Event App Director",
+          "company_size": "50M - 250M USD, Software",
+          "date": "Mar 31, 2026",
+          "rating": 5.0,
+          "sentiment": "FAVORABLE",
+          "body_gated": true,
+          "portal": "Gartner Peer Insights",
+          "source_url": "https://www.gartner.com/reviews/product/asana-1842176392"
+        },
+        {
+          "text": null,
+          "title": "High Enterprise Pricing and Limited Workflow Customization Pose Challenges for Asana Users",
+          "role": "Digital Growth Manager",
+          "company_size": "<50M USD, Media",
+          "date": "Mar 30, 2026",
+          "rating": 3.0,
+          "sentiment": "CRITICAL",
+          "body_gated": true,
+          "portal": "Gartner Peer Insights",
+          "source_url": "https://www.gartner.com/reviews/product/asana-1842176392"
+        }
+      ],
+      "url": "https://www.gartner.com/reviews/product/asana-1842176392",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00",
+      "bodies_gated": true
+    },
+    "trustpilot": {
+      "portal": "trustpilot",
+      "status": "ok",
+      "rating": 1.5,
+      "count": 307,
+      "quotes": [
+        {
+          "text": "Be careful, they make billing mistakes and refuse to provide refunds. I wouldnt use this platform, stay away",
+          "title": "Be careful",
+          "role": null,
+          "company_size": null,
+          "date": "2026-08-11",
+          "rating": 1,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all"
+        },
+        {
+          "text": "Great management saas, helping me to work efficiently across multiple project with different team members delegated to those specific project folders. Easy to use and can't go wrong with the free version.",
+          "title": "Great to use with MCP",
+          "role": null,
+          "company_size": null,
+          "date": "2026-08-11",
+          "rating": 4,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all"
+        },
+        {
+          "text": "I've tried using Asana for managing my team of ten, but it just doesn\u2019t cut it for us. It gets cluttered quickly, and some features feel limited. Plus, navigating through the interface can be slow at times. Not the comprehensive\u2026",
+          "title": "Disappointing for Larger Teams",
+          "role": null,
+          "company_size": null,
+          "date": "2026-07-27",
+          "rating": 2,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all"
+        },
+        {
+          "text": "Worse client experience I have ever received. I have to say that they don't proof read emails or get back to you on the matters you actually contacted them about. Glitchy functionality of the programme too at the best of\u2026",
+          "title": "Awful client experience.",
+          "role": null,
+          "company_size": null,
+          "date": "2026-07-16",
+          "rating": 1,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all"
+        }
+      ],
+      "url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00"
+    }
+  }
+}

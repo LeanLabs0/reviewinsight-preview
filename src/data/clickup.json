@@ -1,0 +1,200 @@
+{
+  "slug": "clickup",
+  "name": "ClickUp",
+  "domain": "clickup.com",
+  "category": "project-management",
+  "category_name": "Project Management",
+  "captured_at": "2026-08-12T20:01:24.148877+00:00",
+  "portals": {
+    "g2": {
+      "portal": "g2",
+      "status": "ok",
+      "rating": 4.6,
+      "count": 13689,
+      "quotes": [
+        {
+          "text": "I love automated work and ClickUp has developed pretty powerful automation tools. I like how the platform works out schedules, tasks, etc. The interface is also easy to the eye. It kind of surprises me a lot. It feels like\u2026",
+          "title": "Very useful with many features",
+          "role": "Content specialist and educator",
+          "company_size": "Small-Business (50 or fewer emp.)",
+          "date": "3/30/2022",
+          "rating": 4.5,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/clickup/reviews"
+        },
+        {
+          "text": "I like how many features ClickUp has. It's deep and provides the ability to customize everything, giving us a comprehensive look at all the work we need to do. It helps us keep all of our projects in one place\u2026",
+          "title": "Comprehensive Tool with Room for Integration Improvement",
+          "role": "Management Consulting",
+          "company_size": "Small-Business (50 or fewer emp.)",
+          "date": "6/27/2019",
+          "rating": 4.5,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/clickup/reviews"
+        },
+        {
+          "text": "The workflow features in ClickUp that provide visibility\u2014something emails and paper just don\u2019t\u2014are what I\u2019m most excited about. In our organization, things fall through the cracks every day because emails and paperwork don\u2019t always end up in the right place\u2026",
+          "title": "ClickUp\u2019s Workflow Features Keep Everything Organized & Efficeinet",
+          "role": "President",
+          "company_size": "Mid-Market (51-1000 emp.)",
+          "date": "6/4/2026",
+          "rating": 5.0,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/clickup/reviews"
+        },
+        {
+          "text": "My favorite part of ClickUp is how I can do with just one tool. The UI is intuitive and easy to learn. I really appreciate the live professional development sessions too! I'm so impressed these are included in my company's\u2026",
+          "title": "Intuitive, All-in-One ClickUp with Top-Notch Performance, Integrations, and AI Insights",
+          "role": "Implementation Project Manager",
+          "company_size": "Small-Business (50 or fewer emp.)",
+          "date": "8/11/2026",
+          "rating": 5.0,
+          "portal": "G2",
+          "source_url": "https://www.g2.com/products/clickup/reviews"
+        }
+      ],
+      "url": "https://www.g2.com/products/clickup/reviews",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00"
+    },
+    "capterra": {
+      "portal": "capterra",
+      "status": "ok",
+      "rating": 4.6,
+      "count": 4615,
+      "sub_ratings": {
+        "Ease of use": 4.3,
+        "Customer Service": 4.5
+      },
+      "quotes": [
+        {
+          "text": "It combines tasks, docs, dashboards, automations, and team communication in one place, which reduces tool sprawl and improves visibility.",
+          "title": null,
+          "role": "CTOReal Estate, 51 - 200 employees",
+          "company_size": "51-200 employees",
+          "date": "May 6, 2026",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/158833/ClickUp/reviews/"
+        },
+        {
+          "text": "I did, unfortunately, notice lag in creating tasks. When I would quickly add tasks, subtasks, and quickly add notes and info on those items, it would take a moment to load up.",
+          "title": null,
+          "role": "Owner",
+          "company_size": null,
+          "date": "May 7, 2026",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/158833/ClickUp/reviews/"
+        },
+        {
+          "text": "ClickUp is multi-functional and you can do a lot of things on the platform (such as track time, create workflows, store documents, create and track goals, etc.)",
+          "title": null,
+          "role": "Lead Editor",
+          "company_size": null,
+          "date": "April 5, 2026",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/158833/ClickUp/reviews/"
+        },
+        {
+          "text": "mobile app is not so usefull as the desktop app, if you want full features, you need to upgrade the price plan getting more cost for almost the same things.",
+          "title": null,
+          "role": "IT Manager",
+          "company_size": "501-1,000 employees",
+          "date": "June 4, 2026",
+          "rating": null,
+          "portal": "Capterra",
+          "source_url": "https://www.capterra.com/p/158833/ClickUp/reviews/"
+        }
+      ],
+      "url": "https://www.capterra.com/p/158833/ClickUp/reviews/",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00"
+    },
+    "gartner": {
+      "portal": "gartner",
+      "status": "ok",
+      "rating": 4.5,
+      "count": 756,
+      "ratings_count": 750,
+      "quotes": [
+        {
+          "text": null,
+          "title": "Powerful and flexible \u2014 but invest in setup and training to get the most out of it!",
+          "role": "Human Resources Associate",
+          "company_size": "250M - 500M USD, Healthcare and Biotech",
+          "date": "May 20, 2026",
+          "rating": 5.0,
+          "sentiment": "FAVORABLE",
+          "body_gated": true,
+          "portal": "Gartner Peer Insights",
+          "source_url": "https://www.gartner.com/reviews/product/clickup-2027440980"
+        },
+        {
+          "text": null,
+          "title": "Extremely flexible and compatible with existing software but could use some stronger client-facing features",
+          "role": "Prinicipal",
+          "company_size": "<50M USD, Services (non-Government)",
+          "date": "Feb 27, 2026",
+          "rating": 3.0,
+          "sentiment": "CRITICAL",
+          "body_gated": true,
+          "portal": "Gartner Peer Insights",
+          "source_url": "https://www.gartner.com/reviews/product/clickup-2027440980"
+        }
+      ],
+      "url": "https://www.gartner.com/reviews/product/clickup-2027440980",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00",
+      "bodies_gated": true
+    },
+    "trustpilot": {
+      "portal": "trustpilot",
+      "status": "ok",
+      "rating": 4,
+      "count": 653,
+      "quotes": [
+        {
+          "text": "Awful customer service. Sent them an email to pay my account balance and they shut my account off and did not respond to my emails and messages for 10+ days costing my team valuable time on critical path projects.",
+          "title": "Awful customer service",
+          "role": null,
+          "company_size": null,
+          "date": "2026-08-11",
+          "rating": 1,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all"
+        },
+        {
+          "text": "Every day routine and organization is much easier with clickup than without. It really helps to keep track of various team and private projects. The integration of wiki pages for documentation into the project folders makes it easier to find\u2026",
+          "title": "Great for small and big projects.",
+          "role": null,
+          "company_size": null,
+          "date": "2026-08-10",
+          "rating": 5,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all"
+        },
+        {
+          "text": "Absolutely indispensable for running my web design agency I run a web design business, and frankly, I don\u2019t know how my business would function without ClickUp. As a Power User, I rely on it daily to keep project spaces neatly\u2026",
+          "title": "Absolutely indispensable for running my\u2026",
+          "role": null,
+          "company_size": null,
+          "date": "2026-08-09",
+          "rating": 4,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all"
+        },
+        {
+          "text": "ClickUp has become the operating system for my work. What I like most about ClickUp is how everything comes together in one place. It feels like a truly AI convergent workspace, where the AI understands the context of the work\u2026",
+          "title": "Future of Work OS",
+          "role": null,
+          "company_size": null,
+          "date": "2026-08-08",
+          "rating": 5,
+          "portal": "Trustpilot",
+          "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all"
+        }
+      ],
+      "url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00"
+    }
+  }
+}

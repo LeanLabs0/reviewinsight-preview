@@ -1,0 +1,3221 @@
+{
+  "generated_at": "2026-08-12T20:01:24.148877+00:00",
+  "categories": {
+    "marketing-automation": {
+      "name": "Marketing Automation",
+      "vendors": [
+        [
+          "hubspot-marketing-hub",
+          "HubSpot Marketing Hub",
+          "hubspot.com"
+        ],
+        [
+          "klaviyo",
+          "Klaviyo",
+          "klaviyo.com"
+        ],
+        [
+          "adobe-marketo-engage",
+          "Adobe Marketo Engage",
+          "marketo.com"
+        ],
+        [
+          "mailchimp",
+          "Mailchimp",
+          "mailchimp.com"
+        ],
+        [
+          "activecampaign",
+          "ActiveCampaign",
+          "activecampaign.com"
+        ],
+        [
+          "brevo",
+          "Brevo",
+          "brevo.com"
+        ],
+        [
+          "braze",
+          "Braze",
+          "braze.com"
+        ],
+        [
+          "iterable",
+          "Iterable",
+          "iterable.com"
+        ]
+      ]
+    },
+    "project-management": {
+      "name": "Project Management",
+      "vendors": [
+        [
+          "monday-com",
+          "monday.com",
+          "monday.com"
+        ],
+        [
+          "asana",
+          "Asana",
+          "asana.com"
+        ],
+        [
+          "clickup",
+          "ClickUp",
+          "clickup.com"
+        ],
+        [
+          "wrike",
+          "Wrike",
+          "wrike.com"
+        ],
+        [
+          "smartsheet",
+          "Smartsheet",
+          "smartsheet.com"
+        ],
+        [
+          "notion",
+          "Notion",
+          "notion.so"
+        ],
+        [
+          "jira",
+          "Jira",
+          "atlassian.com"
+        ],
+        [
+          "basecamp",
+          "Basecamp",
+          "basecamp.com"
+        ]
+      ]
+    }
+  },
+  "vendors": {
+    "hubspot-marketing-hub": {
+      "slug": "hubspot-marketing-hub",
+      "name": "HubSpot Marketing Hub",
+      "domain": "hubspot.com",
+      "category": "marketing-automation",
+      "category_name": "Marketing Automation",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00",
+      "portals": {
+        "g2": {
+          "portal": "g2",
+          "status": "ok",
+          "rating": 4.4,
+          "count": 14913,
+          "quotes": [
+            {
+              "text": "The access to our entire marketing audience and customers' information and the ability to organize that information quickly and easily is enormously helpful. In addition being able to filter the info as needed to target individuals is also very useful\u2026",
+              "title": "Powerful Audience & Campaign Tools, But an Overwhelming Interface and Limited Design Flexibility",
+              "role": "Father",
+              "company_size": "Small-Business (50 or fewer emp.)",
+              "date": "8/11/2026",
+              "rating": 3.5,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/hubspot-marketing-hub/reviews"
+            },
+            {
+              "text": "The ability to navigate easily is the top reason I like HubSpot Marketing Hub. I can find every aspect that I need to watch on the left panel and nested options. I integrate HubSpot in the custom SaaS tools I\u2026",
+              "title": "Easy Navigation, Centralised Data, Powerful Filters, and Great Value in HubSpot Marketing Hub",
+              "role": "Creative Technologist",
+              "company_size": "Small-Business (50 or fewer emp.)",
+              "date": "8/10/2026",
+              "rating": 5.0,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/hubspot-marketing-hub/reviews"
+            },
+            {
+              "text": "It helps automate and streamline a good amount of our work, and is easy to collaborate through. There is a robust number of features available for what is included in our subscription as well, which helps us experiment with a\u2026",
+              "title": "Streamlines Workflows with Robust Features and Easy Collaboration",
+              "role": "Business Intelligence Analyst",
+              "company_size": "Small-Business (50 or fewer emp.)",
+              "date": "8/5/2026",
+              "rating": 4.5,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/hubspot-marketing-hub/reviews"
+            },
+            {
+              "text": "I like that HubSpot Marketing Hub is one organized place where I can have everything in one central hub. It has everything I need, and all the data I require is in one place. I also value being able to\u2026",
+              "title": "Centralized Excellence for CRM Management",
+              "role": "Business Development Representative",
+              "company_size": "Mid-Market (51-1000 emp.)",
+              "date": "11/14/2022",
+              "rating": 5.0,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/hubspot-marketing-hub/reviews"
+            }
+          ],
+          "url": "https://www.g2.com/products/hubspot-marketing-hub/reviews",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "capterra": {
+          "portal": "capterra",
+          "status": "ok",
+          "rating": 4.5,
+          "count": 6249,
+          "sub_ratings": {
+            "Ease of use": 4.3,
+            "Customer Service": 4.4
+          },
+          "quotes": [
+            {
+              "text": "From email marketing and social media scheduling to landing pages, forms, workflows, and campaign reporting, everything works together seamlessly.",
+              "title": null,
+              "role": "Sales Marketing Coordinator",
+              "company_size": "51-200 employees",
+              "date": "June 26, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/171840/HubSpot-Marketing/reviews/"
+            },
+            {
+              "text": "Restricted Customization on Lower Tiers: The reporting and template customization options feel unnecessarily locked down in the basic plans, forcing you to upgrade to incredibly expensive premium tiers just for flexible reporting.",
+              "title": null,
+              "role": "IT Exedutive",
+              "company_size": "11-50 employees",
+              "date": "July 20, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/171840/HubSpot-Marketing/reviews/"
+            },
+            {
+              "text": "What I liked about HubSpot Marketing Hub is how seamlessly it connects email campaigns, landing pages, automation workflows, and analytics in one intuitive dashboard.",
+              "title": null,
+              "role": "Administrator",
+              "company_size": "11-50 employees",
+              "date": "February 25, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/171840/HubSpot-Marketing/reviews/"
+            },
+            {
+              "text": "Additionally, some customization options for emails and landing pages can feel limiting compared to specialized design tools.",
+              "title": null,
+              "role": "Sales Marketing Coordinator",
+              "company_size": "51-200 employees",
+              "date": "June 26, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/171840/HubSpot-Marketing/reviews/"
+            }
+          ],
+          "url": "https://www.capterra.com/p/171840/HubSpot-Marketing/reviews/",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "gartner": {
+          "portal": "gartner",
+          "status": "ok",
+          "rating": 4.4,
+          "count": 2683,
+          "ratings_count": 2678,
+          "quotes": [
+            {
+              "text": null,
+              "title": "Customizable reports and easy UI simplify team onboarding process",
+              "role": "Sales Manager",
+              "company_size": "<50M USD, Software",
+              "date": "Jul 13, 2026",
+              "rating": 5.0,
+              "sentiment": "FAVORABLE",
+              "body_gated": true,
+              "portal": "Gartner Peer Insights",
+              "source_url": "https://www.gartner.com/reviews/product/hubspot-marketing-hub"
+            },
+            {
+              "text": null,
+              "title": "HubSpot Marketing Hub Simplifies Workflows With Integrated Campaign and Analytics Tools",
+              "role": "MARKET RESEARCH ANALYST",
+              "company_size": "500M - 1B USD, Real Estate",
+              "date": "Feb 27, 2026",
+              "rating": 3.0,
+              "sentiment": "CRITICAL",
+              "body_gated": true,
+              "portal": "Gartner Peer Insights",
+              "source_url": "https://www.gartner.com/reviews/product/hubspot-marketing-hub"
+            }
+          ],
+          "url": "https://www.gartner.com/reviews/product/hubspot-marketing-hub",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00",
+          "bodies_gated": true
+        },
+        "trustpilot": {
+          "portal": "trustpilot",
+          "status": "ok",
+          "rating": 1.5,
+          "count": 1152,
+          "quotes": [
+            {
+              "text": "Underwhelming customer support while experiencing payment issues. Costs also increased tremendously",
+              "title": "Underwhelming customer support while\u2026",
+              "role": null,
+              "company_size": null,
+              "date": "2026-08-12",
+              "rating": 1,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/hubspot.com?sort=recency&languages=all"
+            },
+            {
+              "text": "A terrible start with HubSpot My experience with HubSpot started by leaving a very bad taste in my mouth. While setting up HubSpot, its AI assistant directed me to a screen that began downloading approximately 2,000 emails. After only 250\u2026",
+              "title": "A terrible start with HubSpot",
+              "role": null,
+              "company_size": null,
+              "date": "2026-08-12",
+              "rating": 1,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/hubspot.com?sort=recency&languages=all"
+            },
+            {
+              "text": "Hubspot used to be great. We've been using it for many years but over the last 1-2 years they have removed many things that previously worked well and replaced them with a new UX features that don't work. So many\u2026",
+              "title": "Hubspot used to be great but now unusable",
+              "role": null,
+              "company_size": null,
+              "date": "2026-08-07",
+              "rating": 1,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/hubspot.com?sort=recency&languages=all"
+            },
+            {
+              "text": "After being a loyal HubSpot customer for many years, I can honestly say the platform has become one of our biggest business disappointments. The pricing continues to increase while the level of customer service and support has steadily declined. Long-term\u2026",
+              "title": "After being a loyal HubSpot customer\u2026",
+              "role": null,
+              "company_size": null,
+              "date": "2026-08-07",
+              "rating": 1,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/hubspot.com?sort=recency&languages=all"
+            }
+          ],
+          "url": "https://www.trustpilot.com/review/hubspot.com?sort=recency&languages=all",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        }
+      }
+    },
+    "klaviyo": {
+      "slug": "klaviyo",
+      "name": "Klaviyo",
+      "domain": "klaviyo.com",
+      "category": "marketing-automation",
+      "category_name": "Marketing Automation",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00",
+      "portals": {
+        "g2": {
+          "portal": "g2",
+          "status": "ok",
+          "rating": 4.6,
+          "count": 1360,
+          "quotes": [
+            {
+              "text": "What I like most about Klaviyo is how simple it makes email marketing. I use it mainly to build automated flows like welcome emails and abandoned cart reminders, and the visual Flow Builder makes it easy to update everything without\u2026",
+              "title": "Makes Email Marketing Much Easier",
+              "role": "Junior AI Engineer",
+              "company_size": "Mid-Market (51-1000 emp.)",
+              "date": "8/6/2026",
+              "rating": 5.0,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/klaviyo/reviews"
+            },
+            {
+              "text": "What i like most about klaviyo is how simple it makes email marketing automation. i user it my projects, and setting up flows like welcome emails or abandoned cart is very easy.The segmentation is powerful and helps target the right\u2026",
+              "title": "Klaviyo Makes Email Automation Simple, Powerful, and Reliable",
+              "role": "Fullstack Developer",
+              "company_size": "Small-Business (50 or fewer emp.)",
+              "date": "5/3/2026",
+              "rating": 4.5,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/klaviyo/reviews"
+            },
+            {
+              "text": "What I like most about Klaviyo is how easy it makes it to build targeted email campaigns and automate customer communication. I also find the reporting helpful for seeing what\u2019s working, identifying what isn\u2019t, and making adjustments to improve overall\u2026",
+              "title": "Easy-to-Use Platform for Email Marketing Automation",
+              "role": "Marketing and Advertising",
+              "company_size": "Small-Business (50 or fewer emp.)",
+              "date": "6/15/2026",
+              "rating": 4.0,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/klaviyo/reviews"
+            },
+            {
+              "text": "What I like best about Klaviyo is how well it performs across the board. The UI/UX is easy to use, and the integrations with our eCommerce tools make everything seamless. It delivers strong performance and clear ROI through effective segmentation\u2026",
+              "title": "Klaviyo Delivers Strong ROI with Seamless Integrations and Powerful Automation",
+              "role": "Marketing Director",
+              "company_size": "Small-Business (50 or fewer emp.)",
+              "date": "4/15/2026",
+              "rating": 4.5,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/klaviyo/reviews"
+            }
+          ],
+          "url": "https://www.g2.com/products/klaviyo/reviews",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "capterra": {
+          "portal": "capterra",
+          "status": "ok",
+          "rating": 4.6,
+          "count": 534,
+          "sub_ratings": {
+            "Ease of use": 4.5,
+            "Customer Service": 4.3
+          },
+          "quotes": [
+            {
+              "text": "Klaviyo deep data integration allows us to track exact customer behavior and trigger precise email campaigns based on purchase history, which heavily drives our repeat sales and revenue.",
+              "title": null,
+              "role": "CEORetail, 2 - 10 employees",
+              "company_size": "2-10 employees",
+              "date": "May 16, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/156699/Klaviyo/reviews/"
+            },
+            {
+              "text": "They've continued to add features to try and justify the costs, but it gets harder to keep up as a small business.",
+              "title": null,
+              "role": "Lead Strategist, Designer",
+              "company_size": "2-10 employees",
+              "date": "March 19, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/156699/Klaviyo/reviews/"
+            },
+            {
+              "text": "It gives us deep insights into customer behavior and allows us to build complex, high-converting automated flows that consistently generate sales. Despite the premium price, the ROI makes it completely worth it.",
+              "title": null,
+              "role": "CEORetail, 2 - 10 employees",
+              "company_size": "2-10 employees",
+              "date": "May 16, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/156699/Klaviyo/reviews/"
+            },
+            {
+              "text": "Customer support is quick, however at the peak time it is sometimes slow which is frustrating for troubleshooting.",
+              "title": null,
+              "role": "Secretary General",
+              "company_size": "11-50 employees",
+              "date": "June 26, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/156699/Klaviyo/reviews/"
+            }
+          ],
+          "url": "https://www.capterra.com/p/156699/Klaviyo/reviews/",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "gartner": {
+          "portal": "gartner",
+          "status": "ok",
+          "rating": 4.7,
+          "count": 170,
+          "ratings_count": 168,
+          "quotes": [
+            {
+              "text": null,
+              "title": "Quick learning curve and strong support drive greater business growth",
+              "role": "Director of Marketing",
+              "company_size": "<50M USD, Consumer Goods",
+              "date": "Jun 15, 2026",
+              "rating": 5.0,
+              "sentiment": "FAVORABLE",
+              "body_gated": true,
+              "portal": "Gartner Peer Insights",
+              "source_url": "https://www.gartner.com/reviews/product/klaviyo"
+            },
+            {
+              "text": null,
+              "title": "Smooth setup and workflows, but advanced features increase expenses",
+              "role": "Director Of Marketing",
+              "company_size": "<50M USD, Media",
+              "date": "May 15, 2026",
+              "rating": 3.0,
+              "sentiment": "CRITICAL",
+              "body_gated": true,
+              "portal": "Gartner Peer Insights",
+              "source_url": "https://www.gartner.com/reviews/product/klaviyo"
+            }
+          ],
+          "url": "https://www.gartner.com/reviews/product/klaviyo",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00",
+          "bodies_gated": true
+        },
+        "trustpilot": {
+          "portal": "trustpilot",
+          "status": "ok",
+          "rating": 1.7,
+          "count": 365,
+          "quotes": [
+            {
+              "text": "Absolutely ridiculous billing practices. I was on a Klaviyo plan and assumed fairly standard business practices would apply, if I turned auto-upgrade off, my account wouldn't suddenly be moved onto a much more expensive plan without my approval. While developing\u2026",
+              "title": "Absolutely ridiculous billing\u2026",
+              "role": null,
+              "company_size": null,
+              "date": "2026-08-10",
+              "rating": 1,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all"
+            },
+            {
+              "text": "Tried to get help with template code issues, but Klaviyo locks email/chat support strictly behind paid tiers. To make matters worse, accessing the community forum leads to endless login popup loops. If basic support and community tools don't even function\u2026",
+              "title": "Tried to get help with template code\u2026",
+              "role": null,
+              "company_size": null,
+              "date": "2026-08-10",
+              "rating": 1,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all"
+            },
+            {
+              "text": "They clearly don't care about poor reviews, but adding mine anyway. Awful billing policy - charging for dormant profiles that are not even subscribed to receive marketing. Terrible customer support.",
+              "title": "They clearly don't care about poor\u2026",
+              "role": null,
+              "company_size": null,
+              "date": "2026-08-08",
+              "rating": 1,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all"
+            },
+            {
+              "text": "The worst customer service / software support i ever seen in my like",
+              "title": "The worst customer service",
+              "role": null,
+              "company_size": null,
+              "date": "2026-07-14",
+              "rating": 1,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all"
+            }
+          ],
+          "url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        }
+      }
+    },
+    "adobe-marketo-engage": {
+      "slug": "adobe-marketo-engage",
+      "name": "Adobe Marketo Engage",
+      "domain": "marketo.com",
+      "category": "marketing-automation",
+      "category_name": "Marketing Automation",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00",
+      "portals": {
+        "g2": {
+          "portal": "g2",
+          "status": "ok",
+          "rating": 4.1,
+          "count": 3149,
+          "quotes": [
+            {
+              "text": "Marketo offers a complete marketing automation and marketing operations platform. From email sends and nurture programs to triggered web content, scoring, and routing, Marketo can handle it all. Many tools on the market prioritize ease of use but end up\u2026",
+              "title": "The Most Powerful Marketing Operations & Automation Tool",
+              "role": "Digital Marketing Instructor",
+              "company_size": "Mid-Market (51-1000 emp.)",
+              "date": "5/31/2023",
+              "rating": 5.0,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews"
+            },
+            {
+              "text": "What I like most about Adobe Marketo Engage is how scalable and flexible it is. It\u2019s powerful enough to support complex initiatives such as lead scoring, segmentation, personalized content, and operational data cleanup, while still giving me the control to\u2026",
+              "title": "Scalable, Flexible Platform for Complex Marketing Automation",
+              "role": "Manager, Campaign and Journey Automation",
+              "company_size": "Mid-Market (51-1000 emp.)",
+              "date": "5/27/2026",
+              "rating": 4.0,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews"
+            },
+            {
+              "text": "I like how reliable Adobe Marketo Engage is once the workflows are properly set up. It's solid for running long, multi-step nurture journeys without things randomly breaking. The level of control with segmentation and automation is pretty strong, providing the\u2026",
+              "title": "Reliable Automation with Room for Improvement",
+              "role": "Product Design Manager 2",
+              "company_size": "Mid-Market (51-1000 emp.)",
+              "date": "5/14/2026",
+              "rating": 3.5,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews"
+            },
+            {
+              "text": "Adobe Marketo Engage is very useful for managing marketing campaigns in a structured and organized way. It helps with automating emails, lead nurturing, and tracking customer journeys in one platform. As a designer working with marketing teams, it also helps\u2026",
+              "title": "Adobe Marketo Engage Streamlines Campaigns with Powerful Automation and Insightful Tracking",
+              "role": "Graphic Design",
+              "company_size": "Small-Business (50 or fewer emp.)",
+              "date": "5/14/2026",
+              "rating": 5.0,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews"
+            }
+          ],
+          "url": "https://www.g2.com/products/adobe-marketo-engage/reviews",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "capterra": {
+          "portal": "capterra",
+          "status": "ok",
+          "rating": 4.3,
+          "count": 712,
+          "sub_ratings": {
+            "Ease of use": 3.8,
+            "Customer Service": 3.9
+          },
+          "quotes": [
+            {
+              "text": "The platform\u2019s seamless integration with design assets and its ability to track campaign performance makes it ideal for creating targeted, visually engaging content.",
+              "title": null,
+              "role": "Freelance Designer",
+              "company_size": null,
+              "date": "November 10, 2024",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/75130/Marketo-Lead-Management/reviews/"
+            },
+            {
+              "text": "It can feel overwhelming for designers who are not focused on marketing, as it requires dealing with complex workflows, data, and integrations, which can detract from the creative process.",
+              "title": null,
+              "role": "Freelance Designer",
+              "company_size": null,
+              "date": "November 10, 2024",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/75130/Marketo-Lead-Management/reviews/"
+            },
+            {
+              "text": "It\u2019s allowed us to scale our client visits much more efficiently thanks to automatically-followups and content personalization, which has resulted in higher engagement rates without having to stretch out our small team.",
+              "title": null,
+              "role": "Digital Marketing Specialist",
+              "company_size": "11-50 employees",
+              "date": "April 28, 2025",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/75130/Marketo-Lead-Management/reviews/"
+            },
+            {
+              "text": "convoluted ways of filtering distribution lists which leaves open to error.",
+              "title": null,
+              "role": "Senior project manager",
+              "company_size": "51-200 employees",
+              "date": "February 10, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/75130/Marketo-Lead-Management/reviews/"
+            }
+          ],
+          "url": "https://www.capterra.com/p/75130/Marketo-Lead-Management/reviews/",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "gartner": {
+          "portal": "gartner",
+          "status": "ok",
+          "rating": 4.3,
+          "count": 1106,
+          "ratings_count": 1086,
+          "quotes": [
+            {
+              "text": null,
+              "title": "Powerful B2B Marketing Automation with deep customisation capabilities for international enterprises",
+              "role": "Marketing Associate",
+              "company_size": "1B - 3B USD, Manufacturing",
+              "date": "Jul 3, 2026",
+              "rating": 4.0,
+              "sentiment": "FAVORABLE",
+              "body_gated": true,
+              "portal": "Gartner Peer Insights",
+              "source_url": "https://www.gartner.com/reviews/product/adobe-marketo-engage"
+            },
+            {
+              "text": null,
+              "title": "Marketing integrations and analytics shine, but clunky UI slows workflow",
+              "role": "Marketing Manager",
+              "company_size": "<50M USD, Software",
+              "date": "Jun 1, 2026",
+              "rating": 3.0,
+              "sentiment": "CRITICAL",
+              "body_gated": true,
+              "portal": "Gartner Peer Insights",
+              "source_url": "https://www.gartner.com/reviews/product/adobe-marketo-engage"
+            }
+          ],
+          "url": "https://www.gartner.com/reviews/product/adobe-marketo-engage",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00",
+          "bodies_gated": true
+        },
+        "trustpilot": {
+          "portal": "trustpilot",
+          "status": "ok",
+          "rating": 2.4,
+          "count": 6,
+          "quotes": [
+            {
+              "text": "100% Sleezeballs. These idiots buy bulk email and spam the b*ck out of them. They should be in jail",
+              "title": "100% Sleezeballs",
+              "role": null,
+              "company_size": null,
+              "date": "2026-06-11",
+              "rating": 1,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/marketo.com?sort=recency&languages=all"
+            },
+            {
+              "text": "Honestly - they have great support. Their software is good and the analytics really work. Thanks!",
+              "title": "Honestly",
+              "role": null,
+              "company_size": null,
+              "date": "2023-10-15",
+              "rating": 4,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/marketo.com?sort=recency&languages=all"
+            },
+            {
+              "text": "I saw their product somewhere else and tried it myself. All I can say is there is nothing to blame on.",
+              "title": "I saw their product somewhere else and\u2026",
+              "role": null,
+              "company_size": null,
+              "date": "2020-02-27",
+              "rating": 4,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/marketo.com?sort=recency&languages=all"
+            },
+            {
+              "text": "Powerful but steep learning curve to get the most out of it.",
+              "title": "Powerful but steep learning curve",
+              "role": null,
+              "company_size": null,
+              "date": "2020-01-27",
+              "rating": 4,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/marketo.com?sort=recency&languages=all"
+            }
+          ],
+          "url": "https://www.trustpilot.com/review/marketo.com?sort=recency&languages=all",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        }
+      }
+    },
+    "mailchimp": {
+      "slug": "mailchimp",
+      "name": "Mailchimp",
+      "domain": "mailchimp.com",
+      "category": "marketing-automation",
+      "category_name": "Marketing Automation",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00",
+      "portals": {
+        "g2": {
+          "portal": "g2",
+          "status": "ok",
+          "rating": 4.4,
+          "count": 5429,
+          "quotes": [
+            {
+              "text": "What I like most about Intuit Mailchimp is how easy it is to create, run, and manage email marketing campaigns. The drag-and-drop editor, audience management tools, and built-in analytics make it straightforward to design professional-looking emails, monitor performance, and refine\u2026",
+              "title": "Easy Email Campaigns with Powerful Drag-and-Drop and Analytics",
+              "role": "AI Engineer",
+              "company_size": "Mid-Market (51-1000 emp.)",
+              "date": "7/15/2026",
+              "rating": 4.5,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews"
+            },
+            {
+              "text": "Mailchimp is the best marketing automation platform. It helps me to create, send, and analyze email campaigns. I have been using Mailchimp for the last 3 years and I like the features such as easy interface, user-friendly dashboard, ab testing\u2026",
+              "title": "Easy to use email marketing solution",
+              "role": "Sr. Executive Online Marketing",
+              "company_size": "Mid-Market (51-1000 emp.)",
+              "date": "5/26/2022",
+              "rating": 5.0,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews"
+            },
+            {
+              "text": "The ease of archiving and updating contacts. Review collected by and hosted on G2.com.",
+              "title": "Communications Gem",
+              "role": "Data Analyst and Evaluation Specialist",
+              "company_size": "Mid-Market (51-1000 emp.)",
+              "date": "2/27/2020",
+              "rating": 4.5,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews"
+            },
+            {
+              "text": "The UI is very clean and looks great. Mailchimp helps me manage my email campaigns, and I can easily connect everything to Shopify, Canva, and more. It provides AI features, which I mostly use for email subject recommendations. Everything is\u2026",
+              "title": "Clean UI, Powerful Analytics, and Seamless Shopify Integrations",
+              "role": "Freelancer",
+              "company_size": "Small-Business (50 or fewer emp.)",
+              "date": "5/22/2026",
+              "rating": 4.5,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews"
+            }
+          ],
+          "url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "capterra": {
+          "portal": "capterra",
+          "status": "ok",
+          "rating": 4.5,
+          "count": 17667,
+          "sub_ratings": {
+            "Ease of use": 4.4,
+            "Customer Service": 4.2
+          },
+          "quotes": [
+            {
+              "text": "It\u2019s a great option for businesses and individuals looking to manage marketing campaigns efficiently without needing advanced technical skills. While pricing can increase as your audience grows and some advanced features require higher-tier plans, the overall functionality and ease of\u2026",
+              "title": null,
+              "role": "Operator",
+              "company_size": "201-500 employees",
+              "date": "May 15, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/110228/MailChimp/reviews/"
+            },
+            {
+              "text": "The worst part is that Mailchimp includes unsubscribed or inactive contacts in the billing, forcing me to do a recurring and tedious manual cleanup to avoid paying for empty space.",
+              "title": null,
+              "role": "Artist and Tour Manager",
+              "company_size": "10,001+ employees",
+              "date": "June 8, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/110228/MailChimp/reviews/"
+            },
+            {
+              "text": "The templates, automation features, and reporting tools make it efficient to communicate with audiences and track engagement. While there can occasionally be a learning curve with some advanced features, the platform generally provides a reliable and effective solution for email\u2026",
+              "title": null,
+              "role": "Associate",
+              "company_size": "11-50 employees",
+              "date": "June 8, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/110228/MailChimp/reviews/"
+            },
+            {
+              "text": "Multiple test phone numbers texted the assigned keyword, but the entries did not reliably show in the dashboard, did not appear in the queue, and did not receive the automated SMS response.",
+              "title": null,
+              "role": "Marketing Coordinator",
+              "company_size": "501-1,000 employees",
+              "date": "June 17, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/110228/MailChimp/reviews/"
+            }
+          ],
+          "url": "https://www.capterra.com/p/110228/MailChimp/reviews/",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "gartner": {
+          "portal": "gartner",
+          "status": "ok",
+          "rating": 4.4,
+          "count": 1254,
+          "ratings_count": 1255,
+          "quotes": [
+            {
+              "text": null,
+              "title": "Reliable Email Marketing Platform That Scales With Your Business",
+              "role": "Cmo",
+              "company_size": "50M - 250M USD, Consumer Goods",
+              "date": "Apr 9, 2026",
+              "rating": 4.0,
+              "sentiment": "FAVORABLE",
+              "body_gated": true,
+              "portal": "Gartner Peer Insights",
+              "source_url": "https://www.gartner.com/reviews/product/ailchimp-594139131"
+            },
+            {
+              "text": null,
+              "title": "Mailchimp Suited Basic Needs But Faced Challenges With Advanced Ecommerce Automation",
+              "role": "E-Commerce Coordinator",
+              "company_size": "50M - 250M USD, Retail",
+              "date": "May 13, 2026",
+              "rating": 3.0,
+              "sentiment": "CRITICAL",
+              "body_gated": true,
+              "portal": "Gartner Peer Insights",
+              "source_url": "https://www.gartner.com/reviews/product/ailchimp-594139131"
+            }
+          ],
+          "url": "https://www.gartner.com/reviews/product/ailchimp-594139131",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00",
+          "bodies_gated": true
+        },
+        "trustpilot": {
+          "portal": "trustpilot",
+          "status": "ok",
+          "rating": 2.6,
+          "count": 1490,
+          "quotes": [
+            {
+              "text": "Paid for a plan, banned the next day, no refund and support completely ignores me My experience with this service has been absolutely unacceptable. I purchased a paid plan for 10,000 contacts. Initially, I uploaded more contacts than my plan\u2026",
+              "title": "Paid for a plan, banned the next day, no refund",
+              "role": null,
+              "company_size": null,
+              "date": "2026-08-12",
+              "rating": 1,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all"
+            },
+            {
+              "text": "Outlook compatibility. We use MailChimp for internal communications rather than marketing communications. I wish that MailChimp was more compatible with outlook. I think that when you are looking at demographics that maybe an area that you could tap into.",
+              "title": "Outlook compatibility.",
+              "role": null,
+              "company_size": null,
+              "date": "2026-08-11",
+              "rating": 3,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all"
+            },
+            {
+              "text": "Mail chimp is simply awful. Login gets stuck if you have another Intuit account like QuickBooks. I tried to log in so many times today. I used the forgot my Username and it told me what my username was after\u2026",
+              "title": "Mail chimp is simply awful",
+              "role": null,
+              "company_size": null,
+              "date": "2026-08-11",
+              "rating": 1,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all"
+            },
+            {
+              "text": "Terrible customer service. After getting locked out of my account, I repeatedly emailed customer support to cancel my membership, but they refused to process the request. I was ultimately forced to issue a chargeback and block recurring debits through my\u2026",
+              "title": "Terrible customer service",
+              "role": null,
+              "company_size": null,
+              "date": "2026-08-10",
+              "rating": 1,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all"
+            }
+          ],
+          "url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        }
+      }
+    },
+    "activecampaign": {
+      "slug": "activecampaign",
+      "name": "ActiveCampaign",
+      "domain": "activecampaign.com",
+      "category": "marketing-automation",
+      "category_name": "Marketing Automation",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00",
+      "portals": {
+        "g2": {
+          "portal": "g2",
+          "status": "ok",
+          "rating": 4.4,
+          "count": 14779,
+          "quotes": [
+            {
+              "text": "The interface is user-friendly, and I appreciate both the support provided and the easy access to information. Also the integration with other CRMs is quite simple. Review collected by and hosted on G2.com.",
+              "title": "User-Friendly Interface, Powerful Features, and Excellent Support",
+              "role": "Marketing Manager",
+              "company_size": "Small-Business (50 or fewer emp.)",
+              "date": "10/14/2025",
+              "rating": 5.0,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/activecampaign/reviews"
+            },
+            {
+              "text": "The automation builder is the standout for our team - we run multiple email sequences (re-engagement, nurtures, promotional) and being able to visually map out the logic, branching, and tagging makes it easy to see the whole customer journey at\u2026",
+              "title": "Powerful Automations and Reporting That Drive Strategic Decisions",
+              "role": "Business Operations Manager",
+              "company_size": "Small-Business (50 or fewer emp.)",
+              "date": "8/3/2026",
+              "rating": 4.5,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/activecampaign/reviews"
+            },
+            {
+              "text": "ActiveCampaign is easy to use. The email builder, and especially the automation builder are SUPER intuitive.",
+              "title": "Super Intuitive Email & Automation Builder That\u2019s Easy to Use",
+              "role": "Founder &amp; Chief Strategist",
+              "company_size": "Small-Business (50 or fewer emp.)",
+              "date": "8/2/2026",
+              "rating": 4.5,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/activecampaign/reviews"
+            },
+            {
+              "text": "After using for years I know how it works, so I can quickly work out what is going and how to build an automation / campaign. It integrates well with typeform, and performance has improved in the past 6 months\u2026",
+              "title": "Pricey & Email Builder Formatting Is a Pain with good Automations and some Integrations",
+              "role": "Director",
+              "company_size": "Small-Business (50 or fewer emp.)",
+              "date": "7/29/2026",
+              "rating": 3.5,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/activecampaign/reviews"
+            }
+          ],
+          "url": "https://www.g2.com/products/activecampaign/reviews",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "capterra": {
+          "portal": "capterra",
+          "status": "ok",
+          "rating": 4.6,
+          "count": 2568,
+          "sub_ratings": {
+            "Ease of use": 4.2,
+            "Customer Service": 4.4
+          },
+          "quotes": [
+            {
+              "text": "The AI-powered recommendations further improve campaign performance and lead qualification and with email, SMS, and WhatsApp communication available from one platform, we can engage customers through the channels that work best for them.",
+              "title": null,
+              "role": "Sales Director",
+              "company_size": "11-50 employees",
+              "date": "July 13, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/79367/ActiveCampaign/reviews/"
+            },
+            {
+              "text": "The drawback isn't that big, but it can be annoying in times that demand prompt changes, say during busy tourist season.",
+              "title": null,
+              "role": "ERP Supervisor",
+              "company_size": "11-50 employees",
+              "date": "June 20, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/79367/ActiveCampaign/reviews/"
+            },
+            {
+              "text": "Another standout feature is its multi-channel marketing capabilities, enabling us to coordinate email, SMS and WhatsApp campaigns from a single platform while monitoring engagement across every channel.",
+              "title": null,
+              "role": "Sales and Marketing Specialist",
+              "company_size": "11-50 employees",
+              "date": "July 6, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/79367/ActiveCampaign/reviews/"
+            },
+            {
+              "text": "I am using AC to send automated sequences to my leads, but I am not using the campaign features, and I am considering swtiching to another tool if I can't delete my inactive leads (else the costs will constantly increase)",
+              "title": null,
+              "role": "CEOEducation Management, 2 - 10 employees",
+              "company_size": "2-10 employees",
+              "date": "August 23, 2024",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/79367/ActiveCampaign/reviews/"
+            }
+          ],
+          "url": "https://www.capterra.com/p/79367/ActiveCampaign/reviews/",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "gartner": {
+          "portal": "gartner",
+          "status": "ok",
+          "rating": 4.3,
+          "count": 97,
+          "ratings_count": 97,
+          "quotes": [
+            {
+              "text": null,
+              "title": "Efficient personalization in email marketing, with challenges in detailed analysis",
+              "role": "Marketing Associate",
+              "company_size": "50M - 250M USD, Healthcare and Biotech",
+              "date": "Jun 16, 2026",
+              "rating": 4.0,
+              "sentiment": "FAVORABLE",
+              "body_gated": true,
+              "portal": "Gartner Peer Insights",
+              "source_url": "https://www.gartner.com/reviews/product/active-campaign-platform"
+            },
+            {
+              "text": null,
+              "title": "Powerful automation depth offset by average deliverability and usability",
+              "role": "Marketing Manager",
+              "company_size": "250M - 500M USD, IT Services",
+              "date": "Jul 21, 2026",
+              "rating": 3.0,
+              "sentiment": "CRITICAL",
+              "body_gated": true,
+              "portal": "Gartner Peer Insights",
+              "source_url": "https://www.gartner.com/reviews/product/active-campaign-platform"
+            }
+          ],
+          "url": "https://www.gartner.com/reviews/product/active-campaign-platform",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00",
+          "bodies_gated": true
+        },
+        "trustpilot": {
+          "portal": "trustpilot",
+          "status": "ok",
+          "rating": 2.8,
+          "count": 1426,
+          "quotes": [
+            {
+              "text": "La plataoforma es robusta y tiene varias funciones para empezar, pero es bastante cara y el soporte es nefasto, te van dando largas de manera indefinida y no resultaven ningun problema ademas es muy cara para lo que ofrecen. En\u2026",
+              "title": "Nefasta, problems continuos",
+              "role": null,
+              "company_size": null,
+              "date": "2026-08-10",
+              "rating": 1,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/activecampaign.com?sort=recency&languages=all"
+            },
+            {
+              "text": "Free trial limits contacts to only 100, it is too small a sample size to make it worth it. Huge rip-off.",
+              "title": "Free trial limits contacts to only 100",
+              "role": null,
+              "company_size": null,
+              "date": "2026-08-08",
+              "rating": 1,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/activecampaign.com?sort=recency&languages=all"
+            },
+            {
+              "text": "I have used Active Campaign for years and love the automations which are powerful and straight forward to set up once you have your head around the way it works. The email designer is much improved recently and the AI\u2026",
+              "title": "Great product - support not as good as it used to be",
+              "role": null,
+              "company_size": null,
+              "date": "2026-08-04",
+              "rating": 3,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/activecampaign.com?sort=recency&languages=all"
+            },
+            {
+              "text": "I had a decent experience with Active Campaign although it is quite complicated to use and definitely expensive. Really disappointed though that when I cancelled they offered to save my profile info for 3 months and then sent me the\u2026",
+              "title": "Will go with Klaviyo in the future",
+              "role": null,
+              "company_size": null,
+              "date": "2026-08-03",
+              "rating": 2,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/activecampaign.com?sort=recency&languages=all"
+            }
+          ],
+          "url": "https://www.trustpilot.com/review/activecampaign.com?sort=recency&languages=all",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        }
+      }
+    },
+    "brevo": {
+      "slug": "brevo",
+      "name": "Brevo",
+      "domain": "brevo.com",
+      "category": "marketing-automation",
+      "category_name": "Marketing Automation",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00",
+      "portals": {
+        "g2": {
+          "portal": "g2",
+          "status": "ok",
+          "rating": 4.5,
+          "count": 2621,
+          "quotes": [
+            {
+              "text": "Honestly, very little. The UI is decent at first glance, but once you actually try to use the platform at scale for real business operations, the problems start piling up quickly. Review collected by and hosted on G2.com.",
+              "title": "Worst Email Marketing Platform We\u2019ve Ever Used",
+              "role": "Visionary &amp; Co-Founder",
+              "company_size": "Small-Business (50 or fewer emp.)",
+              "date": "5/19/2026",
+              "rating": 0.0,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/brevo-marketing-platform/reviews"
+            },
+            {
+              "text": "I've been using Brevo regularly for email campaigns and automation. The interface is easy to navigate, email deliverability has been reliable, and the automation workflows save me a lot of time. I also like that contacts, email, SMS and forms\u2026",
+              "title": "Email marketing and marketing automation software that offers great value for growing businesses.",
+              "role": "Marketing and Advertising",
+              "company_size": "Small-Business (50 or fewer emp.)",
+              "date": "1/23/2023",
+              "rating": 5.0,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/brevo-marketing-platform/reviews"
+            },
+            {
+              "text": "Brevo fits well into several of our WordPress projects because it solves more than the marketing side of email. The Brevo for WordPress plugin can also handle the routine transactional messages generated by the site, including password resets, comment notifications\u2026",
+              "title": "WooCommerce data flows into Brevo without building another integration",
+              "role": "Information Technology and Services",
+              "company_size": "Mid-Market (51-1000 emp.)",
+              "date": "7/23/2026",
+              "rating": 4.5,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/brevo-marketing-platform/reviews"
+            },
+            {
+              "text": "That they offer extensive functionality on the free account, with the option to subscribe for only the additional functions needed, meaning if you need just one additional function, you do not need to increase your subscription significantly, paying for lots\u2026",
+              "title": "Extensive Free Features with Flexible Add-Ons",
+              "role": "Certifying Master Firewalk Instructor",
+              "company_size": "Small-Business (50 or fewer emp.)",
+              "date": "7/23/2026",
+              "rating": 5.0,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/brevo-marketing-platform/reviews"
+            }
+          ],
+          "url": "https://www.g2.com/products/brevo-marketing-platform/reviews",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "capterra": {
+          "portal": "capterra",
+          "status": "ok",
+          "rating": 4.6,
+          "count": 3509,
+          "sub_ratings": {
+            "Ease of use": 4.6,
+            "Customer Service": 4.5
+          },
+          "quotes": [
+            {
+              "text": "The functionality and user-friendly interface in terms of email handling are wonderful and our small teaching faculty was able to design and mail gorgeous monthly newsletters to our potential students in a very short time.",
+              "title": null,
+              "role": "Language Instructor",
+              "company_size": "2-10 employees",
+              "date": "March 26, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/132996/brevo/reviews/"
+            },
+            {
+              "text": "The email template library and drag-and-drop editor can feel a bit rigid and clinical compared to some of the more design-focused competitors. While it is completely capable and reliable, it lacks some of the visual polish and ultra-smooth UI found\u2026",
+              "title": null,
+              "role": "Creative and Technical Director",
+              "company_size": "2-10 employees",
+              "date": "June 11, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/132996/brevo/reviews/"
+            },
+            {
+              "text": "Some other very useful features include finding out about invalid contacts, being able to look at emails that bounced, scheduling the emails in advance and the option to add an unsubscribe link.",
+              "title": null,
+              "role": "Founder",
+              "company_size": "2-10 employees",
+              "date": "June 11, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/132996/brevo/reviews/"
+            },
+            {
+              "text": "The only thing that really bugs me is the clunky workflow when duplicating campaigns. If I want to take a successful email and quickly resend it to the people who didn't open it (or those who clicked but didn't buy)\u2026",
+              "title": null,
+              "role": "Head of Marketing",
+              "company_size": "11-50 employees",
+              "date": "April 30, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/132996/brevo/reviews/"
+            }
+          ],
+          "url": "https://www.capterra.com/p/132996/brevo/reviews/",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "gartner": {
+          "portal": "gartner",
+          "status": "ok",
+          "rating": 4.5,
+          "count": 182,
+          "ratings_count": 182,
+          "quotes": [
+            {
+              "text": null,
+              "title": "Strong core marketing features without unnecessary complexity",
+              "role": "Marketing Manager",
+              "company_size": "<50M USD, IT Services",
+              "date": "Feb 3, 2026",
+              "rating": 4.0,
+              "sentiment": "FAVORABLE",
+              "body_gated": true,
+              "portal": "Gartner Peer Insights",
+              "source_url": "https://www.gartner.com/reviews/product/brevo-marketing-platform"
+            },
+            {
+              "text": null,
+              "title": "Affordable marketing platform with some restrictions in analytics and templates",
+              "role": "Marketing Manager",
+              "company_size": "<50M USD, Software",
+              "date": "May 25, 2026",
+              "rating": 3.0,
+              "sentiment": "CRITICAL",
+              "body_gated": true,
+              "portal": "Gartner Peer Insights",
+              "source_url": "https://www.gartner.com/reviews/product/brevo-marketing-platform"
+            }
+          ],
+          "url": "https://www.gartner.com/reviews/product/brevo-marketing-platform",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00",
+          "bodies_gated": true
+        },
+        "trustpilot": {
+          "portal": "trustpilot",
+          "status": "ok",
+          "rating": 4,
+          "count": 7172,
+          "quotes": [
+            {
+              "text": "Ottima piattaforma per l\u2019email marketing Sto utilizzando Brevo per la gestione delle comunicazioni e delle automazioni del mio e-commerce e mi sto trovando molto bene. La piattaforma \u00e8 completa, intuitiva e offre numerose possibilit\u00e0 per creare campagne email, automazioni e\u2026",
+              "title": "Ottima piattaforma per l\u2019email\u2026",
+              "role": null,
+              "company_size": null,
+              "date": "2026-08-11",
+              "rating": 5,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/brevo.com?sort=recency&languages=all"
+            },
+            {
+              "text": "The worst service possible 90K and Suspended Company Profile and we not even use the service we purchased. avoid this scam company.",
+              "title": "The worst service possible 90K and\u2026",
+              "role": null,
+              "company_size": null,
+              "date": "2026-08-11",
+              "rating": 1,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/brevo.com?sort=recency&languages=all"
+            },
+            {
+              "text": "As an artist rather than a professional marketer, I was looking for an email platform that could grow with my project. Brevo has exceeded my expectations. The platform is powerful, and the support team has been patient, knowledgeable and responsive\u2026",
+              "title": "As an artist rather than a professional\u2026",
+              "role": null,
+              "company_size": null,
+              "date": "2026-08-07",
+              "rating": 5,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/brevo.com?sort=recency&languages=all"
+            },
+            {
+              "text": "As a potential new client, I found it impossible to sign up. I have a yahoo email address and apparently that's not allowed. They only want gmail or outlook. The verification email did not arrive in my yahoo email box\u2026",
+              "title": "Impossible to sign up for Brevo",
+              "role": null,
+              "company_size": null,
+              "date": "2026-08-06",
+              "rating": 1,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/brevo.com?sort=recency&languages=all"
+            }
+          ],
+          "url": "https://www.trustpilot.com/review/brevo.com?sort=recency&languages=all",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        }
+      }
+    },
+    "braze": {
+      "slug": "braze",
+      "name": "Braze",
+      "domain": "braze.com",
+      "category": "marketing-automation",
+      "category_name": "Marketing Automation",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00",
+      "portals": {
+        "g2": {
+          "portal": "g2",
+          "status": "ok",
+          "rating": 4.5,
+          "count": 1689,
+          "quotes": [
+            {
+              "text": "I love how Braze has united our applications, logins, and event data so a fan's full history is in a single view, making the consolidation invaluable to me. I appreciate the precision in carving out the right audience and delivering\u2026",
+              "title": "Unified Channels, Precision Engagement",
+              "role": "Events Services",
+              "company_size": "Small-Business (50 or fewer emp.)",
+              "date": "8/11/2026",
+              "rating": 4.0,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/braze/reviews"
+            },
+            {
+              "text": "Braze spent the last year really expanding their AI toolset. The big ones include Decisioning Studio (basically AI instead of manual A/B testing), an Agent Console for building custom AI agents right in Canvas, and a Content Optimizer that auto-generates\u2026",
+              "title": "Powerful multi-channel engagement platform",
+              "role": "Lifecycle Marketing Manager",
+              "company_size": "Mid-Market (51-1000 emp.)",
+              "date": "4/23/2026",
+              "rating": 4.0,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/braze/reviews"
+            },
+            {
+              "text": "Braze continues to outpace the market by shifting from simple automation to true AI-native orchestration. In 2026, the standout feature is definitely the BrazeAI\u2122 Decisioning Studio. Unlike old-school A/B testing, it uses reinforcement learning to autonomously decide the best channel\u2026",
+              "title": "Engage your users with an higher level AI-native orchestration tool",
+              "role": "Senior Product Manager",
+              "company_size": "Mid-Market (51-1000 emp.)",
+              "date": "1/14/2022",
+              "rating": 4.5,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/braze/reviews"
+            },
+            {
+              "text": "Braze is intuitive and easy to navigate, and its user-friendly design makes working with it especially smooth. It offers a solid range of tools that can be integrated without much hassle, making it a dependable choice. Another great aspect is\u2026",
+              "title": "Allrounder - Tool for Email- & Automation Marketing",
+              "role": "CRM",
+              "company_size": "Mid-Market (51-1000 emp.)",
+              "date": "10/26/2022",
+              "rating": 3.5,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/braze/reviews"
+            }
+          ],
+          "url": "https://www.g2.com/products/braze/reviews",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "capterra": {
+          "portal": "capterra",
+          "status": "ok",
+          "rating": 4.7,
+          "count": 168,
+          "sub_ratings": {
+            "Ease of use": 4.5,
+            "Customer Service": 4.5
+          },
+          "quotes": [
+            {
+              "text": "The ability to visualize customer journeys and orchestrate campaigns (Canvas etc.), which helps with planning, debugging, and optimizing over time.",
+              "title": null,
+              "role": "Customer Service Representative",
+              "company_size": "51-200 employees",
+              "date": "September 12, 2025",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/155423/Appboy/reviews/"
+            },
+            {
+              "text": "Some limitations or friction with custom event handling, identity management, or naming conventions. If your data isn\u2019t clean or you don\u2019t have strict internal standards, things can get messy.",
+              "title": null,
+              "role": "Customer Service Representative",
+              "company_size": "51-200 employees",
+              "date": "September 12, 2025",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/155423/Appboy/reviews/"
+            },
+            {
+              "text": "Canvas journeys are able to support our complex subscription flows, creating and augmenting the SMS campaigns is also simple.",
+              "title": null,
+              "role": "Lifecycle Marketing",
+              "company_size": "51-200 employees",
+              "date": "September 15, 2025",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/155423/Appboy/reviews/"
+            },
+            {
+              "text": "some small bugs in the campaign/canvas search where it didn't retain the same page after i click to campaign and press back, the search logic in the content block also a bit messed up",
+              "title": null,
+              "role": "CRM Lead",
+              "company_size": "51-200 employees",
+              "date": "February 25, 2025",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/155423/Appboy/reviews/"
+            }
+          ],
+          "url": "https://www.capterra.com/p/155423/Appboy/reviews/",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "gartner": {
+          "portal": "gartner",
+          "status": "ok",
+          "rating": 4.5,
+          "count": 462,
+          "ratings_count": 457,
+          "quotes": [
+            {
+              "text": null,
+              "title": "Long-Term Platform Use Highlights Reliable Data Handling and Community Engagement",
+              "role": "Marketing Associate",
+              "company_size": "250M - 500M USD, Travel and Hospitality",
+              "date": "Mar 27, 2026",
+              "rating": 4.0,
+              "sentiment": "FAVORABLE",
+              "body_gated": true,
+              "portal": "Gartner Peer Insights",
+              "source_url": "https://www.gartner.com/reviews/product/braze-customer-engagement-platform"
+            },
+            {
+              "text": null,
+              "title": "Braze Enhances User Targeting Yet Struggles With Design Integration and Flexibility",
+              "role": "Designer",
+              "company_size": "<50M USD, Telecommunication",
+              "date": "Jun 16, 2025",
+              "rating": 3.0,
+              "sentiment": "CRITICAL",
+              "body_gated": true,
+              "portal": "Gartner Peer Insights",
+              "source_url": "https://www.gartner.com/reviews/product/braze-customer-engagement-platform"
+            }
+          ],
+          "url": "https://www.gartner.com/reviews/product/braze-customer-engagement-platform",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00",
+          "bodies_gated": true
+        },
+        "trustpilot": {
+          "portal": "trustpilot",
+          "status": "ok",
+          "rating": 2.8,
+          "count": 3,
+          "quotes": [
+            {
+              "text": "Braze attemped to access 19 personal identifiers via the ScrewFix app. I have not used Braze so I don't understant why they're trying to steal my data other that for there own profit. I understand in this day and age\u2026",
+              "title": "Braze attemped to access 19 personal\u2026",
+              "role": null,
+              "company_size": null,
+              "date": "2026-06-11",
+              "rating": 1,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/braze.com?sort=recency&languages=all"
+            },
+            {
+              "text": "They have a great customer support and the tool is flexible, finally I can send personalised communications! 5 stars for me.",
+              "title": "They have a great customer support and\u2026",
+              "role": null,
+              "company_size": null,
+              "date": "2023-02-16",
+              "rating": 5,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/braze.com?sort=recency&languages=all"
+            },
+            {
+              "text": "Really poor customer service. This is a technical product, but the technical support doesn't really seem to know what they're doing, nor do they seem to try terribly hard to figure it out. They tend to reply with more vague\u2026",
+              "title": "Really poor customer service",
+              "role": null,
+              "company_size": null,
+              "date": "2022-09-23",
+              "rating": 2,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/braze.com?sort=recency&languages=all"
+            }
+          ],
+          "url": "https://www.trustpilot.com/review/braze.com?sort=recency&languages=all",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        }
+      }
+    },
+    "iterable": {
+      "slug": "iterable",
+      "name": "Iterable",
+      "domain": "iterable.com",
+      "category": "marketing-automation",
+      "category_name": "Marketing Automation",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00",
+      "portals": {
+        "g2": {
+          "portal": "g2",
+          "status": "ok",
+          "rating": 4.4,
+          "count": 825,
+          "quotes": [
+            {
+              "text": "It's an intuitive platform that makes connecting your data and making it actionable incredibly easy. The platform allows my team and I to quickly move from idea to execution to orchestrate user touch points that create real value to the\u2026",
+              "title": "Iterable: The Intuitive Platform That Makes Data Actionable",
+              "role": "Senior Marketing Ops manager",
+              "company_size": "Enterprise (> 1000 emp.)",
+              "date": "6/10/2026",
+              "rating": 4.5,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/iterable/reviews"
+            },
+            {
+              "text": "1\\. Iterable Team: From the moment we started working with them, their team was there to guide us through every step of the process. They provide expert advice, support and very quick to respond to any questions or concerns our\u2026",
+              "title": "Amazing customer service and high-quality cross channel marketing platform!",
+              "role": "Marketing Technology and Operations Lead",
+              "company_size": "Mid-Market (51-1000 emp.)",
+              "date": "4/14/2023",
+              "rating": 5.0,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/iterable/reviews"
+            },
+            {
+              "text": "Iterable is a straightforward platform that can do a lot. Its engagement and personalisation features are great and customer support is amazing. The UI is easy to use and they don't over-complicate their tools. They're also bringing in a bunch\u2026",
+              "title": "Easy-to-use ESP with flexible and versatile tools and impressive customer support",
+              "role": "Senior channel marketing specialist",
+              "company_size": "Mid-Market (51-1000 emp.)",
+              "date": "3/19/2023",
+              "rating": 4.5,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/iterable/reviews"
+            },
+            {
+              "text": "I like Iterable for its ease of use and user-friendly interface. The ability to integrate with AI is really valuable to us, as it helps in growing our company. It's easy to make visible changes, which adds to the flexibility\u2026",
+              "title": "Streamlined Our Email Marketing with Confidence",
+              "role": "Social Media Manager",
+              "company_size": "Small-Business (50 or fewer emp.)",
+              "date": "4/22/2026",
+              "rating": 5.0,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/iterable/reviews"
+            }
+          ],
+          "url": "https://www.g2.com/products/iterable/reviews",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "capterra": {
+          "portal": "capterra",
+          "status": "ok",
+          "rating": 4.3,
+          "count": 63,
+          "sub_ratings": {
+            "Ease of use": 4.3,
+            "Customer Service": 4.4
+          },
+          "quotes": [
+            {
+              "text": "Iterable records various customer events, which are visible in two formats - charts and table listing, which helps us to understand better customer's behaviour and target marketing campaigns, also manage targeted emails sent to customers.",
+              "title": null,
+              "role": "Senior QA Analyst",
+              "company_size": "201-500 employees",
+              "date": "February 25, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/143902/Iterable/reviews/"
+            },
+            {
+              "text": "Hidden fee - they charge extra for something as simple as creating new senders, something which is usually self serve in even the most basic tools and they don't tell you this when signing you on.",
+              "title": null,
+              "role": "Product",
+              "company_size": "11-50 employees",
+              "date": "May 15, 2025",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/143902/Iterable/reviews/"
+            },
+            {
+              "text": "The ability to deliver personalization data to customers and easy communication management Iterable provides the most reliable functions.",
+              "title": null,
+              "role": "Advertising Specialist",
+              "company_size": "11-50 employees",
+              "date": "October 19, 2025",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/143902/Iterable/reviews/"
+            },
+            {
+              "text": "I am weary of signing on new products with them, because I also don't know which parts of the tool will be free to use, and what I would have to pay for after I have signed.",
+              "title": null,
+              "role": "Product",
+              "company_size": "11-50 employees",
+              "date": "May 15, 2025",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/143902/Iterable/reviews/"
+            }
+          ],
+          "url": "https://www.capterra.com/p/143902/Iterable/reviews/",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "gartner": {
+          "portal": "gartner",
+          "status": "ok",
+          "rating": 4.4,
+          "count": 326,
+          "ratings_count": 326,
+          "quotes": [
+            {
+              "text": null,
+              "title": "Hands down the best platform of its kind out there.",
+              "role": "Engineer",
+              "company_size": "<50M USD, Services (non-Government)",
+              "date": "Jun 15, 2026",
+              "rating": 5.0,
+              "sentiment": "FAVORABLE",
+              "body_gated": true,
+              "portal": "Gartner Peer Insights",
+              "source_url": "https://www.gartner.com/reviews/product/iterable-1860591838"
+            },
+            {
+              "text": null,
+              "title": "Easy to use but overcomplicated segmentation and inefficient updates",
+              "role": "Marketing Associate",
+              "company_size": "50M - 250M USD, Transportation",
+              "date": "Jan 28, 2026",
+              "rating": 3.0,
+              "sentiment": "CRITICAL",
+              "body_gated": true,
+              "portal": "Gartner Peer Insights",
+              "source_url": "https://www.gartner.com/reviews/product/iterable-1860591838"
+            }
+          ],
+          "url": "https://www.gartner.com/reviews/product/iterable-1860591838",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00",
+          "bodies_gated": true
+        },
+        "trustpilot": {
+          "portal": "trustpilot",
+          "status": "ok",
+          "rating": null,
+          "count": 0,
+          "quotes": [],
+          "url": "https://www.trustpilot.com/review/iterable.com?sort=recency&languages=all",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        }
+      }
+    },
+    "monday-com": {
+      "slug": "monday-com",
+      "name": "monday.com",
+      "domain": "monday.com",
+      "category": "project-management",
+      "category_name": "Project Management",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00",
+      "portals": {
+        "g2": {
+          "portal": "g2",
+          "status": "ok",
+          "rating": 4.7,
+          "count": 17119,
+          "quotes": [
+            {
+              "text": "What I like best about the Monday AI Work Platform is how it seamlessly integrates AI capabilities into my existing workflows on Monday.com. As someone who has been using Monday.com for client management and process automation at Buk, the addition\u2026",
+              "title": "A Game-Changer: Seamless AI Integration That Boosts Monday.com Productivity",
+              "role": "Project Manager",
+              "company_size": "Enterprise (> 1000 emp.)",
+              "date": "8/7/2026",
+              "rating": 4.5,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/monday-com/reviews"
+            },
+            {
+              "text": "What I like best about the monday AI Work Platform is how easy it makes communicating and collaborating with both my clients and team. I love the color-coding system because it allows me to quickly see where things stand, prioritize\u2026",
+              "title": "Easy Collaboration, Smart Automations, and Great Value with monday AI Work Platform",
+              "role": "Founder and CEO",
+              "company_size": "Small-Business (50 or fewer emp.)",
+              "date": "8/6/2026",
+              "rating": 5.0,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/monday-com/reviews"
+            },
+            {
+              "text": "The customizable boards, automations, and dashboards have made the biggest difference in my daily work. I use monday.com to track HR requests, payroll tasks, and project deadlines in one place. Automated reminders and status updates save me time by reducing\u2026",
+              "title": "Streamlined Our Team's Daily Workflows",
+              "role": "HR Administrator",
+              "company_size": "Mid-Market (51-1000 emp.)",
+              "date": "8/6/2026",
+              "rating": 4.5,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/monday-com/reviews"
+            },
+            {
+              "text": "What I like most about the Monday AI Work Platform is its flexibility. It doesn\u2019t force you to change how you work; instead, it lets you build workflows that match your team\u2019s existing processes. We use it for everything from\u2026",
+              "title": "Flexible, Reliable Workflows That Replace Spreadsheets and Boost Collaboration",
+              "role": "Employee Engagement Specialist",
+              "company_size": "Mid-Market (51-1000 emp.)",
+              "date": "8/4/2026",
+              "rating": 5.0,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/monday-com/reviews"
+            }
+          ],
+          "url": "https://www.g2.com/products/monday-com/reviews",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "capterra": {
+          "portal": "capterra",
+          "status": "ok",
+          "rating": 4.6,
+          "count": 6086,
+          "sub_ratings": {
+            "Ease of use": 4.5,
+            "Customer Service": 4.4
+          },
+          "quotes": [
+            {
+              "text": "The AI integrations have been a game-changer for me, specifically for summarizing complex technical documentation and generating SEO-ready marketing content, which has significantly compressed our project lifecycles.",
+              "title": null,
+              "role": "Application Developer",
+              "company_size": "201-500 employees",
+              "date": "April 30, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/147657/monday-com/reviews/"
+            },
+            {
+              "text": "Monday.com lacks a native functionality for tracking overhead allocation, depreciation schedules, complex billing and earned value management .",
+              "title": null,
+              "role": "Director of Project Controls and Finance",
+              "company_size": "11-50 employees",
+              "date": "June 29, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/147657/monday-com/reviews/"
+            },
+            {
+              "text": "Boards, columns, automations, and views can be tailored to suit different teams and workflows, allowing us to manage everything from day\u2011to\u2011day tasks to more complex operational processes in one platform.",
+              "title": null,
+              "role": "Senior Manager",
+              "company_size": "501-1,000 employees",
+              "date": "April 28, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/147657/monday-com/reviews/"
+            },
+            {
+              "text": "Additionally, certain views and reporting tools lack depth compared to more specialised project management software, making it harder to extract detailed insights without extra setup or external tools.",
+              "title": null,
+              "role": "Operations Manager",
+              "company_size": "11-50 employees",
+              "date": "April 30, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/147657/monday-com/reviews/"
+            }
+          ],
+          "url": "https://www.capterra.com/p/147657/monday-com/reviews/",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "gartner": {
+          "portal": "gartner",
+          "status": "ok",
+          "rating": 4.5,
+          "count": 1333,
+          "ratings_count": 1326,
+          "quotes": [
+            {
+              "text": null,
+              "title": "solid and flexible, but pricing tiers and mobile experience hold it back",
+              "role": "Operations Associate",
+              "company_size": "250M - 500M USD, Energy and Utilities",
+              "date": "Apr 22, 2026",
+              "rating": 4.0,
+              "sentiment": "FAVORABLE",
+              "body_gated": true,
+              "portal": "Gartner Peer Insights",
+              "source_url": "https://www.gartner.com/reviews/product/monday"
+            },
+            {
+              "text": null,
+              "title": "Clear visual layout and strong integrations, but navigation feels clunky",
+              "role": "Digital Solutions",
+              "company_size": "50M - 250M USD, Manufacturing",
+              "date": "Jul 15, 2026",
+              "rating": 3.0,
+              "sentiment": "CRITICAL",
+              "body_gated": true,
+              "portal": "Gartner Peer Insights",
+              "source_url": "https://www.gartner.com/reviews/product/monday"
+            }
+          ],
+          "url": "https://www.gartner.com/reviews/product/monday",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00",
+          "bodies_gated": true
+        },
+        "trustpilot": {
+          "portal": "trustpilot",
+          "status": "ok",
+          "rating": 2.3,
+          "count": 3424,
+          "quotes": [
+            {
+              "text": "We've been using Monday for a few years now. Since they decided to push Ai, the app is getting worse with every update. I can't make a single move without some popup asking if I want an Ai agent to\u2026",
+              "title": "We've been using Monday for a few years\u2026",
+              "role": null,
+              "company_size": null,
+              "date": "2026-08-12",
+              "rating": 1,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all"
+            },
+            {
+              "text": "As a frequent user of Jira, Monday compares very poorly against it. The logic is flawed and makes the interaction clunky and counter-intuitive. Worst element is the AI agents, which is laughable at best. Unfortunately my company made the switch\u2026",
+              "title": "Compares poorly against Jira",
+              "role": null,
+              "company_size": null,
+              "date": "2026-08-11",
+              "rating": 1,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all"
+            },
+            {
+              "text": "ONLY GOAL IS THEIR REVENUE Basic features are locked behind paywall, for example teams for guests are in enterprise plan xDDDDD Didn't know that I need a corporation to not tag every client team member separately.. Useless support. It could\u2026",
+              "title": "ONLY GOAL IS THEIR REVENUE",
+              "role": null,
+              "company_size": null,
+              "date": "2026-08-01",
+              "rating": 1,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all"
+            },
+            {
+              "text": "monday.com biete Testabo an. Der eigene KI Support f\u00fchrt in die Irre, wo man die K\u00fcndigungsoptionen finden kann, hier das Zitat, als Beweis: Um zuk\u00fcnftige Verl\u00e4ngerungen zu stoppen, m\u00fcssen Sie den Plan k\u00fcndigen: \u00d6ffnen Sie monday.com Gehen Sie zu Admin\u2026",
+              "title": "monday.com zockt ab mit Dark Patterns im Userinterface",
+              "role": null,
+              "company_size": null,
+              "date": "2026-08-01",
+              "rating": 1,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all"
+            }
+          ],
+          "url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        }
+      }
+    },
+    "asana": {
+      "slug": "asana",
+      "name": "Asana",
+      "domain": "asana.com",
+      "category": "project-management",
+      "category_name": "Project Management",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00",
+      "portals": {
+        "g2": {
+          "portal": "g2",
+          "status": "ok",
+          "rating": 4.4,
+          "count": 13853,
+          "quotes": [
+            {
+              "text": "Asana's project management features work well enough for our team's needs. I like how tasks can be assigned to specific people and due dates can be set. The calendar view is also pretty solid. We've found it's taken a bit\u2026",
+              "title": "Asana Fits Our Team\u2019s Needs with Strong Project Management Features",
+              "role": "Computer Software",
+              "company_size": "Mid-Market (51-1000 emp.)",
+              "date": "8/9/2026",
+              "rating": 5.0,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/asana/reviews"
+            },
+            {
+              "text": "What I like best about Asana is how easy it is to navigate. The interface is intuitive, making it simple to organize tasks, manage projects, and collaborate with team members without a steep learning curve. It has a good variety\u2026",
+              "title": "Intuitive, Easy-to-Navigate Project Management with Asana",
+              "role": "Virtual Assistant",
+              "company_size": "Small-Business (50 or fewer emp.)",
+              "date": "8/3/2026",
+              "rating": 4.0,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/asana/reviews"
+            },
+            {
+              "text": "The process of planning projects and managing tasks in Asana feels smooth and intuitive. Creating projects, creating tasks, setting their dependencies and tracking milestones is easy enough, and having five views available allows to choose the most suitable for the\u2026",
+              "title": "Smooth, Intuitive Project Planning and Task Management in Asana.",
+              "role": "Data Entry Operator",
+              "company_size": "Mid-Market (51-1000 emp.)",
+              "date": "8/2/2026",
+              "rating": 4.5,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/asana/reviews"
+            },
+            {
+              "text": "I like the ability to upload documents and files to Asana, which is especially useful for tasks like new onboarding for sponsors where they can upload logos and videos. I also appreciate using forms to start projects and automate the\u2026",
+              "title": "Automates Project Management and Boosts Collaboration",
+              "role": "Director of Engagement",
+              "company_size": "Small-Business (50 or fewer emp.)",
+              "date": "5/6/2025",
+              "rating": 5.0,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/asana/reviews"
+            }
+          ],
+          "url": "https://www.g2.com/products/asana/reviews",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "capterra": {
+          "portal": "capterra",
+          "status": "ok",
+          "rating": 4.5,
+          "count": 13631,
+          "sub_ratings": {
+            "Ease of use": 4.4,
+            "Customer Service": 4.3
+          },
+          "quotes": [
+            {
+              "text": "It helped me bring structure and clarity to managing my beauty coworking space, especially with part-time staff. Once everything was set up, it became a reliable system for keeping tasks organized and the team aligned.",
+              "title": null,
+              "role": "Founder",
+              "company_size": "2-10 employees",
+              "date": "March 24, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/184581/Asana-PM/reviews/"
+            },
+            {
+              "text": "The platform can also feel a bit overwhelming when managing large projects with many tasks, and certain reporting and automation capabilities are only available in higher-tier plans.",
+              "title": null,
+              "role": "Lead software engineer",
+              "company_size": "10,001+ employees",
+              "date": "June 12, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/184581/Asana-PM/reviews/"
+            },
+            {
+              "text": "Our design projects are usually intensive and always demand proper planning and efficient team coordination and cooperation and thats why we introduced Asana to provide us with a digital workspace where we get to do all the work planning for\u2026",
+              "title": null,
+              "role": "Creative Director",
+              "company_size": "2-10 employees",
+              "date": "July 15, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/184581/Asana-PM/reviews/"
+            },
+            {
+              "text": "posts and comments could be edited or deleted entirely without going to an archive or edit log, so someone could make a big mistake and there's no proof if they covered up for themselves.",
+              "title": null,
+              "role": "President",
+              "company_size": "2-10 employees",
+              "date": "July 22, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/184581/Asana-PM/reviews/"
+            }
+          ],
+          "url": "https://www.capterra.com/p/184581/Asana-PM/reviews/",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "gartner": {
+          "portal": "gartner",
+          "status": "ok",
+          "rating": 4.5,
+          "count": 2446,
+          "ratings_count": 2433,
+          "quotes": [
+            {
+              "text": null,
+              "title": "Exploring Asana\u2019s Strengths in Project Setup, Product Management, and Team Collaboration Functions",
+              "role": "Event App Director",
+              "company_size": "50M - 250M USD, Software",
+              "date": "Mar 31, 2026",
+              "rating": 5.0,
+              "sentiment": "FAVORABLE",
+              "body_gated": true,
+              "portal": "Gartner Peer Insights",
+              "source_url": "https://www.gartner.com/reviews/product/asana-1842176392"
+            },
+            {
+              "text": null,
+              "title": "High Enterprise Pricing and Limited Workflow Customization Pose Challenges for Asana Users",
+              "role": "Digital Growth Manager",
+              "company_size": "<50M USD, Media",
+              "date": "Mar 30, 2026",
+              "rating": 3.0,
+              "sentiment": "CRITICAL",
+              "body_gated": true,
+              "portal": "Gartner Peer Insights",
+              "source_url": "https://www.gartner.com/reviews/product/asana-1842176392"
+            }
+          ],
+          "url": "https://www.gartner.com/reviews/product/asana-1842176392",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00",
+          "bodies_gated": true
+        },
+        "trustpilot": {
+          "portal": "trustpilot",
+          "status": "ok",
+          "rating": 1.5,
+          "count": 307,
+          "quotes": [
+            {
+              "text": "Be careful, they make billing mistakes and refuse to provide refunds. I wouldnt use this platform, stay away",
+              "title": "Be careful",
+              "role": null,
+              "company_size": null,
+              "date": "2026-08-11",
+              "rating": 1,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all"
+            },
+            {
+              "text": "Great management saas, helping me to work efficiently across multiple project with different team members delegated to those specific project folders. Easy to use and can't go wrong with the free version.",
+              "title": "Great to use with MCP",
+              "role": null,
+              "company_size": null,
+              "date": "2026-08-11",
+              "rating": 4,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all"
+            },
+            {
+              "text": "I've tried using Asana for managing my team of ten, but it just doesn\u2019t cut it for us. It gets cluttered quickly, and some features feel limited. Plus, navigating through the interface can be slow at times. Not the comprehensive\u2026",
+              "title": "Disappointing for Larger Teams",
+              "role": null,
+              "company_size": null,
+              "date": "2026-07-27",
+              "rating": 2,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all"
+            },
+            {
+              "text": "Worse client experience I have ever received. I have to say that they don't proof read emails or get back to you on the matters you actually contacted them about. Glitchy functionality of the programme too at the best of\u2026",
+              "title": "Awful client experience.",
+              "role": null,
+              "company_size": null,
+              "date": "2026-07-16",
+              "rating": 1,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all"
+            }
+          ],
+          "url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        }
+      }
+    },
+    "clickup": {
+      "slug": "clickup",
+      "name": "ClickUp",
+      "domain": "clickup.com",
+      "category": "project-management",
+      "category_name": "Project Management",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00",
+      "portals": {
+        "g2": {
+          "portal": "g2",
+          "status": "ok",
+          "rating": 4.6,
+          "count": 13689,
+          "quotes": [
+            {
+              "text": "I love automated work and ClickUp has developed pretty powerful automation tools. I like how the platform works out schedules, tasks, etc. The interface is also easy to the eye. It kind of surprises me a lot. It feels like\u2026",
+              "title": "Very useful with many features",
+              "role": "Content specialist and educator",
+              "company_size": "Small-Business (50 or fewer emp.)",
+              "date": "3/30/2022",
+              "rating": 4.5,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/clickup/reviews"
+            },
+            {
+              "text": "I like how many features ClickUp has. It's deep and provides the ability to customize everything, giving us a comprehensive look at all the work we need to do. It helps us keep all of our projects in one place\u2026",
+              "title": "Comprehensive Tool with Room for Integration Improvement",
+              "role": "Management Consulting",
+              "company_size": "Small-Business (50 or fewer emp.)",
+              "date": "6/27/2019",
+              "rating": 4.5,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/clickup/reviews"
+            },
+            {
+              "text": "The workflow features in ClickUp that provide visibility\u2014something emails and paper just don\u2019t\u2014are what I\u2019m most excited about. In our organization, things fall through the cracks every day because emails and paperwork don\u2019t always end up in the right place\u2026",
+              "title": "ClickUp\u2019s Workflow Features Keep Everything Organized & Efficeinet",
+              "role": "President",
+              "company_size": "Mid-Market (51-1000 emp.)",
+              "date": "6/4/2026",
+              "rating": 5.0,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/clickup/reviews"
+            },
+            {
+              "text": "My favorite part of ClickUp is how I can do with just one tool. The UI is intuitive and easy to learn. I really appreciate the live professional development sessions too! I'm so impressed these are included in my company's\u2026",
+              "title": "Intuitive, All-in-One ClickUp with Top-Notch Performance, Integrations, and AI Insights",
+              "role": "Implementation Project Manager",
+              "company_size": "Small-Business (50 or fewer emp.)",
+              "date": "8/11/2026",
+              "rating": 5.0,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/clickup/reviews"
+            }
+          ],
+          "url": "https://www.g2.com/products/clickup/reviews",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "capterra": {
+          "portal": "capterra",
+          "status": "ok",
+          "rating": 4.6,
+          "count": 4615,
+          "sub_ratings": {
+            "Ease of use": 4.3,
+            "Customer Service": 4.5
+          },
+          "quotes": [
+            {
+              "text": "It combines tasks, docs, dashboards, automations, and team communication in one place, which reduces tool sprawl and improves visibility.",
+              "title": null,
+              "role": "CTOReal Estate, 51 - 200 employees",
+              "company_size": "51-200 employees",
+              "date": "May 6, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/158833/ClickUp/reviews/"
+            },
+            {
+              "text": "I did, unfortunately, notice lag in creating tasks. When I would quickly add tasks, subtasks, and quickly add notes and info on those items, it would take a moment to load up.",
+              "title": null,
+              "role": "Owner",
+              "company_size": null,
+              "date": "May 7, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/158833/ClickUp/reviews/"
+            },
+            {
+              "text": "ClickUp is multi-functional and you can do a lot of things on the platform (such as track time, create workflows, store documents, create and track goals, etc.)",
+              "title": null,
+              "role": "Lead Editor",
+              "company_size": null,
+              "date": "April 5, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/158833/ClickUp/reviews/"
+            },
+            {
+              "text": "mobile app is not so usefull as the desktop app, if you want full features, you need to upgrade the price plan getting more cost for almost the same things.",
+              "title": null,
+              "role": "IT Manager",
+              "company_size": "501-1,000 employees",
+              "date": "June 4, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/158833/ClickUp/reviews/"
+            }
+          ],
+          "url": "https://www.capterra.com/p/158833/ClickUp/reviews/",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "gartner": {
+          "portal": "gartner",
+          "status": "ok",
+          "rating": 4.5,
+          "count": 756,
+          "ratings_count": 750,
+          "quotes": [
+            {
+              "text": null,
+              "title": "Powerful and flexible \u2014 but invest in setup and training to get the most out of it!",
+              "role": "Human Resources Associate",
+              "company_size": "250M - 500M USD, Healthcare and Biotech",
+              "date": "May 20, 2026",
+              "rating": 5.0,
+              "sentiment": "FAVORABLE",
+              "body_gated": true,
+              "portal": "Gartner Peer Insights",
+              "source_url": "https://www.gartner.com/reviews/product/clickup-2027440980"
+            },
+            {
+              "text": null,
+              "title": "Extremely flexible and compatible with existing software but could use some stronger client-facing features",
+              "role": "Prinicipal",
+              "company_size": "<50M USD, Services (non-Government)",
+              "date": "Feb 27, 2026",
+              "rating": 3.0,
+              "sentiment": "CRITICAL",
+              "body_gated": true,
+              "portal": "Gartner Peer Insights",
+              "source_url": "https://www.gartner.com/reviews/product/clickup-2027440980"
+            }
+          ],
+          "url": "https://www.gartner.com/reviews/product/clickup-2027440980",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00",
+          "bodies_gated": true
+        },
+        "trustpilot": {
+          "portal": "trustpilot",
+          "status": "ok",
+          "rating": 4,
+          "count": 653,
+          "quotes": [
+            {
+              "text": "Awful customer service. Sent them an email to pay my account balance and they shut my account off and did not respond to my emails and messages for 10+ days costing my team valuable time on critical path projects.",
+              "title": "Awful customer service",
+              "role": null,
+              "company_size": null,
+              "date": "2026-08-11",
+              "rating": 1,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all"
+            },
+            {
+              "text": "Every day routine and organization is much easier with clickup than without. It really helps to keep track of various team and private projects. The integration of wiki pages for documentation into the project folders makes it easier to find\u2026",
+              "title": "Great for small and big projects.",
+              "role": null,
+              "company_size": null,
+              "date": "2026-08-10",
+              "rating": 5,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all"
+            },
+            {
+              "text": "Absolutely indispensable for running my web design agency I run a web design business, and frankly, I don\u2019t know how my business would function without ClickUp. As a Power User, I rely on it daily to keep project spaces neatly\u2026",
+              "title": "Absolutely indispensable for running my\u2026",
+              "role": null,
+              "company_size": null,
+              "date": "2026-08-09",
+              "rating": 4,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all"
+            },
+            {
+              "text": "ClickUp has become the operating system for my work. What I like most about ClickUp is how everything comes together in one place. It feels like a truly AI convergent workspace, where the AI understands the context of the work\u2026",
+              "title": "Future of Work OS",
+              "role": null,
+              "company_size": null,
+              "date": "2026-08-08",
+              "rating": 5,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all"
+            }
+          ],
+          "url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        }
+      }
+    },
+    "wrike": {
+      "slug": "wrike",
+      "name": "Wrike",
+      "domain": "wrike.com",
+      "category": "project-management",
+      "category_name": "Project Management",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00",
+      "portals": {
+        "g2": {
+          "portal": "g2",
+          "status": "ok",
+          "rating": 4.2,
+          "count": 4540,
+          "quotes": [
+            {
+              "text": "As both a daily user and Wrike administrator, I continue to appreciate the platform's flexibility and scalability. The improvements to dashboards, automated workflows, request forms, and reporting have helped reduce manual administration and improved project visibility. The real-time collaboration features\u2026",
+              "title": "Using Wrike For Collaborative Work",
+              "role": "Conformance and Project Engineer",
+              "company_size": "Enterprise (> 1000 emp.)",
+              "date": "4/24/2025",
+              "rating": 5.0,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/wrike/reviews"
+            },
+            {
+              "text": "The ability to collaborate with teams across the globe. The onboarding is quite easy and people figure out how to use it quite quickly. I have my calendar integration turned on which massively helps to not miss deadlines.",
+              "title": "Easy Onboarding, Powerful Dashboards, and Seamless Global Collaboration",
+              "role": "Marketing Associate",
+              "company_size": "Mid-Market (51-1000 emp.)",
+              "date": "7/28/2026",
+              "rating": 5.0,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/wrike/reviews"
+            },
+            {
+              "text": "I do like some of their newer AI features. I think it\u2019s helpful to use their generative AI to help me brainstorm! Review collected by and hosted on G2.com.",
+              "title": "Makes Collaboration EASY",
+              "role": "Social Media Manager",
+              "company_size": "Mid-Market (51-1000 emp.)",
+              "date": "3/10/2025",
+              "rating": 4.5,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/wrike/reviews"
+            },
+            {
+              "text": "What I like most about Wrike is that everyday decisions no longer get delayed because everyone can clearly see the current status of work. I usually use custom workflows, dashboards, and request forms because they provide enough context before making\u2026",
+              "title": "Wrike Reduced Small Decision Bottlenecks Across Projects",
+              "role": "Health, Wellness and Fitness",
+              "company_size": "Small-Business (50 or fewer emp.)",
+              "date": "6/1/2026",
+              "rating": 4.0,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/wrike/reviews"
+            }
+          ],
+          "url": "https://www.g2.com/products/wrike/reviews",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "capterra": {
+          "portal": "capterra",
+          "status": "ok",
+          "rating": 4.4,
+          "count": 3034,
+          "sub_ratings": {
+            "Ease of use": 4.2,
+            "Customer Service": 4.3
+          },
+          "quotes": [
+            {
+              "text": "It is a robust platform that helps centralize project management, improve workflow visibility, and keep teams aligned across multiple demands and deadlines.",
+              "title": null,
+              "role": "Head of Client Service",
+              "company_size": "201-500 employees",
+              "date": "April 16, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/76113/Wrike/reviews/"
+            },
+            {
+              "text": "The high cost of learning wrike, with the intricacies of blueprints, automations, workflows, rules, and then people coming/going from an organization causes a massive amount of learning and rework.",
+              "title": null,
+              "role": "Manager, Marketing Technology",
+              "company_size": "1,001-5,000 employees",
+              "date": "April 24, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/76113/Wrike/reviews/"
+            },
+            {
+              "text": "The ability to assign tasks, track progress, manage deadlines, and maintain clear communication within teams significantly improves productivity and accountability.",
+              "title": null,
+              "role": "Project Coordinatore",
+              "company_size": "51-200 employees",
+              "date": "June 3, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/76113/Wrike/reviews/"
+            },
+            {
+              "text": "I\u2019ve also run into occasional bugs and issues\u2014nothing catastrophic, but enough small glitches or odd behaviors to interrupt my flow. And while the platform is powerful, that power comes with a learning curve; onboarding new teammates can take longer than\u2026",
+              "title": null,
+              "role": "Events Marketing Coordinator",
+              "company_size": "1,001-5,000 employees",
+              "date": "April 20, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/76113/Wrike/reviews/"
+            }
+          ],
+          "url": "https://www.capterra.com/p/76113/Wrike/reviews/",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "gartner": {
+          "portal": "gartner",
+          "status": "ok",
+          "rating": 4.4,
+          "count": 1747,
+          "ratings_count": 1746,
+          "quotes": [
+            {
+              "text": null,
+              "title": "Tool Enables Deep Collaboration Across Departments But High Cost Limits Access",
+              "role": "Director Of Business Applications",
+              "company_size": "<50M USD, Consumer Goods",
+              "date": "Feb 12, 2026",
+              "rating": 5.0,
+              "sentiment": "FAVORABLE",
+              "body_gated": true,
+              "portal": "Gartner Peer Insights",
+              "source_url": "https://www.gartner.com/reviews/product/wrike"
+            },
+            {
+              "text": null,
+              "title": "Wrike is intuitive for basic project management but needs improvement in automation, reporting and admin governance for complex projects",
+              "role": "Manager",
+              "company_size": "<50M USD, Software",
+              "date": "May 8, 2026",
+              "rating": 3.0,
+              "sentiment": "CRITICAL",
+              "body_gated": true,
+              "portal": "Gartner Peer Insights",
+              "source_url": "https://www.gartner.com/reviews/product/wrike"
+            }
+          ],
+          "url": "https://www.gartner.com/reviews/product/wrike",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00",
+          "bodies_gated": true
+        },
+        "trustpilot": {
+          "portal": "trustpilot",
+          "status": "ok",
+          "rating": 3.6,
+          "count": 218,
+          "quotes": [
+            {
+              "text": "Wrike has a lot of features, but in our case, it fell short where it mattered most. A core requirement for us is the ability to generate job numbers for billing and tracking. Without that, we couldn\u2019t realistically implement the\u2026",
+              "title": "Good for some, not for others",
+              "role": null,
+              "company_size": null,
+              "date": "2026-08-05",
+              "rating": 2,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all"
+            },
+            {
+              "text": "i work for the marketing department in a larger non profit and we have been using wrike for three years. i initiated the contract renewal process with wrike customer service in feb. after being bounced around to various people because\u2026",
+              "title": "absolutely awful customer service",
+              "role": null,
+              "company_size": null,
+              "date": "2026-05-08",
+              "rating": 1,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all"
+            },
+            {
+              "text": "We\u2019ve been a long-time customer of Wrike, and unfortunately both the renewal process and the decline in customer support have been incredibly disappointing. Wrike used to offer phone and Zoom support. Now support is primarily handled via email tickets, which\u2026",
+              "title": "THEY DO NOT CARE ABOUT CUSTOMERS!",
+              "role": null,
+              "company_size": null,
+              "date": "2026-02-27",
+              "rating": 1,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all"
+            },
+            {
+              "text": "This is manageable, offering smooth coordination for teams. It's AI features and flexible setup support organized project work, though the support team sometimes takes a while to respond.",
+              "title": "This is manageable",
+              "role": null,
+              "company_size": null,
+              "date": "2025-11-20",
+              "rating": 5,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all"
+            }
+          ],
+          "url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        }
+      }
+    },
+    "smartsheet": {
+      "slug": "smartsheet",
+      "name": "Smartsheet",
+      "domain": "smartsheet.com",
+      "category": "project-management",
+      "category_name": "Project Management",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00",
+      "portals": {
+        "g2": {
+          "portal": "g2",
+          "status": "ok",
+          "rating": 4.4,
+          "count": 22701,
+          "quotes": [
+            {
+              "text": "Coming from a background of using various project management tools, Smartsheet stands out for its depth and sophistication. I have been using it for about fifteen months now and I continue to discover new capabilities that make our work easier\u2026",
+              "title": "Feature-Rich Platform That Means Business",
+              "role": "Hospital & Health Care",
+              "company_size": "Mid-Market (51-1000 emp.)",
+              "date": "8/12/2026",
+              "rating": 5.0,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/smartsheet/reviews"
+            },
+            {
+              "text": "I have been using Smartsheet consistently for the past year and it has become our go-to platform for managing work across the organization. The scalability of the platform is impressive. We started with a small team using basic sheets and\u2026",
+              "title": "Scalable Reporting Powerhouse, But Setup and Training Take Time",
+              "role": "Retail",
+              "company_size": "Mid-Market (51-1000 emp.)",
+              "date": "8/11/2026",
+              "rating": 3.5,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/smartsheet/reviews"
+            },
+            {
+              "text": "What drew me to Smartsheet initially was its reputation for handling complexity and it has certainly lived up to that expectation. We have been using it for about ten months and it has transformed how we manage our initiatives. The\u2026",
+              "title": "Smartsheet Transformed Our Initiative Management with Powerful Gantt and Resource Planning",
+              "role": "Accounting",
+              "company_size": "Mid-Market (51-1000 emp.)",
+              "date": "8/11/2026",
+              "rating": 5.0,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/smartsheet/reviews"
+            },
+            {
+              "text": "My company uses Smartsheet primarily for creating and sharing project plans with our clients or for internal purposes. I like that it simplifies the process of building schedules, managing task dependencies, and tracking progress. It's also easy to collaborate with\u2026",
+              "title": "Smartsheet Simplifies Project Planning with Clear Dashboards and Collaboration",
+              "role": "Project Manager",
+              "company_size": "Small-Business (50 or fewer emp.)",
+              "date": "8/6/2026",
+              "rating": 5.0,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/smartsheet/reviews"
+            }
+          ],
+          "url": "https://www.g2.com/products/smartsheet/reviews",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "capterra": {
+          "portal": "capterra",
+          "status": "ok",
+          "rating": 4.5,
+          "count": 3536,
+          "sub_ratings": {
+            "Ease of use": 4.3,
+            "Customer Service": 4.3
+          },
+          "quotes": [
+            {
+              "text": "Smartsheet supports a wide range of use cases, from workflow automation and reporting to governance, compliance, project management, and client-facing solutions.",
+              "title": null,
+              "role": "Group Technology Director",
+              "company_size": "1,001-5,000 employees",
+              "date": "June 5, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/79104/Smartsheet/reviews/"
+            },
+            {
+              "text": "You can't just click on a random cell and type a formula; it forces you to apply formulas to entire columns. Plus, referencing data across different sheets requires a bunch of extra, tedious steps.",
+              "title": null,
+              "role": "HUMAN RELATIONSAlternative Dispute Resolution, 11 - 50 employees",
+              "company_size": "11-50 employees",
+              "date": "July 12, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/79104/Smartsheet/reviews/"
+            },
+            {
+              "text": "I used it for project tracking, surveys, dashboards, and automations, and it gave me a flexible way to organize a lot of different work in one place.",
+              "title": null,
+              "role": "COORetail, 51 - 200 employees",
+              "company_size": "51-200 employees",
+              "date": "June 22, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/79104/Smartsheet/reviews/"
+            },
+            {
+              "text": "Smartsheet has a few frustrating elements when it comes to collaborations. If different team members have different license levels it can complicate things if you\u2019re trying to create smartsheets collaboratively.",
+              "title": null,
+              "role": "Owner",
+              "company_size": "2-10 employees",
+              "date": "July 19, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/79104/Smartsheet/reviews/"
+            }
+          ],
+          "url": "https://www.capterra.com/p/79104/Smartsheet/reviews/",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "gartner": {
+          "portal": "gartner",
+          "status": "ok",
+          "rating": 4.5,
+          "count": 2827,
+          "ratings_count": 2818,
+          "quotes": [
+            {
+              "text": null,
+              "title": "Amazing product that makes processes more efficient with automation replacing manual work. Excited to see future improvements.",
+              "role": "Manager, Project Management",
+              "company_size": "250M - 500M USD, Real Estate",
+              "date": "Mar 11, 2026",
+              "rating": 5.0,
+              "sentiment": "FAVORABLE",
+              "body_gated": true,
+              "portal": "Gartner Peer Insights",
+              "source_url": "https://www.gartner.com/reviews/product/smartsheet"
+            },
+            {
+              "text": null,
+              "title": "Spreadsheet Layout Facilitates Project Outlining But Limits Task Execution Capabilities",
+              "role": "It Associate",
+              "company_size": "3B - 10B USD, Consumer Goods",
+              "date": "Jun 2, 2026",
+              "rating": 3.0,
+              "sentiment": "CRITICAL",
+              "body_gated": true,
+              "portal": "Gartner Peer Insights",
+              "source_url": "https://www.gartner.com/reviews/product/smartsheet"
+            }
+          ],
+          "url": "https://www.gartner.com/reviews/product/smartsheet",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00",
+          "bodies_gated": true
+        },
+        "trustpilot": {
+          "portal": "trustpilot",
+          "status": "ok",
+          "rating": 1.3,
+          "count": 121,
+          "quotes": [
+            {
+              "text": "I wish I could give a better review as the software itself is a blessing but their support is truly some of the worst and least professionally managed one's I've every experienced at their level. As a long-term paying customer\u2026",
+              "title": "I wish I could give a better review as\u2026",
+              "role": null,
+              "company_size": null,
+              "date": "2026-07-27",
+              "rating": 2,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all"
+            },
+            {
+              "text": "It's unbelievable how terrible their tech/customer support is. The system has been good for our business when it works, but god forbid something goes wrong because you'll be waiting at least a month to try and get support and even\u2026",
+              "title": "Terrible tech/customer support",
+              "role": null,
+              "company_size": null,
+              "date": "2026-06-29",
+              "rating": 2,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all"
+            },
+            {
+              "text": "Customer Service? Nope! I have been trying for months to get their help to switch over to my new email address, switched companies but I brought SmartSheet with me as I used it daily and have been for close to\u2026",
+              "title": "Customer Service?  Nope!",
+              "role": null,
+              "company_size": null,
+              "date": "2026-06-26",
+              "rating": 1,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all"
+            },
+            {
+              "text": "Hands down the worst company in the world for tech support. They will literally charge you $78 a month and then tell you if you are having a technical issue (system glitch) you have to pay an additional $12 per\u2026",
+              "title": "Hands down the worst company in the\u2026",
+              "role": null,
+              "company_size": null,
+              "date": "2026-06-20",
+              "rating": 1,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all"
+            }
+          ],
+          "url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        }
+      }
+    },
+    "notion": {
+      "slug": "notion",
+      "name": "Notion",
+      "domain": "notion.so",
+      "category": "project-management",
+      "category_name": "Project Management",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00",
+      "portals": {
+        "g2": {
+          "portal": "g2",
+          "status": "ok",
+          "rating": 4.6,
+          "count": 13744,
+          "quotes": [
+            {
+              "text": "Notion has a clean, flexible UI that makes organizing notes, projects, and tasks feel natural. I like the range of integrations and how quickly pages and databases load. The pricing offers good value for the amount of functionality included, and\u2026",
+              "title": "Clean, Flexible Notion That Makes Organizing Work Feel Effortless",
+              "role": "Online MCAT Physics Tutor",
+              "company_size": "Small-Business (50 or fewer emp.)",
+              "date": "8/12/2026",
+              "rating": 4.5,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/notion/reviews"
+            },
+            {
+              "text": "What I like most about Notion is that I can look at the same task list in different ways depending on what I'm trying to check. I mostly use Task Databases, Status Views, Assignees, Due Dates, Priorities, and Task Types\u2026",
+              "title": "Makes Task Tracking Easier with Custom Views, Priorities, and Status Updates",
+              "role": "Computer Software",
+              "company_size": "Mid-Market (51-1000 emp.)",
+              "date": "8/9/2026",
+              "rating": 4.5,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/notion/reviews"
+            },
+            {
+              "text": "I love how flexible and customizable Notion is. I can create my own book library, habit tracker, and money tracker exactly the way I want. It helps me keep everything organized in one place. I find the customizable templates in\u2026",
+              "title": "Flexible Tool for Personal Organization",
+              "role": "Data Engineer Trainee",
+              "company_size": "Small-Business (50 or fewer emp.)",
+              "date": "7/28/2026",
+              "rating": 4.5,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/notion/reviews"
+            },
+            {
+              "text": "I like Notion's flexibility and organization. I can customize it around the way I work, keep everything in one place, and quickly find the information I need, which makes managing multiple properties easier. It helps me stay organized and reduces\u2026",
+              "title": "Flexible and Organized Workspace for Property Management",
+              "role": "Hospitality",
+              "company_size": "Small-Business (50 or fewer emp.)",
+              "date": "7/24/2026",
+              "rating": 5.0,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/notion/reviews"
+            }
+          ],
+          "url": "https://www.g2.com/products/notion/reviews",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "capterra": {
+          "portal": "capterra",
+          "status": "ok",
+          "rating": 4.7,
+          "count": 2792,
+          "sub_ratings": {
+            "Ease of use": 4.4,
+            "Customer Service": 4.4
+          },
+          "quotes": [
+            {
+              "text": "It is ideal for project management and allows for a variety of views and filters, such as bullet points, kantan board, etc. As expected from task management solutions it allows for different status' flags that can be customised (Completed, pending\u2026",
+              "title": null,
+              "role": "IT Team Lead",
+              "company_size": "201-500 employees",
+              "date": "April 2, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/186596/Notion/reviews/"
+            },
+            {
+              "text": "The application faces clear challenges in terms of performance and speed; when dealing with large databases or heavy pages cluttered with elements, slow response times and data loading issues arise.",
+              "title": null,
+              "role": "free lancer",
+              "company_size": null,
+              "date": "July 13, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/186596/Notion/reviews/"
+            },
+            {
+              "text": "I can create what works for my own personal workflow system and even link task to my calendar which helps with being a business owner, a research assistant, full time grad student and consultant.",
+              "title": null,
+              "role": "Maternal and child health systems analyst",
+              "company_size": null,
+              "date": "May 2, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/186596/Notion/reviews/"
+            },
+            {
+              "text": "the mobile application sometimes displays frustrating loading delays when pages contain large data tables, complicating quick verifications while on the move.",
+              "title": null,
+              "role": "Rebel and Founder Co-CEO Huda Beauty",
+              "company_size": "201-500 employees",
+              "date": "July 6, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/186596/Notion/reviews/"
+            }
+          ],
+          "url": "https://www.capterra.com/p/186596/Notion/reviews/",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "gartner": {
+          "portal": "gartner",
+          "status": "ok",
+          "rating": 4.5,
+          "count": 250,
+          "ratings_count": 250,
+          "quotes": [
+            {
+              "text": null,
+              "title": "Still a great platform, but moving away due to unsustainable per seat pricing",
+              "role": "Chief Executive Officer",
+              "company_size": "<50M USD, Hardware",
+              "date": "May 28, 2026",
+              "rating": 4.0,
+              "sentiment": "FAVORABLE",
+              "body_gated": true,
+              "portal": "Gartner Peer Insights",
+              "source_url": "https://www.gartner.com/reviews/product/notion-1730700624"
+            },
+            {
+              "text": null,
+              "title": "Notion Centralizes Project Management But Setup Process Remains Complex for Many",
+              "role": "Marketing Manager",
+              "company_size": "<50M USD, Media",
+              "date": "Apr 2, 2026",
+              "rating": 3.0,
+              "sentiment": "CRITICAL",
+              "body_gated": true,
+              "portal": "Gartner Peer Insights",
+              "source_url": "https://www.gartner.com/reviews/product/notion-1730700624"
+            }
+          ],
+          "url": "https://www.gartner.com/reviews/product/notion-1730700624",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00",
+          "bodies_gated": true
+        },
+        "trustpilot": {
+          "portal": "trustpilot",
+          "status": "ok",
+          "rating": 2.3,
+          "count": 424,
+          "quotes": [
+            {
+              "text": "I've used Notion for years and am a huge advocate for this template-based, user-friendly software that has continued to set the bar high in performance, convenience, and adaptability. They're continually running good programs, in-person events, and have a fantastic community\u2026",
+              "title": "I've used Notion for years and am A MASSIVE Fan",
+              "role": null,
+              "company_size": null,
+              "date": "2026-08-11",
+              "rating": 5,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all"
+            },
+            {
+              "text": "Notion generated an invoice on 13 July 2026. I deleted the related workspace and account about an hour later because I no longer wanted or used the service. Despite the account being deleted, Notion continued retrying the payment and eventually\u2026",
+              "title": "Charged after deleting my account",
+              "role": null,
+              "company_size": null,
+              "date": "2026-08-04",
+              "rating": 1,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all"
+            },
+            {
+              "text": "I\u2019d strongly recommend that people do not use this product or sign up for the free trial. I signed up to try the product and didn\u2019t feel that it met my needs. It was overly complicated and not what I\u2026",
+              "title": "Do not trial or provide payment details",
+              "role": null,
+              "company_size": null,
+              "date": "2026-07-31",
+              "rating": 1,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all"
+            },
+            {
+              "text": "J'ai voulu passer \u00e0 l'abonnement payant sauf qu'on m'a fait payer plus que ce qui \u00e9tait affich\u00e9. M\u00eame si cela correspond \u00e0 des taxes, c'est ill\u00e9gal de pr\u00e9lever plus que le prix affich\u00e9. Une plainte sera d\u00e9pos\u00e9. A fuir.",
+              "title": "Arnaque, \u00e0 fuir !",
+              "role": null,
+              "company_size": null,
+              "date": "2026-07-28",
+              "rating": 1,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all"
+            }
+          ],
+          "url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        }
+      }
+    },
+    "jira": {
+      "slug": "jira",
+      "name": "Jira",
+      "domain": "atlassian.com",
+      "category": "project-management",
+      "category_name": "Project Management",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00",
+      "portals": {
+        "g2": {
+          "portal": "g2",
+          "status": "ok",
+          "rating": 4.3,
+          "count": 7935,
+          "quotes": [
+            {
+              "text": "in my internship Jira helped me to stay organized while working on multiple campaign and sales activities, it gave me a clear view of my daily tasks, deadlines and project progress making it much easier to manage my work \u2026",
+              "title": "Organized and Collaborative, but Too Many Custom Fields Slow Simple Tasks",
+              "role": "Sales And Marketing Intern",
+              "company_size": "Mid-Market (51-1000 emp.)",
+              "date": "8/10/2026",
+              "rating": 3.0,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/jira/reviews"
+            },
+            {
+              "text": "I have only three tools saved to my browser bookmarks bar: Jira, ITONICS, and a stopwatch timer.",
+              "title": "It's flexible for every department",
+              "role": "Marketing Manager",
+              "company_size": "Mid-Market (51-1000 emp.)",
+              "date": "8/7/2026",
+              "rating": 4.0,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/jira/reviews"
+            },
+            {
+              "text": "Jira\u2019s greatest strength is its unmatched customizability for Agile workflows. Whether you follow Scrum, Kanban, or a hybrid approach, Jira can be tailored to fit your exact process. The ability to create complex workflows, automate repetitive tasks (via automation rules)\u2026",
+              "title": "Unmatched Customizability for Agile Workflows",
+              "role": "Instructional Designer",
+              "company_size": "Mid-Market (51-1000 emp.)",
+              "date": "8/11/2026",
+              "rating": 5.0,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/jira/reviews"
+            },
+            {
+              "text": "What I like most about Jira is how it brings our entire project workflow into one place. Creating and tracking tasks is simple, and features like Kanban and Scrum boards make it easy to see progress at every stage. Custom\u2026",
+              "title": "Jira Keeps Our Workflow Organized, Transparent, and On Track",
+              "role": "Insurance",
+              "company_size": "Mid-Market (51-1000 emp.)",
+              "date": "8/7/2026",
+              "rating": 5.0,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/jira/reviews"
+            }
+          ],
+          "url": "https://www.g2.com/products/jira/reviews",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "capterra": {
+          "portal": "capterra",
+          "status": "ok",
+          "rating": 4.4,
+          "count": 15446,
+          "sub_ratings": {
+            "Ease of use": 4.1,
+            "Customer Service": 4.2
+          },
+          "quotes": [
+            {
+              "text": "Its customizable workflows, issue tracking, dashboards, and collaboration features help development and IT teams stay organized while making it easy to monitor project status and ongoing work.",
+              "title": null,
+              "role": "Manager",
+              "company_size": "11-50 employees",
+              "date": "July 11, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/19319/JIRA/reviews/"
+            },
+            {
+              "text": "Once properly configured, it provides unparalleled visibility into project timelines, resource allocation, and issue tracking. While it can feel heavy and a bit rigid for smaller, fast-moving projects, its scalability and deep integration features make it an essential tool for\u2026",
+              "title": null,
+              "role": "Systems Engineer",
+              "company_size": "501-1,000 employees",
+              "date": "June 21, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/19319/JIRA/reviews/"
+            },
+            {
+              "text": "There are a lot of menus, settings, boards, fields, and workflow options, so it takes time to learn where everything is. If it is not set up properly, it can also become cluttered pretty quickly.",
+              "title": null,
+              "role": "IT Manager",
+              "company_size": "51-200 employees",
+              "date": "June 22, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/19319/JIRA/reviews/"
+            },
+            {
+              "text": "Powerful workflow automation (especially for ticket lifecycles and SLA monitoring), robust dashboard reporting capabilities for operational visibility, and seamless integration with tools like Confluence.",
+              "title": null,
+              "role": "Software Engineer",
+              "company_size": "5,001-10,000 employees",
+              "date": "June 17, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/19319/JIRA/reviews/"
+            }
+          ],
+          "url": "https://www.capterra.com/p/19319/JIRA/reviews/",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "gartner": {
+          "portal": "gartner",
+          "status": "ok",
+          "rating": 4.4,
+          "count": 7891,
+          "ratings_count": 7865,
+          "quotes": [
+            {
+              "text": null,
+              "title": "Automated notifications and robust workflows boost reliability, but setup is complex",
+              "role": "Bid Manager",
+              "company_size": "50M - 250M USD, Software",
+              "date": "Jun 30, 2026",
+              "rating": 4.0,
+              "sentiment": "FAVORABLE",
+              "body_gated": true,
+              "portal": "Gartner Peer Insights",
+              "source_url": "https://www.gartner.com/reviews/product/jira"
+            },
+            {
+              "text": null,
+              "title": "Incredibly useful and powerful tool, but can get overly complicated and costly if you're not careful",
+              "role": "Director of Marketing",
+              "company_size": "<50M USD, Consumer Goods",
+              "date": "Jul 7, 2026",
+              "rating": 3.0,
+              "sentiment": "CRITICAL",
+              "body_gated": true,
+              "portal": "Gartner Peer Insights",
+              "source_url": "https://www.gartner.com/reviews/product/jira"
+            }
+          ],
+          "url": "https://www.gartner.com/reviews/product/jira",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00",
+          "bodies_gated": true
+        },
+        "trustpilot": {
+          "portal": "trustpilot",
+          "status": "ok",
+          "rating": 1.2,
+          "count": 174,
+          "quotes": [
+            {
+              "text": "I dont use your product I get an email and it says this is so important that you can not unsubcribe!!!!!!!",
+              "title": "I dont use your product",
+              "role": null,
+              "company_size": null,
+              "date": "2026-08-11",
+              "rating": 1,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all"
+            },
+            {
+              "text": "I used loom for years and paid around $20 per month for the software, randomly we started being charged $60 per month and when I looked into it they just increased the prices by 3x and started charging us for\u2026",
+              "title": "Loom Subscription went up 3x without consent",
+              "role": null,
+              "company_size": null,
+              "date": "2026-08-10",
+              "rating": 1,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all"
+            },
+            {
+              "text": "I signed up for a basic account simply to browse Trello and check out a standard project board. I had absolutely no intention of buying anything or starting a premium service. Instead of a straightforward signup, Atlassian instantly hit my\u2026",
+              "title": "I signed up for a basic account on Trello...",
+              "role": null,
+              "company_size": null,
+              "date": "2026-08-10",
+              "rating": 1,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all"
+            },
+            {
+              "text": "I downloaded the loom app to make a video for a job interview. I downloaded a free app. Used free features and now I'm being charged without consent by atlassian without being informed...i did not save my banking details, because\u2026",
+              "title": "LOOM AND ATLASSIAN SCAM.",
+              "role": null,
+              "company_size": null,
+              "date": "2026-07-30",
+              "rating": 1,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all"
+            }
+          ],
+          "url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        }
+      }
+    },
+    "basecamp": {
+      "slug": "basecamp",
+      "name": "Basecamp",
+      "domain": "basecamp.com",
+      "category": "project-management",
+      "category_name": "Project Management",
+      "captured_at": "2026-08-12T20:01:24.148877+00:00",
+      "portals": {
+        "g2": {
+          "portal": "g2",
+          "status": "ok",
+          "rating": 4.1,
+          "count": 5488,
+          "quotes": [
+            {
+              "text": "I've used more powerful project management tools, but a lot of them start feeling heavy the moment you bring clients or external people into the process. Basecamp is different in that sense. Clients usually understand pretty quickly where to leave\u2026",
+              "title": "Basecamp keeps projects simple, organized, and easy to follow",
+              "role": "Marketing and Advertising",
+              "company_size": "Mid-Market (51-1000 emp.)",
+              "date": "7/11/2026",
+              "rating": 4.5,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/basecamp/reviews"
+            },
+            {
+              "text": "I usually have information scattered across emails, documents, chats, and spreadsheets. Basecamp is one of the first tools where everything finally feels like it's in the same place without making the day-to-day work more complicated. Message Boards look like a\u2026",
+              "title": "Message Boards and To-dos cut out a lot of unnecessary follow-ups",
+              "role": "Information Technology and Services",
+              "company_size": "Mid-Market (51-1000 emp.)",
+              "date": "6/30/2026",
+              "rating": 5.0,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/basecamp/reviews"
+            },
+            {
+              "text": "After years of using tools packed with automations, dashboards, custom views, and endless configuration options, I ended up trying Basecamp with a fair amount of skepticism. I expected it to feel too basic, but that wasn\u2019t really the case. What\u2026",
+              "title": "Basecamp continues to stick to its simplicity, for better or worse",
+              "role": "Information Technology and Services",
+              "company_size": "Mid-Market (51-1000 emp.)",
+              "date": "6/19/2026",
+              "rating": 4.5,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/basecamp/reviews"
+            },
+            {
+              "text": "Basecamp is one of the easiest project management and team collaboration tools to adopt and use well. It centralizes communication, tasks, files, and project updates in a way that stays streamlined without becoming overly complicated.",
+              "title": "Basecamp Keeps Team Communication Streamlined with an Intuitive, Simple Setup",
+              "role": "Outsourcing/Offshoring",
+              "company_size": "Mid-Market (51-1000 emp.)",
+              "date": "5/25/2026",
+              "rating": 5.0,
+              "portal": "G2",
+              "source_url": "https://www.g2.com/products/basecamp/reviews"
+            }
+          ],
+          "url": "https://www.g2.com/products/basecamp/reviews",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "capterra": {
+          "portal": "capterra",
+          "status": "ok",
+          "rating": 4.3,
+          "count": 14434,
+          "sub_ratings": {
+            "Ease of use": 4.3,
+            "Customer Service": 4.3
+          },
+          "quotes": [
+            {
+              "text": "Basecamp has been a reliable project management and client collaboration platform since the classic version, delivering consistent core functionality across message boards, to-dos, file storage, campfire chat, and schedules",
+              "title": null,
+              "role": "CEOComputer Software, 2 - 10 employees",
+              "company_size": "2-10 employees",
+              "date": "June 1, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/56808/Basecamp/reviews/"
+            },
+            {
+              "text": "It has limited customization, lacks advanced features, and can feel too simple for complex projects.",
+              "title": null,
+              "role": "Finance",
+              "company_size": "11-50 employees",
+              "date": "May 14, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/56808/Basecamp/reviews/"
+            },
+            {
+              "text": "The intuitive interface seamlessly integrates message boards, to-do lists, and file sharing, which significantly reduces internal email clutter and keeps cross-functional teams aligned.",
+              "title": null,
+              "role": "Assistantship",
+              "company_size": "11-50 employees",
+              "date": "June 9, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/56808/Basecamp/reviews/"
+            },
+            {
+              "text": "Not as customizable as some software, so if you need more depth, then it might not work well for your needs.",
+              "title": null,
+              "role": "Director of Operations",
+              "company_size": "2-10 employees",
+              "date": "July 1, 2026",
+              "rating": null,
+              "portal": "Capterra",
+              "source_url": "https://www.capterra.com/p/56808/Basecamp/reviews/"
+            }
+          ],
+          "url": "https://www.capterra.com/p/56808/Basecamp/reviews/",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "gartner": {
+          "portal": "gartner",
+          "status": "parse_failed",
+          "rating": null,
+          "count": null,
+          "ratings_count": null,
+          "quotes": [],
+          "url": "https://www.gartner.com/reviews/market/collaborative-work-management",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00",
+          "bodies_gated": false
+        },
+        "trustpilot": {
+          "portal": "trustpilot",
+          "status": "ok",
+          "rating": 2.3,
+          "count": 41,
+          "quotes": [
+            {
+              "text": "Basecamp has been useful for managing our work, but the new desktop app does not feel as easy to use as the previous version. The older app had some issues too. For example, while editing a document, we often had\u2026",
+              "title": "The New Desktop App Feels Less Intuitive",
+              "role": null,
+              "company_size": null,
+              "date": "2026-07-28",
+              "rating": 3,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all"
+            },
+            {
+              "text": "So- This roll out has been so disastrous, they are on their 3rd (or is it 4th?) \"Live Walkthrough & Q/A\" It's gone from a 20 min video, (who has time for that?) to a 60-90 minute session?! Are you\u2026",
+              "title": "Change for Change's Sake? Ugh...It's Brutal.",
+              "role": null,
+              "company_size": null,
+              "date": "2026-07-21",
+              "rating": 2,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all"
+            },
+            {
+              "text": "i've had a great experience with basecamp, is easy, intuitive and perfect for a solo business like mine",
+              "title": "i've had a great experience with\u2026",
+              "role": null,
+              "company_size": null,
+              "date": "2026-07-16",
+              "rating": 4,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all"
+            },
+            {
+              "text": "My office has used this app for almost a decade, and it's been a pain from the very beginning. If you manage dozens of clients, locating a specific project can feel like an assignment all on its own.",
+              "title": "Consider Alternative Project Management Tools",
+              "role": null,
+              "company_size": null,
+              "date": "2026-07-10",
+              "rating": 1,
+              "portal": "Trustpilot",
+              "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all"
+            }
+          ],
+          "url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all",
+          "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        }
+      }
+    }
+  }
+}

@@ -385,41 +385,111 @@ def rank_row(i: int, v, depth: int) -> str:
 
 # ------------------------------------------------------------------- pages
 def page_home() -> None:
-    cats = "".join(
-        f'<div class="card"><h3><a href="categories/{c}/index.html">{e(m["name"])}</a></h3>'
-        f'<p class="small muted">{len(cat_vendors(c))} vendors read across four platforms.</p>'
-        f'<p class="small"><a href="categories/{c}/index.html">See the ranking</a></p></div>'
-        for c, m in CATS.items())
+    scored = [v for v in VENDORS.values() if score_of(v) is not None]
+    scored.sort(key=lambda v: -score_of(v))
+    reviews_read = sum(sc(v).get("sample_size", 0) for v in VENDORS.values())
+    labelled = sum(sc(v).get("labelled", 0) for v in VENDORS.values())
+    behind = sum(p["count"] or 0 for v in VENDORS.values()
+                 for _, _, p in portals_with_data(v))
+    cells = sum(len(portals_with_data(v)) for v in VENDORS.values())
+
+    stats = [
+        (f"{len(VENDORS)}", "vendors scored"),
+        (f"{behind:,}", "reviews behind those scores"),
+        (f"{reviews_read:,}", "reviews read individually"),
+        (f"{cells} of {len(VENDORS)*4}", "vendor and site pairs checked"),
+        ("0", "vendors who paid to be here"),
+    ]
+    statbar = "".join(
+        f'<div class="stat"><b class="num">{e(n)}</b><span>{e(l)}</span></div>'
+        for n, l in stats)
+
+    lead = "".join(f"""<div class="lrow">
+  <span class="lpos num">{i}</span>
+  {scorebox(v)}
+  <div class="lwho">
+    <h3><a href="vendors/{v['slug']}/index.html">{e(v['name'])}</a></h3>
+    <div class="tiny muted">{e(v['category_name'])}</div>
+  </div>
+  <div class="lchips">{''.join(
+      f'<span class="chip">{e(d["label"].split("-")[0])} <b class="num">{d["value"]:.0f}</b></span>'
+      for d in dims_of(v))}</div>
+</div>""" for i, v in enumerate(scored[:6], 1))
+
+    cats = "".join(f"""<div class="catcard">
+  <h3><a href="categories/{c}/index.html">{e(m['name'])}</a></h3>
+  <p class="tiny muted">{len(cat_vendors(c))} vendors &middot; top score
+    {max(score_of(x) or 0 for x in cat_vendors(c))}</p>
+  <ol class="catprev">{''.join(
+      f'<li><a href="vendors/{x["slug"]}/index.html">{e(x["name"])}</a>'
+      f'<span class="num">{score_of(x) if score_of(x) else "NR"}</span></li>'
+      for x in cat_vendors(c)[:4])}</ol>
+  <p class="small"><a href="categories/{c}/index.html">All {len(cat_vendors(c))} ranked</a></p>
+</div>""" for c, m in CATS.items())
+
+    rs = [("Recent", "How much of the evidence is from the last year, and how fresh the newest review is."),
+          ("Reliable", "Whether the sites agree, and whether written reviews match the stars they carry."),
+          ("Results-specific", "How often reviewers name an outcome you could actually check."),
+          ("Resonance", "Whether reviewers recommend the product or merely put up with it.")]
+    rgrid = "".join(
+        f'<div class="rcard"><b>{e(n)}</b><span class="tiny muted">weight '
+        f'{int(WEIGHTS[k]*100)}%</span><p class="small">{e(d)}</p></div>'
+        for (n, d), k in zip(rs, ["recent", "reliable", "results", "resonance"]))
+
     widest = sorted((v for v in VENDORS.values() if spread(v)),
-                    key=lambda v: spread(v)["points"], reverse=True)[:3]
-    rows = "".join(
+                    key=lambda v: spread(v)["points"], reverse=True)[:4]
+    gaps = "".join(
         f'<tr><td><a href="vendors/{v["slug"]}/index.html">{e(v["name"])}</a></td>'
         f'<td class="n">{spread(v)["points"]}</td>'
         f'<td class="small">{e(spread(v)["lo"][0])} {spread(v)["lo"][1]} '
         f'vs {e(spread(v)["hi"][0])} {spread(v)["hi"][1]}</td></tr>' for v in widest)
-    body = f"""<h1 style="margin-top:34px">Four review sites, read together</h1>
-<div class="lede">Buyers check G2, then Capterra, then Trustpilot, and get three
-different answers. We read all four for every vendor, publish what each one says
-with a link back to it, and are building a single score on top. Vendors cannot pay
-for placement.</div>
-{score_note_at(0)}
 
-<section class="section rule-top">
-  <h2>Categories</h2>
-  <div class="cols">{cats}</div>
+    body = f"""<section class="hero">
+  <h1>Software reviews, read four at a time</h1>
+  <p class="hero-sub">G2, Capterra, Gartner Peer Insights and Trustpilot rate the same
+  product differently. We read all four for every vendor, read the reviews themselves
+  rather than counting them, and publish one score with the arithmetic attached.
+  No vendor can pay to appear here, rank higher, or have anything removed.</p>
+  <div class="herolinks">
+    {''.join(f'<a class="pill" href="categories/{c}/index.html">{e(m["name"])}</a>' for c, m in CATS.items())}
+    <a class="pill" href="vendors/index.html">All vendors</a>
+    <a class="pill" href="methodology/index.html">How we score</a>
+  </div>
+</section>
+
+<section class="statbar">{statbar}</section>
+
+<section class="section">
+  <div class="secthead"><h2>Highest scored</h2>
+    <a class="small" href="vendors/index.html">All {len(VENDORS)} vendors</a></div>
+  <div class="lead">{lead}</div>
 </section>
 
 <section class="section rule-top">
-  <h2>Where the sites disagree most</h2>
-  <p class="small muted">The gap between a vendor's highest and lowest rated platform,
-  in stars. Every vendor has one; these are the largest in the set.</p>
+  <div class="secthead"><h2>Categories</h2></div>
+  <div class="two">{cats}</div>
+</section>
+
+<section class="section rule-top">
+  <div class="secthead"><h2>What the score measures</h2>
+    <a class="small" href="methodology/index.html">Full method</a></div>
+  <p class="small muted">A score is what reviewers rate a product, moved toward the
+  middle when the evidence behind that rating is thin, stale or contradictory.
+  These four decide how far it moves.</p>
+  <div class="rgrid">{rgrid}</div>
+</section>
+
+<section class="section rule-top">
+  <div class="secthead"><h2>Where the sites disagree most</h2></div>
+  <p class="small muted">The gap between a vendor's highest and lowest rated site,
+  in stars. Every vendor has one. A wide gap means no single rating tells the story.</p>
   <div class="tscroll"><table>
     <thead><tr><th>Vendor</th><th class="n">Rating gap</th><th>Between</th></tr></thead>
-    <tbody>{rows}</tbody></table></div>
-</section>
-"""
+    <tbody>{gaps}</tbody></table></div>
+</section>"""
     write("index.html", shell(0, "ReviewInsight",
-          "Independent review intelligence for B2B software buyers.", body))
+          "One score per B2B software vendor, read across G2, Capterra, Gartner Peer "
+          "Insights and Trustpilot.", body))
 
 
 def page_categories() -> None:

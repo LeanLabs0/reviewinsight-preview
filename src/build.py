@@ -7,6 +7,7 @@ inventing a figure.
 """
 from __future__ import annotations
 
+import hashlib
 import html
 import json
 import re
@@ -29,6 +30,8 @@ PORTALS = [("g2", "G2"), ("capterra", "Capterra"),
            ("gartner", "Gartner Peer Insights"), ("trustpilot", "Trustpilot")]
 CAPTURED = datetime.fromisoformat(DATA["generated_at"]).strftime("%d %B %Y")
 QUARTER = "2026-Q3"
+CSS_V = hashlib.sha256(
+    (HERE / "ri.css").read_bytes()).hexdigest()[:10]
 
 e = html.escape
 
@@ -124,7 +127,7 @@ def shell(depth: int, title: str, desc: str, body: str, nav: str = "") -> str:
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{e(title)}</title>
 <meta name="description" content="{e(desc)}">
-<link rel="stylesheet" href="{r}ri.css">
+<link rel="stylesheet" href="{r}ri.css?v={CSS_V}">
 </head>
 <body>
 <header class="mast"><div class="wrap">

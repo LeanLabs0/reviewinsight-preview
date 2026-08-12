@@ -379,10 +379,6 @@ tbody tr:hover { background: var(--paper-sunk); }
 .vcard .vscore { grid-row: 1 / 3; align-self: center; font-size: 18px; font-weight: 600; }
 .vcard .tiny { grid-column: 1; }
 
-#cat-marketing-automation:checked ~ .tablist label[for="cat-marketing-automation"] { background: var(--ink); color: var(--paper); }
-#cat-marketing-automation:checked ~ #panel-marketing-automation { display: block; }
-#cat-project-management:checked ~ .tablist label[for="cat-project-management"] { background: var(--ink); color: var(--paper); }
-#cat-project-management:checked ~ #panel-project-management { display: block; }
 
 /* ---------- hero lookup ---------- */
 .lookup {

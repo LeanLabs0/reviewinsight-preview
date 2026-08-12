@@ -149,7 +149,8 @@ def shell(depth: int, title: str, desc: str, body: str, nav: str = "") -> str:
     <p>Independent review intelligence for B2B software buyers. We read G2,
     Capterra, Gartner Peer Insights and Trustpilot side by side and publish what
     they agree and disagree on. Vendors cannot pay for placement.</p>
-    <p class="tiny" style="margin-top:10px">A brand by Brandvious, Inc.</p>
+    <p class="tiny" style="margin-top:10px">Editorial and independent. Vendors cannot
+    buy a listing, a rank, or a removal.</p>
   </div>
   <div>
     <h4>Browse</h4>
@@ -160,8 +161,8 @@ def shell(depth: int, title: str, desc: str, body: str, nav: str = "") -> str:
     </ul>
   </div>
   <div>
-    <h4>Brandvious network</h4>
-    <ul><li>B2BIndex</li><li>BestFit</li></ul>
+    <h4>Sources we read</h4>
+    <ul>{''.join(f'<li>{e(lbl)}</li>' for _, lbl in PORTALS)}</ul>
   </div>
 </div></footer>
 </body>

@@ -153,24 +153,29 @@ def write(path: str, content: str) -> None:
 
 
 # -------------------------------------------------------------- components
-def pending_panel(v=None) -> str:
-    who = f" for {e(v['name'])}" if v else ""
-    return f"""<div class="pending-panel">
-  <h3>The ReviewInsight score{who} is not computed yet</h3>
-  <p class="small muted">Review counts, ratings, dates and quotes on this page are
-  real and link back to their source. The score is not, so we are not showing one.
-  Here is what it will be and what still has to be built.</p>
-  <div class="formula">score = (Recent + Reliable + Results&#8209;specific + Resonance) / 4</div>
+def score_note() -> str:
+    """One quiet line. The full explanation lives on the methodology page."""
+    return ('<p class="small muted">We do not publish a ReviewInsight score yet. '
+            'Everything on this page comes straight from the review sites and links '
+            'back to them. <a href="{root}methodology/index.html">How the score will work</a></p>')
+
+
+def score_note_at(depth: int) -> str:
+    return score_note().replace("{root}", "../" * depth)
+
+
+def score_explainer() -> str:
+    """Methodology page only."""
+    return """<div class="formula">score = (Recent + Reliable + Results&#8209;specific + Resonance) / 4</div>
   <ul class="dims">
-    <li><b>Recent</b><span class="small">How strong the review evidence is in the last 180 days. Computable from data we already hold.</span></li>
-    <li><b>Reliable</b><span class="small">Whether the evidence is trustworthy: do written reviews match their star ratings, is the rating spread natural, do reviews arrive steadily or in bursts.</span></li>
-    <li><b>Results&#8209;specific</b><span class="small">How often reviewers cite a concrete outcome you could check, rather than saying it saves time. Needs the review text read and labelled.</span></li>
-    <li><b>Resonance</b><span class="small">Whether reviewers advocate or merely approve. Needs the review text read and labelled.</span></li>
+    <li><b>Recent</b><span class="small">How strong the review evidence is in the last 180 days.</span></li>
+    <li><b>Reliable</b><span class="small">Whether the evidence holds up: do the written reviews match their star ratings, does the rating pattern look natural, do reviews arrive steadily or in bursts.</span></li>
+    <li><b>Results&#8209;specific</b><span class="small">How often reviewers name a concrete outcome you could check, rather than saying it saves time.</span></li>
+    <li><b>Resonance</b><span class="small">Whether reviewers recommend the product or merely tolerate it.</span></li>
   </ul>
-  <p class="small muted" style="margin-top:14px">A vendor with fewer than two
-  platforms carrying data, under 15 reviews, or under 5 reviews in the last year
-  will be shown as Not Rated rather than given a number.</p>
-</div>"""
+  <p class="small muted" style="margin-top:14px">A vendor with fewer than two sites
+  carrying reviews, under 15 reviews, or under 5 reviews in the last year will be
+  shown as Not Rated rather than given a number.</p>"""
 
 
 def spread_inline(v) -> str:
@@ -183,7 +188,7 @@ def spread_inline(v) -> str:
         f'<span class="pt{" lo" if lbl == s["lo"][0] else ""}" style="left:{pos(r):.1f}%" '
         f'title="{e(lbl)} {r}"></span>' for lbl, r in s["all"])
     return f"""<div class="spread">
-  <div class="hd"><span class="muted">Platform spread</span><span class="val">{s['points']} pts</span></div>
+  <div class="hd"><span class="muted">Rating gap</span><span class="val">{s['points']} pts</span></div>
   <div class="track"><span class="axis"></span>{pts}</div>
   <div class="legend"><span>{e(s['lo'][0])} {s['lo'][1]}</span><span>{e(s['hi'][0])} {s['hi'][1]}</span></div>
 </div>"""
@@ -314,10 +319,12 @@ def page_home() -> None:
         f'<td class="n">{spread(v)["points"]}</td>'
         f'<td class="small">{e(spread(v)["lo"][0])} {spread(v)["lo"][1]} '
         f'vs {e(spread(v)["hi"][0])} {spread(v)["hi"][1]}</td></tr>' for v in widest)
-    body = f"""<h1 style="margin-top:34px">Where the review sites disagree</h1>
-<div class="lede">G2, Capterra, Gartner Peer Insights and Trustpilot rate the same
-software differently, sometimes by three stars. We read all four for every vendor,
-publish the gap, and link back to every source so you can check it.</div>
+    body = f"""<h1 style="margin-top:34px">Four review sites, read together</h1>
+<div class="lede">Buyers check G2, then Capterra, then Trustpilot, and get three
+different answers. We read all four for every vendor, publish what each one says
+with a link back to it, and are building a single score on top. Vendors cannot pay
+for placement.</div>
+{score_note_at(0)}
 
 <section class="section rule-top">
   <h2>Categories</h2>
@@ -325,15 +332,14 @@ publish the gap, and link back to every source so you can check it.</div>
 </section>
 
 <section class="section rule-top">
-  <h2>Widest platform disagreement</h2>
+  <h2>Where the sites disagree most</h2>
   <p class="small muted">The gap between a vendor's highest and lowest rated platform,
   in stars. Every vendor has one; these are the largest in the set.</p>
   <div class="tscroll"><table>
-    <thead><tr><th>Vendor</th><th class="n">Spread</th><th>Between</th></tr></thead>
+    <thead><tr><th>Vendor</th><th class="n">Rating gap</th><th>Between</th></tr></thead>
     <tbody>{rows}</tbody></table></div>
 </section>
-
-<section class="section rule-top">{pending_panel()}</section>"""
+"""
     write("index.html", shell(0, "ReviewInsight",
           "Independent review intelligence for B2B software buyers.", body))
 
@@ -366,6 +372,8 @@ and Trustpilot on {CAPTURED}. The median platform spread in this category is
 Volume is not the ranking we intend to publish, it is a stand-in you can verify.</p>
 <div class="rank">{rows}</div>
 
+{score_note_at(2)}
+
 <section class="section rule-top">
   <h2>Cuts of this category</h2>
   <div class="cols">
@@ -375,8 +383,7 @@ Volume is not the ranking we intend to publish, it is a stand-in you can verify.
       <p class="small muted">Vendors the four platforms agree on most closely.</p></div>
   </div>
 </section>
-
-<section class="section rule-top">{pending_panel()}</section>"""
+"""
     write(f"categories/{cat}/index.html",
           shell(2, f"{meta['name']} | ReviewInsight",
                 f"{meta['name']} vendors read across four review platforms.", body, "cat"))
@@ -396,7 +403,7 @@ def page_vendors_index() -> None:
 and how far the platforms disagree.</div>
 <div class="tscroll"><table>
 <thead><tr><th>Vendor</th><th>Category</th><th class="n">Reviews</th>
-<th class="n">Platforms</th><th class="n">Spread</th></tr></thead>
+<th class="n">Platforms</th><th class="n">Rating gap</th></tr></thead>
 <tbody>{rows}</tbody></table></div>"""
     write("vendors/index.html",
           shell(1, "All vendors | ReviewInsight", "Every vendor read by ReviewInsight.", body, "ven"))
@@ -435,7 +442,9 @@ def page_vendor(v) -> None:
   {ev}
 </section>
 
-<section class="section rule-top">{pending_panel(v)}</section>
+<section class="section rule-top">
+  {score_note_at(2)}
+</section>
 
 <section class="section rule-top">
   <h2>Compare {e(v['name'])}</h2>
@@ -464,7 +473,7 @@ def page_alternatives(v) -> None:
 of its review base and how far the platforms disagree about it.</div>
 <div class="tscroll"><table>
 <thead><tr><th>Vendor</th><th class="n">Reviews</th><th class="n">Platforms</th>
-<th class="n">Spread</th><th></th></tr></thead><tbody>{rows}</tbody></table></div>"""
+<th class="n">Rating gap</th><th></th></tr></thead><tbody>{rows}</tbody></table></div>"""
     write(f"vendors/{v['slug']}/alternatives/index.html",
           shell(3, f"{v['name']} alternatives | ReviewInsight",
                 f"Alternatives to {v['name']} in {v['category_name']}.", body, "ven"))
@@ -492,8 +501,7 @@ def page_compare(a, b) -> None:
 <a href="../../categories/{a['category']}/index.html">{e(a['category_name'])}</a></div>
 <h1>{e(a['name'])} vs {e(b['name'])}</h1>
 <div class="lede">{verdict}</div>
-<div class="two">{col(a)}{col(b)}</div>
-<section class="section rule-top">{pending_panel()}</section>"""
+<div class="two">{col(a)}{col(b)}</div>"""
     write(f"compare/{pair_slug(a, b)}/index.html",
           shell(2, f"{a['name']} vs {b['name']} | ReviewInsight",
                 f"{a['name']} and {b['name']} compared across four review platforms.", body))
@@ -514,7 +522,7 @@ def page_best(cat: str, meta: dict, cut: str) -> None:
                  "A small gap means the four platforms tell the same story.")
         vs = [v for v in vs if spread(v)]
         vs.sort(key=lambda v: spread(v)["points"])
-        col, val = "Spread", lambda v: f'{spread(v)["points"]} pts'
+        col, val = "Rating gap", lambda v: f'{spread(v)["points"]} pts'
     rows = "".join(
         f'<tr><td class="n">{i}</td><td><a href="../../../vendors/{v["slug"]}/index.html">{e(v["name"])}</a></td>'
         f'<td class="n">{val(v)}</td><td class="n">{total_reviews(v):,}</td></tr>'
@@ -548,7 +556,7 @@ This page will carry a version number and a changelog before the site is public.
 
 <section class="section rule-top">
   <h2>The score</h2>
-  {pending_panel()}
+  {score_explainer()}
 </section>
 
 <section class="section rule-top">

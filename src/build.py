@@ -385,56 +385,69 @@ def rank_row(i: int, v, depth: int) -> str:
 
 # ------------------------------------------------------------------- pages
 def page_home() -> None:
-    scored = [v for v in VENDORS.values() if score_of(v) is not None]
-    scored.sort(key=lambda v: -score_of(v))
+    scored = sorted((v for v in VENDORS.values() if score_of(v) is not None),
+                    key=lambda v: -score_of(v))
+    top = scored[0]
+    tr = sc(top)
     reviews_read = sum(sc(v).get("sample_size", 0) for v in VENDORS.values())
-    labelled = sum(sc(v).get("labelled", 0) for v in VENDORS.values())
     behind = sum(p["count"] or 0 for v in VENDORS.values()
                  for _, _, p in portals_with_data(v))
     cells = sum(len(portals_with_data(v)) for v in VENDORS.values())
 
-    stats = [
-        (f"{len(VENDORS)}", "vendors scored"),
-        (f"{behind:,}", "reviews behind those scores"),
-        (f"{reviews_read:,}", "reviews read individually"),
-        (f"{cells} of {len(VENDORS)*4}", "vendor and site pairs checked"),
-        ("0", "vendors who paid to be here"),
-    ]
-    statbar = "".join(
-        f'<div class="stat"><b class="num">{e(n)}</b><span>{e(l)}</span></div>'
-        for n, l in stats)
+    # The sibling property opens with a real record. Ours opens with a real score.
+    rows = "".join(
+        f'<div class="sprow"><span>{e(d["label"])}</span>'
+        f'<span class="num">{d["value"]}</span></div>' for d in dims_of(top))
+    sites = "".join(f'<span class="minichip">{e(lbl)} {p["rating"]}</span>'
+                    for _, lbl, p in portals_with_data(top))
+    specimen = f"""<div class="specimen">
+  <div class="sphd"><b>{e(top['name'])}</b>
+    <span class="verified">Score {tr['score']}</span></div>
+  <div class="sprow"><span>Category</span><span>{e(top['category_name'])}</span></div>
+  <div class="sprow"><span>Reviewers rate it</span><span class="num">{tr['rating']}</span></div>
+  <div class="sprow"><span>Evidence strength</span><span class="num">{tr['evidence']}</span></div>
+  {rows}
+  <div class="spfoot">{sites}</div>
+</div>"""
+
+    stats = [(f"{len(VENDORS)}", "vendors scored"),
+             (f"{behind:,}", "reviews behind those scores"),
+             (f"{reviews_read:,}", "reviews read one by one"),
+             (f"{cells} of {len(VENDORS)*4}", "vendor and site pairs checked"),
+             ("None", "vendors who paid to be here")]
+    statbar = "".join(f'<div class="stat"><b class="num">{e(n)}</b><span>{e(l)}</span></div>'
+                      for n, l in stats)
 
     lead = "".join(f"""<div class="lrow">
   <span class="lpos num">{i}</span>
   {scorebox(v)}
-  <div class="lwho">
-    <h3><a href="vendors/{v['slug']}/index.html">{e(v['name'])}</a></h3>
-    <div class="tiny muted">{e(v['category_name'])}</div>
-  </div>
+  <div class="lwho"><h3><a href="vendors/{v['slug']}/index.html">{e(v['name'])}</a></h3>
+    <div class="tiny muted">{e(v['category_name'])}</div></div>
   <div class="lchips">{''.join(
       f'<span class="chip">{e(d["label"].split("-")[0])} <b class="num">{d["value"]:.0f}</b></span>'
       for d in dims_of(v))}</div>
 </div>""" for i, v in enumerate(scored[:6], 1))
 
-    cats = "".join(f"""<div class="catcard">
+    cats = "".join(f"""<div class="card">
   <h3><a href="categories/{c}/index.html">{e(m['name'])}</a></h3>
-  <p class="tiny muted">{len(cat_vendors(c))} vendors &middot; top score
-    {max(score_of(x) or 0 for x in cat_vendors(c))}</p>
+  <p class="tiny muted">{len(cat_vendors(c))} vendors ranked</p>
   <ol class="catprev">{''.join(
       f'<li><a href="vendors/{x["slug"]}/index.html">{e(x["name"])}</a>'
       f'<span class="num">{score_of(x) if score_of(x) else "NR"}</span></li>'
       for x in cat_vendors(c)[:4])}</ol>
-  <p class="small"><a href="categories/{c}/index.html">All {len(cat_vendors(c))} ranked</a></p>
+  <p class="small"><a href="categories/{c}/index.html">All {len(cat_vendors(c))} ranked &rarr;</a></p>
 </div>""" for c, m in CATS.items())
 
-    rs = [("Recent", "How much of the evidence is from the last year, and how fresh the newest review is."),
-          ("Reliable", "Whether the sites agree, and whether written reviews match the stars they carry."),
-          ("Results-specific", "How often reviewers name an outcome you could actually check."),
-          ("Resonance", "Whether reviewers recommend the product or merely put up with it.")]
+    rs = [("recent", "Recent", "How much of the evidence comes from the last year, and how fresh the newest review is."),
+          ("reliable", "Reliable", "Whether the sites agree with each other, and whether written reviews match the stars they carry."),
+          ("results", "Results-specific", "How often reviewers name an outcome a stranger could check, rather than saying it saves time."),
+          ("resonance", "Resonance", "Whether reviewers recommend the product or merely put up with it.")]
     rgrid = "".join(
-        f'<div class="rcard"><b>{e(n)}</b><span class="tiny muted">weight '
-        f'{int(WEIGHTS[k]*100)}%</span><p class="small">{e(d)}</p></div>'
-        for (n, d), k in zip(rs, ["recent", "reliable", "results", "resonance"]))
+        f'<div class="rcard"><b>{e(n)}</b><span class="tiny muted">weight {int(WEIGHTS[k]*100)}%</span>'
+        f'<p class="small">{e(d)}</p></div>' for k, n, d in rs)
+
+    allv = "".join(f'<a href="vendors/{v["slug"]}/index.html">{e(v["name"])}</a>'
+                   for v in sorted(VENDORS.values(), key=lambda x: x["name"].lower()))
 
     widest = sorted((v for v in VENDORS.values() if spread(v)),
                     key=lambda v: spread(v)["points"], reverse=True)[:4]
@@ -444,49 +457,77 @@ def page_home() -> None:
         f'<td class="small">{e(spread(v)["lo"][0])} {spread(v)["lo"][1]} '
         f'vs {e(spread(v)["hi"][0])} {spread(v)["hi"][1]}</td></tr>' for v in widest)
 
-    body = f"""<section class="hero">
-  <h1>Software reviews, read four at a time</h1>
-  <p class="hero-sub">G2, Capterra, Gartner Peer Insights and Trustpilot rate the same
-  product differently. We read all four for every vendor, read the reviews themselves
-  rather than counting them, and publish one score with the arithmetic attached.
-  No vendor can pay to appear here, rank higher, or have anything removed.</p>
-  <div class="herolinks">
-    {''.join(f'<a class="pill" href="categories/{c}/index.html">{e(m["name"])}</a>' for c, m in CATS.items())}
-    <a class="pill" href="vendors/index.html">All vendors</a>
-    <a class="pill" href="methodology/index.html">How we score</a>
+    body = f"""</div></main>
+<section class="hero2"><div class="wrap">
+  <div>
+    <h1>Software reviews,<br>read four at a time.</h1>
+    <p class="sub">G2, Capterra, Gartner Peer Insights and Trustpilot rate the same product
+    differently. ReviewInsight reads all four for every vendor, reads the reviews themselves
+    rather than counting them, and publishes one score with the arithmetic attached.</p>
+    <p class="sub">No vendor can pay to appear here, rank higher, or have anything removed.</p>
+    <div class="herolinks">
+      {''.join(f'<a class="pill" href="categories/{c}/index.html">{e(m["name"])}</a>' for c, m in CATS.items())}
+      <a class="pill" href="methodology/index.html">How we score</a>
+    </div>
   </div>
-</section>
+  {specimen}
+</div></section>
 
-<section class="statbar">{statbar}</section>
+<section class="statband"><div class="wrap">{statbar}</div></section>
 
-<section class="section">
-  <div class="secthead"><h2>Highest scored</h2>
-    <a class="small" href="vendors/index.html">All {len(VENDORS)} vendors</a></div>
-  <div class="lead">{lead}</div>
-</section>
+<section class="band"><div class="wrap">
+  <div class="eyebrow">Rankings</div>
+  <div>
+    <h2>Highest scored</h2>
+    <p class="intro">A score is what reviewers rate a product, moved toward the middle when
+    the evidence behind that rating is thin, stale or contradictory.</p>
+    <div class="lead">{lead}</div>
+    <a class="morelink" href="vendors/index.html">All {len(VENDORS)} vendors &rarr;</a>
+  </div>
+</div></section>
 
-<section class="section rule-top">
-  <div class="secthead"><h2>Categories</h2></div>
-  <div class="two">{cats}</div>
-</section>
+<section class="band tint"><div class="wrap">
+  <div class="eyebrow">Categories</div>
+  <div>
+    <h2>Browse the index</h2>
+    <p class="intro">Every vendor in a category is read across the same four sites on the
+    same day, so the comparison is like for like.</p>
+    <div class="two">{cats}</div>
+  </div>
+</div></section>
 
-<section class="section rule-top">
-  <div class="secthead"><h2>What the score measures</h2>
-    <a class="small" href="methodology/index.html">Full method</a></div>
-  <p class="small muted">A score is what reviewers rate a product, moved toward the
-  middle when the evidence behind that rating is thin, stale or contradictory.
-  These four decide how far it moves.</p>
-  <div class="rgrid">{rgrid}</div>
-</section>
+<section class="band"><div class="wrap">
+  <div class="eyebrow">Method</div>
+  <div>
+    <h2>What the score measures</h2>
+    <p class="intro">Four things decide how far a vendor moves away from neutral. Every one
+    of them is published, and every number on a vendor page can be rebuilt by hand.</p>
+    <div class="rgrid">{rgrid}</div>
+    <a class="morelink" href="methodology/index.html">Full method &rarr;</a>
+  </div>
+</div></section>
 
-<section class="section rule-top">
-  <div class="secthead"><h2>Where the sites disagree most</h2></div>
-  <p class="small muted">The gap between a vendor's highest and lowest rated site,
-  in stars. Every vendor has one. A wide gap means no single rating tells the story.</p>
-  <div class="tscroll"><table>
-    <thead><tr><th>Vendor</th><th class="n">Rating gap</th><th>Between</th></tr></thead>
-    <tbody>{gaps}</tbody></table></div>
-</section>"""
+<section class="band tint"><div class="wrap">
+  <div class="eyebrow">Finding</div>
+  <div>
+    <h2>Where the sites disagree</h2>
+    <p class="intro">The gap between a vendor's highest and lowest rated site, in stars.
+    Every vendor has one. A wide gap means no single rating tells the story.</p>
+    <div class="tscroll"><table>
+      <thead><tr><th>Vendor</th><th class="n">Rating gap</th><th>Between</th></tr></thead>
+      <tbody>{gaps}</tbody></table></div>
+  </div>
+</div></section>
+
+<section class="band"><div class="wrap">
+  <div class="eyebrow">Vendors</div>
+  <div>
+    <h2>Everyone we read</h2>
+    <div class="plainlist">{allv}</div>
+    <a class="morelink" href="vendors/index.html">Full list with scores &rarr;</a>
+  </div>
+</div></section>
+<main class="wrap"><div>"""
     write("index.html", shell(0, "ReviewInsight",
           "One score per B2B software vendor, read across G2, Capterra, Gartner Peer "
           "Insights and Trustpilot.", body))

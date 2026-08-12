@@ -1,0 +1,958 @@
+{
+  "slug": "adobe-marketo-engage",
+  "captured_at": "2026-08-12T20:48:37.032020+00:00",
+  "reviews": [
+    {
+      "portal": "G2",
+      "review_id": "13198996",
+      "date": "8/3/2026",
+      "rating": 4.5,
+      "title": "Real-Time Integration Boosts Conversion, Needs Advanced Reporting",
+      "text": "I really like Adobe Marketo Engage for its Zero Drop-Off Between Teams, as the real-time CRM integration ensures that Sales receives instant alerts whenever a target lead takes high-intent actions, like requesting a demo or viewing pricing. The Granular Behavioral Targeting feature is another standout, with Marketo\u2019s Smart Lists allowing me to build hyper-specific target audiences using complex logic, like AND/OR rules, trigger filters, and activity history. I also find the Real-Time Responsiveness useful, as it automatically updates Smart Lists instantly when a prospect takes specific actions, eliminating the need for manual list imports or refreshes. I find the basic out-of-the-box reporting inadequate for high-level executive needs. Extracting actionable, deep revenue insights usually requires integrating third-party BI tools or upgrading to advanced analytics packages. The native reports often render as text-heavy tabular data or basic charts, which are not visually compelling or ready for C-suite presentations. I often have to export raw data to Excel, Tableau, or Power BI to build presentable dashboards. Also, the setup process has high technical complexity, requiring significant technical expertise for initial DNS/domain authentication, custom CNAME setups, and bi-directional CRM integration.",
+      "role": "software engineer",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": true,
+        "resonance": "lukewarm",
+        "results_evidence": "Sales receives instant alerts whenever a target lead takes high-intent actions, like requesting a demo or viewing pricing",
+        "resonance_evidence": "I find the basic out-of-the-box reporting inadequate for high-level executive needs"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13130902",
+      "date": "7/20/2026",
+      "rating": 5.0,
+      "title": "Flexible and Scalable Marketing Automation Powerhouse",
+      "text": "I use Adobe Marketo Engage as the central platform for managing our end-to-end marketing automation and lead lifecycle. I really like its flexibility and scalability, which support us from simple email campaigns to more sophisticated ones. I also really like its powerful automation capabilities using the smart campaign feature. These capabilities allow us to automate complex marketing processes, personalize the customer experience at scale, and manage campaigns across multiple business units with minimal manual effort. The initial setup was very easy, and we got support from the Adobe team. I can only think of landing page creation needing more drag and drop components.",
+      "role": "Education Management",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "I really like its flexibility and scalability"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13073372",
+      "date": "7/7/2026",
+      "rating": 4.0,
+      "title": "Brilliant Segmentation and Dynamic Content\u2014Excited for the 2026 Roadmap",
+      "text": "Brilliant product. I\u2019ve been a user for many years and I really love the segmentation, dynamic content, and tokens. I\u2019m also very excited about the 2026 roadmap. Email templates can be a bit glitch and break",
+      "role": "Verified User in Financial Services",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews",
+      "sample_order": "most_recent"
+    },
+    {
+      "portal": "G2",
+      "review_id": "13073314",
+      "date": "7/7/2026",
+      "rating": 5.0,
+      "title": "Rock-Solid Automated Workflows You Can Trust",
+      "text": "The compounding efficiency of using global Program Tokens alongside hyper-specific Smart Lists. It allows our operations team to build an intricate, multi-layered campaign architecture just once, tokenize the variables, and clone it across different regions or product lines in minutes without breaking the underlying behavioral triggers. The native landing page and form builders require too much custom HTML coding to look modern, which completely kills our agility. Because the folder structure and logic are so unforgiving, even a simple campaign tweak requires a certified specialist, making it impossible for casual users on our team to move fast.",
+      "role": "Verified User in Education Management",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": true,
+        "resonance": "lukewarm",
+        "results_evidence": "clone it across different regions or product lines in minutes without breaking the underlying behavioral triggers",
+        "resonance_evidence": "The native landing page and form builders require too much custom HTML coding to look modern, which completely kills our agility"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13071723",
+      "date": "7/7/2026",
+      "rating": 4.5,
+      "title": "One of the Best Automation Tools with Huge Potential",
+      "text": "A lot tog potential, one of the best automation tools Could be a little more user friendly, and interface a lot more modern",
+      "role": "Program Development",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "A lot tog potential, one of the best automation tools"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13071709",
+      "date": "7/7/2026",
+      "rating": 4.0,
+      "title": "Powerful CRM Automation and Lead Tracking",
+      "text": "The CRM automation and control features, along with the ability to track lead history, are very useful. Support is often unhelpful, and there\u2019s still missing functionality.",
+      "role": "Verified User in Information Technology and Services",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews",
+      "sample_order": "most_recent"
+    },
+    {
+      "portal": "G2",
+      "review_id": "13071637",
+      "date": "7/7/2026",
+      "rating": 5.0,
+      "title": "Simple to Use, Easy Email Design with Knak Integration",
+      "text": "The simplicity to use. We\u2019ve been able to discover a lot ourselves. It integrates well with Knak too, so designing emails is so easy. Nothing really. I feel like our tech team maybe would have more to say but what I use it for is very easy.",
+      "role": "Verified User in Information Technology and Services",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "what I use it for is very easy"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13071628",
+      "date": "7/7/2026",
+      "rating": 5.0,
+      "title": "Effortless Setup with Zero Hassle",
+      "text": "The ease of use to be able to setup without any real hassle The worry that it may or may not be sunset",
+      "role": "Digital Marketing Consultant",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "The ease of use to be able to setup without any real hassle The worry that it may or may not be sunset"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13071477",
+      "date": "7/7/2026",
+      "rating": 4.5,
+      "title": "Versatile, High-Performing Tool with Great Customer Support",
+      "text": "Very versital, good performance, great customer support Out of date interface, could be more graphical like Eloqua",
+      "role": "Jeroen K.",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Very versital, good performance, great customer support"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13071427",
+      "date": "7/7/2026",
+      "rating": 3.5,
+      "title": "Great Customer Engagement, but Integration Can Be Challenging",
+      "text": "Engagement opportunities with the costumer Challenges to integrate into existing software",
+      "role": "Programme Manager on assignment to Bank of Ireland",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Engagement opportunities with the costumer Challenges to integrate into existing software"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "12478",
+      "date": "4/24/2013",
+      "rating": 4.5,
+      "title": "My experience with Marketo",
+      "text": "I'm used Marketo, Hubspot, Pardot and Eloqua extensively. I have been admin over each of these systems for the last 6 years. Having used Eloqua, the \"Cadillac\" of marketing automation I've got a good insight into what Marketo is and is not. Marketo is easy to use, quick to setup and an all around good medium level tool. It does everything my company (60 employees) needs. In the past, though I did have to hack it and build work arounds frequently to get more advanced functionality out of it. In the last few years, though, Marketo seems to have surpassed Eloqua in functionality and ease-of-use. Overall though, I LOVE Marketo and think it's a great tool for the majority of SMBs. UPDATE 2/14/2017 - Coming back to revise this review years later as I've seen Marketo grow and improve. 2 and 3, below, are no longer a problem. Marketo has more integrations now than Eloqua (#3). The API has been greatly improved in Marketo too (#2). #1 is still kind of an issue. Having used Eloqua, I know how nice their campaign/program builder is. You can drag and drop build your campaigns on a canvas type layout. It's great because it's easy, gives a better top down view of your campaign, and helps you display a campaigns functionality to your executive team. Infusionshoft has something similar. Why Marketo hasn't adopted a similar format for building programs is beyond me. A few other beefs I have with Marketo are: 1\\. Form and Landing Page Builder are pretty bad. Marketo has admitted that these two pieces of their tool are the only remaining remnants of their original tool (which wasn't even for marketing automation BTW... Marketo's first tool was an Adwords management interface). Marketo has also said they're aware the form/landing page builders are junky and have said they're going to be rolling out new versions though they wouldn't commit to a timeline for roll out. 2\\. Their API is weak sauce. I wanted to bring some of our customer renewal emails into Marketo (instead of having our DE",
+      "role": "Information Technology and Services",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "my company (60 employees) needs",
+        "resonance_evidence": "I LOVE Marketo and think it's a great tool for the majority of SMBs"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "174",
+      "date": "9/6/2012",
+      "rating": 5.0,
+      "title": "It's Easy to Become a Power User of Marketo",
+      "text": "Marketo offers a lot of features to help businesses take their online marketing efforts to new heights via email markting, web marketing (including landing pages, webinars, and social content), and now offline with event registration functionality and the ability to export PURLs for trackable, snail-mailable content. Their online community is robust and active - why wait for support to answer your \"this might be a dumb question but...\" when 5 other users will happily respond to you and give examples of how they are using the tool or previously worked out the same idea. Newer features are simply AMAZING. The ability to quickly and easily customize landing page and email content, then run robust reports on the effectiveness and contribution to the bottom line is why I recommend this product again and again. As a previous reviewer stated, support can be slow to respond. If you are just getting started, don't have someone technical onboard, or just don't think in an \"if this, then that\" mentality when it comes to processes, you may want to consider a support upgrade package or working with a consultant until you get up and running.",
+      "role": "Verified User in Internet",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "I recommend this product again and again"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "14536",
+      "date": "6/28/2013",
+      "rating": 4.5,
+      "title": "After 5 years using Marketo, I've seen a good idea evolve into a revolution",
+      "text": "Being with a Marketing Leading software company for 85% of it's corporate life has been a really eye opening experience. I've watched Marketo mature from a small software company in the bay area to a respectable public company leading it's competitors in innovation. Because I do have such a long experience, I'll be descriptive. As I mention some of the higher level ideas of complex topics please just know that Marketo is a perfect product for a company in any stage of their Marketing evolution. From small one-man bands with big ideas to giant multi-nationals with marketing departments in each country you can manage any level of experience inside of Marketo. You can make the system as easy or as complex as your business requires. If you read the things below and you're completely clueless as to what I am talking about, NO PROBLEM! Not only do you have a nurturing environment to learn and grow and become more sophisticated in your marketing automation. But you have a ready to go, already configured system that you just have to start connecting the pieces. I have trained 25 users in how to use Marketo over the past 5 years & participated in the education of countless others via digital mediums. I've seen users comprehend the lead management system in a single day training. I've seen others refuse to use the system because trade shows & printed brochures just felt like the way things should work. I've found that younger, fresh out of college, kids learn to use Marketo the fastest, but on the otherside of it there are many Marketo power users over 40 & 50. Let's just be honest, years of video games, texting, & facebook have trained the under 30s to find Marketo 2nd nature. Over the past year or two the level of development has been mind blowing to experience. Nearly every month a major release comes out changing the game for marketers. As processes have refined, gotten simpler, easier to make & maintain. As an early adopter that has often meant a lot of work as previousl",
+      "role": "Computer Software",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Marketo is a perfect product for a company in any stage of their Marketing evolution"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "17343",
+      "date": "11/1/2013",
+      "rating": 5.0,
+      "title": "Marketo provides balance of full-featured performance with ease of use.",
+      "text": "1\\. Great ease of use for creation of campaigns. Marketo enables the use of templated landing pages and emails to make it easy to create messages and landing pages. 2\\. The engagement program capability makes it easy to create drip campaigns that deliver the right content at the right time in the sales process. 3\\. Webhooks and API capabilities that enable me to integrate Marketo and import and export to and from other applications. 4\\. There is a terrific user community that provides an opportunity to engage with others--both via face-to-face user group meetings as well as online. Other users are very willing to engage and provide answer and advice. 5\\. The progressive profiling capabilities enable shorter forms while maximizing data collection--I'm not asking users to provide information they've given us previously 6\\. There is tremendous flexibility--usually two or three ways to accomplish a task. More experienced users can come up with some really creative and innovative use cases. 7\\. UX enhancements and ABM capabilities provide for extended capabilities as marketing evolves. 1\\. System can be slow at peak load for complex dynamic list selections. 2\\. Documentation sometimes trails availability of new features. 3\\. User documentation is 'green\" and doesn't print well.",
+      "role": "Director, Demand Generation and Sales Development",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Great ease of use for creation of campaigns"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "15909",
+      "date": "8/14/2013",
+      "rating": 0.0,
+      "title": "Think twice. Then think once more.",
+      "text": "If you're able to set your smart campaigns up correctly & keep things relatively simple in terms of your campaign paths then it basically works. If your needs are relatively simple then it should do most/all of what you want it to do. If you're an enterprise of a reasonable size with a decent team who are at least familiar with anything like this kind of platform then it's a reasonable option to at least compare to alternatives. Although their range of core features are okay, most of them are overly complicated, confusing and at times outright baffling. It actually seem to be a considered commercial strategy of Marketo to over complicate their product so they can take your money in support and training charges. Marketing automation is (and should be) a relatively simple thing which is often confused by idiots! If you had never used another platform (and I've used virtually all of the premier platforms) then you could be forgiven for thinking it's a good product as you would have no point of reference and, with enough perseverance, work-arounds and comprises made to mitigate it's many shortcomings then it can be made to work well. Should you really be buying a platform where you have to do that though? There are far too many useless gadgets (which are essentially just red herrings to mask shortcomings in the basic areas) and there's just not enough true functionality and scope once you get under the bonnet. For many companies, Marketo proves to be a very difficult system to implement if they are not already broadly up to speed on the basics of marketing automation and already have the hard fought for best practice under their belt. Marketo just love to charge you through the nose for support and charging you thousands to become Marketo qualified is the equivalent of buying a Mercedes and having to then pay them thousands to get the title \"Mercedes driver\", Many other platforms provide free support and actually assign you dedicated customer success teams. Marketo are ",
+      "role": "Verified User in Marketing and Advertising",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "most of them are overly complicated, confusing and at times outright baffling"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "166",
+      "date": "9/5/2012",
+      "rating": 4.0,
+      "title": "Email Marketing + Nurture Campaigns = Quality Leads",
+      "text": "-Marketo is a good tool for creating simple html emails, nurture campaigns and scoring programs that provide your sales team with better overall leads. -Integration with salesforce.com crm effectively tracks the revenue your marketing organization brings to the table. It's always great to be able to point to a specific webinar or event and clearly see the pipeline generated from such activities. -Marketo's user interface is easy to use and your marketing team can manage it on their own. -The simple html email templates that marketo provides work well if you don't customize them at all, but the wysiwyg editor is less than great. -Marketo will tell you that you don't need to know how to code to use it, but if you want your landing pages/emails it to look professional, you do need to review the html code yourself. Having a technical person set it up was vital. -The set-up is easy if you don't already engage in online lead generation. It was a little difficult to integrate our existing salesforce lead gen processes with marketo at the beginning. -Marketo support was hit or miss. Sometimes it was stellar, other times frustrating.",
+      "role": "Internet",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": true,
+        "resonance": "lukewarm",
+        "results_evidence": "clearly see the pipeline generated from such activities",
+        "resonance_evidence": "Marketo support was hit or miss. Sometimes it was stellar, other times frustrating."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "12919",
+      "date": "5/7/2013",
+      "rating": 1.5,
+      "title": "Small Companies Be Warned",
+      "text": "Sending email campaigns is quick and easy for one-off announcements such as monthly newsletters or event invitations. Be warned of smooth-talking, suave business development managers working at Marketo. They have no business selling this robust solution to 1-50 employee companies. I have personal experience with other startup companies in Indianapolis who have struggled tremendously implementing a solution that is an inexcusably poor fit for their needs and business model. Two have even paid to terminate their contracts and my company is seriously considering it (we're 18 months in, too). My company has approximately 30 new inbound web leads per month. THIRTY. This is nowhere near enough leads to justify a SaaS solution that promises to replace an inside sales team, let alone spend the time necessary to build complicated nurturing tracks and campaigns to market to this tiny number of leads. Marketo is designed to handle mass quantities of leads easily distinguishable from one another (based on behaviors) by dumping them into different programs that send targeted content. The amount of work necessary for this to be successful is tremendous and nowhere near justifiable for new, small companies. The user experience is clumsy and forget about ease of use when it comes to designing content and collateral within the app. Finally, Marketo's metrics are atrocious. Search through their User Community and you'll find frequent complaints by customers that basic filtering functionality to account for important facts (such as excluding internal IP addresses from landing page views) don't exist. You're also guaranteed to see inconsistencies between Landing Page Reports and Smart List Filters.",
+      "role": "Verified User in Computer Software",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "My company has approximately 30 new inbound web leads per month. THIRTY.",
+        "resonance_evidence": "my company is seriously considering it (we're 18 months in, too)"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "9007",
+      "date": "12/21/2012",
+      "rating": 4.0,
+      "title": "A Good Choice for Repeatable Consistent Campaigns with Moderate Sized Lists",
+      "text": "The workflow is straightforward in Marketo; it's easy to create campaigns quickly, so if you're a marketer who does things on the fly often you'll like this. In forms, it does a nice job of automatically collecting url parameters. Integration with SFDC is simple. It has the features I would expect in a solid MA solution. All MA solutions have similar drawbacks, like the HTML editors (you will do your HTML in an outside editor and cut and paste it into Marketo). Most of my challenges are around productivity. The search isn't very granular which eats time. Calculations - waiting for Marketo to return the number of leads in a campaign, or to refresh reports - is slow at times, forcing you to create a cached list (Marketo notifies you when it is complete). Support is average.",
+      "role": "Director, Sales and Marketing Technology",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "It has the features I would expect in a solid MA solution"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "40997",
+      "date": "4/14/2015",
+      "rating": 3.0,
+      "title": "Confused But Optimistic",
+      "text": "I quite enjoy the ability to clone programs, emails, etc. and all the assets that are within the programs. It's a great time saver and helps ensure that I don't miss any steps along the way - I just create the first 'template' program and just copy it from there each time I need it. We went with Marketo over other competitors because of the reporting capabilities, but I have to admit that I'm normally confused and frustrated when working in that area. I can't easily drill down in reports for specific date periods, or simply to see source data. It's actually quite difficult for me to find what I need. And if certain things aren't logged in a specific way in our CRM, nothing works... which is a bit of a nightmare. It also drives me crazy that the Record Type Field pulls a random code from Salesforce, rather than the name of the record type - like Prospect or Customer, instead it's 012500000005UpzAAE (which is impossible to remember).",
+      "role": "Financial Services",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": true,
+        "resonance": "lukewarm",
+        "results_evidence": "It's a great time saver and helps ensure that I don't miss any steps along the way",
+        "resonance_evidence": "I have to admit that I'm normally confused and frustrated when working in that area"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "24233",
+      "date": "6/26/2014",
+      "rating": 4.5,
+      "title": "Flexible and powerful MAP with (nearly) unlimited potential",
+      "text": "I love the ease of use of Marketo. I know I can hand a login to almost anyone on our team, give them a few hours of instructions and they will be able to get in the platform and start doing what they need quickly. The out-of-box solutions are solid, and there is even more that you can do if you are comfortable with web programming. There are more glitches and bugs than I would expect from a software company of this size. While there usually aren't any game-breaking bugs, there are enough that it can get annoying sometimes (e.g. Importing lists of leads sometimes crashes my browser... I've figured out the specific step and how to avoid it, but it still should have been fixed at some point). In addition, some of the code generated through the GUI that Marketo offers for landing pages and email design is sloppy and hard to work with/edit. If you only plan on using their tools, you'll be ok; or if you only plan on coding all the elements yourself and importing the html, you'll be ok; its just very difficult to edit the code they have generated as it tends to use in-line style definitions in a very sloppy manner.",
+      "role": "Marketing Consultant",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "I love the ease of use of Marketo"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "24118",
+      "date": "6/23/2014",
+      "rating": 5.0,
+      "title": "I LOVE Marketo! A+ Marketing Automation Platform!",
+      "text": "There are many things I love about Marketo. The user interface, the robust feature set, and the seamless integration with Salesforce.com is just a few of my top favorites. Marketo also gives you access to useful analytics to be shared with colleagues and senior management. With any Marketing Automation platform, there are little bugs and quirks to work through. Marketo does a great job of listening to it's community on product enhancements and needed features though.",
+      "role": "Marketing and Advertising",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "There are many things I love about Marketo"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "24124",
+      "date": "6/23/2014",
+      "rating": 5.0,
+      "title": "Joining the Marketo Army",
+      "text": "I have been using Marketo for 4+ years now at 2 different employers, so what I liked most then are now are slightly different. Then: the usability, not-so-steep learning curve, drag and drop functionality (no coding required to set up campaigns and write lists), and incredibly support (both from Marketo... and the Marketo Community once that feature was added). Now: I love the monthly updates. Marketo really does listen to its customers and implements ideas/changes that the community feels are most important. The innovation at Marketo is at top-speed and the company is constantly churning out new products and modifying it's existing product to keep with market needs and trends. The majority of this review is based on my use of Marketo from 2010-early 2014 at my previous employer. I will update this review later this year, early next year to encompass my experience at this employer. I think that the reporting feature could be better. Reports can take a while to run (a long while) depending on the amount of granularity you are trying to get. And I have found that running reports with the time setting \"all-time\" seem to get stuck quite often and not run properly, causing me to pull manual reports.",
+      "role": "Computer Software",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "Reports can take a while to run (a long while)",
+        "resonance_evidence": "I love the monthly updates"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "27797",
+      "date": "10/13/2014",
+      "rating": 5.0,
+      "title": "Great Tout!",
+      "text": "I love that it will track each email, letting you know when they open, read, and look at attachments. Implementation was a little bit on the slow side. But great support throughout the process.",
+      "role": "Internet",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "it will track each email, letting you know when they open, read, and look at attachments",
+        "resonance_evidence": "I love that it will track each email"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "27990",
+      "date": "10/14/2014",
+      "rating": 5.0,
+      "title": "Best option for Marketing Automation",
+      "text": "Marketo is the best solution for marketing automation. We have used them for emails, landing pages, web forms, leadscoring, webinars. You name it if you are looking for an all in one solution for marketing automation there is nothing better than Marketo I am still looking for something that I could possibly dislike. The great thing about it is that Marketos community takes an active role in the updates that they provide so if there is something that is bothersome to their clients Marketo is quick to implement changes.",
+      "role": "Financial Services",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Marketo is the best solution for marketing automation"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "38508",
+      "date": "3/16/2015",
+      "rating": 5.0,
+      "title": "Wouldn't Do Marketing Without It",
+      "text": "It allows me to run like a much larger team. It gives me the tools and solutions to impact every aspect of the marketing mix. I wish that the API would be a little more robust. For example, being able to export the traffic of your anonymous users for further analysis.",
+      "role": "Marketing and Advertising",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "It allows me to run like a much larger team",
+        "resonance_evidence": "It allows me to run like a much larger team. It gives me the tools and solutions to impact every aspect of the marketing mix."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "38515",
+      "date": "3/16/2015",
+      "rating": 5.0,
+      "title": "Powerful, very customizable Marketing automation that scales very well",
+      "text": "The usability. Having tried multiple marketing automation tools like Pardot and Eloqua, the ease of setting up campaigns with complex logic, the ability to plug in Salesforce data and the much better forms make the whole process quite easy - from capturing lead data to nurture/drip campaigns to lead scoring and opportunity tracking. Responsive landing pages are a pain to set up - I have several responsive pages, but the initial setup was quite a hassle. I wish Marketo had better templates and easier integration for responsive landing pages.",
+      "role": "Computer Software",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "the ease of setting up campaigns with complex logic, the ability to plug in Salesforce data and the much better forms make the whole process quite easy"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "38535",
+      "date": "3/16/2015",
+      "rating": 5.0,
+      "title": "Easy to use - a bit buggy",
+      "text": "It was very easy to learn to use marketo and easy enough to train non admins. slow and buggy at times especially when editing assets Sync limitations. There needs to be a better built in sync",
+      "role": "Verified User in Computer Software",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "It was very easy to learn to use marketo and easy enough to train non admins. slow and buggy at times"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "38536",
+      "date": "3/16/2015",
+      "rating": 5.0,
+      "title": "Great Software with Excellent Support",
+      "text": "I love the Community. No matter what issue you are experiencing or what questions you may have, there are plenty of others who have experienced it and can help resolve the issue or other who are also seeking answers. Marketo employees are also available to assist with issues and to make recommendations for better use of the software. I don't dislike anything about Marketo. There are areas for improvement, but overall it is a great system.",
+      "role": "Verified User in Marketing and Advertising",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "I love the Community"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "38549",
+      "date": "3/16/2015",
+      "rating": 5.0,
+      "title": "Great app.",
+      "text": "By far the best email app I have ever worked with. I really enjoy the live feed that informs where I start my prospecting day. No spell check. Get with 1990 tout. Other than that, there is not much I don't love about Tout.",
+      "role": "Internet",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "By far the best email app I have ever worked with"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "38556",
+      "date": "3/16/2015",
+      "rating": 5.0,
+      "title": "Marketo is a brilliant solution!",
+      "text": "How intuitive and easy it is to use. I've used email marketing programs for 20+ years and Marketo is my favorite by far. Nothing really - I like it all. I am really impressed with this product",
+      "role": "Head of Customer Advocacy",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Marketo is my favorite by far"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "3246701",
+      "date": "9/20/2019",
+      "rating": 0.0,
+      "title": "Terrible UX and Support",
+      "text": "I honestly can't think of anything that I enjoy about Marketo. I consistently dread using it, and every interaction that I have had leaves me frustrated, at best. Marketo tries to be unique by creating their own terms for everything, which instead makes it incredibly difficult to understand which things are supposed to do what, instead of just calling them what they are. The customer support is also absolutely terrible. Trying to get someone on the phone? Forget about it. Trying to talk to someone via email? Expect it to take weeks of back and forth without ever getting your answer. Wish to talk to someone over chat after you find that feature after searching for an hour to find an email address or a phone number to no success, even though you have a paid account? Prepare to waste hours of your time, be incredibly frustrated, and again, still not get your questions answered. Because Marketo is unnecessarily complex, there are lots of ways to achieve what should be a simple task. But depending on which way you set it up, you can only access certain types of reports. You must also individually set up reports before deploying a form or an email or a campaign in order to track what you want, rather than all of the necessary data points automatically be tracked. Marketo is a \"marketing automation software\". One of the basic features of marketing automation is to set up campaigns that react based on user actions/interactions. But setting this simple functionality up within Marketo is difficult, cumbersome, and requires more steps that what should be necessary, especially if essentially trying to set up if/then statements.",
+      "role": "Marketing and Advertising",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I honestly can't think of anything that I enjoy about Marketo. I consistently dread using it, and every interaction that I have had leaves me frustrated, at best."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "52982",
+      "date": "7/17/2015",
+      "rating": 0.0,
+      "title": "The source of my daily headaches.",
+      "text": "I like knowing when my leads have viewed or clicked my emails (when that function works properly). I like that it's relatively easy to move large groups of leads from Salesforce onto the Toutapp.com platform and send out emails. -There's no way to block scheduled emails from sending out on weekends. Why would I want to send an email to a lead on a Sunday? -When I have multiple emails scheduled to send out on a weekend, there is no way to mass select all of those emails and change the send date or time. Consequently, the entire benefit of scheduling emails is moot and instead I have to individually select each email and make a minimum of 4 clicks per email to change the send date and time. When I have 100s of emails scheduled, this process can take up a good chunk of my day that could be better spent doing literally anything else. -Even when I select \"end campaign when recipient replies\" on my automatically scheduled emails, the feature is so glitchy and works as planned so rarely, that I've ruined multiple relationships by continuing to send out emails to leads who have previously responded. -The likelihood of my activities syncing to Salesforce have become so slim that I essentially don't expect my emails to log anymore. I've tried the BCC sync, and the API sync, I've submitted multiple support tickets, I've attended multiple calls with the support team, and I've given up hope that my activities in Salesforce will reflect my actual activities, which sucks because my performance is evaluated based on my Salesforce activity. -When using the \"select times from the calendar\" feature in gmail, there's no way to change what time zone the times are shown in. I'm consistently emailing leads globally, and constantly going in to manually change time zones takes up valuable time. -Tout Live Feed will show an email as \"viewed\" if I've opened the email after I send it. It will also register replies when no reply can be found in gmail, or on Toutapp.com. -The support team means ",
+      "role": "Verified User in Computer Software",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "I have to individually select each email and make a minimum of 4 clicks per email to change the send date and time. When I have 100s of emails scheduled, this process can take up a good chunk of my day",
+        "resonance_evidence": "there is no way to mass select all of those emails and change the send date or time. Consequently, the entire benefit of scheduling emails is moot"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "71977",
+      "date": "11/20/2015",
+      "rating": 0.0,
+      "title": "Riddled With Bugs and Difficult To Use",
+      "text": "The automated email sequences are nice. Everything else. This app is RIDDLED with bugs. I've spent dozens of hours on the phone with their support team, who readily admit that there are endless performance issues with ToutApp. The UI is not intuitive and the app is difficult to use. We're going to try PersistIQ or OutReach.",
+      "role": "Verified User in Internet",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews",
+      "sample_order": "lowest_rated"
+    },
+    {
+      "portal": "G2",
+      "review_id": "136459",
+      "date": "5/30/2016",
+      "rating": 0.0,
+      "title": "Marketo Automation Tool Is Poor",
+      "text": "I have been forced to use Marketo and have tried to get into this tool compared to Pardot or other CRM systems. I will say that the only thing Marketo is good at is sending emails. But, it becomes expensive using this tool just for emails and they do not provide any best practice to trigger messaging. The scoring model and reporting tools are poor. WHY? They do not use machine learning for scoring and do not collect data over 90 days. So, if your B2B sales circle is over 3 months you are in trouble. In addition, they will tell you that they track channel acquisition attribution, but they are wrong: They do not track REAL 1st touch. They capture lead creation but it is useless in our ecosystem. They cannot help measuring the impact of channels. So, if you are a smart marketer and want to know where to fish, what is your best channel of acquisition, you do not want use Marketo tool. And finally, not the less but customer service is null. However more you spend and more they care so you may get service not for who you are but more for what you spend...",
+      "role": "Information Technology and Services",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "The scoring model and reporting tools are poor. WHY? They do not use machine learning for scoring and do not collect data over 90 days. So, if your B2B sales circle is over 3 months you are in trouble."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "137411",
+      "date": "5/31/2016",
+      "rating": 0.0,
+      "title": "toutapp screwed up my outlook and wont uninstall",
+      "text": "NOTHING NOTHING NOTHING NOTHING NOTHING NOTHING NOTHING NOTHING NOTHING Not only did the program not install properly and prevent me from using my outlook, but it wouldn't uninstall properly from my windows desktop even though it is gone from the uninstall programs. I never had a program that wouldnt at least uninstall correctly like this. I wont go near thiis program again if you gave it to me for free. My outlook is to valuable to my work to have to now deal with this issue and to have my work interrupted liek this.",
+      "role": "Verified User in Real Estate",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "the program not install properly and prevent me from using my outlook, but it wouldn't uninstall properly from my windows desktop",
+        "resonance_evidence": "I wont go near thiis program again if you gave it to me for free."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "65865",
+      "date": "10/13/2015",
+      "rating": 0.0,
+      "title": "Do Not use Tout! Avoid at all cost!",
+      "text": "I don't like anything about this platform. I would rather have to carve out my emails in stone then use this platform. Every time I try to use one of their features/functionalities it doesn't work as it should. You call this thing a platform to send emails? What a joke Everything. My emails are bouncing back, their feature about how I can have emails scheduled and if someone responds they will not get the 3rd/4th/5th email is completely false...... None of this works... None of it... Don't believe them. I have submitted 8 tickets and they have all been closed because they have been open for too long. They lie to you about fixing issues. This platform shouldn't last long.",
+      "role": "Verified User in Internet",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "I have submitted 8 tickets and they have all been closed because they have been open for too long",
+        "resonance_evidence": "I would rather have to carve out my emails in stone then use this platform. Every time I try to use one of their features/functionalities it doesn't work as it should."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "171011",
+      "date": "9/14/2016",
+      "rating": 0.0,
+      "title": "The Worst SaaS Company I've Ever Seen --- STAY AWAY",
+      "text": "Nothing at all. I don't like anything about Toutapp. Glitchy tech, horrible customer service.",
+      "role": "Verified User in Public Relations and Communications",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I don't like anything about Toutapp. Glitchy tech, horrible customer service."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "150905",
+      "date": "7/7/2016",
+      "rating": 0.0,
+      "title": "Slow, clunky, overpriced and badly supported; Everything extra costs extra. Avoid.",
+      "text": "The idea of what Marketo promises to solve vs the reality of what it does. It's somewhat good at closed-loop attribution for e-mail but fails to deliver on channel and traffic sources. In fact, your average Marketo \"expert\" doesn't understand traffic sources - only e-mail campaigns. I'ts a terrible fail for a company that promises so much. Everything: \\- Clunky, slow UI \\- Clunky, slow reports \\- Terminology - Marketo re-invent the wheel everytime \\- No real database = slow, difficult to manage \\- Ages to learn \\- Very bad support \\- Any worthwhile reports and tools costs $000's extra",
+      "role": "Information Technology and Services",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews",
+      "sample_order": "lowest_rated"
+    },
+    {
+      "portal": "G2",
+      "review_id": "319204",
+      "date": "1/5/2018",
+      "rating": 0.0,
+      "title": "There are better marketing automation platforms",
+      "text": "Nothing compared to other platforms (i.e.hubspot or pardot) The UI is not intuitive and overall workflow is very complicated. Simple campaign and program set up, to forms and landing pages - incredibly difficult to create. Setting up a webinar via Marketo or a simple nurture program is out right frustrating. Reporting is also not very good. Customer service is sub-par, so much so, we used outside consultants which added on to the overall pricing (over the top) of the platform. If SFDC is your database of record, you will not be happy with Marketo. I have ripped and replaced Marketo 2x.",
+      "role": "Computer Software",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I have ripped and replaced Marketo 2x."
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "November 10, 2024",
+      "rating": null,
+      "title": null,
+      "text": "The platform\u2019s seamless integration with design assets and its ability to track campaign performance makes it ideal for creating targeted, visually engaging content.",
+      "role": "Freelance Designer",
+      "company_size": null,
+      "source_url": "https://www.capterra.com/p/75130/Marketo-Lead-Management/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "makes it ideal for creating targeted, visually engaging content."
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "November 10, 2024",
+      "rating": null,
+      "title": null,
+      "text": "It can feel overwhelming for designers who are not focused on marketing, as it requires dealing with complex workflows, data, and integrations, which can detract from the creative process.",
+      "role": "Freelance Designer",
+      "company_size": null,
+      "source_url": "https://www.capterra.com/p/75130/Marketo-Lead-Management/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "It can feel overwhelming for designers who are not focused on marketing, as it requires dealing with complex workflows, data, and integrations, which can detract from the creative process."
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "April 28, 2025",
+      "rating": null,
+      "title": null,
+      "text": "It\u2019s allowed us to scale our client visits much more efficiently thanks to automatically-followups and content personalization, which has resulted in higher engagement rates without having to stretch out our small team.",
+      "role": "Digital Marketing Specialist",
+      "company_size": "11-50 employees",
+      "source_url": "https://www.capterra.com/p/75130/Marketo-Lead-Management/reviews/",
+      "sample_order": "page"
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "February 10, 2026",
+      "rating": null,
+      "title": null,
+      "text": "convoluted ways of filtering distribution lists which leaves open to error.",
+      "role": "Senior project manager",
+      "company_size": "51-200 employees",
+      "source_url": "https://www.capterra.com/p/75130/Marketo-Lead-Management/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "convoluted ways of filtering distribution lists which leaves open to error."
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "April 1, 2025",
+      "rating": null,
+      "title": null,
+      "text": "The lead scoring and segmentation help us engage HCPs effectively, while CRM integration improves sales follow-ups. Plus, the analytics tools are essential for measuring success in a regulated environment.",
+      "role": "Manager",
+      "company_size": "1,001-5,000 employees",
+      "source_url": "https://www.capterra.com/p/75130/Marketo-Lead-Management/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "The lead scoring and segmentation help us engage HCPs effectively, while CRM integration improves sales follow-ups."
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "April 1, 2025",
+      "rating": null,
+      "title": null,
+      "text": "One challenge with Marketo Engage in the pharmaceutical industry is that compliance-driven customization can be complex.",
+      "role": "Manager",
+      "company_size": "1,001-5,000 employees",
+      "source_url": "https://www.capterra.com/p/75130/Marketo-Lead-Management/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "One challenge with Marketo Engage in the pharmaceutical industry is that compliance-driven customization can be complex."
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "March 22, 2025",
+      "rating": null,
+      "title": null,
+      "text": "Additionally, its advanced reporting capabilities help marketers evaluate campaign performance and make informed decisions based on data.",
+      "role": "Manager",
+      "company_size": "2-10 employees",
+      "source_url": "https://www.capterra.com/p/75130/Marketo-Lead-Management/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "its advanced reporting capabilities help marketers evaluate campaign performance and make informed decisions based on data."
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "December 10, 2024",
+      "rating": null,
+      "title": null,
+      "text": "The steep learning curve of Marketo Engage is one of its drawbacks.",
+      "role": "Owner and operator",
+      "company_size": "2-10 employees",
+      "source_url": "https://www.capterra.com/p/75130/Marketo-Lead-Management/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "The steep learning curve of Marketo Engage is one of its drawbacks."
+      }
+    },
+    {
+      "portal": "Gartner Peer Insights",
+      "review_id": null,
+      "date": "Jul 3, 2026",
+      "rating": 4.0,
+      "title": "Powerful B2B Marketing Automation with deep customisation capabilities for international enterprises",
+      "text": null,
+      "body_gated": true,
+      "role": "Marketing Associate",
+      "company_size": "1B - 3B USD, Manufacturing",
+      "sentiment_label": "FAVORABLE",
+      "source_url": "https://www.gartner.com/reviews/product/adobe-marketo-engage",
+      "sample_order": "page"
+    },
+    {
+      "portal": "Gartner Peer Insights",
+      "review_id": null,
+      "date": "Jun 1, 2026",
+      "rating": 3.0,
+      "title": "Marketing integrations and analytics shine, but clunky UI slows workflow",
+      "text": null,
+      "body_gated": true,
+      "role": "Marketing Manager",
+      "company_size": "<50M USD, Software",
+      "sentiment_label": "CRITICAL",
+      "source_url": "https://www.gartner.com/reviews/product/adobe-marketo-engage",
+      "sample_order": "page"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-11",
+      "rating": 1,
+      "title": "100% Sleezeballs",
+      "text": "100% Sleezeballs. These idiots buy bulk email and spam the b*ck out of them. They should be in jail",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/marketo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "100% Sleezeballs. These idiots buy bulk email and spam the b*ck out of them. They should be in jail"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2023-10-15",
+      "rating": 4,
+      "title": "Honestly",
+      "text": "Honestly - they have great support. Their software is good and the analytics really work. Thanks!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/marketo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "they have great support. Their software is good and the analytics really work. Thanks!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2020-02-27",
+      "rating": 4,
+      "title": "I saw their product somewhere else and\u2026",
+      "text": "I saw their product somewhere else and tried it myself. All I can say is there is nothing to blame on.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/marketo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "All I can say is there is nothing to blame on."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2020-01-27",
+      "rating": 4,
+      "title": "Powerful but steep learning curve",
+      "text": "Powerful but steep learning curve to get the most out of it.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/marketo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Powerful but steep learning curve to get the most out of it."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2019-10-24",
+      "rating": 2,
+      "title": "Lack of new features and support",
+      "text": "Well, time flies but Marketo is the same=) % years ago I've joined an IT vendor who used it. There were some pros and cons but overall quality of service and available features were more than good. Actually it was a blast at those years. Now I've joined another company and they implemented Marketo. From this point (I worked with salesforce, hubspot, optimove, exponea and many other well known vendors and main challengers) I could say that they lost their track: same uncomfortable UI, lots of problems, non responsive support and really sloooow scripts. Maybe Adobe decided to cannibalize their clients after acquisition but my advice if you're thinking to onboard it - skip to any of challengers. Good: database structure, pricing. Bad: UI, LP editor, old tech, annoying support, no options to skip a contract",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/marketo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "my advice if you're thinking to onboard it - skip to any of challengers."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2017-01-17",
+      "rating": 4,
+      "title": "Great product",
+      "text": "Marketo has great functionality and email deliverability. It's a little pricey, but competitive in the marketing automation space.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/marketo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "It's a little pricey, but competitive in the marketing automation space."
+      }
+    }
+  ]
+}

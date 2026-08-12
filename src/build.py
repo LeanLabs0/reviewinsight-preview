@@ -18,6 +18,11 @@ HERE = Path(__file__).parent
 DATA = json.loads((HERE / "data" / "_all.json").read_text(encoding="utf-8"))
 OUT = HERE / "site"
 
+SCORED = json.loads((HERE / "data" / "_scores.json").read_text(encoding="utf-8"))
+SCORES: dict = SCORED["scores"]
+WEIGHTS: dict = SCORED["weights"]
+FLOORS: dict = SCORED["floors"]
+
 VENDORS: dict = DATA["vendors"]
 CATS: dict = DATA["categories"]
 PORTALS = [("g2", "G2"), ("capterra", "Capterra"),
@@ -90,9 +95,23 @@ def all_quotes(v) -> list:
     return out
 
 
+def sc(v) -> dict:
+    return SCORES.get(v["slug"], {"rated": False, "not_rated": ["missing"]})
+
+
+def score_of(v) -> int | None:
+    r = sc(v)
+    return r["score"] if r.get("rated") else None
+
+
+def dims_of(v) -> list:
+    return [d for d in sc(v).get("dimensions", []) if d["key"] != "rating"]
+
+
 def cat_vendors(cat: str) -> list:
+    """Ranked by score. Unrated vendors sort last, by review volume."""
     vs = [v for v in VENDORS.values() if v["category"] == cat]
-    return sorted(vs, key=total_reviews, reverse=True)
+    return sorted(vs, key=lambda v: (-(score_of(v) or -1), -total_reviews(v)))
 
 
 # ------------------------------------------------------------------- shell
@@ -153,15 +172,70 @@ def write(path: str, content: str) -> None:
 
 
 # -------------------------------------------------------------- components
-def score_note() -> str:
-    """One quiet line. The full explanation lives on the methodology page."""
-    return ('<p class="small muted">We do not publish a ReviewInsight score yet. '
-            'Everything on this page comes straight from the review sites and links '
-            'back to them. <a href="{root}methodology/index.html">How the score will work</a></p>')
+def scorebox(v, big: bool = False) -> str:
+    r = sc(v)
+    if not r.get("rated"):
+        return ('<span class="scorebox pending"><span class="v">NR</span>'
+                '<span class="d">not rated</span></span>')
+    cls = "scorebox" + (" big" if big else "")
+    return (f'<span class="{cls}"><span class="v">{r["score"]}</span>'
+            f'<span class="d">/100</span></span>')
+
+
+def bar(value: float) -> str:
+    w = max(0.0, min(100.0, float(value)))
+    return f'<span class="barwrap"><span class="bar" style="width:{w:.0f}%"></span></span>'
+
+
+def dim_block(v, depth: int) -> str:
+    """The four Rs with their arithmetic, so a reader can redo the score."""
+    r = sc(v)
+    if not r.get("rated"):
+        need = ", ".join(r.get("not_rated", []))
+        el = r.get("eligibility", {})
+        return (f'<div class="nodata"><b>Not rated.</b> We need at least '
+                f'{FLOORS["sites"]} sites carrying reviews, {FLOORS["reviews"]} reviews, '
+                f'and {FLOORS["recent_reviews"]} from the last year. '
+                f'{e(v["name"])} has {el.get("sites","?")} sites, '
+                f'{el.get("reviews","?")} reviews and {el.get("recent_reviews","?")} recent. '
+                f'Short on: {e(need)}.</div>')
+    rows = []
+    for d in dims_of(v):
+        parts = "".join(
+            f'<li><span>{e(pt["name"])}</span><span class="muted">{e(pt["detail"])}</span>'
+            f'<span class="num">{pt["value"]}</span></li>' for pt in d.get("parts", []))
+        rows.append(f"""<div class="dimrow">
+  <div class="dimhd"><b>{e(d['label'])}</b>
+    <span class="tiny muted">weight {int(WEIGHTS[d['key']]*100)}%</span>
+    <span class="num dimval">{d['value']}</span></div>
+  {bar(d['value'])}
+  <details><summary class="tiny">How this was worked out</summary>
+    <div class="formula">{e(d['math'])}</div>
+    <ul class="dimparts">{parts}</ul></details>
+</div>""")
+    rating = next(x for x in sc(v)["dimensions"] if x["key"] == "rating")
+    return f"""<div class="scorepanel">
+  <div class="scoretop">
+    {scorebox(v, big=True)}
+    <div>
+      <p>Reviewers rate {e(v['name'])} <b class="num">{rating['value']}</b> out of 100.
+      The evidence behind that comes out at <b class="num">{r['evidence']}</b>, so we publish
+      <b class="num">{r['score']}</b>.</p>
+      <div class="formula">{e(rating['math'])}</div>
+      <div class="formula">evidence = {e(r['evidence_math'])}</div>
+      <div class="formula">score = {e(r['score_math'])}</div>
+      <p class="tiny muted">Measured on {r['sample_size']} reviews, {r['labelled']} of them
+      read and labelled. <a href="{'../' * depth}methodology/index.html">How the score works</a></p>
+    </div>
+  </div>
+  {''.join(rows)}
+</div>"""
 
 
 def score_note_at(depth: int) -> str:
-    return score_note().replace("{root}", "../" * depth)
+    return ('<p class="small muted">Scores combine what reviewers rate a product with how '
+            'strong the evidence behind that rating is. '
+            f'<a href="{"../" * depth}methodology/index.html">How the score works</a></p>')
 
 
 def score_explainer() -> str:
@@ -287,17 +361,18 @@ def evidence(q) -> str:
 def rank_row(i: int, v, depth: int) -> str:
     r = "../" * depth
     got = portals_with_data(v)
-    nr = newest_review(v)
+    dchips = "".join(
+        f'<span class="chip">{e(d["label"].split("-")[0])} <b class="num">{d["value"]:.0f}</b></span>'
+        for d in dims_of(v))
     return f"""<div class="rrow">
   <div class="pos">{i}</div>
-  <div><span class="scorebox pending"><span class="v">&mdash;</span><span class="d">pending</span></span></div>
+  <div>{scorebox(v)}</div>
   <div class="who">
     <h3><a href="{r}vendors/{v['slug']}/index.html">{e(v['name'])}</a></h3>
     <div class="meta">{e(v['category_name'])}</div>
-    <div class="facts">
+    <div class="facts">{dchips}
       <span><b class="num">{total_reviews(v):,}</b> reviews</span>
-      <span><b class="num">{len(got)}</b> of 4 platforms</span>
-      {f'<span>newest <b class="num">{nr.strftime("%d %b %Y")}</b></span>' if nr else ''}
+      <span><b class="num">{len(got)}</b> of 4 sites</span>
       <a class="small" href="{r}vendors/{v['slug']}/alternatives/index.html">Alternatives</a>
     </div>
   </div>
@@ -368,8 +443,8 @@ def page_category(cat: str, meta: dict) -> None:
 and Trustpilot on {CAPTURED}. The median platform spread in this category is
 {med} points.</div>
 
-<p class="small muted">Ordered by total review volume while the score is being built.
-Volume is not the ranking we intend to publish, it is a stand-in you can verify.</p>
+<p class="small muted">Ranked by ReviewInsight score. Each score is what reviewers rate
+the product, adjusted for how strong the evidence behind that rating is.</p>
 <div class="rank">{rows}</div>
 
 {score_note_at(2)}
@@ -391,19 +466,20 @@ Volume is not the ranking we intend to publish, it is a stand-in you can verify.
 
 def page_vendors_index() -> None:
     rows = "".join(
-        f'<tr><td><a href="{v["slug"]}/index.html">{e(v["name"])}</a></td>'
+        f'<tr><td class="n">{score_of(v) if score_of(v) else "NR"}</td>'
+        f'<td><a href="{v["slug"]}/index.html">{e(v["name"])}</a></td>'
         f'<td class="small">{e(v["category_name"])}</td>'
         f'<td class="n">{total_reviews(v):,}</td>'
         f'<td class="n">{len(portals_with_data(v))}/4</td>'
         f'<td class="n">{spread(v)["points"] if spread(v) else "&mdash;"}</td></tr>'
-        for v in sorted(VENDORS.values(), key=lambda x: x["name"].lower()))
+        for v in sorted(VENDORS.values(), key=lambda x: -(score_of(x) or -1)))
     body = f"""<div class="crumb"><a href="../index.html">Home</a></div>
 <h1>All vendors</h1>
 <div class="lede">Every vendor we currently read, with the size of its review base
 and how far the platforms disagree.</div>
 <div class="tscroll"><table>
-<thead><tr><th>Vendor</th><th>Category</th><th class="n">Reviews</th>
-<th class="n">Platforms</th><th class="n">Rating gap</th></tr></thead>
+<thead><tr><th class="n">Score</th><th>Vendor</th><th>Category</th><th class="n">Reviews</th>
+<th class="n">Sites</th><th class="n">Rating gap</th></tr></thead>
 <tbody>{rows}</tbody></table></div>"""
     write("vendors/index.html",
           shell(1, "All vendors | ReviewInsight", "Every vendor read by ReviewInsight.", body, "ven"))
@@ -426,7 +502,12 @@ def page_vendor(v) -> None:
 <p class="stamp">Checked {CAPTURED}</p>
 
 <section class="section rule-top">
-  <h2>What each platform says</h2>
+  <h2>The score</h2>
+  {dim_block(v, 2)}
+</section>
+
+<section class="section rule-top">
+  <h2>What each site says</h2>
   {sources_table(v)}
 </section>
 
@@ -440,10 +521,6 @@ def page_vendor(v) -> None:
   <p class="small muted">Quotes are trimmed to 40 words and link back to the original.
   We publish the reviewer's role and company size where the platform shows it, never their name.</p>
   {ev}
-</section>
-
-<section class="section rule-top">
-  {score_note_at(2)}
 </section>
 
 <section class="section rule-top">
@@ -485,18 +562,32 @@ def pair_slug(a, b) -> str:
 
 def page_compare(a, b) -> None:
     def col(v):
+        rows = "".join(
+            f'<div class="dimrow"><div class="dimhd"><b>{e(d["label"])}</b>'
+            f'<span class="num dimval">{d["value"]}</span></div>{bar(d["value"])}</div>'
+            for d in dims_of(v))
         return f"""<div>
-  <h3><a href="../../vendors/{v['slug']}/index.html">{e(v['name'])}</a></h3>
-  <p class="small muted">{total_reviews(v):,} reviews across {len(portals_with_data(v))} of 4 platforms</p>
+  <h3>{scorebox(v)} <a href="../../vendors/{v['slug']}/index.html">{e(v['name'])}</a></h3>
+  <p class="small muted">{total_reviews(v):,} reviews across {len(portals_with_data(v))} of 4 sites</p>
+  {rows}
   {sources_table(v)}
   <div style="margin-top:16px">{spread_inline(v)}</div>
 </div>"""
-    sa, sb = spread(a), spread(b)
-    verdict = (f"The platforms agree more closely about {e(a['name'] if sa['points'] < sb['points'] else b['name'])} "
-               f"({min(sa['points'], sb['points'])} points apart) than about "
-               f"{e(b['name'] if sa['points'] < sb['points'] else a['name'])} "
-               f"({max(sa['points'], sb['points'])} points apart)."
-               if sa and sb else "One of these vendors does not have enough platforms to compare.")
+
+    ra, rb = score_of(a), score_of(b)
+    if ra is not None and rb is not None and ra != rb:
+        win, lose = (a, b) if ra > rb else (b, a)
+        da = {d["key"]: d["value"] for d in dims_of(win)}
+        db = {d["key"]: d["value"] for d in dims_of(lose)}
+        gap = max(da, key=lambda k: da[k] - db[k])
+        gl = next(d["label"] for d in dims_of(win) if d["key"] == gap)
+        verdict = (f"{e(win['name'])} scores {max(ra, rb)} against {e(lose['name'])} at "
+                   f"{min(ra, rb)}. The widest difference is {e(gl.lower())}, "
+                   f"{da[gap]:.0f} against {db[gap]:.0f}.")
+    elif ra is not None and rb is not None:
+        verdict = f"Both score {ra}. The difference is in which dimensions get them there."
+    else:
+        verdict = "One of these does not have enough review evidence to score."
     body = f"""<div class="crumb"><a href="../../index.html">Home</a> /
 <a href="../../categories/{a['category']}/index.html">{e(a['category_name'])}</a></div>
 <h1>{e(a['name'])} vs {e(b['name'])}</h1>
@@ -541,10 +632,11 @@ It is not the ReviewInsight score.</p>"""
 
 
 def page_methodology() -> None:
+    evw = " + ".join(f"{w:.2f} {k.capitalize()}" for k, w in WEIGHTS.items())
     body = f"""<div class="crumb"><a href="../index.html">Home</a></div>
 <h1>Methodology</h1>
-<div class="lede">What we read, what we publish, and what we have not built yet.
-This page will carry a version number and a changelog before the site is public.</div>
+<div class="lede">What we read, how the score is worked out, and what we deliberately
+do not do. Every figure on the site can be rebuilt from the numbers on the vendor pages.</div>
 
 <section class="section rule-top">
   <h2>Where the data comes from</h2>
@@ -556,7 +648,39 @@ This page will carry a version number and a changelog before the site is public.
 
 <section class="section rule-top">
   <h2>The score</h2>
+  <p>Two things decide it. What reviewers rate a product, and how much that rating
+  can be trusted. We publish both, and the second one adjusts the first.</p>
+  <div class="formula">rating   = the four sites' own averages, averaged, x20</div>
+  <div class="formula">evidence = {evw}</div>
+  <div class="formula">score    = 50 + (rating - 50) x evidence / 100</div>
+  <p>A product with perfect evidence scores exactly what reviewers rate it. A product
+  with no usable evidence sits at 50, because we do not know anything about it. Everything
+  else lands in between, moved away from the middle only as far as its evidence earns.</p>
   {score_explainer()}
+</section>
+
+<section class="section rule-top">
+  <h2>Where each number comes from</h2>
+  <div class="tscroll"><table>
+  <thead><tr><th>Part</th><th>Measured from</th></tr></thead>
+  <tbody>
+    <tr><td>Recent</td><td>How many days since the newest review, and what share of the
+      reviews we hold were written in the last year.</td></tr>
+    <tr><td>Reliable</td><td>How far apart the sites' star ratings are, and how often a
+      review's wording matches the stars it was given.</td></tr>
+    <tr><td>Results-specific</td><td>The share of reviews naming an outcome a stranger
+      could check. A number, a time saved, a tool replaced. Not "saves time".</td></tr>
+    <tr><td>Resonance</td><td>Whether reviewers recommend the product, approve of it,
+      tolerate it, or warn you off. Averaged per site, then across sites.</td></tr>
+  </tbody></table></div>
+  <p class="small muted">Two of the four need the review text read. A model labels each
+  review and has to quote the exact words behind its label; if those words are not
+  literally in the review, the label is thrown away. Every calculation is done in code,
+  never by the model.</p>
+  <p class="small muted">G2 gives us no working pagination, so we read it through four
+  sort orders. Two of those return the best and worst reviews on purpose, so we use them
+  for quotes and keep them out of every rate. Gartner keeps review text behind a login,
+  so it contributes ratings and dates but not tone.</p>
 </section>
 
 <section class="section rule-top">

@@ -1,0 +1,1398 @@
+{
+  "slug": "basecamp",
+  "captured_at": "2026-08-12T20:48:37.032020+00:00",
+  "reviews": [
+    {
+      "portal": "G2",
+      "review_id": "13210295",
+      "date": "8/4/2026",
+      "rating": 3.0,
+      "title": "All-in-One Project Hub, but Too Loose for Dependency-Driven Workflows",
+      "text": "Basecamp replaces the typical fragmented app stack. Instead of jumping between Slack for chat, Trello for tasks, Google Drive for docs, and email for announcements, Basecamp bundles these into a single project interface Basecamp intentionally avoids complex task structures. You cannot easily set up strict dependencies (e.g., \"Task B cannot start until Task A is complete\") or built-in multi-stage subtasks. If your team relies on critical path methodology, complex engineering sprints, or rigid step-by-step approvals, Basecamp can feel far too loose.",
+      "role": "Project Manager",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/basecamp/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "replaces the typical fragmented app stack. Instead of jumping between Slack for chat, Trello for tasks, Google Drive for docs, and email for announcements, Basecamp bundles these into a single project interface",
+        "resonance_evidence": "Basecamp replaces the typical fragmented app stack"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13143042",
+      "date": "7/22/2026",
+      "rating": 3.5,
+      "title": "Simple, Minimalistic Project Management with Basecamp",
+      "text": "I liked the Basecamp tool for its simple and minimalistic usability for Project Management I would like to see this product which is capable of handling heavy timeline Projects. Currently I feel it can be used for small or medium term projects.",
+      "role": "Furniture",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/basecamp/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "I liked the Basecamp tool for its simple and minimalistic usability"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13108843",
+      "date": "7/14/2026",
+      "rating": 3.0,
+      "title": "Easy Collaboration with Creative Organizations, But Limited Integrations",
+      "text": "I liked that I was able to work with creative organizations very easily I disliked that there were not very many integrations available",
+      "role": "IT Project Manager",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/basecamp/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "I liked that I was able to work with creative organizations very easily I disliked that there were not very many integrations available"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13051748",
+      "date": "6/30/2026",
+      "rating": 5.0,
+      "title": "Message Boards and To-dos cut out a lot of unnecessary follow-ups",
+      "text": "I usually have information scattered across emails, documents, chats, and spreadsheets. Basecamp is one of the first tools where everything finally feels like it's in the same place without making the day-to-day work more complicated. Message Boards look like a simple feature, but they've completely changed the way we document important decisions. Before, those conversations were easy to lose. Now, every important decision stays visible for the whole team, and I can go back months later to see exactly why something was done without having to ask anyone. I also like how easy it is to break a project into clear to-do lists, assign work, and keep track of progress without filling the screen with dependencies, endless automations, or settings that usually create more work than they solve. The couple of times we've needed help organizing projects or figuring out a feature we weren't using properly, support got back to us quickly and the answers were actually useful. Card Tables are a nice addition, but they're still designed to keep things simple rather than replace dedicated planning tools. I don't really see that as a downside. It just feels like Basecamp knows exactly what kind of projects it's built for.",
+      "role": "Information Technology and Services",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/basecamp/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "Before, those conversations were easy to lose. Now, every important decision stays visible for the whole team, and I can go back months later to see exactly why something was done",
+        "resonance_evidence": "Basecamp is one of the first tools where everything finally feels like it's in the same place without making the day-to-day work more complicated"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "12980605",
+      "date": "6/19/2026",
+      "rating": 4.5,
+      "title": "Basecamp continues to stick to its simplicity, for better or worse",
+      "text": "After years of using tools packed with automations, dashboards, custom views, and endless configuration options, I ended up trying Basecamp with a fair amount of skepticism. I expected it to feel too basic, but that wasn\u2019t really the case. What won me over first was the user experience. I honestly can\u2019t remember the last time I introduced someone to a project management platform and didn\u2019t have to explain where everything was. With Basecamp, most people understood the structure in just a few minutes. Projects, tasks, messages, files, and schedules are all right there, without layers of menus or hidden settings to figure out. I\u2019ve also liked the new Basecamp 5 experience quite a bit. The Everything views let me see activity, tasks, and conversations across multiple projects from one place, which saves me from constantly jumping between projects just to get a general picture of what\u2019s going on. Hill Charts also ended up becoming something I use regularly. At first, I completely ignored them, but over time I realized they show real progress much better than a simple completion percentage. More than once, they helped me spot tasks that looked like they were moving forward but were actually still blocked by decisions that hadn\u2019t been made yet. Basecamp\u2019s biggest strength is also its biggest limitation: simplicity. The platform has a very clear philosophy and sticks to it, using the tools and workflows they believe make the most sense. If you're the type of person who likes to customize everything and build twenty different views, you\u2019ll probably end up feeling frustrated. That said, I haven\u2019t run into any major issues or performance problems while using it.",
+      "role": "Information Technology and Services",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/basecamp/reviews",
+      "sample_order": "most_recent"
+    },
+    {
+      "portal": "G2",
+      "review_id": "12034882",
+      "date": "12/2/2025",
+      "rating": 4.0,
+      "title": "Easy to Use and Simplifies Communication Between Teams",
+      "text": "It provides a central location to see past communication versus sifting through emails. Put the replies under the message replied to versus always at the bottom.",
+      "role": "Manager, Communications",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/basecamp/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": true,
+        "resonance": "lukewarm",
+        "results_evidence": "It provides a central location to see past communication versus sifting through emails",
+        "resonance_evidence": "It provides a central location to see past communication versus sifting through emails. Put the replies under the message replied to versus always at the bottom."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "12868708",
+      "date": "5/25/2026",
+      "rating": 5.0,
+      "title": "Basecamp Keeps Team Communication Streamlined with an Intuitive, Simple Setup",
+      "text": "Basecamp is one of the easiest project management and team collaboration tools to adopt and use well. It centralizes communication, tasks, files, and project updates in a way that stays streamlined without becoming overly complicated. What I like most is how simple it is. That simplicity is its biggest strength. While many project management platforms can feel overwhelming, Basecamp prioritizes clarity and ease of use. Message boards, to-do lists, schedules, group chat, and file sharing are all laid out in an intuitive, organized way. It\u2019s also especially helpful for keeping cross-functional teams aligned without requiring extensive onboarding or training. The Hill Charts and automatic check-ins are surprisingly useful for tracking progress and maintaining visibility across the team. Another major advantage is how much it reduces communication chaos. Instead of scattered emails and disconnected chats, everything tied to a project stays in one place, which makes it easier to stay on top of updates and follow conversations. Simplicity is definitely a strength here, but it can also turn into a limitation when workflows get more complex. Teams that rely on advanced automations, detailed reporting, sprint management, or highly customizable workflows may end up finding it a bit too lightweight for their needs. The UI is clean and easy to follow, though some parts could feel more modern and flexible, especially when compared with newer collaboration platforms.",
+      "role": "Outsourcing/Offshoring",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/basecamp/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Basecamp is one of the easiest project management and team collaboration tools to adopt and use well"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "12855085",
+      "date": "5/22/2026",
+      "rating": 4.5,
+      "title": "Effortless Data Organization and Sharing Across the Organization",
+      "text": "It helps you organise data and share it across your organisation with the right people. It would be better if it were possible to write more and add more things to files, etc.",
+      "role": "CEO",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/basecamp/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": true,
+        "resonance": "lukewarm",
+        "results_evidence": "It helps you organise data and share it across your organisation with the right people",
+        "resonance_evidence": "It would be better if it were possible to write more and add more things to files, etc."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "99",
+      "date": "8/30/2012",
+      "rating": 4.5,
+      "title": "Small shop / consultant pm tool",
+      "text": "Caveman ready interface. It's like an apple product; crack it open and go. You can outgrow its feature set as your company grows. This is solved by extensions with other apps, but this can leave gaps where you have to wait for a third party to deliver.",
+      "role": "Verified User in Computer Software",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/basecamp/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "You can outgrow its feature set as your company grows",
+        "resonance_evidence": "Caveman ready interface. It's like an apple product; crack it open and go."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "505",
+      "date": "2/4/2018",
+      "rating": 4.0,
+      "title": "Teamwork to become organized",
+      "text": "Basecamp allows you to lead your business more organized and understandable. With Basecamp, each employee can easily find the document or letter they need. In the interior of your template you can see the basic tools for your work, such as a notification board, which will allow you to post the necessary information for your colleagues, there is also a chat room, to quickly solve all problems, schedule, to publish terms of work, etc. The service is expensive for small businesses. There are problems with the calendar. But all the problems that arise are easy to solve with the help of the support team.",
+      "role": "Printing",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/basecamp/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "The service is expensive for small businesses. There are problems with the calendar."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "8761",
+      "date": "12/13/2012",
+      "rating": 5.0,
+      "title": "My favorite project management tool on the web.",
+      "text": "37Signals is a great company, and Basecamp is their crowning achievement. This tool is great for managing projects both big and small--especially if the project requires participation from multiple companies or organizations. Perhaps my favorite feature of Basecamp is that it plays nicely with Microsoft Outlook, which some people still insist on using for some reason. I don't log into my Basecamp every day, but I don't have to: I get updates and messages delivered to my Outlook inbox, and I can reply to them the way you would any normal email. It's genius. I'm really scratching my head over this one. There's nothing that I find the least bit objectionable about this product, and even if there was, their customer service is fantastic.",
+      "role": "Higher Education",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/basecamp/reviews",
+      "sample_order": "most_helpful"
+    },
+    {
+      "portal": "G2",
+      "review_id": "15308",
+      "date": "7/24/2013",
+      "rating": 5.0,
+      "title": "Strong Project Management Tool",
+      "text": "Have used Basecamp in multiple scenarios. Many vendors I've worked with (marketing automation, web design, etc) have used Basecamp to manage implementation and ongoing projects. More recently I've used it with co-workers as a resource of institutional knowledge / Q&A. In each scenario, the product was very helpful and easy to use. Nothing.",
+      "role": "Verified User in Computer Software",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/basecamp/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "the product was very helpful and easy to use"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "574231",
+      "date": "1/19/2018",
+      "rating": 5.0,
+      "title": "Excellent Collaboration Platform",
+      "text": "I have been using this platform for about a year now and it is absolutely AMAZING! I can not say enough about it. I use this platform to communicate with a marketing firm located in Calgary, 1,00s of miles away.It easily allows us to collaborate on multiple projects, share documents and discuss plans all without having to get on a conference call. You can even pick and choose who is part of the conversation. Every time a post is made a notification is sent via email to alert you that the collaboration has continued. It is a wonderful platform. I really have nothing bad to say about this program. The only thing I would say is that upload times are a bit slow.",
+      "role": "Construction",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/basecamp/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "allows us to collaborate on multiple projects, share documents and discuss plans all without having to get on a conference call",
+        "resonance_evidence": "it is absolutely AMAZING! I can not say enough about it"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "3368539",
+      "date": "10/6/2019",
+      "rating": 1.0,
+      "title": "Basecamp is great for your grocery list",
+      "text": "The interface is easy to use, you can't deny that. It's nice to be able to use keyboard shortcuts within the program to quickly search to projects or content you're looking for. I don't even know where to start. Having moved from an enterprise-level project management software to Basecamp, I really find it to be lacking. It is a single axis system. It's fine if you manage tasks that aren't sequentially tied or dependent in any way, but if you manage a large volume of complex projects, it's only going to cause you headaches. There is no native time tracking solution, you must purchase additional integrations, and the reporting functionality is non-existent. There is no native way to view all tasks for all team members, only one-by-one, leaving limited visibility into tasks, priorities, or time tracking as it relates to an individual to-do.",
+      "role": "Senior Project Manager",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/basecamp/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Having moved from an enterprise-level project management software to Basecamp, I really find it to be lacking"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "22443",
+      "date": "4/30/2014",
+      "rating": 5.0,
+      "title": "Five stars for everything you need, nothing you don't",
+      "text": "I like a lightweight tool, few bells and whistles - just the basics. And this is basic with all of the connectivity necessary for succinct project planning in a small group setting. I'm sure I could think of little UI quirks that could create a better experience for me, but at the moment I'm feeling like a total fan. Not one fresh piece of constructive criticism comes to mind.",
+      "role": "Public Relations and Communications",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/basecamp/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "I'm feeling like a total fan. Not one fresh piece of constructive criticism comes to mind."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "117952",
+      "date": "4/12/2016",
+      "rating": 5.0,
+      "title": "Rock solid team and project management",
+      "text": "It keeps project discussions organized, and more importantly, it keeps all of those discussions out of my email inbox. I have it set up to email me when there's been a new message, but I can delete the email since the message is saved within the discussion thread in Basecamp. When I dive in to a project, I only have to look in Basecamp for all of the assets and team discussions to get up to speed instead of digging through tons of emails to figure out what the most current feedback and direction is. Nothing - it's perfect for how we use it.",
+      "role": "Marketing and Advertising",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/basecamp/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "it keeps all of those discussions out of my email inbox",
+        "resonance_evidence": "Nothing - it's perfect for how we use it."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "132837",
+      "date": "5/20/2016",
+      "rating": 3.5,
+      "title": "Excellent for team collaboration",
+      "text": "Great at create to-do lists and building templates of to-do lists, and gives you an excellent view into the to-do lists of others on your team. Daily email recaps of tasks are very useful when managing tasks with multiple people. The calendar view isn't very useful, looks like it can be improved with add-ons but they all add to the cost. It's not particularly great at assigning tasks to multiple people at once or having shared tasks. Not much available in terms of reporting without an add-on. It's also difficult to prioritize by anything other than due date and this is probably my biggest struggle with it. Transitioning from Basecamp 2 to Basecamp 3 isn't very clear, and based on conversation with support isn't very seamless.",
+      "role": "Senior Manager, Creative Services / Senior Graphic Designer",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/basecamp/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Great at create to-do lists and building templates of to-do lists"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "52705",
+      "date": "7/16/2015",
+      "rating": 5.0,
+      "title": "Project management made oh so simple",
+      "text": "Ease of setting up projects, managing who has access, ease of use. Mobile application is a little weak. Takes a long time to navigate.",
+      "role": "Verified User in Non-Profit Organization Management",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/basecamp/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Ease of setting up projects, managing who has access, ease of use"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "45607",
+      "date": "5/29/2015",
+      "rating": 5.0,
+      "title": "basecamp review",
+      "text": "User friendly, single repository for communication, documents, etc. E",
+      "role": "Verified User in Information Technology and Services",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/basecamp/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "User friendly, single repository for communication, documents, etc."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "20324",
+      "date": "5/12/2014",
+      "rating": 5.0,
+      "title": "Easiest to use project management tool that I've encountered",
+      "text": "I love Basecamp because it doesn't try to do everything. It does a few basic things extremely well. I love that project artifacts can be tagged, assigned tasks with due dates, and tied to team communication. It can be a little difficult to track events and files that happened early on in the project.",
+      "role": "Information Technology and Services",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/basecamp/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "I love Basecamp because it doesn't try to do everything. It does a few basic things extremely well."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "18722",
+      "date": "12/16/2013",
+      "rating": 5.0,
+      "title": "Keeps things simple",
+      "text": "We have been using Basecamp for 2 years for project management and so far I'm loving it. Easy to use, meets all our needs and the quality of customer support is top-notch. There is nothing I dislike. Basecamp delivers solid technology that meets our needs. Software is superb. You can keep track of each one of your projects including every discussion, event and file for each project from start to finish that easy to access all on a single-page so everyone can see where things are.",
+      "role": "Design",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/basecamp/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "We have been using Basecamp for 2 years for project management and so far I'm loving it."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "20889",
+      "date": "3/27/2014",
+      "rating": 5.0,
+      "title": "Basecamp keeps me and my teams organized and on track!",
+      "text": "It's SO easy to use, and I love that the BC team is always working on improvements to the functionality. I wish we could delete documents once they're no longer needed.",
+      "role": "Retail",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/basecamp/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "It's SO easy to use, and I love that the BC team is always working on improvements to the functionality."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "8778",
+      "date": "12/18/2012",
+      "rating": 5.0,
+      "title": "Turnkey Web-based Collaboration",
+      "text": "It's sleek and simple. I hit my bookmark and I'm taken to an informative homepage tailored to the project. Feature organization is intuitive, and I can't think of a functionality I need that it doesn't have. It's not free, and coworkers want to keep using the tools they\u2019re already familiar with rather than learn something new\u2014even something as straightforward as Basecamp.",
+      "role": "E-Learning",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/basecamp/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "It's sleek and simple. I hit my bookmark and I'm taken to an informative homepage tailored to the project."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "50925",
+      "date": "7/9/2015",
+      "rating": 0.0,
+      "title": "Not recommended for detailed project management",
+      "text": "The interface looked nice and it was fairly easy to set up and move between projects and tasks. Since Basecamp is web based, it made it easy for all users to access whether they were on location or remote. The speed was good as well. There were no features built in for tracking or accountability. People could upload notes and documents, but there isn't reporting available for a way to export a project plan and easily track deadlines being completed or staying on point. I also couldn't connect budgets, costs or risk into the projects. The program became as convoluted as everyone just sending emails back and forth and users lost interest and stopped logging in.",
+      "role": "Hospital & Health Care",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/basecamp/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "The program became as convoluted as everyone just sending emails back and forth and users lost interest and stopped logging in."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "16333",
+      "date": "9/5/2013",
+      "rating": 0.0,
+      "title": "A horrible collaboration tool",
+      "text": "What do I like about it? Well, I suppose it is better than NO collaboration tool, but only barely. Post-it notes and carrier pigeons would likely work better. My hatred for Basecamp burns with the fury of a thousand suns. Okay, that's an exaggeration. The fury of a hundred suns. Of all the collaboration or project management tools I have ever used, Basecamp was the worst. In fairness, it's been at least a year and a half since I used it, so it is possible that they have replaced their entire dev team and put out a decent product, but otherwise I expect more of the same. The search function is poor. The email updates sent automatically by the system are difficult to manage. The interface is kludgy. Little flexibility. The calendaring is sub-par. Unrefined feature set. I can't think of anything I liked about it. I'm baffled by all the positive reviews on G2crowd for it. I could go on with the complaints...",
+      "role": "Verified User in Computer & Network Security",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/basecamp/reviews",
+      "sample_order": "lowest_rated"
+    },
+    {
+      "portal": "G2",
+      "review_id": "10309",
+      "date": "1/25/2013",
+      "rating": 0.0,
+      "title": "Longtime user jumping ship",
+      "text": "It used to be the interface. Things haven't evolved over the last couple years and now there are other options out there for managing projects and tracking time.",
+      "role": "Lead Solutions Architect",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/basecamp/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Things haven't evolved over the last couple years and now there are other options out there for managing projects and tracking time."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "200319",
+      "date": "11/28/2016",
+      "rating": 0.0,
+      "title": "Antiquated Sharefile software",
+      "text": "You are able to share large files that our email server will not allow. The program allows for multiple uses inducing clients and project managers. There is a lot of front end work to set up projects and include participants. There is also no way to link this into your outlook mailbox. The interface is also confusing and is hard to organize projects.",
+      "role": "Architecture & Planning",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/basecamp/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "You are able to share large files that our email server will not allow."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "329614",
+      "date": "7/11/2017",
+      "rating": 0.0,
+      "title": "Basecamp is somewhat confusing",
+      "text": "Basecamp is not something I enjoyed using but the one advantage to using Basecamp is that everything was in one place! I really disliked basecamp and would not recommend it. I did not find it very user friendly",
+      "role": "Senior Account Executive",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/basecamp/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I really disliked basecamp and would not recommend it"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "440380",
+      "date": "11/5/2017",
+      "rating": 0.0,
+      "title": "If Group Chat was a Labyrinth",
+      "text": "Basecamp succeeds in being a one-stop shop for group project communication. Group members can send emails and share files to the project's Basecamp. The site is poorly organized and it is easy to miss pertinent information. When there is an online conversation, hundreds of notifications pour into your email. Turning off notifications means missing out on important updates.",
+      "role": "Writing and Editing",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/basecamp/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "The site is poorly organized and it is easy to miss pertinent information. When there is an online conversation, hundreds of notifications pour into your email."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "408248",
+      "date": "9/29/2017",
+      "rating": 0.0,
+      "title": "Basecamp is pointless.",
+      "text": "The thread and search features are useful in finding conversation. Everything else about the platform. It essentially does nothing that simple email and file sharing cannot do.",
+      "role": "Non-Profit Organization Management",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/basecamp/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "It essentially does nothing that simple email and file sharing cannot do"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "2786593",
+      "date": "7/17/2019",
+      "rating": 0.0,
+      "title": "WARNING - Basecamp's Significant Policy Flaw Could Cost You.",
+      "text": "It is a project management software that is maybe better than nothing. \"Warning\" Basecamp give all rights to the person who sets it up. If the business owner is not named the \"Owner of the Account\", they are at the mercy of the IT guy. Without a court order, BC will pander to the employee/subcontractor over the business owner. I wasn't that happy with BC to begin with, but it is project management software that the IT guy suggested and now, maybe I know why, with this type of misguided policy. BC is very much designed to create and promote ransomware type situations. No telling what else is in their fine print, if they are purposely designed to be this blatantly biased for the employee and against the owner. You would think common (not so common anymore) sense would dictate the one who pays, is the rightful owner. Business owners, switch while you can. IT people - New revenue stream, set up business on BC for free, then hold them hostage until they pay.",
+      "role": "Verified User in Design",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/basecamp/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I wasn't that happy with BC to begin with"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "June 1, 2026",
+      "rating": null,
+      "title": null,
+      "text": "Basecamp has been a reliable project management and client collaboration platform since the classic version, delivering consistent core functionality across message boards, to-dos, file storage, campfire chat, and schedules",
+      "role": "CEOComputer Software, 2 - 10 employees",
+      "company_size": "2-10 employees",
+      "source_url": "https://www.capterra.com/p/56808/Basecamp/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Basecamp has been a reliable project management and client collaboration platform since the classic version, delivering consistent core functionality"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "May 14, 2026",
+      "rating": null,
+      "title": null,
+      "text": "It has limited customization, lacks advanced features, and can feel too simple for complex projects.",
+      "role": "Finance",
+      "company_size": "11-50 employees",
+      "source_url": "https://www.capterra.com/p/56808/Basecamp/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "It has limited customization, lacks advanced features, and can feel too simple for complex projects"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "June 9, 2026",
+      "rating": null,
+      "title": null,
+      "text": "The intuitive interface seamlessly integrates message boards, to-do lists, and file sharing, which significantly reduces internal email clutter and keeps cross-functional teams aligned.",
+      "role": "Assistantship",
+      "company_size": "11-50 employees",
+      "source_url": "https://www.capterra.com/p/56808/Basecamp/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "significantly reduces internal email clutter",
+        "resonance_evidence": "The intuitive interface seamlessly integrates message boards, to-do lists, and file sharing, which significantly reduces internal email clutter and keeps cross-functional teams aligned"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "July 1, 2026",
+      "rating": null,
+      "title": null,
+      "text": "Not as customizable as some software, so if you need more depth, then it might not work well for your needs.",
+      "role": "Director of Operations",
+      "company_size": "2-10 employees",
+      "source_url": "https://www.capterra.com/p/56808/Basecamp/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Not as customizable as some software, so if you need more depth, then it might not work well for your needs"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "April 23, 2026",
+      "rating": null,
+      "title": null,
+      "text": "Overall, the biggest strength of Basecamp is how it reduces noise and complexity, making it especially effective for teams that value clear communication and straightforward project tracking over heavy customization or advanced workflows.",
+      "role": "Legal Assistant",
+      "company_size": "51-200 employees",
+      "source_url": "https://www.capterra.com/p/56808/Basecamp/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "the biggest strength of Basecamp is how it reduces noise and complexity"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "June 24, 2026",
+      "rating": null,
+      "title": null,
+      "text": "It's such a large, clunky system that it takes me 5-10 clicks to even post a single update.",
+      "role": "Business Analyst",
+      "company_size": "51-200 employees",
+      "source_url": "https://www.capterra.com/p/56808/Basecamp/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "it takes me 5-10 clicks to even post a single update",
+        "resonance_evidence": "It's such a large, clunky system"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "April 23, 2026",
+      "rating": null,
+      "title": null,
+      "text": "Overall, I found Basecamp to be a strong collaboration tool that works best for teams seeking simplicity, transparency, and reduced noise. While it\u2019s not built for highly complex project management, it delivers a smooth, user\u2011friendly experience that supports effective teamwork and clear communication.",
+      "role": "Legal Assistant",
+      "company_size": "51-200 employees",
+      "source_url": "https://www.capterra.com/p/56808/Basecamp/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "I found Basecamp to be a strong collaboration tool"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "May 25, 2026",
+      "rating": null,
+      "title": null,
+      "text": "Customization options are not as flexible as some other platforms",
+      "role": "Founder",
+      "company_size": null,
+      "source_url": "https://www.capterra.com/p/56808/Basecamp/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Customization options are not as flexible as some other platforms"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-28",
+      "rating": 3,
+      "title": "The New Desktop App Feels Less Intuitive",
+      "text": "Basecamp has been useful for managing our work, but the new desktop app does not feel as easy to use as the previous version. The older app had some issues too. For example, while editing a document, we often had to scroll back to the top to click the edit button. Some improvements have been made in the new version, but the overall navigation now feels more confusing and less organized. It takes longer to find certain options, and the workflow is not as straightforward as it was before. A simpler layout and clearer navigation would make the desktop experience much better.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "It takes longer to find certain options",
+        "resonance_evidence": "the new desktop app does not feel as easy to use as the previous version"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-21",
+      "rating": 2,
+      "title": "Change for Change's Sake? Ugh...It's Brutal.",
+      "text": "So- This roll out has been so disastrous, they are on their 3rd (or is it 4th?) \"Live Walkthrough & Q/A\" It's gone from a 20 min video, (who has time for that?) to a 60-90 minute session?! Are you kidding me? If I need an hour and a half to learn how to manage this mess that I've been using for roughly 9 years, I think something is very wrong. And honestly - a walk through would be helpful because after using it all this time it STILL isn't nearly as easy to use or intuitive as it was before the update. We have been on Basecamp since the Classic days. Loved how simple and user friendly it was. The new Basecamp 5 has caused so much stress and frustration to our team, it prompted me to write a review. It feels like so much was changed just for the sake of change. Things I got to in two clicks still have me searching for all these weeks later. I do like that the pings stay up on the right so I don't need two tabs, but I would totally trade that for it to go back to the old dash. Also, the notification is on the bottom so I've missed a lot of pings people needed me for. They feel like the redheaded step child. The search seems not to find things nearly as easy or fast, (especially if its older), and takes many more clicks just for a suggestion of options when they used to auto-populate as you typed on an always available option. But they want you to use this difficult search to navigate everything now. ?? The use of screen space is abysmal and when you run lean and mean and have so much to do in a day and your PM system upends itself, it turns into something I wish I could ditch. Maybe if you're new and start with this new system you'll be fine. For old clients though, I can't help but feel like they're telling us to buggar off. And I honestly want to.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "Things I got to in two clicks still have me searching for all these weeks later",
+        "resonance_evidence": "This roll out has been so disastrous"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-16",
+      "rating": 4,
+      "title": "i've had a great experience with\u2026",
+      "text": "i've had a great experience with basecamp, is easy, intuitive and perfect for a solo business like mine",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "i've had a great experience with basecamp, is easy, intuitive and perfect for a solo business like mine"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-10",
+      "rating": 1,
+      "title": "Consider Alternative Project Management Tools",
+      "text": "My office has used this app for almost a decade, and it's been a pain from the very beginning. If you manage dozens of clients, locating a specific project can feel like an assignment all on its own.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "locating a specific project can feel like an assignment all on its own",
+        "resonance_evidence": "it's been a pain from the very beginning"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-26",
+      "rating": 3,
+      "title": "Normal PM system for small business",
+      "text": "Normal PM system for small business. Only very high price :(",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Normal PM system for small business"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-18",
+      "rating": 2,
+      "title": "Basecamp 5 updates have made it unusable",
+      "text": "Our business has used Basecamp for many years now. We've loved how easy it was to invite clients to and was a straightforward and easy-to-use project management platform. The new updates rolled out with Basecamp 5 have made it essentially unusable. All of our clients are needing to use redundant communication (emails, chats, etc) because no one can find anything. It's actually really disappointing because Basecamp has been so essential to our process to this point.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "have made it essentially unusable"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-17",
+      "rating": 1,
+      "title": "Basecamp 5: What a disappointment!",
+      "text": "We've been using Basecamp since the Basecamp Classic and this rollout has been a disaster for our clients and our team. We manage three different Basecamp accounts and all the users are frustrated. Here's a short list of problems. 1. The new block-only calendar format is a total distraction. Where is the list view? 2. The new layout completely changes the workflow and is not intuitive. 3. Hiding the ability to quickly switch between accounts (why is it under my photo???) was just dumb. 4. The search feature doesn't work as well as the last version. 5. Oh...and we didn't even get a warning that this was happening...and I'm the owner of one of the three accounts we manage. Bad form Basecamp!!! Truly disappointed!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "this rollout has been a disaster for our clients and our team"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-12",
+      "rating": 5,
+      "title": "I love Basecamp",
+      "text": "I love Basecamp! Very practical and super fast support!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "I love Basecamp!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-06",
+      "rating": 3,
+      "title": "Basecamp 5 is trash",
+      "text": "Basecamp 5 is trash. The search button is not giving suggestion anymore, we need to hit enter to be able to see the result. Please give back the previous search option!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Basecamp 5 is trash"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-05",
+      "rating": 1,
+      "title": "Basecamp 5 is terrible",
+      "text": "Basecamp 5 is terrible. We have been using Basecamp since 2.0. The new interface looks like a step back. It was nice being able to see a preview of items in folders, now it looks like something out of DOS. The home screen looks like I'm viewing the mobile version on my monitor, so much useless info crammed onto the screen. I have a lot of projects, that's what I want to see. I would be surprised if they used any user input into the UI before making the changes. The rollout was also disastrous: just a \"Bascamp 5.0 is coming, watch this 20 min video,\" followed by damage-control webinars after the fact. This may end up being an example that is used for \"disastrous decisions brands make\".",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Basecamp 5 is terrible"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-03",
+      "rating": 1,
+      "title": "Basecamp 5 Disappointment",
+      "text": "Basecamp 5 is difficult to navigate, with everything that was once easily accessible on the top bar now hidden in a drop down menu, pings and notifications squished away in another dropdown menu, and activity page difficult to track with no more timecodes of when things were posted. The UI is a significant step down and very frustrating. I wish I could toggle the updated UI off.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "very frustrating"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-02",
+      "rating": 1,
+      "title": "Basecamp 5 update: terrible",
+      "text": "Basecamp 5 update: total car crash. They completely changed the layout of the whole thing, resulting in a lot of confusion, along with a lot of features now seemingly broken, other URLs not working or redirected. It\u2019s the worst software update I\u2019ve ever seen. There are other problems with Basecamp too. Simple things that should be addressed, are probably very easy to address, but they don\u2019t, as they don\u2019t seem to put themselves in the shoes of their actual end users (nor listen to their feedback when they send it). Really not a great experience at all and we will move away when we have the time to migrate to something better.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-01",
+      "rating": 2,
+      "title": "Basecamp 5 update is terrible",
+      "text": "The Basecamp 5 update has been the worst update migration experience and I've been a user since Basecamp classic. The number of process breaking changes are so long, we stopped tracking them. Basecamp's response, across the board, to each support request has been \"sorry, that's the way it is now.\"",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "The worst update migration experience"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-31",
+      "rating": 1,
+      "title": "Basecamp was a great easy to use app and then came the update!",
+      "text": "Basecamp was a great easy to use app. Then came the update. The recent Basecamp update made what used to be a simple and efficient platform much more difficult to use. Navigation feels more complicated, common tasks now take extra clicks, and the overall layout is less intuitive than before. Instead of improving workflow, the update has slowed things down and created unnecessary frustration for users who relied on the previous version\u2019s simplicity. No one in my office has said anything positive about it.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "No one in my office has said anything positive about it"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-27",
+      "rating": 1,
+      "title": "What a terrible update",
+      "text": "What a terrible update. The layout now feels overwhelmingly text-based, making navigation and locating specific projects more cumbersome than it should be. Moreover, the use of white space on the desktop version is truly awful and looks like it might work better on mobile than desktop.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "What a terrible update"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-27",
+      "rating": 1,
+      "title": "Terrible Update!",
+      "text": "The new update is absolutely terrible!!! Why would the home page look like a phone version. It\u2019s now very difficult to keep up with tasks, mentions, documents etc! Please give us an option to revert to Basecamp 4! This is absolutely atrocious and I hope you are taking into consideration customers reviews! We hate it!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "This is absolutely atrocious"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-26",
+      "rating": 1,
+      "title": "I HATE THE NEW BASECAMP",
+      "text": "I HATE THE NEW BASECAMP - THEY WENT BACK 5 YEARS! I AM LITERALLY IN THE PROCESS OF DOWNLOADING ALL MY DATA TO TRANSFER TO ANOTHER PLATFORM! WHAT A WAY TO COME BACK FROM A LONG HOLIDAY WEEKEND!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I HATE THE NEW BASECAMP"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-26",
+      "rating": 2,
+      "title": "Basecamp 5.0 looks awful",
+      "text": "Basecamp has until now been a solid project management software but the new update (basecamp 5.0) is terribly designed and looks awful - awful use of negative space, hidden icons, and it crams your important stuff into a tiny column whilst wasting 2/3rds of the screen. It looks like something a teenager designed in 2007.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "the new update (basecamp 5.0) is terribly designed and looks awful"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-22",
+      "rating": 1,
+      "title": "Doesnt allow VPN; doesnt care about customer grievances",
+      "text": "Basecamp blocks your access when you use VPN. They would like you to access their platform unprotected. I contacted their customer service and explained how Im not able to access their platform with VPN, and they just gave me the run around. In the end they didnt do anything. They just dont care about customer grievances. Save yourself the trouble and just use other workspace platforms. Edit: Basecamp\u2019s response is a lie. There were no fixes made. VPN IP remains blocked. Dont trust these people.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Save yourself the trouble and just use other workspace platforms"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-10-28",
+      "rating": 4,
+      "title": "it simple and easy platform",
+      "text": "it simple and easy platform. Like the way it works so easy with my client. I like their card and to-dos features. simple to handle and complete task.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "it simple and easy platform. Like the way it works so easy with my client"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-08-19",
+      "rating": 4,
+      "title": "Pretty good and easy to use",
+      "text": "Pretty good and easy to use. Sometime gets slow.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Pretty good and easy to use"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-08-14",
+      "rating": 4,
+      "title": "Great Project Management software for\u2026",
+      "text": "Great Project Management software for remote jobs",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Great Project Management software for remote jobs"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2024-11-27",
+      "rating": 5,
+      "title": "Easy and user-friendly project\u2026",
+      "text": "Easy and user-friendly project management program. You can easily set your project and invite your clients or teammates.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Easy and user-friendly project management program"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2024-05-31",
+      "rating": 1,
+      "title": "I was not satisfied with the basecamp's\u2026",
+      "text": "I was not satisfied with the basecamp's work and cancelled the support. I have requested a refund of the money they requested. I have been waiting 6 months for restitution. They continuously say they will submit my refund. I am unable to get support. The customer service is horrible. I suggest not using their service",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "I have been waiting 6 months for restitution",
+        "resonance_evidence": "I suggest not using their service"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2023-12-07",
+      "rating": 3,
+      "title": "Basecamp 4.7.5 losing data",
+      "text": "I am using basecamp 4.7.5 and I am really starting to hate basecamp. The database seems to get corrupted often and I lose data. I do regular backups (almost every time I make a set of changes). Recently I started Basecamp and it said the List file was corrupted (again). I restored a previous Backup and found that was also corrupted and so had to go back to the backup before then. So I lost all the data from my last trip. Sigh!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "I lost all the data from my last trip",
+        "resonance_evidence": "I am really starting to hate basecamp"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2023-07-10",
+      "rating": 5,
+      "title": "Basecamp is special...",
+      "text": "While a small part of me leans towards a rating of 4 instead of 5, due to it lacking the same level of polish as its predecessors #1 or #2, the overall experience remains exceptional. Basecamp offers a range of fantastic tools that prove useful for staying organized and accomplishing tasks efficiently.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "the overall experience remains exceptional"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2023-01-24",
+      "rating": 2,
+      "title": "Dated software",
+      "text": "In a few years there was not a lot of changes in the product but marketing was getting better every year. I was waiting to provide more updates inside product instead of only driving more customers to it. Generally simple in usage but with all the alternatives is a bit dated software.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Generally simple in usage but with all the alternatives is a bit dated software"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2022-09-01",
+      "rating": 5,
+      "title": "Fan since version 1",
+      "text": "I\u2019ve been using Basecamp since version 1 and I always loved it. Sure, there are some features that I\u2019m missing sometimes. But every time I try out other project management software, I am overloaded by dozens of features I don\u2019t need. So I guess it\u2019s nicer to miss one or two big features than having way too many. The biggest advantage over their competition is the communication with your clients. No other software has this nailed down quite as Basecamp. Comparing Basecamp to its competition, for me, is like comparing Mac OS to Windows. One feels like it\u2019s designed by an actual designer who has the end user in mind, the other feels like you had some engineers hack together every possible feature and later on get a few designers put everything together, without them talking to each other. There is only one thing that bites me every month: the price. Sure it\u2019s worth it, but I know that it was less expensive in the beginning. And that bothers me, because as I said I\u2019ve been using Basecamp since version 1, but at some point I had to create a new account and so I lost the lower price. That makes me sad every month.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2022-02-23",
+      "rating": 4,
+      "title": "Great Project Management software for Agencies",
+      "text": "The most I love about Basecamp is that you can set up custom access settings for clients making it one of the most valuable project management tools for agencies out there. However, It lacks some essential features that other commonly known PM tools have, i.e. statuses for tasks or task lists.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "However, It lacks some essential features that other commonly known PM tools have"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2022-01-17",
+      "rating": 5,
+      "title": "Best app for project management",
+      "text": "Best app for project management. Very customer friendly. They even let you export your data if your trial expires. The UI is simply amazing. Our team had a great experience using it.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Best app for project management"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2021-05-02",
+      "rating": 5,
+      "title": "Affordable and reliable",
+      "text": "Affordable and reliable. Agree with the direction of the company and products.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Affordable and reliable"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2020-09-23",
+      "rating": 4,
+      "title": "Project Manage to Keep You on Track and Organized",
+      "text": "We manage over 1,200 clients and 40 employees using Basecamp. It does exactly what it needs us to do. We're big fans!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "We manage over 1,200 clients and 40 employees using Basecamp",
+        "resonance_evidence": "We're big fans!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2020-09-14",
+      "rating": 4,
+      "title": "Great user experience",
+      "text": "Great user experience. Very clean and makes organizing projects very easy. Only wish there were templates for best practices for setting up projects",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Great user experience"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2020-08-13",
+      "rating": 5,
+      "title": "Basecamp",
+      "text": "I've always loved Basecamp and have used it for a variety of projects and for personal use as well. It's simple enough to wrap your head around but still has the features you need to get stuff done. It's by far my favorite project & management and team communication tool out there. Additionally, they have a great email app, Hey, which has worked wonders in terms of literally saving me hours a week. Their books It Doesn't Have To Be Crazy At Work and Rework are some of my favorites, and their Rework podcast is one of my favorites as well. Their customer support is some of the best I've seen, often getting back in two or three minutes. Plus, their pricing is extremely fair, and on the low end for all the features provided. I love the fixed pricing model vs per user. All things considered, I highly recommend Basecamp.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "saving me hours a week",
+        "resonance_evidence": "I highly recommend Basecamp"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2020-07-09",
+      "rating": 2,
+      "title": "The marketing was better than the product\u2026",
+      "text": "Thought the marketing was better than the product itself, seems it hasn't changed much over the years, getting left behind now.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "getting left behind now"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2020-01-24",
+      "rating": 3,
+      "title": "It is a very simple project management\u2026",
+      "text": "It is a very simple project management tool that does a lot things decently, just not great. It can do a checklist, but not recurring to-dos. Attached files get embedded so they take up a ton of space. The design of the interface is visually appealing but not the best user experience. The search doesn't do a great job. The folder and document management system is very simplistic. The clientside emails have problems with nested threads and no signature. It is great if you're looking for something simple or work with a lot of contractors that can be added to on a per-project basis. It could be so much better if they'd listen to their users more. I would have switched away a long time ago if it wouldn't be such a nightmare to move project management platforms.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I would have switched away a long time ago if it wouldn't be such a nightmare to move project management platforms"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2020-01-15",
+      "rating": 5,
+      "title": "Basecamp is a fantastic tool",
+      "text": "Basecamp is a fantastic tool. I was disappointed when they discontinued their free and tiered versions few years ago. But now, with this update, small businesses can thrive. On Nov 2019 they launched Basecamp Personal, which I find suitable for my needs",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Basecamp is a fantastic tool"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2020-01-14",
+      "rating": 4,
+      "title": "I used basecamp for many years",
+      "text": "I used basecamp for many years, really professional tool with lack of flexibility and its been main problem for me.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "lack of flexibility and its been main problem for me"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2018-08-14",
+      "rating": 5,
+      "title": "Fan since 2006",
+      "text": "I've been a fan of their apps, and their books like 'Rework', since about 2006",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "I've been a fan of their apps"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2018-04-23",
+      "rating": 5,
+      "title": "I use Basecamp for managing projects",
+      "text": "I use Basecamp for managing projects, my clients like the fact that we can collaborate without problems with lost emails and file upload restrictions. I like it because i have a reliable way of documenting projects, ensuring that clients have a consistent experience for each project and the fact that i can create a new project from a pre-done template. The webiste has never let me down and I often use the app when on the move. In theory it's not just for web designers either, anyone managing projects could use it.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "The webiste has never let me down and I often use the app when on the move"
+      }
+    }
+  ]
+}

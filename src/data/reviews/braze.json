@@ -1,0 +1,856 @@
+{
+  "slug": "braze",
+  "captured_at": "2026-08-12T20:48:37.032020+00:00",
+  "reviews": [
+    {
+      "portal": "G2",
+      "review_id": "13239563",
+      "date": "8/11/2026",
+      "rating": 4.0,
+      "title": "Unified Channels, Precision Engagement",
+      "text": "I love how Braze has united our applications, logins, and event data so a fan's full history is in a single view, making the consolidation invaluable to me. I appreciate the precision in carving out the right audience and delivering the right message at the right moment. The approachability of Braze's interface really stands out, allowing me to build campaigns unaided. I find the integrations straightforward, which helps our data team incorporate Braze into our wider reporting. I also value Braze's timing intelligence, which schedules messages to land when fans are most likely to engage, boosting response rates for our campaigns. I find the content cards limiting because they don't support HTML, which restricts us when we want richer, polished creative. I also found the initial installation challenging, as it required significant involvement from our product and development colleagues.",
+      "role": "Events Services",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/braze/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "boosting response rates for our campaigns",
+        "resonance_evidence": "I love how Braze has united our applications"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13193665",
+      "date": "8/1/2026",
+      "rating": 4.5,
+      "title": "Intuitive Tool with Exceptional Support",
+      "text": "I primarily use Braze to check if our customers are subscribed to the correct communications, and I can manually opt in a customer to a particular communication. It's a really useful tool for a quick reference to instill confidence that the customer has received what they want, when they want it. I find Braze's navigability and format to be intuitive, which makes it easy to use. The support I have received from Braze is second to none, especially when dealing with issues related to Microsoft limiting our throttling. Their advice and support were excellent. I find that more information on why a user's email has become 'invalid' would be helpful. We sometimes see notes that a customer's communication has 'soft bounced' or has become 'invalid' without real context as to how this may have happened or how to address it.",
+      "role": "Verified User",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/braze/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "It's a really useful tool for a quick reference"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13182062",
+      "date": "7/29/2026",
+      "rating": 5.0,
+      "title": "Great UI, Fast Workflows, and Amazing AI Integration",
+      "text": "Great UI, platform that responds quickly to complex engagement workflow, strong support and amazing AI integration Campaign Data expires; email previews exhausts promo codes.",
+      "role": "Verified User in Food & Beverages",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/braze/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Great UI, platform that responds quickly to complex engagement workflow, strong support and amazing AI integration"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13172186",
+      "date": "7/27/2026",
+      "rating": 4.0,
+      "title": "Streamlined Multi-Channel Engagement with Braze",
+      "text": "I like how flexible and easy Braze makes it to build personalized customer journeys. I find Canvas to be one of my favorite features because it simplifies creating and visualizing complex user flows. Liquid allows me to personalize messages based on customer data without any complications. I also appreciate the powerful segmentation, real-time event tracking, and the ability to manage multiple communication channels from one platform. The interface is intuitive, and I can launch campaigns quickly. The reporting tools are helpful in measuring performance and optimizing campaigns over time. One area that could be improved is the Revenue Dashboard. In my experience, the revenue figures don't always align with our internal reporting, which can make it difficult to rely on the dashboard for accurate revenue analysis. Better attribution, improved data accuracy, and more transparent reporting would make this feature much more useful. Other than that, Braze has been a solid platform for managing and automating customer engagement campaigns.",
+      "role": "Verified User in Cosmetics",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/braze/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Braze has been a solid platform for managing and automating customer engagement campaigns"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "8336458",
+      "date": "7/19/2023",
+      "rating": 3.5,
+      "title": "An easy yet indepth CRM",
+      "text": "Push Performance dashboard is super helpful in tracking all things push notifications! The onboarding process can be long but worth it!",
+      "role": "Verified User in Information Technology and Services",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/braze/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Push Performance dashboard is super helpful in tracking all things push notifications!"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "12677264",
+      "date": "4/23/2026",
+      "rating": 4.0,
+      "title": "User-Friendly for First-Time Users, with Helpful Customer Service",
+      "text": "I like how user friendly it is. It is great for first time users and the customer service is always there to help. featuress within canvases and campaigns could be useful to have some hints",
+      "role": "service adminstrator",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/braze/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "I like how user friendly it is. It is great for first time users and the customer service is always there to help."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "12675393",
+      "date": "4/23/2026",
+      "rating": 5.0,
+      "title": "Cutting-Edge Tech Built Right Into the Product",
+      "text": "It incorporates the latest technology and developments into its product. I don\u2019t have anything I dislike about Braze.",
+      "role": "Verified User in Media Production",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/braze/reviews",
+      "sample_order": "most_recent"
+    },
+    {
+      "portal": "G2",
+      "review_id": "7258144",
+      "date": "10/25/2022",
+      "rating": 4.0,
+      "title": "Powerful multi-channel engagement platform",
+      "text": "Braze spent the last year really expanding their AI toolset. The big ones include Decisioning Studio (basically AI instead of manual A/B testing), an Agent Console for building custom AI agents right in Canvas, and a Content Optimizer that auto-generates message variants per person. They also added new channels (RCS, WhatsApp Commerce, Banners), zero-copy warehouse data triggers, and automated email IP warming. Lots of it looks promising, but most of the AI features are still in beta and pretty enterprise-focused. While Braze is a powerful platform, there are a few areas where it could improve. The biggest gap is reporting. There's solid high-level engagement data, but no holistic way to see the cumulative impact of my lifecycle programs, so I still rely on manual analysis to understand each campaign's incremental effect. Beyond that, the pricing model (metered by data points and MAUs) gets expensive. The platform also carries a steep learning curve and heavy QA burden thanks to its reliance on Liquid.",
+      "role": "Verified User in Health, Wellness and Fitness",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/braze/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Lots of it looks promising, but most of the AI features are still in beta and pretty enterprise-focused."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "12996175",
+      "date": "6/23/2026",
+      "rating": 5.0,
+      "title": "User-Friendly Automation with Great Support",
+      "text": "I like how Braze is user-friendly, making it feel like I can hit the ground running without the need for extensive technical skills. The simplicity and user interface are aspects that I really enjoy, and the support team is also good. I mean, I think if the canvas emails could be duplicated or like you can copy existing manual campaigns into canvas journeys, that would be epic. Like it can provide and manually update my canvas in the draft phase and do a before and after like key suggestions and areas of improvement.",
+      "role": "Verified User",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/braze/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "I like how Braze is user-friendly, making it feel like I can hit the ground running without the need for extensive technical skills."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "4864234",
+      "date": "7/14/2021",
+      "rating": 5.0,
+      "title": "Very easy to use and whenever you're having a problem the Braze team is very helpful and efficient.",
+      "text": "The customization, usability, and reporting. After a few uses, Braze becomes very easy to use and navigate. If I ever stop using Braze, Braze will definitely be the standard for customer engagement platforms. Wow, sounds like I'm dating Braze. Anyways, love Braze. I would like to also mention that the Braze Customer Service team is top-notch. If you have a problem, you're guaranteed to get a fast response back. I really enjoy Braze. No significant dislikes come to mind. All previous dislikes have been addressed by product features and developments.",
+      "role": "Audience Acquisition and Engagement Manager",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/braze/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "If I ever stop using Braze, Braze will definitely be the standard for customer engagement platforms. Wow, sounds like I'm dating Braze. Anyways, love Braze."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "7562005",
+      "date": "1/9/2023",
+      "rating": 5.0,
+      "title": "A Powerful and User-Friendly Tool with Exceptional Support",
+      "text": "One of the best aspects of Braze is its user-friendly interface and intuitive canvas-building feature. The platform is very easy to navigate and allows users to easily build (complicated) flows between messages through its straightforward drag-and-drop way of working. In particular, Braze's latest shift towards \"Canvas Flow\" has made building campaigns feel even more intuitive and efficient. Initially, my main complaint with Braze would've been the lack of customization options for in-app messages. However, they are currently rolling out a new drag-and-drop editor for in-app messages, which is looking very promising so that should improve that feature. Another potential downside is that email seems like an expensive channel to maintain, although I don't have any direct comparison to other platforms in terms of pricing.",
+      "role": "Growth Manager",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/braze/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "One of the best aspects of Braze is its user-friendly interface and intuitive canvas-building feature. The platform is very easy to navigate"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "7554317",
+      "date": "1/5/2023",
+      "rating": 4.5,
+      "title": "Braze is a robust, intuitive, and ever improving CRM powerhouse.",
+      "text": "I was new to CRM when I started 3 years ago, and I'm glad to have started with Braze. It was easy to pick up yet sophisticated. Robust without being daunting. It's also ever-evolving. The Braze team is very open and welcoming to critiques and improvements. If there is some feature you can dream of, the Braze team is either already working on it, or will give it to their team. This makes it so you're never quite a master, because there are always new features to learn about and use. Sometimes you need to do workarounds for simple things, such as if you want to deploy a communication at the end of every month, there's no easy way to do that. You can deploy on that same day once a month, but since months change amount of days, it's not ideal.",
+      "role": "Manager, CRM and Personalization",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/braze/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "I was new to CRM when I started 3 years ago, and I'm glad to have started with Braze. It was easy to pick up yet sophisticated."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "7560924",
+      "date": "1/8/2023",
+      "rating": 4.5,
+      "title": "The most complete multichannel CRM tool",
+      "text": "It's the best multichannel tool that I have used. The platform is quite user-friendly and makes creating complex user journeys easy. What is more, the customer service and resources available to learn are very helpful. I also enjoy that they are constantly looking to improve and add new features. Even our product team has adopted Braze and is happy to help us integrate new Braze features so that we can make the most of it. The reporting could be improved as sometimes it's not easy to get the numbers that you would like to, although I know that they are working on it and improvements are on the way. There are more details I could mention, as I've been using the platform for many years. But I greatly appreciate their efforts to improve constantly, especially in the last couple of years.",
+      "role": "Retail",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/braze/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "It's the best multichannel tool that I have used"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "7602069",
+      "date": "1/18/2023",
+      "rating": 4.0,
+      "title": "Great multi-channel tool for Marketing Automation",
+      "text": "Braze is quite user-friendly and it offers really nice options for setting up campaigns with multi-channel approach (including App messaging, Email and others like SMS, Social Media Channels etc.). The tool clearly offers a good view on User behavior across different channels and provides many options to customize the tool and perfectly adapt it to individual Use Cases. The consumption of Data Points have to get monitored closely and some parts could be easier to handle like Webhooks, Personalization and string operators within Segmentation. But there are plenty ways to educate yourself (various Learning paths, which makes it easy to learn).",
+      "role": "Customer Experience Consultant",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/braze/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Braze is quite user-friendly and it offers really nice options for setting up campaigns with multi-channel approach"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "7611382",
+      "date": "1/18/2023",
+      "rating": 5.0,
+      "title": "The Premier Customer Engagement Platform",
+      "text": "Braze is a superior tool and company to other competitors in the market. Braze's feature set and capabilities are more advanced and are constantly being iterated upon and improved. The company also offers a wealth of knowledge on how to use the tool and recommends best practices to advance your business. Their onboarding team held our hands through the implementation process to help us ramp up quickly, and their customer support is highly responsive. I wish you could build campaigns in a dev environment and automatically ship them to prod. I also wish for email that you could click done and it would save as draft vs. having to click done and wait to click save as draft after it finishes saving. Our designers forget to save their work a lot because of that extra step.",
+      "role": "Senior Lifecycle Marketing Manager",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/braze/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Braze is a superior tool and company to other competitors in the market"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "7600528",
+      "date": "1/16/2023",
+      "rating": 5.0,
+      "title": "An easy-to-use platform with great customer support!",
+      "text": "Braze makes it easy for our team to create seamless user experiences across multiple channels in one easy-to-use interface. The platform is intuitive, and the ability to target users on a granular level has allowed us to create personalized experiences, increase engagement, better predict revenue, and reduce churn overall. Braze also offers fantastic customer support - whether it's working through a complex use-case, getting set up on a new channel, or a technical problem, the Braze team is always quick to respond and make time to provide support and it's very much appreciated (special shoutout to Melissa!). Braze has significantly helped us scale our marketing efforts, and I highly recommend it! Braze offers a ton of functionality in terms of liquid language and personalization, but with limited HTML code knowledge, it can sometimes be hard to implement some of the use cases and functionalities we'd like to leverage (also learning on our part that needs to be done!). Small tweaks throughout the platform would improve our team's efficiency and workflows, like the ability to edit multiple emails simultaneously rather than toggling back and forth but overall very happy with the platform.",
+      "role": "Audience Lifecycle Manager",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/braze/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "increase engagement, better predict revenue, and reduce churn overall",
+        "resonance_evidence": "I highly recommend it!"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "7759827",
+      "date": "2/24/2023",
+      "rating": 5.0,
+      "title": "One of the best all around marketing automation platform",
+      "text": "One of the best in the category after working on other platforms such as Hubspot, Pardot, IBM Marketing Cloud, and Mailchimp. Oracle Responsys Straightforward and intuitive UI Excellent ability to create segments and filters, combine them and use them for sending lists, filters or triggers Many advanced scheduling and AB testing options Easy to use journey editor Works with liquid programming language to create complex logic Ability to create Braze-to-Braze API calls that update segments, create custom events and allow a lot of flexibility based on the existing custom fields without a need for a business analyst or a front-end coder The IDE experience lacks more specific errors notification and logging The canvas experience can improve its overall conversion dashboard since canvas doesn't have a delay function as campaigns; you let users enter and start the flow only after a time delay. But they are counted for the conversion, although they didn't go through the flow Braze-to-Braze API should become more simplified and productized. Currently, \"update contact\" on the canvas is only allowing to update of custom fields and not default fields or allow simple calculations Everything else is damn good",
+      "role": "CRM &amp; Email Marketing Automation Consultant",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/braze/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "One of the best in the category after working on other platforms such as Hubspot, Pardot, IBM Marketing Cloud, and Mailchimp"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "8537533",
+      "date": "8/28/2023",
+      "rating": 1.0,
+      "title": "Great features, but there could be better support and help with implementation",
+      "text": "Having a weekly touchbase call with our customer success manager and the features within Braze. There was a rush to get onboarded and we were not onboarded during that 3 month or so period. If you have a question, you just get sent confusing documentation. It is also really hard to get help from technical support. I think customer success managers should be able to answer questions about the features and platforms that are supporting brands. I wish Braze was more open to have a technical support rep for each account or more willing to set up calls with a brand and Braze technical support.",
+      "role": "Manager, Email/SMS",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/braze/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "If you have a question, you just get sent confusing documentation. It is also really hard to get help from technical support."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "7143344",
+      "date": "11/22/2022",
+      "rating": 4.5,
+      "title": "One Stop Marketing Platform Braze allows for all Marketing to be done in the same place.",
+      "text": "Braze allows for all Marketing to be done in the same place using many touch points, including Email, SMS, Push, and in app Content Cards & Newsfeeds. The Canvases and Campaigns available will allow any user to create the right path for every type of customer. The segmenting feature is critical in pinpointing the ideal customer to receive the correct Marketing content. The Braze Learning and Documentation in Resources is crucial to supporting the creation of campaigns and troubleshooting issues. Lastly, the speed of Braze Support response after ticket submission allows the team to quickly resolve issues so we never miss an opportunity to engage with our customers. The Canvas view made adjusting the many steps in a canvas slightly complicated. Thankfully, Braze has now migrated over to Canvas Flow tool, which simplifies the entire Canvas creation process.",
+      "role": "Senior Product Manager",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/braze/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Braze allows for all Marketing to be done in the same place using many touch points"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "2667394",
+      "date": "7/4/2019",
+      "rating": 5.0,
+      "title": "Amazing tool, even more amazing support team",
+      "text": "I love how powerful, complex, yet instinctive Braze is. It's everything our company needs to reach our users and whenever we have an issue with something or an idea for a campaign that we aren't quite sure how to set up, our Braze rep is there to help. It's been a beyond amazing first year using Braze. My only disappointment has been the fact that in-app notifications weren't supported in their canvas tool, however, I know they are working on integrating it soon!",
+      "role": "Communications Manager",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/braze/reviews",
+      "sample_order": "highest_rated"
+    },
+    {
+      "portal": "G2",
+      "review_id": "3067953",
+      "date": "8/27/2019",
+      "rating": 5.0,
+      "title": "Easy to manage CRM system",
+      "text": "It\u2019s really easy to create CRM campaigns Integration with third party platforms is quite straight forward",
+      "role": "Verified User in Media Production",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/braze/reviews",
+      "sample_order": "highest_rated"
+    },
+    {
+      "portal": "G2",
+      "review_id": "3278595",
+      "date": "9/24/2019",
+      "rating": 5.0,
+      "title": "Highly recommend",
+      "text": "Once we launched our first campaign through Braze, we haven't stopped. It's super easy to get campaigns up and running, set conversion goals, and measure impact. You can communicate with your customers across email, push, in-app, and content card integrations. If you're looking for a customer engagement platform for your app, I'd suggest considering them as a partner. On top of the tool itself, we've found our reps to be fantastic -- always helping us figure out how we can further leverage all the offerings of the tool. As of now, we tend to measure most of our conversion events using custom events through mParticle. This is not always a robust enough solution, so our Analytics team will often need to do a deep dive to get more detailed results.",
+      "role": "Verified User in Financial Services",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/braze/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Once we launched our first campaign through Braze, we haven't stopped."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "3287678",
+      "date": "9/25/2019",
+      "rating": 5.0,
+      "title": "Amazing service with amazing customer support",
+      "text": "The tool is incredibly easy to use, instinctive but the customer support you receive is what impresses me the most. I always get the help I need. I cannot say that I dislike anything about Braze. It's saved me so much time and frustration from previous tools we had in the past.",
+      "role": "Communications Manager",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/braze/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "It's saved me so much time and frustration from previous tools we had in the past."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "3342703",
+      "date": "10/2/2019",
+      "rating": 5.0,
+      "title": "Braze consistently improves",
+      "text": "Braze is an extremely robust tool with a short learning curve. Building out new lifecycle strategies and campaigns was extremely simple. While there are a lot of functionalities, no CRM/ESP service will ever have every feature that all of their competitors have. Braze does a great job to meet the needs of their clients onto the roadmap. Braze's reporting function is still a work in progress. It's getting better but reporting still requires a bit of work. The visual reports are not very helpful, which makes it difficult to track where users are dropping off.",
+      "role": "Verified User in Accounting",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/braze/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Braze is an extremely robust tool with a short learning curve. Building out new lifecycle strategies and campaigns was extremely simple."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "724950",
+      "date": "5/30/2018",
+      "rating": 5.0,
+      "title": "Engagement & Retention Manager",
+      "text": "\\- User friendly UX \\- Housing multiple channels in one platform \\- Canvas \\- Campaign automation \\- Stores user data \\- Constantly adding new features \\- Friendly, responsive and proactive account managers We would like it if the platform had more in depth reporting.",
+      "role": "Broadcast Media",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/braze/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "User friendly UX"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "729381",
+      "date": "6/5/2018",
+      "rating": 5.0,
+      "title": "One of the best CRM platform on the market",
+      "text": "\\- Easy to use \\- New features each quarter & constant improvements \\- All channels in one platform (push, in-app messages, email, web-push, web popup, newsfeed) \\- Reliable for apps with high volume of users \\- Canvas feature with easy testing, control group & mutlichannel possibilities \\- Nice support team, very available \\- Price (although it is worth it) \\- They could improve reports from Canvas, but I know they are working on it.",
+      "role": "Internet",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/braze/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Easy to use"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "808145",
+      "date": "7/27/2018",
+      "rating": 5.0,
+      "title": "Functional and Easy to Use",
+      "text": "Braze is extremely intuitive, which is very refreshing after working with a couple of other marketing platforms in my career. The analytics is not very robust, but being that it is a relatively new product, I am sure there is more to come as the Braze team takes feedback very well.",
+      "role": "Verified User in Financial Services",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/braze/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Braze is extremely intuitive, which is very refreshing after working with a couple of other marketing platforms in my career."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "831281",
+      "date": "8/6/2018",
+      "rating": 5.0,
+      "title": "Great product to work with",
+      "text": "It\\`s a very easy tool to work with... Much easier than many others on the market and with same / better functionalities. Braze team is constantly improving the product and launching new features. Our success manager is very prepared and always responsive and ready to help. Visualisation of campaign performance could be improved.",
+      "role": "Verified User in Health, Wellness and Fitness",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/braze/reviews",
+      "sample_order": "highest_rated"
+    },
+    {
+      "portal": "G2",
+      "review_id": "11097350",
+      "date": "4/29/2025",
+      "rating": 0.0,
+      "title": "Expensive, constant price increases and hostile behavior",
+      "text": "As a startup Braze doesn\u2019t care about you. Prices get increased constantly and we told them that we will wire the bill in a week. Result: they close the account. 5 days later it\u2019s still not reactivated though the bill is paid. You\u2019re better off looking for another tool. Expensive, hard to use, long time to implement, unfriendly staff and team when you need something",
+      "role": "Verified User in Computer Software",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/braze/reviews",
+      "sample_order": "lowest_rated"
+    },
+    {
+      "portal": "G2",
+      "review_id": "7339555",
+      "date": "11/9/2022",
+      "rating": 0.0,
+      "title": "Not user friendly but many available features",
+      "text": "The push notifications and in-app messages look good. I also think that the people behind Braze are very kind and responsive, and knowledgeable. I also like that there is so much you can do on Braze, and some of it is intuitive but there is so much we still need to learn and that is difficult to navigate. I like that there are many features that we can use to enhance the promotion of our content. It is inconsistent and requires a lot of backend work that isn't easy to get. It is also hard to figure out how to accomplish certain things on Braze. The Braze team is great but there is a disconnect because we are not computer engineers and don't understand certain things like advanced HTML and SDK. We want to make the most of our pushes to get users to watch our content but we are currently limited with what we can accomplish based on what we know.",
+      "role": "Verified User in Media Production",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/braze/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "I like that there are many features that we can use to enhance the promotion of our content. It is inconsistent and requires a lot of backend work that isn't easy to get."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "7292633",
+      "date": "11/2/2022",
+      "rating": 0.0,
+      "title": "Would not recommend to a novice",
+      "text": "It seems like there's a lot of ways to slice and dice audiences. I haven't yet run into an issue where I wanted to target a specific group of users based on an action and wasn't able to. It is NOT user friendly. I've used other systems that have similar functionality to Braze (ex: Customer.io) and even though I was new to those systems, they were incredibly easy to figure out and start leveraging. One major issue I have is that whenever you set an onboarding flow live, you're unable to make any adjustments to the emails in the middle of the journey. If you want to do that, you either have to wipe out the existing content and add your new stuff in OR duplicate the entire flow and push ppl to the new one. It's absolutely ridiculous. I find the Help Center to be fairly blah in how helpful it is \u2014 I have had excellent success leveraging the Slack community, though. Very happy to see that resource available.",
+      "role": "Verified User in Computer Software",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/braze/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "It is NOT user friendly. I've used other systems that have similar functionality to Braze (ex: Customer.io) and even though I was new to those systems, they were incredibly easy to figure out and start leveraging."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "8842265",
+      "date": "11/8/2023",
+      "rating": 0.0,
+      "title": "The Worst Onboarding Experience of my Career",
+      "text": "It's a very robust platform with a lot of opportunity for growth. The onboarding was atrocious. We worked with as many people as possible to try to get it right, but effectively our small start up threw $6,000 out the window. We have had to rely on our own reading and re-reading to make our investment work. If I could go back in time, I would have chosen another platform.",
+      "role": "Verified User in Information Technology and Services",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/braze/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "our small start up threw $6,000 out the window",
+        "resonance_evidence": "If I could go back in time, I would have chosen another platform."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "7979737",
+      "date": "4/21/2023",
+      "rating": 1.0,
+      "title": "Braze review by a PMM",
+      "text": "There are various automations, easy dashboard to follow with a clean set-up. Not intuitive, limited capabilities for companies that don't have access to developers. Customer support takes a long time and is frustrating with too email rounds.",
+      "role": "Verified User in Financial Services",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/braze/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "There are various automations, easy dashboard to follow with a clean set-up. Not intuitive, limited capabilities for companies that don't have access to developers."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "11584587",
+      "date": "8/22/2025",
+      "rating": 1.0,
+      "title": "Still in the onboarding stages of Braze...but dissapointed so far",
+      "text": "I really love how robust Braze is. We're able to bring in Segment data from our mobile app and build out a more robust in-app marketing experience. Our team also appreciates inboxvision to see how our emails will be received in different inbox providers. I really dislike the onboarding and customer support experience. I'm not quite sure how the Bronze package is supposed to go but we've had an onboarding consultant who doesn't know much about the platform in terms of our specific niche use cases and support tickets that take 2-3 days to be responded to when our I.P. warming is failing. The integration documentation and revenue attribution documentation is outdated and our onboarding partner tells us that Braze is getting rid of it's products section but cannot tell us how to bring revenue attribution into our platform. When asked if Braze will even have revenue attribution, I was told they weren't sure. Which is the main reason we chose Braze over a competitor. Implementing Braze has actually been such a bad experience and left us to have to dig to find things ourselves because we have an onboarding consultant that doesn't know a lot about the platform. Integrating Shopify events isn't straigth forward or user friendly at all even though it appears to be.",
+      "role": "Lifecycle Marketing Manager",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/braze/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "support tickets that take 2-3 days to be responded to",
+        "resonance_evidence": "Implementing Braze has actually been such a bad experience and left us to have to dig to find things ourselves"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "9420738",
+      "date": "3/13/2024",
+      "rating": 1.5,
+      "title": "Clunky interface makes graphics difficult",
+      "text": "Although not perfect, the buttons are a good feature to make spacing among the various elements in a newsletter. The interface is cumbersome to navigate across the various sections back and forth. In using Braze every day for a while, I found images difficult to shape properly for even the most basic shapes.",
+      "role": "Verified User in Marketing and Advertising",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/braze/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Although not perfect, the buttons are a good feature to make spacing among the various elements in a newsletter. The interface is cumbersome to navigate across the various sections back and forth."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "12595399",
+      "date": "4/7/2026",
+      "rating": 1.5,
+      "title": "Easy Email Design, Poor Integrations",
+      "text": "I like Braze's ability to send easy-to-design emails across segments. The UI is very modern and user-friendly, which makes it easy to use, especially since I have to work across different teams to send emails without needing someone technical to create the visuals. Additionally, I find the feature for monitoring metrics across sends quite valuable. Terrible integrations. There is no native integration with Salesforce. If you are a B2B company as well, this platform will not work for your business. Awful initial setup took 4 months.",
+      "role": "Sr Marketing Manager",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/braze/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "Awful initial setup took 4 months",
+        "resonance_evidence": "Terrible integrations. There is no native integration with Salesforce. If you are a B2B company as well, this platform will not work for your business."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "8131856",
+      "date": "5/23/2023",
+      "rating": 2.0,
+      "title": "I use Braze everyday at work with my company Going.",
+      "text": "I like the design. Braze is user friendly and easy to use. I dislike that there are limits when looking at when a member receives an email if it's been past 30 days. Also how I can't search for certain emails sent out.",
+      "role": "Verified User in Marketing and Advertising",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/braze/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "I like the design. Braze is user friendly and easy to use. I dislike that there are limits"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "September 12, 2025",
+      "rating": null,
+      "title": null,
+      "text": "The ability to visualize customer journeys and orchestrate campaigns (Canvas etc.), which helps with planning, debugging, and optimizing over time.",
+      "role": "Customer Service Representative",
+      "company_size": "51-200 employees",
+      "source_url": "https://www.capterra.com/p/155423/Appboy/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "The ability to visualize customer journeys and orchestrate campaigns (Canvas etc.), which helps with planning, debugging, and optimizing over time."
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "September 12, 2025",
+      "rating": null,
+      "title": null,
+      "text": "Some limitations or friction with custom event handling, identity management, or naming conventions. If your data isn\u2019t clean or you don\u2019t have strict internal standards, things can get messy.",
+      "role": "Customer Service Representative",
+      "company_size": "51-200 employees",
+      "source_url": "https://www.capterra.com/p/155423/Appboy/reviews/",
+      "sample_order": "page"
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "September 15, 2025",
+      "rating": null,
+      "title": null,
+      "text": "Canvas journeys are able to support our complex subscription flows, creating and augmenting the SMS campaigns is also simple.",
+      "role": "Lifecycle Marketing",
+      "company_size": "51-200 employees",
+      "source_url": "https://www.capterra.com/p/155423/Appboy/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Canvas journeys are able to support our complex subscription flows, creating and augmenting the SMS campaigns is also simple."
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "February 25, 2025",
+      "rating": null,
+      "title": null,
+      "text": "some small bugs in the campaign/canvas search where it didn't retain the same page after i click to campaign and press back, the search logic in the content block also a bit messed up",
+      "role": "CRM Lead",
+      "company_size": "51-200 employees",
+      "source_url": "https://www.capterra.com/p/155423/Appboy/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "some small bugs in the campaign/canvas search where it didn't retain the same page after i click to campaign and press back, the search logic in the content block also a bit messed up"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "June 2, 2025",
+      "rating": null,
+      "title": null,
+      "text": "The new-age capabilities offered by braze such as intelligent timing, AI assistant for liquid, AI Copywriting assistant are the gamechanger.",
+      "role": "Marketing Automation Specialist",
+      "company_size": "5,001-10,000 employees",
+      "source_url": "https://www.capterra.com/p/155423/Appboy/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "The new-age capabilities offered by braze such as intelligent timing, AI assistant for liquid, AI Copywriting assistant are the gamechanger."
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "July 21, 2025",
+      "rating": null,
+      "title": null,
+      "text": "The 2kb limit for the Content Card UI element is restrictive, especially when trying to include rich media or detailed messaging, which can hinder campaign flexibility and user experience.",
+      "role": "Business Analyst",
+      "company_size": "1,001-5,000 employees",
+      "source_url": "https://www.capterra.com/p/155423/Appboy/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "The 2kb limit for the Content Card UI element is restrictive",
+        "resonance_evidence": "The 2kb limit for the Content Card UI element is restrictive, especially when trying to include rich media or detailed messaging, which can hinder campaign flexibility and user experience."
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "May 21, 2025",
+      "rating": null,
+      "title": null,
+      "text": "The user interface is clean and the use of different canvas and campaign tabs (like you have on an internet browser) is a great way at effectively working through different canvases at a time.",
+      "role": "Digital Marketing Automation Specialist",
+      "company_size": "10,001+ employees",
+      "source_url": "https://www.capterra.com/p/155423/Appboy/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "The user interface is clean and the use of different canvas and campaign tabs (like you have on an internet browser) is a great way at effectively working through different canvases at a time."
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "September 12, 2025",
+      "rating": null,
+      "title": null,
+      "text": "Sometimes managing many branching workflows, many segments, event taxonomies, etc., gets tedious.",
+      "role": "Customer Service Representative",
+      "company_size": "51-200 employees",
+      "source_url": "https://www.capterra.com/p/155423/Appboy/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "gets tedious"
+      }
+    },
+    {
+      "portal": "Gartner Peer Insights",
+      "review_id": null,
+      "date": "Mar 27, 2026",
+      "rating": 4.0,
+      "title": "Long-Term Platform Use Highlights Reliable Data Handling and Community Engagement",
+      "text": null,
+      "body_gated": true,
+      "role": "Marketing Associate",
+      "company_size": "250M - 500M USD, Travel and Hospitality",
+      "sentiment_label": "FAVORABLE",
+      "source_url": "https://www.gartner.com/reviews/product/braze-customer-engagement-platform",
+      "sample_order": "page"
+    },
+    {
+      "portal": "Gartner Peer Insights",
+      "review_id": null,
+      "date": "Jun 16, 2025",
+      "rating": 3.0,
+      "title": "Braze Enhances User Targeting Yet Struggles With Design Integration and Flexibility",
+      "text": null,
+      "body_gated": true,
+      "role": "Designer",
+      "company_size": "<50M USD, Telecommunication",
+      "sentiment_label": "CRITICAL",
+      "source_url": "https://www.gartner.com/reviews/product/braze-customer-engagement-platform",
+      "sample_order": "page"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-11",
+      "rating": 1,
+      "title": "Braze attemped to access 19 personal\u2026",
+      "text": "Braze attemped to access 19 personal identifiers via the ScrewFix app. I have not used Braze so I don't understant why they're trying to steal my data other that for there own profit. I understand in this day and age that data is money/profit to unethical companies. So in some way as Braze has attempted to access my mobile phone to harvest my person details without my consent I feel this review is warranted and I have screen shots of the number of attempts they have made to back my claim up.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/braze.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I feel this review is warranted and I have screen shots of the number of attempts they have made to back my claim up"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2023-02-16",
+      "rating": 5,
+      "title": "They have a great customer support and\u2026",
+      "text": "They have a great customer support and the tool is flexible, finally I can send personalised communications! 5 stars for me.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/braze.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "finally I can send personalised communications",
+        "resonance_evidence": "5 stars for me"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2022-09-23",
+      "rating": 2,
+      "title": "Really poor customer service",
+      "text": "Really poor customer service. This is a technical product, but the technical support doesn't really seem to know what they're doing, nor do they seem to try terribly hard to figure it out. They tend to reply with more vague questions that sound like they didn't really read your questions.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/braze.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    }
+  ]
+}

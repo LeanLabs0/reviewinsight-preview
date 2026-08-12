@@ -1,0 +1,2602 @@
+{
+  "slug": "wrike",
+  "captured_at": "2026-08-12T20:48:37.032020+00:00",
+  "reviews": [
+    {
+      "portal": "G2",
+      "review_id": "13253871",
+      "date": "8/12/2026",
+      "rating": 4.0,
+      "title": "Baseline Gantt Comparisons and Blueprints Make Project Tracking Effortless",
+      "text": "Did not think I would care about this feature but the baseline comparison on the Gantt view actually got my attention, shows what we planned versus what's actually happening so I can point to exactly where a project slipped instead of just saying \"yeah it's late.\" Also use blueprints a lot for stuff we run over and over, saved me from rebuilding the same task list every time a similar request comes through. Time tracking gets messy if I'm bouncing between a few tasks quick, forgot to stop the timer more than once and had to go fix the hours after the fact.",
+      "role": "Senior Software Engineer",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/wrike/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "saved me from rebuilding the same task list every time a similar request comes through",
+        "resonance_evidence": "the baseline comparison on the Gantt view actually got my attention"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "11079741",
+      "date": "4/24/2025",
+      "rating": 5.0,
+      "title": "Using Wrike For Collaborative Work",
+      "text": "As both a daily user and Wrike administrator, I continue to appreciate the platform's flexibility and scalability. The improvements to dashboards, automated workflows, request forms, and reporting have helped reduce manual administration and improved project visibility. The real-time collaboration features, custom item types, and integrations make it easier to manage complex projects while ensuring teams stay aligned and informed. While Wrike is a powerful project management platform, there is still room for improvement in advanced calculations and data analysis capabilities. Calculated custom fields remain more limited compared to Excel or dedicated BI tools, making complex reporting challenging. Enhanced dashboard customization, more advanced formula options, and greater flexibility in cross-project reporting would further strengthen Wrike for power users and administrators managing large portfolios.",
+      "role": "Conformance and Project Engineer",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/wrike/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": true,
+        "resonance": "lukewarm",
+        "results_evidence": "helped reduce manual administration and improved project visibility",
+        "resonance_evidence": "While Wrike is a powerful project management platform, there is still room for improvement in advanced calculations and data analysis capabilities."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "11198140",
+      "date": "5/20/2025",
+      "rating": 5.0,
+      "title": "Wrike Experience",
+      "text": "I really like the fact that you can add subtasks and tag multiple assigned/unassigned employees. Is nice to be able to break out larger projects. It would be nice if Wrike fully integrated with NetSuite, google, and AI meeting notes. if they do, I have not seen it and would like to be notified about it.",
+      "role": "Verified User in Consulting",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/wrike/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "I really like the fact that you can add subtasks and tag multiple assigned/unassigned employees"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "11020629",
+      "date": "4/5/2025",
+      "rating": 2.0,
+      "title": "Difficult to follow projects",
+      "text": "The Kanban view is great and helps with following tasks and projects advancement! Wrike is difficult to customize. We went from Wrike to Notion for this exact reason. Notion offers many macros and automations that Wrike do not offer yet.",
+      "role": "Technical Support Specialist",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/wrike/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "We went from Wrike to Notion for this exact reason"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "11062561",
+      "date": "4/18/2025",
+      "rating": 4.5,
+      "title": "User friendly project management tool",
+      "text": "Easy to customize fields and organize projects based on your preferred timeline, e.g. fiscal year. Can save filters to only show my current projects, but does not allow this filter to be set as a default. I have to re-load my saved filter every time I want to view it.",
+      "role": "Verified User in Higher Education",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/wrike/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Easy to customize fields and organize projects based on your preferred timeline, e.g. fiscal year. Can save filters to only show my current projects, but does not allow this filter to be set as a default"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "11115523",
+      "date": "5/2/2025",
+      "rating": 3.0,
+      "title": "Good for project management with colleagues, not very useful as a personal to-do list",
+      "text": "Wrike has a plethora of opportunities for collaboration and project tracking. It is helpful when managing tasks with colleagues (especially across departments). From Gantt charts to actual task tracking to a calendar view, it is a very helpful tool. As a project management tool, Wrike has all of the right features! In the future, I would like to see more options for a personal to-do list so that all of my tasks can be viewed in one place.",
+      "role": "Verified User in Higher Education",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/wrike/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "As a project management tool, Wrike has all of the right features!"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13182844",
+      "date": "7/29/2026",
+      "rating": 4.0,
+      "title": "Proofing and Version History That Streamline Creative Reviews",
+      "text": "We do a lot of creative review cycles and the proofing feature where you mark up directly on an image or pdf has cut out so much confusion. Before, feedback was scattered across emails and slack screenshots with arrows drawn on in some random app, now it's all pinned right on the actual file with version history so nobody's looking at outdated art by mistake. Cross tagging tasks into multiple folders is useful but it took me a while to realize a task shows up everywhere it's tagged, so early on I accidentally created near duplicate tasks thinking cross tagging worked differently.",
+      "role": "Information Technology and Services",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/wrike/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "the proofing feature where you mark up directly on an image or pdf has cut out so much confusion. Before, feedback was scattered across emails and slack screenshots with arrows drawn on in some random app, now it's all pinned right on the actual file with version history",
+        "resonance_evidence": "has cut out so much confusion"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13175609",
+      "date": "7/28/2026",
+      "rating": 5.0,
+      "title": "Easy Onboarding, Powerful Dashboards, and Seamless Global Collaboration",
+      "text": "The ability to collaborate with teams across the globe. The onboarding is quite easy and people figure out how to use it quite quickly. I have my calendar integration turned on which massively helps to not miss deadlines. The interface is quite straight forward to use, things are usually where I expect them to be, the dashboards in particular are my favourite feature to track all of our projects. By creating blueprints we have cut down on time when it comes to setting up projects and we have added detailed request forms to make sure we get as much information as possible in advance, which cut down on the time spent on back and forth previously. Switching between space and account views can be clunky. If things re opened on account level you cannot change space level statuses for example which can be frustrating as our team uses specific statuses.",
+      "role": "Marketing Associate",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/wrike/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "By creating blueprints we have cut down on time when it comes to setting up projects and we have added detailed request forms to make sure we get as much information as possible in advance, which cut down on the time spent on back and forth previously",
+        "resonance_evidence": "The ability to collaborate with teams across the globe. The onboarding is quite easy and people figure out how to use it quite quickly"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13143174",
+      "date": "7/22/2026",
+      "rating": 4.5,
+      "title": "Simple Interface, Seamless Real-Time Collaboration and Instant Reporting",
+      "text": "I like how wrike uses simple interface and great user experience technique. The Project helps in seamless connectivity with the global team on a realtime basis and supports report generation and sharing at an instant. Sometimes I don't like the usability where it forces me to open the project from the scratch if I close any popup window of any subtask of a project's task. There are minor things which Wrike can get better.",
+      "role": "Furniture",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/wrike/reviews",
+      "sample_order": "most_recent"
+    },
+    {
+      "portal": "G2",
+      "review_id": "13123318",
+      "date": "7/17/2026",
+      "rating": 5.0,
+      "title": "Improving Project Visibility Across Teams",
+      "text": "Wrike has made it much easier to keep projects organized and ensure everyone is working with the latest information. I like the flexibility to create custom workflows, assign tasks, and monitor progress through dashboards. It works well for coordinating projects with multiple stakeholders and helps reduce the need for constant status meetings. The platform includes many features, but that can also make it feel overwhelming at first. Some actions require more clicks than expected, and certain settings aren't always easy to locate. It takes time for new users to become fully comfortable with the interface.",
+      "role": "Real estate director",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/wrike/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "helps reduce the need for constant status meetings",
+        "resonance_evidence": "Wrike has made it much easier to keep projects organized and ensure everyone is working with the latest information"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "25560",
+      "date": "8/8/2014",
+      "rating": 5.0,
+      "title": "Fantastic team/self task management in a browser",
+      "text": "I especially like that I can set up my own set of tasks and projects, alongside those of my work colleagues, all in a single browser window. It has a bit too much power for simple, repetitive tasks, but is fantastic for managing projects that take a lot of time to complete. Sharing documents is really simple, and the Gantt chart is incredibly powerful. I have also found the Wrike staff to be very responsive to comments, very thorough in documenting how-to's and new feature promotions, and very quick in upgrading the site. You're going to make me use up 40--forty--characters to say that I don't see anything I dislike so far. And I have to add more characters just to build my review grade. I understand the logic, but I have not found anything that bothers me yet.",
+      "role": "Professional Training & Coaching",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/wrike/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "I especially like that I can set up my own set of tasks and projects"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "71543",
+      "date": "11/18/2015",
+      "rating": 4.5,
+      "title": "Wrike was the Right Choice for our Team",
+      "text": "Gantt chart -- This helps with projects that are complex and require various tasks or phases to be completed in order to develop a final project. We simply could not plan product releases effectively without this! Folders & Projects -- Organization is incredibly important when managing projects for several different facets (customer-driven, sales-driven, marketing-driven, etc) and the fact that I can manipulate and move projects into different folders helps me watch a project as it travels through our \"workflow\" from inception to delivery. Tasks -- Not only developing unlimited tasks and sub-tasks with deadlines, but also being able to assign them to different people within our teams has allowed us to have a central point to work from. I highly appreciate the ability to duplicate folders with their included tasks as our workflow is often repeated for similar projects. I would like to be able to create dependencies between projects since at times the completion of (or a milestone in) one project triggers the start of a separate project. ETA: I have learned that by creating a project with various sub-folders I can set inter-dependencies of projects. Well done Wrike! With sub-tasks, I find myself wishing that changing a tasks' deadline would also change the subtasks' deadlines. When I push things forward or backward with the Gantt chart, I then have to go into each subtask and adjust them as well. Sometimes, it seems easier to make everything tasks so I can use the cause/effect of dependencies. ETA: I have found a way to set a start to start dependency from the task to the sub tasks which moves the subtasks according to any change to the start of the main task. Well done Wrike! Duration can be confusing at times given that sometimes a task will take a bit of time daily over several days, but not necessarily all day. Group several tasks like that together and planning resources becomes difficult because you cannot distinguish how much ACTUAL time on a given day is neede",
+      "role": "Photography",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/wrike/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "We simply could not plan product releases effectively without this!"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "614318",
+      "date": "2/8/2018",
+      "rating": 4.5,
+      "title": "Wonderful tools.",
+      "text": "I can say that it is a very good method of the communication side in which I can an easily save a history of the conversation. An easy way to solve the working process for projects in such a way as to report all working team of tasks about when to start our the project. Also, it is nicecontrol service for all of us. We don't receive any hard problems which can make bad things to our working process. Generally, the platform is used for all our team and we are glad to work with it.",
+      "role": "Integration Specialist",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/wrike/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "we are glad to work with it"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "28927",
+      "date": "11/5/2014",
+      "rating": 4.5,
+      "title": "An excellent tool for tracking projects, and it's getting better!",
+      "text": "If you're constantly managing projects and many small and big details in your work, you NEED a tool like Wrike. Wrike makes it easy to quickly create new tasks and assign them to folders that can correspond to different areas of your company or responsibilities, and Wrike also allows you to see what your colleagues are working on and see what their work load is as well. I'm sure that I haven't even begun to scratch the surface of all the things I could do with Wrike. I also love that Wrike is still improving on what they do! I recently was thinking that it would be great to have a list of the tasks that I want to accomplish for the day, and a few weeks later there was an update to Wrike and lo and behold, they added a daily to-do list! I'm a big fan of Wrike. One con was that at one point one of the Wrike keyboard shortcuts for Mac stopped working for me, and when I reached out to their customer support team and exchanged a few emails with them, they told me that the shortcut was working fine and that they'd confirmed this with their developers, although I confirmed that it definitely wasn't working for me. It continued to not work for me, so I had to abandon use of that shortcut until I noticed a couple months later that it was working again. That was frustrating because I work with web technology and am very savvy in computers and web interfaces, and I felt like my issue was pushed aside because the representatives thought that I was incorrect.",
+      "role": "Software Portfolio Manager",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/wrike/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "you NEED a tool like Wrike"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "28933",
+      "date": "11/5/2014",
+      "rating": 4.0,
+      "title": "Collaboration Gone Wild!!",
+      "text": "Hands down I like the ease of use. It is very easy to use this tool whether you are PMP or a new employee with any company. The output options for information you may need to export outside of the system are just 2 clicks and done. The charts and graphs are flexible enough to appeal to the various types of users you might have in your company. For example, if you have someone that prefers to see a list of action items vs someone that was to see a pie chart. The transtion between these functions are only a couple of clicks away as opposed to closing out and refreshing or worse yet- a complex code of sorts. That is not necessary with Wrike... it is a very user friendly tool that allows not just the people within your company to collaborate and keep track of business plan progression... but also other companies and partners outside of your business can also collaborate with you. All of this while keeping your company specifics visible only to those within your company eco-system. Great Tool. Honestly at this time I don't dislike anything about Wrike. What I would like are more options to specific to the exports that I routinely pull. In addition, I could benefit from having the ablity to schedule an export from Wrike... that would be AWESOME.",
+      "role": "Financial Services",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/wrike/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Hands down I like the ease of use"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "25549",
+      "date": "8/8/2014",
+      "rating": 4.5,
+      "title": "Fantastic Project Management Solution for Creative Teams",
+      "text": "I love that Wrike integrates with all my devices, with a variety of methods of communication, allowing me to constantly stay up-to-date on open and completed projects. I can assign tasks on the go with a quick email, using Wrike's intuitive short-code system, including images or email attachments. My largest complaint with Wrike after using it for the past year and half was the inability to create subtasks within a task, to better organize and manage our large scale projects. Fortunately, the team at Wrike is presently building this feature, and because of Wrike Labs, I have had a chance to play with it and provide feedback directly to the team. Once there is a way to import tasks with subtask dependencies directly into Wrike, I will be a happy man. Depressing, but true.",
+      "role": "Hospitality",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/wrike/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "I love that Wrike integrates with all my devices"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "25728",
+      "date": "8/17/2014",
+      "rating": 5.0,
+      "title": "How to get a clear head and a massive 'done' list!",
+      "text": "Wrike's folder approach allows me to give tasks multiple categories. This means that I can slice my projects any way I like and can see all the relvant tasks. I really love the customer support. Any time I've had a question or issue, they have responded within a day. They have treated me like a real person, not just a problem! They have always solved the problem first time. The user interface is intuitive and fun - it's helped me to get clients who have resisted project management actually managing thier projects for the first time - result! The Help guides and videos are very clear and easy to understand. They are always improving the product and you can be part of the Beta test programme, which allows you to try out new features early. It's very hard to think of anything! From a personal perspective, as I am in multiple Wrike accounts, it would be good to be able to move taks between them sometimes. However, that's a small niggle, and probably doesn't apply to many people and/or circumstances. Everything else is brilliant!",
+      "role": "Information Technology and Services",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/wrike/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "it's helped me to get clients who have resisted project management actually managing thier projects for the first time - result!",
+        "resonance_evidence": "Everything else is brilliant!"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "34332",
+      "date": "1/23/2015",
+      "rating": 0.5,
+      "title": "Be cautious with the practices of this Cloud Applications",
+      "text": "As a cloud consulting provider we have tried various project collaboration and task management software of all sizes and shapes both for our internal use and recommendation to our customers. While the functionality is getting better and they have been building it based on \"Task management\" and not project management principles. So if you are looking purely to address your task management needs then this is the tool. Vendor product support is surprisingly harsh and rude. I have dealt with 3 different reps and their attitude and response has been - sorry this is how its is, so take it or leave it. One, their contracts are one-sided and locked in. So if you are looking to get out, you better watch out for those dates, as if you realize they charged the CC and you call them to cancel it, too bad, its already paid - no refunds. Even its one day after they charged.",
+      "role": "Verified User in Information Technology and Services",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/wrike/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Vendor product support is surprisingly harsh and rude"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "67358",
+      "date": "10/21/2015",
+      "rating": 5.0,
+      "title": "Perfect Solution to a Difficult Problem",
+      "text": "The simplicity and flexibility of Wrike are something that others seem to really get wrong. With creative arrangement of Wrike folders, we're able to sort all tasks by department and agency client. We can then dump every task directly into our custom marketing reports every month with a perfectly designed API. And when we want to use the Wrike interface, their draggable waterfall views remain about the best project management interface I could dream up. All the while, they do it without interfering with the flexibility above. I don't really care for the default dashboard, or much of their reporting (although I know they've been working hard on it). I don't really fault Wrike so much for that, as it is that it's just not built for our company alone. In our case, we have red/yellow/green alarms for dozens of metrics, pulled from a variety of sources, and unless the software had been written just for us, I can't imagine that they ever had a chance of solving those sorts of issues. Outside of that, its' perfect.",
+      "role": "Founder, CEO",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/wrike/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "its' perfect"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "12401",
+      "date": "4/23/2013",
+      "rating": 1.5,
+      "title": "Leaves much to be desired",
+      "text": "I enjoy that Wrike allows for real-time collaboration with team fellow members on projects and tasks via commenting, attaching files, and requesting status updates. I also like the outlook connector that allows all replies to wrike emails to be added to the appropriate Wrike task without having to login to the system. NO CALENDAR VIEW!!! Despite having its infamous timeline view, which links individual tasks in a project and allows for automatic-adjustment of subsequent tasks and entire projects when a related task is modified, there is still no calendar view. Especially when working with hard deadlines, the ability to have a calendar month view, possibly one that is exportable/printable is invaluable and is severely needed within the Wrike system.",
+      "role": "Marketing and Advertising",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/wrike/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "NO CALENDAR VIEW!!! Despite having its infamous timeline view"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "2035966",
+      "date": "4/2/2019",
+      "rating": 5.0,
+      "title": "Easy and effective",
+      "text": "Ease if use and set up. Our marketing team rolled out Wrike to get a better handle on marketing requests. It has made a big difference in tracking and organizing and prioritizing requests. We are growing fast and multiple, unmanaged requests can not only overwhelm the team, but requests can fall through the cracks. Wrike provides the team with visibility. There is really nothing I dislike about the experience. Wrike has really helped a small team provide better service.",
+      "role": "Director",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/wrike/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "It has made a big difference in tracking and organizing and prioritizing requests",
+        "resonance_evidence": "Wrike has really helped a small team provide better service"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "2029535",
+      "date": "4/1/2019",
+      "rating": 5.0,
+      "title": "Wrike has changed how our teams work together",
+      "text": "It gives a central location for communicating and tracking work on projects Training the company on how to use has been our biggest challenge",
+      "role": "Mechanical or Industrial Engineering",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/wrike/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Training the company on how to use has been our biggest challenge"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "2479371",
+      "date": "6/11/2019",
+      "rating": 5.0,
+      "title": "Work efficient!",
+      "text": "I love that I am able to keep track of all of my projects and categorize them for my needs I don't like how when you delete a version of the file it is not easily recoverable, maybe an \"undo\" button would be helpful.",
+      "role": "Verified User in Health, Wellness and Fitness",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/wrike/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "I love that I am able to keep track of all of my projects and categorize them for my needs"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "3100179",
+      "date": "8/29/2019",
+      "rating": 5.0,
+      "title": "Perfect project manager for big group of members.",
+      "text": "It has a in-app chart feature Task auto-assignment is very good One is able to track and monitor progress. We did not experience much difficulties and challenges with the software.",
+      "role": "Research",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/wrike/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "We did not experience much difficulties and challenges with the software"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "3153811",
+      "date": "9/7/2019",
+      "rating": 5.0,
+      "title": "The easiest tool for managing projects",
+      "text": "Ease of use, no too many information on the dashboard, great design and UX That i have to pay for the Gant Chart, and other futures.",
+      "role": "General Manager",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/wrike/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "That i have to pay for the Gant Chart, and other futures"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "3151470",
+      "date": "9/7/2019",
+      "rating": 5.0,
+      "title": "Review for wrike",
+      "text": "I love wrike because it has collaborative work management tools that provide a central location for communication.It also increases visibility and transparency which keeps the users updated What i dislike about wrike is that it takes a little bit of time to get used to, so businesses that are planning to use Wrike it must give room for an adequate learning curve",
+      "role": "Retail",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/wrike/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "I love wrike because it has collaborative work management tools that provide a central location for communication.It also increases visibility and transparency"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "3124485",
+      "date": "9/3/2019",
+      "rating": 5.0,
+      "title": "Multifunctional online solution)..",
+      "text": "Super powerful tool the best that exists Designed to maintain control is my solution, so I call it since I use wrike everything has changed but for the better they are multifunctional that with it I can track the projects. Perform reports, assign tasks automatically. Its installation has nothing to complicate. It is very simple this tool gives us a free version which we can take advantage of to know even more the platform is based on the cloud .Saas, web. It is amazing all the advantages that I acquired when using it. .. . , is simply one of the best equipment and project management programs in the market..A platform like this will not succeed..the best in the world. I do not find any negative aspect about this application for me it has been the most extraordinary platform I have used. I wish it was more striking and colorful. Rest the best..",
+      "role": "Administradora",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/wrike/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Super powerful tool the best that exists"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "3145930",
+      "date": "9/6/2019",
+      "rating": 5.0,
+      "title": "The BEST Organizational tool available!",
+      "text": "What don't I like about wrike?! This tool keeps me organized and on top of my many on-going projects. It's the best \"to do\" list I've ever used. The ability to communicate with team members within the platform is another awesome feature. Parts of it might be a little difficult to navigate - but I honestly don't utilize those features, which probably doesn't help. However, I might it they were a bit more user friendly.",
+      "role": "Verified User in Marketing and Advertising",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/wrike/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "It's the best \"to do\" list I've ever used"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "2886463",
+      "date": "7/31/2019",
+      "rating": 5.0,
+      "title": "Ease of operation",
+      "text": "The user friendly design on this platform has been a pleasant cohesive experience with my business. It's been introduced to several of our employees with a strong positive consensus Some of the tutorial videos were a little confusing at times",
+      "role": "Verified User in Health, Wellness and Fitness",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/wrike/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "has been a pleasant cohesive experience with my business"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "871883",
+      "date": "9/7/2018",
+      "rating": 0.0,
+      "title": "Beware the upsell and horrible pricing model",
+      "text": "Feature rich, but honestly I don't have much good to say about Wrike at all. Hard to setup, hard to get team members to adopt, sold us much more than we needed, awful pricing model. Felt taken advantage of and refused to give any type of refund when we weren't using their service after many months.",
+      "role": "Information Technology and Services",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/wrike/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I don't have much good to say about Wrike at all"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "2047318",
+      "date": "4/3/2019",
+      "rating": 0.0,
+      "title": "Wrike is unorganized and overwhelming",
+      "text": "It is detailed and useful to have a detailed list of tasks, which Wrike provides The dates in the entire project don\u2019t shift when you change the start and end date, for projects with 40+ tasks changing dates for each task is impossible. Wrike gets cluttered fast when you have a lot of projects with a lot of tasks in each one. Whole system is over complicated.",
+      "role": "Verified User in Market Research",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/wrike/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "for projects with 40+ tasks changing dates for each task is impossible",
+        "resonance_evidence": "Whole system is over complicated"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "327399",
+      "date": "7/9/2017",
+      "rating": 0.0,
+      "title": "Not set up for consulting or external marketing",
+      "text": "Make sure Wrike can do what you need. They hit the basics and their sales team is super responsive, but once you sign on they are gone and you are on your own with very poor customer support. I have tried emailing folks at wrike all the way up the chain of command and have not gotten a response or even interest on how they can improve and I was trying to provide feedback most companies are trying to get their customers to provide. Very disappointed. Customer support. Billing. Time management system (horrible and they should not list that as a feature).",
+      "role": "Verified User in Public Relations and Communications",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/wrike/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Very disappointed"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "233610",
+      "date": "1/26/2017",
+      "rating": 0.0,
+      "title": "Horrible on boarding. Tool seems to be ok.",
+      "text": "We may not be using best practices but we've established a hierarchy and workflow that works for our team. Their on boarding is terrible. Talking to anyone from the company is terrible. To get anything done they require you schedule a 30 minute meeting which ends up being a discovery call so they can set up an actual meeting and go over your questions. You ask for a meeting on a Monday morning and schedule it for Wednesday mid-day, but they don't respond with meeting information, the conference line, or any call-in details until 9pm on Tuesday. I would never recommend this to anyone. In fact, had we not already paid and implemented, my team considered ripping it out and going with Asana.",
+      "role": "Verified User in Internet",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/wrike/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "You ask for a meeting on a Monday morning and schedule it for Wednesday mid-day, but they don't respond with meeting information, the conference line, or any call-in details until 9pm on Tuesday",
+        "resonance_evidence": "I would never recommend this to anyone"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "432444",
+      "date": "10/20/2017",
+      "rating": 0.0,
+      "title": "Terrible experience",
+      "text": "it has a lot of useful features, that many established companies can take advantage of. Hard to get everybody on it. Also didn\u2019t help that their team said we can get out of contract, but sent me to collections anyway",
+      "role": "Verified User in Entertainment",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/wrike/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "sent me to collections anyway"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "487212",
+      "date": "12/5/2017",
+      "rating": 0.0,
+      "title": "What a mess",
+      "text": "Ease in adding one-off tasks and modifying them Everything else: duplicating repetitive tasks. the complicated nature of setting up templates and request forms, the inflexibility of the sorting options, etc. I can go on and on.",
+      "role": "Verified User in Hospitality",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/wrike/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I can go on and on."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "785547",
+      "date": "7/19/2018",
+      "rating": 0.0,
+      "title": "Avoid Wrike - terrible customer service",
+      "text": "Wrike was a good tool for project management, though the interface is frustratingly complex in places. After being a customer for 2 years they massively increased our renewal price. It's now totally unaffordable and we're having to move to an alternative, which is especially annoying after the amount of time it took to train our staff in Wrike.",
+      "role": "Paul M.",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/wrike/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "we're having to move to an alternative"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "11090142",
+      "date": "4/27/2025",
+      "rating": 0.0,
+      "title": "An okay scheduling and task management tool - a terrible Project and Portfolio Management tool",
+      "text": "Wrike has good features for creating automations for individual tasks, and has some nice resource management features. Wrike is highly deficient when it comes to Project and Portfolio Management. There is no RAID logging functionally at all, and Project Status Reporting is incredibly weak.",
+      "role": "PMO Analyst",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/wrike/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Wrike is highly deficient when it comes to Project and Portfolio Management."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "4809361",
+      "date": "6/19/2021",
+      "rating": 0.0,
+      "title": "Worst experience I\u2019ve ever had with a software provider",
+      "text": "Absolutely nothing - Wrike team are con artists. We were tricked during the sales process - they told us they had many clients who migrated implementation work from wrike to smartsheets and that they would help us do migrate. After going live they suddenly couldn't find any examples, clients or provide any help and we are forced to abandon the system completely. What's worse , they refuse to give us a penny back on our 1 year contract. Their ethics and their team above all; software should not be sold for implementation management, it's a task management tool",
+      "role": "Co-Founder and President",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/wrike/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Wrike team are con artists"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "4604027",
+      "date": "2/17/2021",
+      "rating": 0.0,
+      "title": "Wrike Sucks",
+      "text": "Nothing Bad UI Bad CS auto billing even after you cancel Just sucks all around Wow! Wrike is essentially a scam. They have quick talking sales people that promise you everything under the sun but their software is far from what is sold. I expressed my dissatisfaction after only 2 sessions and asked to cancel. (Terrible UI, limited automaton, don\u2019t try to manage multiple custom projects with varying requirements) WATCH OUT- they automatically charge your card even after you try to cancel- very shady business practices. Check out anybody else, you can\u2019t do worse. DONT BUY- SCAM",
+      "role": "Verified User in Apparel & Fashion",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/wrike/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Wrike is essentially a scam"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "April 16, 2026",
+      "rating": null,
+      "title": null,
+      "text": "It is a robust platform that helps centralize project management, improve workflow visibility, and keep teams aligned across multiple demands and deadlines.",
+      "role": "Head of Client Service",
+      "company_size": "201-500 employees",
+      "source_url": "https://www.capterra.com/p/76113/Wrike/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "It is a robust platform that helps centralize project management, improve workflow visibility, and keep teams aligned"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "April 24, 2026",
+      "rating": null,
+      "title": null,
+      "text": "The high cost of learning wrike, with the intricacies of blueprints, automations, workflows, rules, and then people coming/going from an organization causes a massive amount of learning and rework.",
+      "role": "Manager, Marketing Technology",
+      "company_size": "1,001-5,000 employees",
+      "source_url": "https://www.capterra.com/p/76113/Wrike/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "causes a massive amount of learning and rework"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "June 3, 2026",
+      "rating": null,
+      "title": null,
+      "text": "The ability to assign tasks, track progress, manage deadlines, and maintain clear communication within teams significantly improves productivity and accountability.",
+      "role": "Project Coordinatore",
+      "company_size": "51-200 employees",
+      "source_url": "https://www.capterra.com/p/76113/Wrike/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "significantly improves productivity and accountability"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "April 20, 2026",
+      "rating": null,
+      "title": null,
+      "text": "I\u2019ve also run into occasional bugs and issues\u2014nothing catastrophic, but enough small glitches or odd behaviors to interrupt my flow. And while the platform is powerful, that power comes with a learning curve; onboarding new teammates can take longer than I\u2019d like.",
+      "role": "Events Marketing Coordinator",
+      "company_size": "1,001-5,000 employees",
+      "source_url": "https://www.capterra.com/p/76113/Wrike/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "occasional bugs and issues\u2014nothing catastrophic, but enough small glitches or odd behaviors to interrupt my flow"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "April 21, 2026",
+      "rating": null,
+      "title": null,
+      "text": "We demoed over 10 PM tools from Basecamp to Monday to Asana to Workzone and Wrike won with it's attention to custom field management, flexible request forms, and sophisticated organizational tools.",
+      "role": "Marketing Technologist",
+      "company_size": "5,001-10,000 employees",
+      "source_url": "https://www.capterra.com/p/76113/Wrike/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "We demoed over 10 PM tools from Basecamp to Monday to Asana to Workzone and Wrike won",
+        "resonance_evidence": "Wrike won with it's attention to custom field management, flexible request forms, and sophisticated organizational tools"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "April 23, 2026",
+      "rating": null,
+      "title": null,
+      "text": "The interface, while powerful, can feel cluttered when many projects and automations are in play, and performance can sometimes lag with very large data sets.",
+      "role": "VP, Customer Engagement",
+      "company_size": "201-500 employees",
+      "source_url": "https://www.capterra.com/p/76113/Wrike/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "can feel cluttered when many projects and automations are in play, and performance can sometimes lag"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "May 13, 2026",
+      "rating": null,
+      "title": null,
+      "text": "Great project management tool that allows my team to work efficiently towards a common goal and remain updated with the latest edits or approvals through the status feature",
+      "role": "Marketing Coordinator",
+      "company_size": "10,001+ employees",
+      "source_url": "https://www.capterra.com/p/76113/Wrike/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Great project management tool that allows my team to work efficiently towards a common goal and remain updated with the latest edits or approvals"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "April 20, 2026",
+      "rating": null,
+      "title": null,
+      "text": "I'm not sure why I get projects from closer to 2020. Or if I search for a series of words, it will single out projects with a single word from my search rather than all of the keywords together to find the specific project I am looking for.",
+      "role": "Marketing Associate",
+      "company_size": "10,001+ employees",
+      "source_url": "https://www.capterra.com/p/76113/Wrike/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "it will single out projects with a single word from my search rather than all of the keywords together to find the specific project I am looking for"
+      }
+    },
+    {
+      "portal": "Gartner Peer Insights",
+      "review_id": null,
+      "date": "Feb 12, 2026",
+      "rating": 5.0,
+      "title": "Tool Enables Deep Collaboration Across Departments But High Cost Limits Access",
+      "text": null,
+      "body_gated": true,
+      "role": "Director Of Business Applications",
+      "company_size": "<50M USD, Consumer Goods",
+      "sentiment_label": "FAVORABLE",
+      "source_url": "https://www.gartner.com/reviews/product/wrike",
+      "sample_order": "page"
+    },
+    {
+      "portal": "Gartner Peer Insights",
+      "review_id": null,
+      "date": "May 8, 2026",
+      "rating": 3.0,
+      "title": "Wrike is intuitive for basic project management but needs improvement in automation, reporting and admin governance for complex projects",
+      "text": null,
+      "body_gated": true,
+      "role": "Manager",
+      "company_size": "<50M USD, Software",
+      "sentiment_label": "CRITICAL",
+      "source_url": "https://www.gartner.com/reviews/product/wrike",
+      "sample_order": "page"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-08-05",
+      "rating": 2,
+      "title": "Good for some, not for others",
+      "text": "Wrike has a lot of features, but in our case, it fell short where it mattered most. A core requirement for us is the ability to generate job numbers for billing and tracking. Without that, we couldn\u2019t realistically implement the platform. At the same time, many basic tasks felt more complicated than they needed to be, which made adoption even harder for our team. Despite very limited usage, we were locked into a renewal due to the 30-day cancellation policy, with no flexibility offered. If your workflow depends on operational fundamentals like job tracking\u2014and you value simplicity for everyday use\u2014I\u2019d strongly recommend confirming both the feature set and usability upfront.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-08",
+      "rating": 1,
+      "title": "absolutely awful customer service",
+      "text": "i work for the marketing department in a larger non profit and we have been using wrike for three years. i initiated the contract renewal process with wrike customer service in feb. after being bounced around to various people because our previous account rep now had a different role, im still working on getting this done. its weeks between customer service replies, the information being provided to me was consistently inaccurate (i had to figure out my own renewal amount!), the rep refuses to provide a clean contract thru an e-signature platform (supposedly their new rule is that i has to be pre-signed on their end, provided as a pdf), and literally no one cares to help. ive already tried to be reassigned (they wont do it), ive tried to have another wrike person help move the convos along (they dont), and now im in the middle of a 4 month waste of time for a simple and straight renewal on our existing contract. seriously wish we could go somewhere else...",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "its weeks between customer service replies",
+        "resonance_evidence": "seriously wish we could go somewhere else"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-02-27",
+      "rating": 1,
+      "title": "THEY DO NOT CARE ABOUT CUSTOMERS!",
+      "text": "We\u2019ve been a long-time customer of Wrike, and unfortunately both the renewal process and the decline in customer support have been incredibly disappointing. Wrike used to offer phone and Zoom support. Now support is primarily handled via email tickets, which has significantly slowed down resolution times. As a U.S.-based company, it\u2019s also frustrating that support appears to be largely overseas, creating time zone delays when issues arise during our business hours. When your entire team is operating inside a platform daily, timely and accessible support isn\u2019t optional \u2014 it\u2019s critical. Beyond that, the renewal process has been rigid and transactional. As a small business and long-standing customer, we expected some level of flexibility or goodwill. Instead, there was no meaningful accommodation or courtesy adjustment \u2014 just a \u201crenew as-is\u201d stance. THEY DO NOT CARE ABOUT CUSTOMERS! We will be leaving the platform in 2026.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "Wrike used to offer phone and Zoom support. Now support is primarily handled via email tickets, which has significantly slowed down resolution times.",
+        "resonance_evidence": "THEY DO NOT CARE ABOUT CUSTOMERS! We will be leaving the platform in 2026."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-11-20",
+      "rating": 5,
+      "title": "This is manageable",
+      "text": "This is manageable, offering smooth coordination for teams. It's AI features and flexible setup support organized project work, though the support team sometimes takes a while to respond.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "This is manageable, offering smooth coordination for teams"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-10-17",
+      "rating": 1,
+      "title": "BAD CUSTOMER SERVICE, AVOID!",
+      "text": "So far, not so good. This company clearly doesn\u2019t like dealing with customers. \ud83d\ude02 Feels impossible to actually speak to someone. Upon signing up, you immediately receive email spam. The free trial is too short to actually explore the environment if you\u2019re a busy professional and when I asked for an extension, they said they extended it but the features were all gone. I don\u2019t appreciate the AI chat bot that is utterly useless and an email form that has no option to add comments. Feels as though they have put a tech wall between clients and sales that frankly leaves a terrible first impression for anyone wanting to invest in the platform. Needs some serious work in this area. The only reason why I\u2019m pursuing is because no other option. Otherwise, would happily go to any one of their better competitors.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-09-10",
+      "rating": 3,
+      "title": "Good collaboration platform!",
+      "text": "Good collaboration platform!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-09-03",
+      "rating": 3,
+      "title": "\u0939\u092e\u0928\u0947 \u0905\u092a\u0928\u0940 \u091f\u0940\u092e \u092e\u0947\u0902 \u0915\u0941\u091b \u092e\u0939\u0940\u0928\u094b\u0902 \u0924\u0915 Wrike\u2026",
+      "text": "\u0939\u092e\u0928\u0947 \u0905\u092a\u0928\u0940 \u091f\u0940\u092e \u092e\u0947\u0902 \u0915\u0941\u091b \u092e\u0939\u0940\u0928\u094b\u0902 \u0924\u0915 Wrike \u0915\u093e \u0909\u092a\u092f\u094b\u0917 \u0915\u093f\u092f\u093e\u0964 \u0915\u0941\u0932 \u092e\u093f\u0932\u093e\u0915\u0930 \u0905\u0928\u0941\u092d\u0935 \u0938\u0915\u093e\u0930\u093e\u0924\u094d\u092e\u0915 \u0930\u0939\u093e: \u092f\u0939 \u092a\u094d\u0932\u0947\u091f\u092b\u093c\u0949\u0930\u094d\u092e \u0935\u093e\u0938\u094d\u0924\u0935 \u092e\u0947\u0902 \u092c\u0939\u0941\u0924 \u092b\u093c\u0902\u0915\u094d\u0936\u0928\u0932 \u0939\u0948, \u091c\u093f\u0938\u092e\u0947\u0902 \u0915\u0908 \u0938\u0941\u0935\u093f\u0927\u093e\u090f\u0901 \u0939\u0948\u0902 \u2014 \u091c\u0948\u0938\u0947 \u0917\u0948\u0902\u091f \u091a\u093e\u0930\u094d\u091f\u094d\u0938, \u092d\u0942\u092e\u093f\u0915\u093e\u0913\u0902 \u0915\u0940 \u0932\u091a\u0940\u0932\u0940 \u0938\u0947\u091f\u093f\u0902\u0917 \u0914\u0930 \u0907\u0902\u091f\u0940\u0917\u094d\u0930\u0947\u0936\u0928 \u0935\u093f\u0915\u0932\u094d\u092a\u0964 \u0915\u0908 \u092a\u094d\u0930\u094b\u091c\u0947\u0915\u094d\u091f\u094d\u0938 \u0915\u094b \u090f\u0915 \u0938\u093e\u0925 \u092e\u0948\u0928\u0947\u091c \u0915\u0930\u0928\u093e \u0914\u0930 \u0915\u093e\u0930\u094d\u092f\u094b\u0902 \u0915\u0940 \u092a\u094d\u0930\u0917\u0924\u093f \u0915\u094b \u091f\u094d\u0930\u0948\u0915 \u0915\u0930\u0928\u093e \u0935\u093f\u0936\u0947\u0937 \u0930\u0942\u092a \u0938\u0947 \u0906\u0938\u093e\u0928 \u0925\u093e\u0964 \u0939\u093e\u0932\u093e\u0902\u0915\u093f, \u0938\u092e\u092f \u0915\u0947 \u0938\u093e\u0925 \u0939\u092e\u0947\u0902 \u090f\u0939\u0938\u093e\u0938 \u0939\u0941\u0906 \u0915\u093f \u0939\u092e\u093e\u0930\u0940 \u091f\u0940\u092e \u0915\u0947 \u0932\u093f\u090f Wrike \u0915\u0941\u091b \u091c\u093c\u094d\u092f\u093e\u0926\u093e \u0939\u0940 \u091c\u091f\u093f\u0932 \u0925\u093e\u0964 \u0907\u0938\u0915\u093e \u0907\u0902\u091f\u0930\u092b\u093c\u0947\u0938 \u0938\u092e\u091d\u0928\u0947 \u092e\u0947\u0902 \u0938\u092e\u092f \u0932\u0917\u0924\u093e \u0939\u0948, \u0914\u0930 \u0915\u0941\u091b \u092a\u094d\u0930\u0915\u094d\u0930\u093f\u092f\u093e\u090f\u0901 \u0906\u0935\u0936\u094d\u092f\u0915\u0924\u093e \u0938\u0947 \u0905\u0927\u093f\u0915 \u0915\u0920\u093f\u0928 \u0932\u0917\u0924\u0940 \u0925\u0940\u0902\u0964 \u0939\u092e\u0928\u0947 \u090f\u0915 \u0938\u0930\u0932 \u0914\u0930 \u0938\u0939\u091c \u091f\u0942\u0932 \u0915\u0940 \u0924\u0932\u093e\u0936 \u0936\u0941\u0930\u0942 \u0915\u0940 \u2014 \u0914\u0930 \u0905\u0902\u0924\u0924\u0903 \u090f\u0915 \u0910\u0938\u0947 \u092a\u094d\u0932\u0947\u091f\u092b\u093c\u0949\u0930\u094d\u092e \u092a\u0930 \u091a\u0932\u0947 \u0917\u090f \u091c\u094b \u0939\u092e\u093e\u0930\u0947 \u0915\u093e\u092e \u0915\u0930\u0928\u0947 \u0915\u0947 \u0924\u0930\u0940\u0915\u0947 \u0915\u0947 \u0932\u093f\u090f \u092c\u0947\u0939\u0924\u0930 \u0938\u093e\u092c\u093f\u0924 \u0939\u0941\u0906\u0964 Wrike \u092c\u0921\u093c\u0940 \u091f\u0940\u092e\u094b\u0902 \u0914\u0930 \u091c\u091f\u093f\u0932 \u092a\u094d\u0930\u094b\u091c\u0947\u0915\u094d\u091f\u094d\u0938 \u0915\u0947 \u0932\u093f\u090f \u090f\u0915 \u092c\u0947\u0939\u0924\u0930\u0940\u0928 \u0935\u093f\u0915\u0932\u094d\u092a \u0939\u0948, \u0932\u0947\u0915\u093f\u0928 \u0905\u0917\u0930 \u0906\u092a\u0915\u0947 \u0932\u093f\u090f \u0938\u0930\u0932\u0924\u093e \u0914\u0930 \u0917\u0924\u093f \u091c\u093c\u094d\u092f\u093e\u0926\u093e \u092e\u0939\u0924\u094d\u0935\u092a\u0942\u0930\u094d\u0923 \u0939\u0948, \u0924\u094b \u0906\u092a \u0915\u093f\u0938\u0940 \u0905\u0927\u093f\u0915 \u092e\u093f\u0928\u093f\u092e\u0932\u093f\u0938\u094d\u091f\u093f\u0915 \u0938\u092e\u093e\u0927\u093e\u0928 \u092a\u0930 \u0935\u093f\u091a\u093e\u0930 \u0915\u0930 \u0938\u0915\u0924\u0947 \u0939\u0948\u0902\u0964",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "\u0915\u0941\u0932 \u092e\u093f\u0932\u093e\u0915\u0930 \u0905\u0928\u0941\u092d\u0935 \u0938\u0915\u093e\u0930\u093e\u0924\u094d\u092e\u0915 \u0930\u0939\u093e"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-07-14",
+      "rating": 1,
+      "title": "Test account was great, paid plan was a complete disaster",
+      "text": "after switching to the paid program, I lost most of the functionalities that I inteded to use - although this was NOT indicated on the website! After contact with support, I could not even upgrade to a more expensive plan, as it was not available for only 2 people. I had issues with uploading and dowloading images and videos (what was exactly my intention of use of wrike) and custumor support was not able to solve this, even after repeated contact. Ask to cancel my subscription, but was charged a year after anyway without any prior notice, but charged directly on to my creditcard. Customer support is useless. Trial account works great, but once you paid the entire tool is shit. Severly requested (very basic) functionalities by users are not even developed, essential functionalities do not work. It is complete garbage.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "It is complete garbage."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-06-19",
+      "rating": 5,
+      "title": "Wrike - Project source of truth",
+      "text": "Wrike has helped us go from multiple forms of project management to one source of truth. Our experience has helped us to keep a near real time updates and progress of all our project portfolio, from simple to very complex projects. We have created a standard workflow to help us reduce the waste of creating projects manually.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "go from multiple forms of project management to one source of truth",
+        "resonance_evidence": "Wrike has helped us go from multiple forms of project management to one source of truth"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-22",
+      "rating": 5,
+      "title": "Wrike? Sign me up!",
+      "text": "First and foremost, we needed a project management system, and Wrike did the trick. Once we realized the power we held, it exploded in our department and across the organization. We have dedicated team members who are constantly improving efficiencies with Wrike automation and workflows. If I could be a Wrike sponsor, sign me up!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "If I could be a Wrike sponsor, sign me up!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-22",
+      "rating": 4,
+      "title": "Excellent software",
+      "text": "Excellent software with enough versality but too much so it does not get unmanageable. A nice addition would be the hability to use dynamic fields.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Excellent software with enough versality"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-21",
+      "rating": 5,
+      "title": "Intuitive Project Management",
+      "text": "Wrike is the most intuitive project management tool I've used in 20+ years of marketing communications. It's a bonus to have deep experience in project management, but even our newest employees are able to benefit from using the tool. The biggest downside is convincing people who've had negative experinces with other PM tools that Wrike isn't like the others.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Wrike is the most intuitive project management tool I've used in 20+ years of marketing communications"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-21",
+      "rating": 5,
+      "title": "Increase Visibility",
+      "text": "Wrike has made a huge difference for our team. It\u2019s helped us work better across departments by keeping everything in one place and making it easy to see who\u2019s working on what. The visibility into everyone\u2019s workload has helped us stay on track, assess overload, and get things done more smoothly. It\u2019s been a game changer for collaboration and staying aligned.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Wrike has made a huge difference for our team"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-21",
+      "rating": 5,
+      "title": "Wrike is Versatile and Listens!",
+      "text": "I first started using Wrike over 4 years ago and at first was a little overwhelmed by the onboarding. Since then I have come to appreciate the robust tools and versatility of the system. You can make your processes as simple or as detailed as you wish, but don't miss out on all of the ways you can automate your workflow and workload. One of the things I appreciate is the weekly updates that continually evolve the tools. These keep me abreast of the changes and build on great ideas. There are a few things I wish would be addressed, but workarounds have helped find a middle ground until they get them on the product roadmap. I do feel heard in their product feedback forums, though, when I see a feature that I've wished for get added.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "I first started using Wrike over 4 years ago and at first was a little overwhelmed by the onboarding. Since then I have come to appreciate the robust tools and versatility of the system."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-21",
+      "rating": 5,
+      "title": "Customizable scheduling software",
+      "text": "I love how Wrike can be tailored to meet the needs of my company. By using automations, custom workflows, and custom item types, we are able to have Wrike do the hard work for us. While this does result in more setup time initially, it works great! There is still a few key functions like task reminders that I wish were a part of the software. We have also been loving the calendars and workload charts to show accurate pictures of how busy our schedule is.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "it works great!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-16",
+      "rating": 5,
+      "title": "I'd like to give Wrike 1,000 stars",
+      "text": "I'd like to give Wrike 1,000 stars! We've been using Wrike since 2018, and have scaled to over 2500 people across our organization. As we scaled, our needs for moving toward enterprise licensing was incredibly important to ensure we had the features that each team needed to be successful. We've adopted a Wrike-first mindset, which means if it isn't in Wrike it doesn't exist. When your team is on the same page as you - everything becomes crystal clear and transparent. Wrike's customer success teams, sales teams, community teams, support teams, and product teams are Second to NONE. They love their customers - they consider us (ALL their clients) their partners, and our thoughts and needs to be of the upmost priority. It's about a relationship more than providing a service. They have done this consistently for the 8+ years I've engaged with them. Outstanding.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "We've been using Wrike since 2018, and have scaled to over 2500 people across our organization.",
+        "resonance_evidence": "I'd like to give Wrike 1,000 stars!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-15",
+      "rating": 5,
+      "title": "Streamlined Process",
+      "text": "Wrike has allowed me to track my projects in a whole new way! With its seamless process I can jump in and update my project in real time with my project team. I can see where everyone else is on their project and we can look at all of our open and pending requests. Wrike has streamlined all of my projects and I don't think I can ever go back!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "I don't think I can ever go back!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-15",
+      "rating": 4,
+      "title": "Wrike is easy to navigate",
+      "text": "Wrike is easy to navigate, has good collaboration capabilities as well as many AI tools to streamline processes. This work management tool allows a lot of customization which helps with project tracking and reporting. There are some issues with the support responsiveness.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "There are some issues with the support responsiveness."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-14",
+      "rating": 5,
+      "title": "Wrike's blueprints and custom forms are game-changers!",
+      "text": "Wrike's blueprints and custom forms have been a game-changer for our workflows! The blueprint feature has allowed us to streamlined our project initiation process, promoting consistency and efficiency across our global teams. Custom forms allow us to effortlessly capture project request details and incorporate them into our plans, minimizing unnecessary back-and-forth communication. Finally, Wrike's dashboards and real-time reporting tools offer complete transparency into project statuses and team performance. These tools ensure that all teams, along with management, remain consistently informed and aligned, boosting overall accountability and progress tracking.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Wrike's blueprints and custom forms have been a game-changer for our workflows!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-14",
+      "rating": 5,
+      "title": "Wrike is essential for my way of\u2026",
+      "text": "Wrike is essential for my way of working now! It has transformed the way I work with the rest of our teams. With the automation and template functions, I'm able to work more efficiently, effectively, and collaboratively. It has been beneficial for our continuously growing team, which is always adapting to our changing needs.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Wrike is essential for my way of working now! It has transformed the way I work with the rest of our teams."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-14",
+      "rating": 5,
+      "title": "Wrike is Awesome",
+      "text": "Wrike and Wrike Integrate have been crucial for our team in creating efficiencies and managing our tasks and projects. The smart Gantt charts have helped us communicate better timelines for our clients. The automated updates and reminders have been very helpful for a team with a large workload and managing various tasks at different stages.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Wrike and Wrike Integrate have been crucial for our team in creating efficiencies"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-12",
+      "rating": 5,
+      "title": "Streamlining work for a small team",
+      "text": "Our team has been using Wrike for the past three years, and it has completely changed how we manage our workflows. One of the biggest transformations has been in how streamlined and fast our operations have become. Wrike is now our source of truth for all things marketing. The customer service at Wrike deserves a special mention as well. Their team is quick to respond, knowledgeable, and always helpful. With Wrike blueprints, we've developed repeatable processes that save time and ensure consistency. It provides a structure we can rely on while still allowing flexibility when needed.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "it has completely changed how we manage our workflows"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-12",
+      "rating": 5,
+      "title": "Wrike has been improving features and\u2026",
+      "text": "Wrike has been improving features and adding the new filter which has started to become a game changer!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "has started to become a game changer"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-09",
+      "rating": 5,
+      "title": "Wrike: The Clear Choice",
+      "text": "I work for a large company that decided to move away from a well-known project management system about two years ago. To select a new system, we formed a task force comprised of PMOs from across our enterprise. Over six months, our task force attended multiple demos, consulted colleagues from other companies, and built a matrix to track our findings. With more than 20 potential platforms on our list, we gradually narrowed it down to a few\u2014but Wrike stood out as the clear choice. Its ease of use and the elegance of its dashboards were particularly impressive. We also appreciated its BI tool, Analytics, which offers deeper insights into our data, enabling the creation of powerful reports and dashboards. Since migrating to Wrike, our team has established an organized environment that keeps our work structured while providing valuable dashboards and reports to share with leadership and stakeholders.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Wrike stood out as the clear choice"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-09",
+      "rating": 4,
+      "title": "Having the Wrike team to support your project management initiatives",
+      "text": "We have an excellent Wrike team that meets with us regularly. We have Monthly and quarterly meetings for different groups in our organization, plus the team is available to us anytime we have questions or just want to run some thoughts by them. Their best practice support is wonderful. I had been asked to create a report/dashboard for a department that would display some specific details about a new process in their area. I was able to call our Wrike team and walk through the different options and visuals that I could create for the department. After showing the department what was available for them, they excitedly chose two different displays; one for the team and one higher level for executives. Being able to talk with Wrike experts to find all of our options is essential for me to be able to provide support to my internal customers.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "We have an excellent Wrike team"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-09",
+      "rating": 5,
+      "title": "From Chaos to Clarity: Wrike Made It Happen",
+      "text": "Adopting Wrike has been a game-changer for our team. Coming from no formal system at all, the structure and clarity it has brought to our workflows are a huge improvement. One of the most valuable features has been the ability to document every step of a task\u2014saving us significant time and effort. No more trying to remember what we did last time or where things were left off; everything is there and easy to follow. Collaboration has also become much smoother. Wrike makes it easy for colleagues to work together, track progress, and share updates. Our manager now has clear visibility into everyone's workload and ongoing tasks, which helps with balancing responsibilities and avoiding burnout. Another major advantage is the continuity it provides. Knowledge and task history are easily accessible to new team members, making transitions smoother when staff leave or new employees join. On top of all this, Wrike helps us plan better for the future by giving us a central place to align on goals and upcoming projects. Overall, Wrike has added a layer of efficiency and accountability that we were missing before. It\u2019s truly improved the way we work as a team. This review was AI-generated, but the views expressed are honest and my own.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "saving us significant time and effort",
+        "resonance_evidence": "Adopting Wrike has been a game-changer for our team"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-08",
+      "rating": 5,
+      "title": "Collaboration made seamless!",
+      "text": "I've been using Wrike for 2 years now and I love it! I've held multiple roles at my same org, all while using Wrike: PM, operational associate, Technical PM. Wrike drastically reduces wasted time spent on email, allowing for quick and informative comments directed to specific colleagues, all in the relevant project space. I can automate most anything, including outsourcing my project checkins and followups! In the 2 years I've been using this product, I've seen it improve its functionality and usability by leaps and bounds. On multiple occasions, I've seen my own comments or feedback turned into new features or functionalities. It takes a bit of getting used to, and you must establish clear business processes within the app, otherwise you end up with jangled mess. But Wrike's built-in training modules and project/space templates make it easy for orgs of any size to begin using it.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "Wrike drastically reduces wasted time spent on email",
+        "resonance_evidence": "I've been using Wrike for 2 years now and I love it!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-08",
+      "rating": 5,
+      "title": "We've been using Wrike for over six\u2026",
+      "text": "We've been using Wrike for over six months, and it has significantly improved how our team manages projects and collaborates across departments. What stands out the most is its flexibility and customization \u2014 from task tracking and scheduling to dashboards and workload views, Wrike adapts well to different workflows. What I particularly appreciate: The ability to create templates for recurring projects Real-time dashboards and reports for quick overviews Seamless integration with tools like Google Drive and Slack In-task discussions and file sharing reduce the need to switch platforms Support is responsive, the knowledge base is extensive, and new features are regularly added to enhance the experience. Suggestions for improvement: The learning curve can be steep for new users, so I\u2019d recommend more interactive onboarding guides and step-by-step tutorials to help teams get started quickly.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "it has significantly improved how our team manages projects and collaborates across departments"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-07",
+      "rating": 5,
+      "title": "National nonprofit using Wrike for project and product management",
+      "text": "Our national nonprofit initially adopted Wrike for project management because of its flexibility, ease of use, and support. We now also use it to manage the lifecycle of over a dozen external or internal technology products - from backlogs to roadmaps to sprints. The value it delivers has made it a good investment for us, especially as Wrike continues to innovate. With a nonprofit discount and varying levels, the cost is very significant. Even so, over 200 of our 1,000+ staff find it worthwhile for organizing their teams' work and (often) their own.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "over 200 of our 1,000+ staff find it worthwhile",
+        "resonance_evidence": "The value it delivers has made it a good investment for us"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-07",
+      "rating": 5,
+      "title": "Wrike is a highly flexible platform\u2026",
+      "text": "Wrike is a highly flexible platform that has worked in multiple unique use cases across our organization from IT to Marketing, Project Management, and everything in between. We heavily leverage the customizable features like workflows, custom fields, custom item types, and automation rules. We adore our customer success manager and the team at Wrike that has supported us for over 5 years.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "We adore our customer success manager and the team at Wrike"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-07",
+      "rating": 4,
+      "title": "wrike helps remote teams stay organized",
+      "text": "I work for a small nonprofit organization, and our entire team operates remotely. Without Wrike, it would be challenging for us to manage the various projects we have ongoing and to ensure that items are reviewed promptly. Wrike helps us stay organized by allowing us to create dashboards, giving leadership a straightforward overview of the status of each project. I will note that there is a bit of a learning curve when you first start using Wrike; however, there are plenty of training videos available that can help you better understand the platform.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Wrike helps us stay organized by allowing us to create dashboards, giving leadership a straightforward overview of the status of each project"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-07",
+      "rating": 5,
+      "title": "A Game-Changer for Project and Program Management",
+      "text": "I\u2019ve been using Wrike for the past year and a half as a project/program manager, and it has completely transformed the way I organize and manage my work. From tracking complex projects and daily tasks to managing renewal deadlines, events, and key KPIs, Wrike helps me stay on top of everything with ease. The ability to collaborate with team members in real time is a huge plus. Comments, file sharing, and task updates all in one place reduce the need for endless emails and status meetings. The timesheet tracking feature is another standout... easy to use and a great way to monitor where time is being spent across projects. The platform is flexible, intuitive, and powerful. Whether I\u2019m building a project plan, tracking progress toward strategic goals, or simply managing to-do lists, Wrike gives me the visibility and control I need. If you\u2019re looking for a robust, all-in-one project management tool that actually makes your work life easier, I highly recommend Wrike. Five stars all the way!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "I highly recommend Wrike. Five stars all the way!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-07",
+      "rating": 5,
+      "title": "Wrike is a world class project\u2026",
+      "text": "Wrike is a world class project management tool. It has a solid reporting engine and enough flexibility to customize to your companys' workflows.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Wrike is a world class project management tool"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-06",
+      "rating": 5,
+      "title": "Wrike set a new standard!",
+      "text": "I have been using Wrike for about a year as a digital planner at a global media company. Before the implementation of Wrike, managing the various tasks, communication, sharing plans and jobs, managing the workflow and keeping track of the timing of the various processes was really complicated. This was because, following an international client, the presence of off-shore teams in other countries than my own made communication complicated and often some things were lost or unclear. Thanks to Wrike, all the above points have been perfected and now everything works better and things, above all, are tidy and can be managed better. Having introduced Wrike into our workflow has been a real game changer! Fabio",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "all the above points have been perfected and now everything works better and things, above all, are tidy and can be managed better",
+        "resonance_evidence": "Having introduced Wrike into our workflow has been a real game changer!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-06",
+      "rating": 5,
+      "title": "Wrike transformed our team dynamics",
+      "text": "Using Wrike has truly transformed our team dynamics. Originally, we sought it out just for our immediate group, but soon recognized its broader potential. Its real strength lies in how it revolutionized our efficiency and communication. The level of customization is impressive, catering to every team's unique needs. Integration with various platforms and streamlined reporting have been invaluable assets. Highly recommended!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Highly recommended!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-06",
+      "rating": 5,
+      "title": "Wrike is Dedicated to Providing the Best User Experience",
+      "text": "Wrike is a very clean, very easy to use software that organises projects and workload - it\u2019s easy to see from any screenshot how easy it is to use. But what I love the most about Wrike is how dedicated to their users they are - the community is always buzzing with best practises and tips, so that if you\u2019re in a pickle and need help, someone\u2019s always there for you. Especially the Wrike Team themselves - they actually care about their user\u2019s experiences, and will update features where needed. I haven\u2019t seen this level of dedication from another software, and it really makes a difference that you\u2019re not alone when using Wrike.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-06",
+      "rating": 5,
+      "title": "One of the best tools for medium to large sized enterprises",
+      "text": "After 4 years of using Wrike as a team lead, I can say, hands-down, its one of the best, if not the best, Project Management tools I have used so far. To be honest, the thought of moving from ASANA to WRIKE 5 years ago stressed me a bit, but all the features are there (and even some more). Automations, AI integrations, time tracking, reports, blueprints. All the issues I had a couple of times, were treated immediately by tech support. Keep it up WRIKE!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "its one of the best, if not the best, Project Management tools I have used so far"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-05",
+      "rating": 4,
+      "title": "Satisfied Pinnacle customers",
+      "text": "We've been on the Pinnacle plan for a year now and have been taking full advantage of the internal configurability. This is one of the pricier options out there and we'd recommend having an ongoing governance team and plan going in so that you aren't having to re-engineer everyone's structures partway through implementation, but once the dust settles it's immensely powerful.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "once the dust settles it's immensely powerful"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-05",
+      "rating": 5,
+      "title": "Marketer's go-to tool for project management",
+      "text": "I came into my organization without even having heard about Wrike, but through exploration, testing, Wrike discover courses, and working with Wrike professional services, I ended up mastering the platform and becoming an expert for my colleagues to rely on. Wrike seemed a bit overwhelming at first as there was a lot to learn, but I felt well equipped with the tools to feel confident and comfortable in the platform. Some pros: * The community; I love being able to share ideas and support/be supported by others using Wrike as well as those working at Wrike (they are super involved in the community). * The user-friendliness of the platform; Wrike is easy to navigate and offers plenty of different ways to view data and work. They are constantly working on improving UI. * Features galore; Wrike is always pushing out updates and new features from enhanced dashboarding to onboarding templates. Some cons: * Some product feedback posts of features that the community suggests/asks for that have amassed a ton of support/upvotes (in some cases, requests that have been made years ago) don't have any updates for expected release (or are kept as unplanned or on the backburner) * Have felt pressured to purchase more seats or sign up for paid features, with many, many follow-ups when we say we will get back to them on our decision * Some users feel like there's too much going on, it's too messy/chaotic/overwhelming; I believe they just need a little more training and open-mindedness when it comes to the power of Wrike Overall, I'm really happy with our choice in PM tool. It greatly benefits any operational team in receiving requests and having steps to follow; the main challenge I'd say has been getting folks to manage their work and take accountability/ownership, but I believe this is something that would exist regardless of the platform we use.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "I ended up mastering the platform and becoming an expert for my colleagues to rely on"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-02-21",
+      "rating": 1,
+      "title": "Terrible experience",
+      "text": "Terrible experience, account manager in Australia really has no control over accounts or billing. Or chooses to say so. Unsure what the truth us. Auto-renewed on a way higher rate than we were previously on without any forewarning. 20 days into, what they deem is a 12 month contract (14 of which was waiting for their response) to find zero flexibility to alter the payment or downgrade the plan. The order processing specialist I am speaking too, appears to be either automated or completely void of human emotion. Highly suggest using something more agile and modernised from a functional perspective too.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "Auto-renewed on a way higher rate than we were previously on without any forewarning. 20 days into, what they deem is a 12 month contract (14 of which was waiting for their response)",
+        "resonance_evidence": "Terrible experience"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2024-12-03",
+      "rating": 1,
+      "title": "A nightmare if you wish to cancel autorenew.",
+      "text": "A nightmare if you wish to cancel or stop auto renew. They will absolutely not work with you to cancel your subscription/auto renew and take months to respond. Make sure you cancel WELL BEFORE your expiration date. They claim 30 days notice is needed, however due to their lack of response, I'd give it a solid 3 months notice. Terrible customer service, I can't recommend anyone else but Wrike more.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "take months to respond. Make sure you cancel WELL BEFORE your expiration date. They claim 30 days notice is needed, however due to their lack of response, I'd give it a solid 3 months notice",
+        "resonance_evidence": "A nightmare if you wish to cancel or stop auto renew. They will absolutely not work with you to cancel your subscription/auto renew"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2024-10-28",
+      "rating": 1,
+      "title": "Wrike has been a nightmare from start\u2026",
+      "text": "Wrike has been a nightmare from start to finish. Trying to cancel the automated renewal is nearly impossible, with support ignoring requests, dodging questions, and offering no help. Beyond that, there's really nothing positive to say: it's unintuitive, slow, a pain to share with a team, and outrageously expensive. Avoid this mess at all costs!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2024-06-24",
+      "rating": 1,
+      "title": "promise the world and then\u2026",
+      "text": "promise the world and then underdeliver, this app made managing my business way harder than it was before!!!!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "this app made managing my business way harder than it was before",
+        "resonance_evidence": "promise the world and then underdeliver"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2024-06-02",
+      "rating": 1,
+      "title": "Predatory Practices and Data Loss Threat",
+      "text": "I\u2019ve been using Wrike\u2019s free trial for the past two weeks, and initially, my team and I were quite happy with the product. We organized ourselves with 2 users and 4 collaborators, creating Spaces, Projects, and Tasks that were essential to our workflow. However, my experience drastically changed when I attempted to subscribe to the Teams Plan. I was shocked to learn that I would lose all my data, including Spaces, Projects, and Tasks, unless I upgraded to the Business Plan, which costs five times more at $1500 annually! This is extremely predatory and misleading. Why should I be forced to upgrade to a significantly more expensive plan when I only have a small team and don\u2019t need the additional features? Moreover, if Spaces, Projects, and Tasks are supported in the Teams Plan, why threaten to delete them? It seems like a tactic to strong-arm customers into paying more. I urge Wrike to reconsider this approach and offer a solution. My trial ends tomorrow, and I don\u2019t want to lose the valuable data and organization my team has worked hard to establish. This kind of dark pattern should not be encouraged.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "I would lose all my data, including Spaces, Projects, and Tasks, unless I upgraded to the Business Plan, which costs five times more at $1500 annually",
+        "resonance_evidence": "This is extremely predatory and misleading"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2024-02-06",
+      "rating": 1,
+      "title": "Auto renewal scammers",
+      "text": "Auto renewal scammers. We have been with them a few years and decided to move to another system that had better interfaces and was cheaper. When I received the annual renewal invoice I let them know I wished to cancel. They told me I was out of my notice window and were going to charge me a year - over $2,000! It's absolutely awful that they wait to send your renewal info and invoice AFTER the deadline to cancel so they suck you into another year, then read the riot act about T&Cs. Nice one Wrike - you've lost a customer for good now. Rude customer service and much better options out there like Monday.com",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "over $2,000",
+        "resonance_evidence": "you've lost a customer for good now"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2024-01-30",
+      "rating": 1,
+      "title": "Since signing up to wrike",
+      "text": "Since signing up to wrike, I've started receiving spam emails from several spoof companies. I don't often sign up to email platform such as write buy after seeing the reviews, I will cancel my subscription as I'm still on 14 day trial.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I will cancel my subscription"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2024-01-24",
+      "rating": 1,
+      "title": "company is a bait and switch scam",
+      "text": "company is a bait and switch scam. The only thing magical about this company is how fast they will take your money and the blatant bait-and-switch / lies in order to make a sale. After two months of being unable to use this dumpster fire the only thing we get is an email from Artem Gurnov Director, Account Development saying basically \"we can give you a credit\" What is someone going to do with a \"credit\" for a nonworking product? lol what a SCAM!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "bait and switch scam"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2023-12-19",
+      "rating": 1,
+      "title": "Updgrades, Downgrades, Incompatibility and Invoicing Problems",
+      "text": "I tried multiple times to get the product to work after we had a previous version and had downgraded, but then wanted to re-activate. Regardless, the product does not work and they continue to demand payment although the software has not ever worked per their contract or demonstrations. We've canceled and they will not confirm that the product will not automatically renew. Beware that the entry level products are literally not on the same platform - they can not easily upgrade you and they will delete your data if you want to change.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "the product does not work"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2023-09-23",
+      "rating": 1,
+      "title": "Make it so I can purchase 1 license",
+      "text": "I think the software is great. But let me buy a single license! There are plenty of people that use great project management software like this to project manage on their own. In my situation I am managing building projects. I am the only one that needs to edit it. Wrike needs to figure out that making people buy more than 1 license is discriminating as well as illogical. Just an FYI, converting a team to a platform is going to come from a single employee or contractor championing a platform. Additionally, I was on the phone with them and said I would pay. They haven't set it up so I can pay for the plan, I am basically locked out of my project (can't access gantt and custom fields)... Adding to this... (I am blown away) Apparently I cannot upgrade to a paid plan when the trial expires. They create another account and ask you to export/import to it... \"Hi Ben, Unfortunately the upgrade to the team plan from the free plan is not seamless, which is why you were unable to upgrade on your own initially. In order for you to purchase the team plan I had to create this account for you. You can export your data from the free plan and import it to the team plan easily by following this help center guide: Exporting data from Wrike Importing to Wrike Please let me know if you run into any issues.\"",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "I think the software is great. But"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2023-05-29",
+      "rating": 2,
+      "title": "Perdita di tutti i dati da versione di prova a piano Team",
+      "text": "Ho usato Wrike per il tempo di prova gratuita, dopo essere stata contattata da un commerciale allo scadere della prova, mi sono convinta ad acquistarlo per un anno in quanto l'avevo trovato abbastanza semplice da usare e soddisfaceva le mie principali esigenze lavorative di gestione progetti. All'acquisto, passando dalla prova gratuita Business Plus al piano Team, mi era stato detto dal commerciale che avrei perso alcune funzionalit\u00e0 che non erano previste in questo piano, ma mai avrei pensato di perdere tutti i dati di tutti i progetti importati nei giorni di prova. Mi sono ritrovata, dopo aver pagato, con la dashboard completamente vuota. Nessun dato, nessun progetto mi \u00e8 stato mantenuto. Ho contatto l'assistenza che dopo ben 2 giorni di attesa, in cui avevo perso tutte le deadline e appunti importati di circa 10 progetti, mi ha risposto dicendo che avevo fleggato il consenso e che quindi ero a conoscenza del fatto che avrei perso i dati facendo il \"downgrade\" del piano (sono passata dal periodo di prova offerto da Wrike al Team), dicendomi che non avevano strumenti per recuperare i dati. Oltre il disagio la beffa, mi chiedo, se dovessi quindi per qualsiasi motivo decidere di cambiare o disdire piano, non ci sono backup? Tutto questo mi \u00e8 sembrato scorretto e poco professionale. Oltre avermi causato danno lavorativo e ti tempo, mi chiedo come sia possibile perdere tutti i dati e non solo le funzioni non incluse (come avevo gi\u00e0 testato su un altro software, in cui ero passata dal periodo di prova alla versione gratuita e non avevo perso i progetti ma solo alcune funzioni). Per questo metto 2 stelle, mi riservo, avendo gi\u00e0 pagato per abbonamento annuale, di vedere come andr\u00e0. Al momento, dunque, non consiglio questo software, perch\u00e8 il servizio e l'assistenza ricevuta mi ha veramente deluso. Il commerciale/azienda a mio modesto parere, visto la premura che ha avuto nel contattarmi alla soglia dello scadere della prova gratuita, avrebbe potuto anche informarmi di que",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2023-02-13",
+      "rating": 1,
+      "title": "average software, punitive billing.",
+      "text": "average pm product software with punitive billing and cancellation policies. Used it for 2 weeks, tried to cancel and was threatened with collections so our startup ended up paying 3k for an average product that you can find for free elsewhere.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "paying 3k for an average product",
+        "resonance_evidence": "threatened with collections"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2023-01-31",
+      "rating": 1,
+      "title": "I have called and left 3 messages",
+      "text": "I have called and left 3 messages. Sent multiple emails, to include AR in hopes of an answer. I\u2019m deeply disappointed that not one response has been made. I had one person respond to have me elaborate (seemed like AI) I did and silence all over again!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2022-12-16",
+      "rating": 4,
+      "title": "Keeping me on track...",
+      "text": "Wrike helps me to stay on track with my projects and task. It has a fairly smooth flow.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "It has a fairly smooth flow."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2022-10-18",
+      "rating": 1,
+      "title": "Software was overly complicated.",
+      "text": "Software was overly complicated/involved. After using for several months, we decided to jettison it. Wrike is insisting on payment for three additional quarters because their \"hands are tied\" under the contract. Getting all additional payments may be their right under the contract, but seems short sighted. As others here have noted, some vendors decide to build good will and others try to maximize dollars in the short term. Wrike falls into that latter category.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2022-10-04",
+      "rating": 4,
+      "title": "It was good experience while it lasted",
+      "text": "It was good experience while it lasted. Not looking to renew anytime soon though",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "It was good experience while it lasted. Not looking to renew anytime soon though"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2022-07-06",
+      "rating": 1,
+      "title": "Extremely poor customer service. Profit first. Customer last.",
+      "text": "Extremely poor customer service. will not respond by phone. Takes 4-5 emails to actually get a call as they send multiple non response emails back and forth wasting time. Predatory practices such as if you need a single license over your allotted amount, you can only buy buckets of 10 additional licenses ... ummm, i have one extra employee, can i get another license? \"No, you have to buy 10,\" and if you are in a multiple year contract, you cannot lower your license number if it goes back under your original allotment. We were at 41 but we only need 38. \"We don't care, you have to pay for 50 for rest of your contract!\" What is clear is that Wrike values profit over synergistic relationships. Money first. Customer second. Highly recommend you avoid this company. Too many other project management platforms actually care to settle for this experience.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Highly recommend you avoid this company. Too many other project management platforms actually care to settle for this experience."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2022-03-28",
+      "rating": 2,
+      "title": "Terrible experience with multiple business logic flaws",
+      "text": "Though Wrike provides good features, most of them have bugs and won't work the way they are supposed to function. I had a professional version which was good but the Enterprise version is full of errors and issues. To top it off, the support is only available during limited hours. Once you drop an email, there is back and forth for a couple of days before a call is scheduled. We are paying for the software and are having to push going live because of so many issues and inconsistencies. The issues are as basic as the user role access setup on the tool does not work. Whoever the task is assigned to can make any changes they want, reassign tasks, delete tasks, cancel tasks, etc. Absolutely frustrating.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Absolutely frustrating."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2022-03-04",
+      "rating": 5,
+      "title": "Need help tracking & coordinating projects?! Use Wrike!",
+      "text": "Wrike is a great tool to help streamline workflow and develop systems around project management for your team. Our department uses Wrike to take in requests for multimedia assets (video, stock photos, interactive activities, etc.). We created statuses for the project cycle so our direct report and any stakeholders know what we are working on, what's in review, and the best one- what's completed! My favorite view is Dashboard which gives me a perspective of everything on my to-do... And also which projects may need a follow-up. Thank you, Wrike, for making the day-to-day a little easier.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2021-11-04",
+      "rating": 5,
+      "title": "Where has Wrike been all my life?! <3",
+      "text": "Better than Microsoft Project for project management because it has way more functionality. Wrike has helped foster greater transparency for cross-functional global teams at the company I work for and keeps me organized and focused on priorities.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Better than Microsoft Project for project management because it has way more functionality. Wrike has helped foster greater transparency for cross-functional global teams at the company I work for and keeps me organized and focused on priorities."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2021-10-20",
+      "rating": 5,
+      "title": "Excellent Features, Growth, and Support. Transforms our work.",
+      "text": "We have used Wrike in our small digital marketing agency since 2014. It has transformed our ability to work well from anywhere, get visibility into our work, collaborate, and manage our clients, deliverables, and workload. It is our single source of truth for our work. And the customer support is 100%.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "It has transformed our ability to work well from anywhere, get visibility into our work, collaborate, and manage our clients, deliverables, and workload. It is our single source of truth for our work. And the customer support is 100%."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2021-10-19",
+      "rating": 5,
+      "title": "They're awesome",
+      "text": "They're awesome! I recommend!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2021-09-17",
+      "rating": 5,
+      "title": "Wrike is awesome!",
+      "text": "This is the best project management tool so far! It streamlined our processes. It reduced emails, meetings and different silos of communication. Tracking and traceability of projects make it easier for the rest of the company. If it is not in Wrike, it doesn't exist! Dynamic request forms are very helpful as well to us, easy to track new requests during roadmap meeting.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "It reduced emails, meetings and different silos of communication.",
+        "resonance_evidence": "This is the best project management tool so far!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2021-09-07",
+      "rating": 5,
+      "title": "If you deal with a lot os tasks, you can't go wrong with Wrike.",
+      "text": "Our daily routine involves a lot of tasks, so we need to be able to easily create and manage them. Wrike is the best tool to accomplish this because you can create a task and add info to it in gradually, first the task name, then the due date, the assignee and so on. There's no friction at all to feed the tasks/projects with information, that's the reason why Wrike works so well for us. Wrike offers much more functionality than you can imagine, you can not only manage tasks, but create really personalized tasks and projects with custom fields, several live views in formats like Gantt Chart, table and list view. You can set how much each team member costs by hour of work, and with time tracking you get real time reports for costs and risk management. Our clients use Wrike as guests (Wrike calls them \"Collaborators\") and make approvals using the best technology on the market, not only with comments, but with proof and versioning capabilities. The ability to create different workflow for tasks helps eliminated the need to create hundreds of subtasks and make the work just flow in a way we never could accomplish before. Wrike doesn't suffer from a common issue as other software, that is lacking functionality, they constantly add more possibilities and do a lot of research with users to make sure that their focus are on our needs.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "you can set how much each team member costs by hour of work, and with time tracking you get real time reports for costs and risk management",
+        "resonance_evidence": "Wrike works so well for us"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2021-08-19",
+      "rating": 5,
+      "title": "Useful project management tool that I\u2026",
+      "text": "Useful project management tool that I use daily for my marketing job.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Useful project management tool that I use daily for my marketing job."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2021-07-02",
+      "rating": 2,
+      "title": "Tried it",
+      "text": "Tried it, did not like it, although there are some interesting features.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Tried it, did not like it"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2021-06-09",
+      "rating": 5,
+      "title": "Excellent Collaboration Tool",
+      "text": "Wrike has a clean and simple UI with a nice balance of synchronous and asynchronous communication features. The flexibility to use the tool for either project management or collaborative work management is great.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "The flexibility to use the tool for either project management or collaborative work management is great."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2021-04-23",
+      "rating": 5,
+      "title": "Best in Class PMIS for PMOs, PMs, and Project Teams",
+      "text": "As an IT Project Manager, having a PMIS is essential to organizing projects and tasks and retaining project team and stakeholder communication throughout a project's lifecycle. Our agency implemented Wrike in early 2020 after using Asana for one year. At first, I was concerned about user adoption. But, Wrike provided a dedicated implementation specialist for our team to ensure we started slow and finished strong. After just a few weeks, my team picked up on the basics, and each member completed their Wrike Discover courses. I was quick to notify my team - and all other pilot users - that we would need to evaluate best practices to optimize the system. Most importantly, user adoption and ROI were dependent on consistent utilization, collective feedback, and collaborative development. We've now used Wrike daily for over a year, and the \"resistance\" from implementation is now \"believers\" and see the fruits of our collective labor. The mobile app allows for business continuity and flexibility to update, notify, and manage projects and tasks. As a PM who is pursuing his PMP certification, I can say without a doubt that Wrike's allowed me to practice and implement what I've learned, connect with other PMs in the Wrike Community, and witnessed weekly updates to Wrike's platform in response to users' feedback. Before, I've never used a SaaS product that provided the level of two-way transparency that Wrike provides with a direct Feedback Button built-in. I've read several negative reviews in this forum. All I can conclude is that perhaps those authors didn't give Wrike a chance, did not understand how project management works, or operated in a manner that is not conducive to using a PMIS. As a PM, I recommend Wrike for its sophistication, mobile adaptability, product roadmap transparency, community, technical support, and strategic partnership.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "After just a few weeks, my team picked up on the basics, and each member completed their Wrike Discover courses",
+        "resonance_evidence": "the \"resistance\" from implementation is now \"believers\" and see the fruits of our collective labor"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2021-04-21",
+      "rating": 1,
+      "title": "Wrike, a PM tool to be avoided",
+      "text": "We approached this project management software enthusiastically initially but soon it became somewhat unwieldy. However after more than a year and 1/2 using it, it became clear and apparent that if we did not get rid of Wrike, the company structure would fail and the employees would leave. Throughout the process, Wrike were not particularly helpful in terms of implementing our product, with very prosaic and off-the-shelf types of responses. When we finally said we wanted to leave, there was no reimbursement of our unused licences nor of the rather useless deployment fees we had paid, despite us being a charity trying to save children's lives in Africa. It appears to us that this is a rather ruthless and very financially driven organisation with no altruistic or human side. We never will use them again.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "if we did not get rid of Wrike, the company structure would fail and the employees would leave"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2021-03-27",
+      "rating": 1,
+      "title": "Buyer beware if you're a marketing\u2026",
+      "text": "Buyer beware if you're a marketing agency looking at Wrike for PM tool. We engaged Wrike to help us solve some very specific issues in which we outlined in detail during our numerous calls with sales rep. He showed us high-level that we could solve for our needs in his demo account which was not set-up to be agency-specific. He gave us test access and we tested as much as we knew how to test not understanding how to use the system but was reassured by the sales rep over and over again that Wrike could solve our needs. We decided to proceed with Wrike and even purchase the onboarding package so that someone could train us on how to use the system. The first onboarding rep we were given had literally zero clue how agency operations were set-up. We again outlined everything we needed Wrike to accomplish for our business and we left our first session feeling like we made a big mistake. We were given a second onboarding rep who was a lot better however, after three sessions, he couldn't even help us with solving our needs. To his credit, he tried so many workarounds but the system still wasn't working for what we made very clear we needed it to do. For reference these are the items we stated numerous times we needed this system to solve for: 1. transparency with clients being able to plan out ongoing marketing plans (solved only 50%) 2. track time and effort to be able to track workload (solved) 3. track ongoing month-over-month retainer budgets and products clients (not accurately solved) 4. be able to built reports to show clients time spent, workload, marketing plans, and have visibility over each employees tasks (solved 50%) 5. at the end of the month, be able to bill clients based on the main project then category for example digital marketing retainer: webinar or inbound marketing retainer: email marketing where all time and subtasks rolls up to the category that we can either push to our billing software or export (did not solve at all) 6. track and assign task an",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "transparency with clients being able to plan out ongoing marketing plans (solved only 50%) 2. track time and effort to be able to track workload (solved)",
+        "resonance_evidence": "we left our first session feeling like we made a big mistake"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2021-02-17",
+      "rating": 3,
+      "title": "SCAM - DONT BUY",
+      "text": "UPDATE 2: Kristen (below) reached out to me and called me on the phone to hear my story. She went back and forth with her internal billing department to secure a full refund for me and after a month, was able to refund me in full which I am very appreciative about. Here is a new (trying to be fair) review of Wrike. Wrike is built for larger companies that have tech savvy (programmer types) and development teams. It's complicated and didn't work for my business. My company has hundreds of orders each month with unique workflows and Wrike doesn't work. The interface is not flashy and not intuitive making it harder to learn how to use for beginners. That being said, it probably is a good match for certain types of companies, just not mine. Wrike has an over eager sales department that will tell you that they are the perfect match for you when I clearly was not. DO YOUR OWN RESEARCH. They make it very difficult to cancel and almost impossible to get a refund. Thanks to Kristen from Wrike, I was able to cancel and get a refund. They assign you a team to help you with Wrike problems, but that team can't help with subscription issues such as cancelling. In summery 1) Use Wrike if the software will help you, but check carefully. 2) Beware of the sales team, they just want to make a quick buck. 3) Internal communication at Wrike is limited. 4) Kristen from Wrike is your best bet if you need help. Email her at customerrelations at team.wrike.com. I've updated my review from one star to three because I eventually got my money back after 5 months and Kristen from Wrike was eager to help me. UPDATE 1: They replied to my review to get in touch and I emailed them. 4 days - no reply. Seems like the are trying to make it look like they are responsive while still scamming people. Original Review: Wow! Wrike is essentially a scam. They have quick talking sales people that promise you everything under the sun but their software is far from what is sold. I expressed my dissatisfaction a",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "lukewarm",
+        "results_evidence": "was able to refund me in full",
+        "resonance_evidence": "it probably is a good match for certain types of companies, just not mine"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2021-02-02",
+      "rating": 4,
+      "title": "Wrike \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u0441\u043e\u0437\u0434\u0430\u0432\u0430\u0442\u044c \u0437\u0430\u0434\u0430\u0447\u0438",
+      "text": "Wrike \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u0441\u043e\u0437\u0434\u0430\u0432\u0430\u0442\u044c \u0437\u0430\u0434\u0430\u0447\u0438, \u0433\u0440\u0443\u043f\u043f\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0438\u0445 \u043f\u043e \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c \u0438 \u043e\u0442\u0441\u043b\u0435\u0436\u0438\u0432\u0430\u0442\u044c \u0445\u043e\u0434 \u0438\u0445 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f. \u041e\u0441\u043d\u043e\u0432\u043d\u043e\u0435 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e \u0441\u0435\u0440\u0432\u0438\u0441\u0430 \u2014 \u0431\u043e\u043b\u0435\u0435 \u043f\u0440\u043e\u0434\u0432\u0438\u043d\u0443\u0442\u0430\u044f \u043f\u043e \u0441\u0440\u0430\u0432\u043d\u0435\u043d\u0438\u044e \u0441 \u043a\u043e\u043d\u043a\u0443\u0440\u0435\u043d\u0442\u0430\u043c\u0438 \u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0434\u043b\u044f \u0441\u043e\u0432\u043c\u0435\u0441\u0442\u043d\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u044b \u0421\u043e\u0434\u0435\u0440\u0436\u0438\u0442 \u0441\u0435\u0442\u0435\u0432\u043e\u0439 \u0433\u0440\u0430\u0444\u0438\u043a \u0438 \u043e\u0442\u0447\u0435\u0442\u044b \u043f\u043e \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c. \u041f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u0443\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0442\u044c \u043d\u0430\u043f\u043e\u043c\u0438\u043d\u0430\u043d\u0438\u044f \u0438 \u043b\u043e\u0433\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0432\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u0437\u0430\u0434\u0430\u0447. \u041c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f. \u0415\u0441\u0442\u044c \u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "\u041e\u0441\u043d\u043e\u0432\u043d\u043e\u0435 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e \u0441\u0435\u0440\u0432\u0438\u0441\u0430 \u2014 \u0431\u043e\u043b\u0435\u0435 \u043f\u0440\u043e\u0434\u0432\u0438\u043d\u0443\u0442\u0430\u044f \u043f\u043e \u0441\u0440\u0430\u0432\u043d\u0435\u043d\u0438\u044e \u0441 \u043a\u043e\u043d\u043a\u0443\u0440\u0435\u043d\u0442\u0430\u043c\u0438 \u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0434\u043b\u044f \u0441\u043e\u0432\u043c\u0435\u0441\u0442\u043d\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u044b"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2020-12-24",
+      "rating": 1,
+      "title": "I really didn't like the interface and\u2026",
+      "text": "I really didn't like the interface and thought there was a lot of hype. There are many better systems that don't have as good marketing.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I really didn't like the interface and thought there was a lot of hype"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2020-12-08",
+      "rating": 1,
+      "title": "To all potential wrike customers",
+      "text": "To all potential wrike customers, here is the type of message you get from Wrike when you find out that they charge your card without notifying you: Nurlan Dgafarly (Wrike) Dec 7, 2020, 11:04 PST Dear Fabricio, Your request was previously reviewed and you were provided with an explanation of why the refund is no possible: -We have no refund policy according to the accepted by each customer Terms of Sevices (see chapter 6 Billing - [ ]) -Our UK legal consultant has advised us that remote trading is not provided with the cooling-off period. -Also, Wrike is a business solution provided to organisations, not to individuals. So Acts, where consumers are determined as individual persons, are not applicable to this type of purchase.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "they charge your card without notifying you"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2020-08-05",
+      "rating": 4,
+      "title": "I've investigated and tried each significant part in the \"venture the executives\" space and Wrike Leads All",
+      "text": "Wrike is an outstandingly all around created device that even offers mix with Outlook to assist keep with anticipating correspondence and calendars sorted out and on-schedule.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "outstandingly all around created device"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2020-03-30",
+      "rating": 1,
+      "title": "Guys!",
+      "text": "Guys! I have checked with my lawyer their terms and conditions. It is not inline with the UK requirements and are hugely unfavourable to the consumers. They can stop the contract anytime they want and you will NOT receive notice prior to a payment being made on your card. AVOID!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "AVOID!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2020-03-20",
+      "rating": 3,
+      "title": "Sub-par, poor customer service",
+      "text": "Powerful tool, but it only works in companies that have (or enforce) Silicon-Valley-like work flows. Their integration with Outlook leaves much to be desired, with no clear way to integrate with the calendar function (except through third-party apps like Zapier--and even then it's messy). The biggest problem is that they do NOT offer email reminders. This is why it failed to be implemented in our office. Furthermore, we did not receive a reminder that our subscription would be renewed (ironic), and it was processed on December 25, 2019. By the time we returned from break and asked for a refund, since nobody had used it for months, we were told that was not possible, and that they could connect us with a coach to help us \"fully utilize\" its features. Here was my reply: \"Considering that we are leaving because Wrike has failed to implement email reminders, your failure to remind us of our renewal seems almost humorous if it weren\u2019t so maddening. I have noticed lots of clamor on the community board about Wrike\u2019s failure to address this feature. It is not a matter of training or utilization. We are using Wrike to its full capacity. It is Wrike that has failed to add a feature that hundreds of people are saying they need.\" Don't get trapped like we did.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "subscription would be renewed (ironic), and it was processed on December 25, 2019",
+        "resonance_evidence": "Don't get trapped like we did"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2020-02-06",
+      "rating": 1,
+      "title": "Literally the worst UX I have had to\u2026",
+      "text": "Literally the worst UX I have had to date. If I try to use the Wrike app for Windows, which is just a web app, I need to sign in again every time my computer goes to sleep for longer than 8 hours, i.e. I need to sign in every. single. morning. It doesn't matter that I choose \"Remember this browser\", because I still get signed out. Ridiculously bad UX. Develop natively or not at all.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "I need to sign in again every time my computer goes to sleep for longer than 8 hours, i.e. I need to sign in every. single. morning",
+        "resonance_evidence": "Literally the worst UX I have had to date"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2019-12-23",
+      "rating": 1,
+      "title": "Auto renewal",
+      "text": "Beware of their auto renewal policy and then when you try cancel they threaten you with negative listing against your company. As good as the product may be, the way the approach you as a client, instead of trying to recover the relationship they threaten you. Thanks Jono twice before using Wrike",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Beware of their auto renewal policy and then when you try cancel they threaten you with negative listing against your company"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2019-06-18",
+      "rating": 1,
+      "title": "Remove your Credit Card details from your profile!",
+      "text": "The software is overall well built but with much more features then we actually require and was hard to get the team engaged with it. We have asked to reduce the number or licenses which was accepted and received the proper quote for it. To my surprise they automatically charged my credit card for the previous year's package, which generated several documented expenses that they refused to credit. Wrike made a mistake and refused liability. We lost 570USD. Wrike lost a client and 1500USD revenue.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "We lost 570USD. Wrike lost a client and 1500USD revenue.",
+        "resonance_evidence": "they automatically charged my credit card for the previous year's package, which generated several documented expenses that they refused to credit. Wrike made a mistake and refused liability."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2019-06-04",
+      "rating": 5,
+      "title": "Excellent project management tool",
+      "text": "We recently deployed Wrike for the communications and marketing team of my mid-sized organization. In addition to easing the project-management burden and preventing any tasks from getting lost or overlooked, it has had the added benefit of allowing us to create a baseline for project capacity - we've got the receipts! - and set priorities accordingly.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "it has had the added benefit of allowing us to create a baseline for project capacity - we've got the receipts! - and set priorities accordingly",
+        "resonance_evidence": "easing the project-management burden and preventing any tasks from getting lost or overlooked"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2019-04-16",
+      "rating": 5,
+      "title": "Perfect collaboration tool",
+      "text": "I use Wrike daily since more than 5 years. Wrike is a very useful tool for managing projects and tasks which makes your work easier and more effective and it helps the department in our company to keep organized. The communication between other departments in our company is much better and helps to get things done more effectively. In dashboard you have a perfect overview to all assigned, to do and overdue tasks and in activity stream you get news about the work that is done in your team. Wrike is improving continually and over time they have developed many new features in order to achieve better efficiency...",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "I use Wrike daily since more than 5 years. Wrike is a very useful tool for managing projects and tasks which makes your work easier and more effective"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2019-04-15",
+      "rating": 5,
+      "title": "I have been using Wrike for 2 years as\u2026",
+      "text": "I have been using Wrike for 2 years as a marketing and project manager and should admit the very convenient tools for task assignment, management, control, collaboration with the team. the best!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "the very convenient tools for task assignment, management, control, collaboration with the team. the best!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2019-03-18",
+      "rating": 1,
+      "title": "Beware of automatic repeat subscription in small print",
+      "text": "Tried Wrike and not bad software, just made no improvements to productivity so decided not to renew, but found out renewed when company credit card bill came through. Looking at terms and conditions this is stated, but had been missed by my secretary when she signed up for me. We have asked for refund, but have been denied on the basis of the contract which is legally correct, but I think most would feel this poor practise. Looking at other reviews this is not an uncommon problem with Wrike customer service so will share this amongst the UK University network to make them aware and suggest alternative providers as preferable.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "not bad software, just made no improvements to productivity so decided not to renew, but found out renewed when company credit card bill came through"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2019-03-01",
+      "rating": 4,
+      "title": "I've been a Wrike user for about 4\u2026",
+      "text": "I've been a Wrike user for about 4 years now, and it's continuous product enhancements always amaze me. While I think there's room for improvement on the account management side, the product team seems to listen to customers and strives to make my life easier through all of the bells and whistles the platform has to offer.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "I've been a Wrike user for about 4 years now, and it's continuous product enhancements always amaze me"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2019-02-14",
+      "rating": 5,
+      "title": "Tremendous Support - Shout Out To Ellen!",
+      "text": "Had an amazing experience with one of Wrike's customer support team, Ellen Harte. She was exceptionally helpful in talking us through how we can better use Wrike to improve our team's efficiency (I work in a digital marketing agency) We will be implementing multiple recommendations next month all thanks to Ellen and the great developers who have built an awesome product. All the best team!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Had an amazing experience with one of Wrike's customer support team, Ellen Harte. She was exceptionally helpful in talking us through how we can better use Wrike to improve our team's efficiency"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2019-01-07",
+      "rating": 1,
+      "title": "Datenschutz ist f\u00fcr Wrike unwichtig \u2026",
+      "text": "Datenschutz ist f\u00fcr Wrike unwichtig: Seit drei Wochen versuche ich nun \u00fcber den Support den Datenschutzbeauftragten zu erreichen - Fehlanzeige. Die zust\u00e4ndige Datenschutzbeh\u00f6rde wird trotz Nachfrage auch nicht genannt. Hintergrund: Ich habe \u00fcber meinen Account ein Gastprofil in einem fremden Unternehmen. Nach einer rechtlichen Auseinandersetzung m\u00f6chte ich dieses Gastprofil l\u00f6schen lassen. F\u00fcr das Unternehmen h\u00e4tte das keinerlei negative Auswirkungen, die Datens\u00e4tze bleiben erhalten. Leider weigert sich das Unternehmen aber. Und auch Wrike. Die unsinnige Verweigerungshaltung des Adminstrators wird bei Wrike wichtiger eingestuft, als das Recht an den eigenen pers\u00f6nlichen Daten. Der Support empfahl mir letztlich, einen falschen Namen unter mein Profil einzutragen, mein Unternehmen nicht zu nennen, die Telefonnummer zu l\u00f6schen und eine falsche E-Mail-Adresse zu hinterlegen. Dass das Auswirkungen auch auf die Darstellung bei anderen Accounts hat, wird dabei ignoriert. Die gut gemeinte Teamworkbase wird somit zu einer b\u00f6sen Falle. Man ist einem Adminstrator regelrecht ausgeliefert. Schlimmer finde ich aber, wie beharrlich sich Wrike weigert, den zust\u00e4ndigen Datenschutzbeauftragten oder die Aufsichtsbeh\u00f6rde zu nennen. Hier zeigt sich wiedermal die stoische Ignoranz amerikanischer Unternehmen gegen\u00fcber europ\u00e4ischem Recht.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Die gut gemeinte Teamworkbase wird somit zu einer b\u00f6sen Falle."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2018-12-14",
+      "rating": 4,
+      "title": "It's a great tool that just needs minor\u2026",
+      "text": "It's a great tool that just needs minor improvements to be great. Once you get buy in from your team, there is so much you can manage with this one tool.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "It's a great tool that just needs minor improvements to be great."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2018-12-05",
+      "rating": 5,
+      "title": "Wrike is a lifesaver",
+      "text": "I work as a project manager at a digital marketing and public relations firm and we use Wrike to manage all of our clients' projects including blogs, emails, website management, etc. Wrike has completely streamlined the way we do things including building out project timelines, internal communication on projects and ensuring every deadline is hit. As a project manager, Wrike allows me to quickly and easily check the status on every project that I manage and check in with people when things look off-track. Wrike is a lifesaver!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "Wrike has completely streamlined the way we do things including building out project timelines, internal communication on projects and ensuring every deadline is hit.",
+        "resonance_evidence": "Wrike is a lifesaver!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2018-11-07",
+      "rating": 4,
+      "title": "Taking us into the future",
+      "text": "Wrike has helped us take our business forward. We had used a previous task management & collaboration tool but they were slow at developing and we rapidly outgrew it. Wrike are constantly developing the system and always want feedback. They are willing to listen and help massively with on boarding!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "we rapidly outgrew it",
+        "resonance_evidence": "Wrike has helped us take our business forward."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2018-11-07",
+      "rating": 5,
+      "title": "Sehr intuitive und einfache Handhabung",
+      "text": "Sehr intuitive und einfache Handhabung! Viele Funktionen, die einfach implementiert werden k\u00f6nnen, aber zum erfolgreichen Arbeiten nicht genutzt werden m\u00fcssen. Sehr guter \u00dcberblick f\u00fcr Projekte und Aufgaben.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Sehr intuitive und einfache Handhabung!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2018-11-06",
+      "rating": 4,
+      "title": "Seit der Einf\u00fchrung von Wrike sind\u2026",
+      "text": "Seit der Einf\u00fchrung von Wrike sind Abteilungs\u00fcbergreifende Projekte wesentlich transparenter und in der Kommunikation einfacher geworden. Die Einf\u00fchrungsphase wurde sehr gut betreut.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "Seit der Einf\u00fchrung von Wrike sind Abteilungs\u00fcbergreifende Projekte wesentlich transparenter und in der Kommunikation einfacher geworden.",
+        "resonance_evidence": "Die Einf\u00fchrungsphase wurde sehr gut betreut."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2018-11-06",
+      "rating": 5,
+      "title": "Wrike hat uns mehr Struktur gebracht.",
+      "text": "Wir nutzen Wrike jetzt seit \u00fcber einem Jahr und sind sehr zufrieden mit der Software. Alle Projekte verlaufen nun viel geordneter und jeder kann auf einen Blick sehen, welche Aufgaben f\u00fcr den Tag anstehen. Wir arbeiten au\u00dferdem mit den Anfrageformularen und den Jira und Salesforce Integrationen, die uns die Arbeit wirklich erleichern.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Wir nutzen Wrike jetzt seit \u00fcber einem Jahr und sind sehr zufrieden mit der Software."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2018-10-30",
+      "rating": 4,
+      "title": "Professionelle Anwendung f\u00fcr die Projektsteuerung mit vielen M\u00f6glichkeiten",
+      "text": "Wrike ist eine professionelle Projektmanagement-Software mit gro\u00dfem Funktionsumfang. Der Aufbau ist transparent und \u00fcbersichtlich. Die Anwendung ist intuitiv nutzbar, aber dennoch sollte man eine Schulung in Anspruch nehmen. Ein gro\u00dfer Vorteil ist die Strukturierung komplexerer Projektaufgaben in Teilaufgaben und die klare Zuordnung von Verantwortlichen. Angenehm ist auch das Berichtswesen, das einen schnellen \u00dcberblick \u00fcber Projekte, Aufgaben etc. bietet. Mittels Apps f\u00fcr iOS und Android ist man auch unterwegs immer auf dem aktuellen Stand. Probleme bereitet die Desktop-App. Sie st\u00fcrzt h\u00e4ufiger ab. Dies ist \u00e4rgerlich. Wrike bietet eine umfangreiche Wissensdatenbank, die bei Problemen sehr gut weiterhilft. Ansonsten kann man auch den kostenlosen Online-Support in Anspruch nehmen.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Probleme bereitet die Desktop-App. Sie st\u00fcrzt h\u00e4ufiger ab. Dies ist \u00e4rgerlich."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2018-10-30",
+      "rating": 4,
+      "title": "Tolles Programm aber Desktop App k\u00f6nnte verbessert werden",
+      "text": "Das Programm ist sehr \u00fcbersichtlich und leicht zu verstehen. Es f\u00f6rdert die Kommunikation und die Verbindlichkeiten zu Aufgaben. Durch die Mobil App immer online. Allerdings hat das Programm beim installieren der Desktop App einige Probleme, was bei den Kollegen nicht gut ankam. Im ersten Moment etwas irritierend und abschreckend. Deswegen ein Stern weniger.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Allerdings hat das Programm beim installieren der Desktop App einige Probleme, was bei den Kollegen nicht gut ankam. Im ersten Moment etwas irritierend und abschreckend. Deswegen ein Stern weniger."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2018-10-10",
+      "rating": 4,
+      "title": "Wrike has completely changed the way we\u2026",
+      "text": "Wrike has completely changed the way we keep track of multiple projects. We are a Web Development & Marketing team of 3 people and constantly have many projects running at the same time. Wrike allows us to keep track of multiple things at once and gives us a great place to upload any relevant files.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Wrike has completely changed the way we keep track of multiple projects"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2018-10-02",
+      "rating": 4,
+      "title": "Great tool for anyone to use!",
+      "text": "I have been using wrike for over a year now and each update keeps making it better and better. There is still some functionality that I would like to see improved but I love working with it. There is not really a wrong way to use it and it\u2019s all based on the user and that\u2019s great! I have been very happy with it and I love forward to seeing how it improves in the future",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2018-10-02",
+      "rating": 5,
+      "title": "Wrike transformed how our team works",
+      "text": "Wrike transformed how our team works. Their customer service is exemplar. Most of all, during implementation they understand the importance of change management and will walk the team through customizing the best workflows and structure for your team, not just all teams.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Wrike transformed how our team works. Their customer service is exemplar."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2018-10-01",
+      "rating": 5,
+      "title": "great digital workspace",
+      "text": "Wrike allows for efficiency and productivity of work by centralizing communication in a single digital platform. It has a myriad of tools to allow for visibility and collaboration of teams of all sizes.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Wrike allows for efficiency and productivity of work by centralizing communication in a single digital platform."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2018-10-01",
+      "rating": 4,
+      "title": "Great task management and collaboration tool!",
+      "text": "I\u2019ve been working on Wrike for the last 5 months. I think it\u2019s moving into the space of being a Project Management tool but would categorize it as a task management tool. It\u2019s great as a collaborative team management tool but lack some true fundamental PjM functionality.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2018-10-01",
+      "rating": 5,
+      "title": "Wrike Second to none",
+      "text": "Nickelodeon Experience Design's Project Management team has only been using Wrike for a few months, but the results of efficiency, clarity and performance has been second to none.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "the results of efficiency, clarity and performance has been second to none"
+      }
+    }
+  ]
+}

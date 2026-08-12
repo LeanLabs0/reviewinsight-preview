@@ -1,0 +1,2554 @@
+{
+  "slug": "notion",
+  "captured_at": "2026-08-12T20:48:37.032020+00:00",
+  "reviews": [
+    {
+      "portal": "G2",
+      "review_id": "13253694",
+      "date": "8/12/2026",
+      "rating": 4.0,
+      "title": "Customizable and Intuitive, With Room to Grow on AI and Theming",
+      "text": "The customization is what keeps me coming back. Being able to shape a page into exactly what I need, instead of working inside someone else's template, means I've been able to build out little systems that work almost like mini apps for different parts of my workflow. That flexibility alone has sped up how quickly I can set something new up when a project needs it. It's also just more intuitive than I expected going in. I came from Asana, which handles basic task tracking fine but gets rigid fast once your needs grow past that. Notion has a gentler learning curve even though it can do a lot more, so I didn't have to fight the tool to get it to work the way I think. Having docs, databases, and tracking all live in one place has cut down on a lot of the manual copying and tab switching I used to deal with, which adds up to real time saved over a normal week. My biggest gripe is how limited the customization is when it comes to look and feel. You can build incredibly complex structures but you're stuck with the same handful of colors and themes, which feels backwards for a tool that's supposed to be flexible. I also wish pinning worked better with scrolling, on longer pages I lose my spot constantly and end up scrolling back up to find a section I was just looking at. Performance is another thing. It's fine for smaller stuff, but once a workspace gets big, lots of linked databases, nested views, that kind of thing, pages start to lag and it's noticeable. Not a dealbreaker, just annoying when I'm trying to move fast. The AI features are also just okay. Good for a quick summary or cleaning something up, but it doesn't feel like it actually knows my workspace, more bolted on than built in.",
+      "role": "Verified User in Design",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/notion/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "has cut down on a lot of the manual copying and tab switching I used to deal with, which adds up to real time saved over a normal week",
+        "resonance_evidence": "The customization is what keeps me coming back."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13253145",
+      "date": "8/12/2026",
+      "rating": 5.0,
+      "title": "Space-Saving Page Layouts with the Tab Feature",
+      "text": "I like the ability to structure page sections with the tab feature, it saves a lot of space. The blank-slate approach forces users to design their own productivity systems from scratch before they can even take a simple note.",
+      "role": "Verified User in Consulting",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/notion/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": true,
+        "resonance": "lukewarm",
+        "results_evidence": "it saves a lot of space",
+        "resonance_evidence": "I like the ability to structure page sections with the tab feature"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13250955",
+      "date": "8/12/2026",
+      "rating": 4.0,
+      "title": "Notion: A Flexible All-in-One Workspace That Keeps Everything Organised",
+      "text": "Notion is an incredibly flexible and useful all-in-one workspace. I use it to manage my business, organise projects and products, collaborate with colleagues, and document processes, records, and other important information. The customisable building blocks make it easy to create a workspace that fits the way I work, so everything stays together in one organised place. The only real downside has been the time and effort it takes to migrate our information, files, and processes from our old systems into Notion. That said, this feels like an unavoidable part of switching to any new platform, rather than a criticism of Notion itself.",
+      "role": "Verified User in Financial Services",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/notion/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Notion is an incredibly flexible and useful all-in-one workspace"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13250316",
+      "date": "8/12/2026",
+      "rating": 5.0,
+      "title": "Customizable Logging with Room for Improvement",
+      "text": "I like using Notion for logging our system's bugs and issues, as it keeps everything intact and recorded, which helps us have a better workflow. I appreciate the logging format because it offers more ways of writing and customization. The feature that allows selecting details of a bug report and the use of paragraph fonts to segregate parts of the report is particularly valuable. I find the search feature unreliable because sometimes it doesn't provide the report upon searching. Maybe having the reports arranged per application could be a useful improvement.",
+      "role": "Verified User in Consumer Services",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/notion/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "I like using Notion for logging our system's bugs and issues, as it keeps everything intact and recorded, which helps us have a better workflow"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13250654",
+      "date": "8/12/2026",
+      "rating": 4.5,
+      "title": "Highly Scalable Tool That Grows With Your Team",
+      "text": "the scalability of it. I think usability could be more intuitive though The usability of notion could be improved. It's not the most intuitive. Also leading with tables and copy/paste tables is hard. Have tried also notion AI to edit tables (delete columns/rows) and the result was not satisfatory",
+      "role": "Verified User in Computer Software",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/notion/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "the result was not satisfatory"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13250525",
+      "date": "8/12/2026",
+      "rating": 5.0,
+      "title": "Notion: Simple, Flexible, and Highly Customizable All-in-One Workspace",
+      "text": "Notion is an excellent all in one workspace. It is simple, flexible, and perfect for organizing notes, tasks, projects, and ideas in one place. Clean interface and highly customizable Notion is powerful, but it can feel overwhelming at first.",
+      "role": "Project Engineer",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/notion/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Notion is an excellent all in one workspace"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13250128",
+      "date": "8/12/2026",
+      "rating": 5.0,
+      "title": "Notion Makes Documentation Clearer and Easier to Improve",
+      "text": "Notion doesn\u2019t just tell me when something is wrong; it also helps me understand the problem and how to improve it, especially when I\u2019m working on documentation. One thing I dislike about Notion is that it can sometimes feel distracting, especially when the formatting and layout change while I\u2019m creating a document.",
+      "role": "Associate engineer",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/notion/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "One thing I dislike about Notion is that it can sometimes feel distracting"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13249299",
+      "date": "8/12/2026",
+      "rating": 4.5,
+      "title": "Clean, Flexible Notion That Makes Organizing Work Feel Effortless",
+      "text": "Notion has a clean, flexible UI that makes organizing notes, projects, and tasks feel natural. I like the range of integrations and how quickly pages and databases load. The pricing offers good value for the amount of functionality included, and onboarding is straightforward with plenty of templates and resources. Its AI features are also useful for summarizing, organizing, and finding information without disrupting the overall workflow. Notion can feel a little overwhelming when you first start because there are so many customization options. Some integrations could be smoother, and larger workspaces can occasionally feel less responsive. The AI features are useful but can add to the overall cost, and I\u2019d like to see more hands-on onboarding and support for new users.",
+      "role": "Online MCAT Physics Tutor",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/notion/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "The pricing offers good value for the amount of functionality included, and onboarding is straightforward with plenty of templates and resources"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13249272",
+      "date": "8/12/2026",
+      "rating": 4.0,
+      "title": "Hassle-Free and Easy to Keep Track of Everything",
+      "text": "Everything is hassle-free, and it\u2019s easy to keep track of everything. Nothing specific at the moment; there\u2019s always scope for improvement.",
+      "role": "HR Manager",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/notion/reviews",
+      "sample_order": "most_recent"
+    },
+    {
+      "portal": "G2",
+      "review_id": "13247634",
+      "date": "8/12/2026",
+      "rating": 5.0,
+      "title": "Powerful AI Notes and Memory That Save Time in One Workspace",
+      "text": "Ai features and the memory and ability to create notes pages with ai and everything lives in the same workspace saves a lot of time and work The ui is cluttered and not a very beginner friendly, more over the notes should have a read only mode so we dont accidentally go into edit mode",
+      "role": "Verified User in Computer Software",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/notion/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "saves a lot of time and work",
+        "resonance_evidence": "Ai features and the memory and ability to create notes pages with ai and everything lives in the same workspace saves a lot of time and work"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "10018670",
+      "date": "8/18/2024",
+      "rating": 4.5,
+      "title": "Excellent for tracking activities in multidisciplinary work groups.",
+      "text": "With Notion, we don't need much time to set up parameters and it differs a bit from other competitors that use templates for each type of project. In Notion we can start with a workspace to which we add components or functionalities based on our needs. Basically, we incorporate elements such as an area to record Sprints, segments that host content and commonly used documents, instructions so that the work team can carry out specific activities, in addition to the customization of fields based on what we need to track tasks. While I like many of the features like the retractable left side menu and Kanban board, I may find the per-user customization a bit limited for my taste. I also think the 'my profile' options could use more features to create more usability, but that being said, I think Notion is great and teams prefer it for its simplicity and ease of adoption.",
+      "role": "Coordinador de proyectos",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/notion/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "I think Notion is great and teams prefer it for its simplicity and ease of adoption"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "10888352",
+      "date": "2/26/2025",
+      "rating": 5.0,
+      "title": "Notion helps me going in uniform motion!",
+      "text": "\\- It's UI, hands down. The best I've seen. And, for someone like me who chooses a software not just based on features but also it's designs, Notion has done a great job! \\- The Notion AI, Wow! It helps me get things done in much lesser time than it used to. \\- The ability to seamlessly connect to my colleagues. \\- Sometimes it gets resource heavy on my system, and I begin to think \"this is just a note taking application! why's it eating up so much of my RAM?\" but it's not too bad I guess.",
+      "role": "Data Scientist",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/notion/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "It helps me get things done in much lesser time than it used to",
+        "resonance_evidence": "The Notion AI, Wow!"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "8734075",
+      "date": "10/18/2023",
+      "rating": 5.0,
+      "title": "The promising productivity software, with infinite possibilities",
+      "text": "What I like best about Notion is its flexibility and versatility. It's a tool that adapts to my needs rather than the other way around. I can use it for note-taking, project management, task tracking, and even as a knowledge base. The ability to create custom databases and templates makes it incredibly powerful and customizable. It's a one-stop solution for organizing my personal and professional life. What I dislike about Notion is that, at times, it can feel a bit overwhelming due to its extensive feature set. It has a steeper learning curve compared to simpler note-taking apps, and it can be challenging to set up intricate databases and templates. Additionally, while the free version offers a lot, the pricing for the premium plans can be relatively high for some users. Nonetheless, once you get the hang of it, the benefits often outweigh these initial drawbacks.",
+      "role": "Product Expert",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/notion/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "once you get the hang of it, the benefits often outweigh these initial drawbacks"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "3700295",
+      "date": "11/19/2019",
+      "rating": 4.0,
+      "title": "Great if you use it properly!",
+      "text": "With Notion\u2019s minimalist approach, Notion takes home the win. In Notion, you can change your database to view the gallery, list, table and board view, even calendar view! They're all easy to read and fully customizable. Notion can fill in tons of gaps in your team\u2019s organization. Where other platforms fall short, Notion has come up with a solution. When it comes to collecting documents on Notion for further use, you have almost no limitations as to what type of document you can use. For notes and docs, you can upload documents from your Evernote, Word, Google Docs or Dropbox Paper, which means that you no longer will have to worry about scouring these programs individually to find a certain piece of information. It doesn\u2019t stop there though\u2014you can embed tons of information from a wide rather of apps and programs, like Google Maps, Twitter, Typeform and Codepen, right into your Notion docs. Your team revolves around tasks and projects, so Notion has a great solution for integrating your other project management programs to help keep everything in one place. For example, you can import your Trello boards or Asana\u2019s team management tools into Notion to organize and manage all from one spot. By integrating other powerful tools, you can fully harness Notion to manage, monitor and communicate with your team. However, if you\u2019re not already using a workflow or project management tool, Notion has its own unique system of creating and managing workflows. It can become the project management tool you always knew you needed. I\u2019d recommend people do their research into what features are the most suitable and whether Notion meets those needs. Whilst Notion can be used as a Trello, Todoist and Evernote replacement, it isn\u2019t going to fulfill all the needs you and with these applications. From my own opinions, it replaces Trello - due to the board nature and databases - but not fully Evernote and Todoist right now. To fully replace Evernote it does need a little more focus on note-",
+      "role": "Account Relationship Manager",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/notion/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Notion takes home the win"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "10661161",
+      "date": "12/17/2024",
+      "rating": 5.0,
+      "title": "Made my job easier",
+      "text": "I organize almost everything in my life\u2014from work tasks and documentation to my personal to-do lists. One of the many things I love about Notion is how every feature is simplified; nothing is complex or requires tech-savviness. I've never needed to contact customer support since I haven't encountered any major issues that prevented me from doing my job. Any challenges I face are more about my own learning curve. I love Notion and use it every day, especially since I rely on it not just for work, but also to keep track of important things in my life. When I first started using Notion, I had a few feature requests that I submitted through their feedback pop-ups. Surprisingly, after a few months, they released these features, which made integrating Notion into my team's workflow even easier. There's nothing I dislike about Notion, really\u2014I just wish columns within callout boxes were possible!",
+      "role": "Marketing Manager",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/notion/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "I love Notion and use it every day"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "10684678",
+      "date": "12/24/2024",
+      "rating": 5.0,
+      "title": "The ultimate all-in-one productivity tool!",
+      "text": "I use Notion literally to track everything in my personal and professional life. It\u2019s incredibly versatile\u2014you can create notes, manage projects, build databases, and organize tasks all in one place. I love how customizable it is, allowing me to tailor it to my exact needs, whether for goal tracking, meeting notes, or content planning. The ability to collaborate with others and sync across devices makes it even more powerful. It\u2019s like having a personal assistant and project manager combined into one tool! Honestly, nothing! The only thing I\u2019d point out is that there\u2019s a bit of a learning curve at first because it\u2019s so flexible and feature-rich. But once you get the hang of it, it\u2019s completely worth it.",
+      "role": "Education Management",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/notion/reviews",
+      "sample_order": "most_helpful"
+    },
+    {
+      "portal": "G2",
+      "review_id": "9965995",
+      "date": "8/6/2024",
+      "rating": 4.5,
+      "title": "Notion's blend of simplicity and depth",
+      "text": "What I like most about Notion is that it is an all-in-one workspace that excels with its intuitive interface, versatility and powerful database functions. Its user-friendly interface allows you to navigate and customize the platform according to your needs. It's amazing to share information with my colleagues and personalize it. In addition, it has a wide range of templates and customization options, making it adaptable for different use cases. In terms of collaboration and work sharing, Notion facilitates information exchange by allowing team members to share pages, databases and documents. It also offers real-time editing and commenting capabilities, which facilitates teamwork and project progress. At my company, we use it to share the job catalogs, benefits, office policies, etc. Is our primary tool to share information along the company. Finally, Notion's database capabilities enable users to create relational databases, allowing them to effectively manage and organize complex information. Although it is very intuitive, it can have a somewhat high learning curve, especially for users who are new to the platform. In my case, I had to use some YouTube tutorials to be able to use it smoothly. When someone is a new user, we need to spend some time explaining basic usage information, because is not intuitive at first. When you are a more experienced user I think is an amazing tool. In addition, you may experience performance issues with large databases or complex pages, resulting in slow load times and occasional delays. Its offline capabilities are also limited, which can make it difficult to work without a reliable Internet connection. The mobile version of Notion is useful but is missing certain features and may be less intuitive. In addition, for larger teams or companies, Notion's advanced features come at a cost, which can be expensive for startups or small businesses. In addition, Notion's data export options are limited, which can be a drawback for those who ",
+      "role": "Learning & Development Specialist",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/notion/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "I think is an amazing tool"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "10363907",
+      "date": "10/11/2024",
+      "rating": 5.0,
+      "title": "An essential tool for personal development and team productivity",
+      "text": "Support multiple programming languages Can upload images by using Copy + Paste (No need to save as image file in pc) Sharing is convenient. Pages hierarchy is amazing. Price is fair. Customer Support is great. I use Notion daily to write my personal notes and lectures. Although you can use notion as websites, I think it still needs some features like that user signup and login. I want to create a website by using pages that I wrote in notion. But I don't want my website as a public website. I want to create a members only website. File download options shoud be based on the member status of my website.",
+      "role": "Business Intelligence Manager",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/notion/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Price is fair. Customer Support is great. I use Notion daily"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "3982881",
+      "date": "1/7/2020",
+      "rating": 4.5,
+      "title": "Helps me keep tasks in place",
+      "text": "Notion is the perfect combination for everything you want. In our team, we have tried tons of software to get organized, and Notion has been the one that has worked better for us. What I like the most about Notion is that it is open to using it as you prefer; it doesn't force you to use any methodology; it simply gives you the tools to use whatever you want. You can add texts, images, bullet lists, tables, databases, code, videos, files, and it also has integrations with some software such as drive, Figma, miro, maps, and some others. In other words, they have you the tools to build whatever you need. As I mentioned before, Notion works well for my team. Nonetheless, I think that for some types of personalities, having too many tools and options to use could be overwhelming; I believe that some people could prefer to have a more determined path to follow without that amount of freedom.",
+      "role": "Student",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/notion/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Notion has been the one that has worked better for us"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "1677161",
+      "date": "1/30/2019",
+      "rating": 5.0,
+      "title": "Organization tool!",
+      "text": "I love that notion allows me to share information with anyone in my company My only dislike that I didn\u2019t find it sooner lol",
+      "role": "Verified User in Marketing and Advertising",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/notion/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "I love that notion allows me to share information with anyone in my company"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "1727086",
+      "date": "2/8/2019",
+      "rating": 5.0,
+      "title": "Really useful for storing everything you need in once place, especially company related information.",
+      "text": "It's very simple and intuitive to use. Adding new content is straight forward and easy to do. The in-built editor is relatively simple, but provides more than enough for adding content. We use it to keep company information available, as well as other key information. It can be easy to \"disappear down the rabbit hole\" so to speak, due to the sheer level of customisation. However, if you keep organised and try not to get carried away, it is easy to use and understand. I have found that the macOS app is essentially a wrapper for their web-based version, and opening links for content in Notion opens them in a browser, rather than the app, which is annoying. We also find the search a little hidden away - it's not as obvious as it could be.",
+      "role": "Founder",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/notion/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "it is easy to use and understand"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "1715340",
+      "date": "2/5/2019",
+      "rating": 5.0,
+      "title": "Just about my favorite thing ever",
+      "text": "Notion is so dreamy, it's my favorite bit of software. It's a perfectly designed note-taking app, and so much more. Once you're on a paid tier, you get unlimited storage, so you can write as much content as you need. You can manage tasks better than any other board tool I've used. Honestly nothing. I guess there's always room for more embed types and options.",
+      "role": "Verified User in Newspapers",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/notion/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "Once you're on a paid tier, you get unlimited storage",
+        "resonance_evidence": "Notion is so dreamy, it's my favorite bit of software"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "1663081",
+      "date": "1/28/2019",
+      "rating": 5.0,
+      "title": "AWESOME Note Taking App",
+      "text": "It has tons of Widget like items to organize each page in any way you'd like. It also lets you interconnect pages in any network you'd like. There is a little learning curve to use it the best way. But once you get it it is perfect.",
+      "role": "Verified User in Financial Services",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/notion/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "once you get it it is perfect"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "2063621",
+      "date": "4/7/2019",
+      "rating": 5.0,
+      "title": "MY NEW FAVORITE TOOL!",
+      "text": "So.. let me say, that it took me over a year to 'jump on board' not because of the tool it self. but i was a early adopter.. looking for a replacement for evernote, wunderlist, and google drive. That's a ton of data! Notion does ALL OF THIS. Notion is shipping new stuff on the daily. Their team is excellent,a nd listens their community to add new eatures. Just last week they created templates. And that was a 'dislike' i had. I would like to see a thinner link preview somehow.. but they have that with hyperlinks Or maby a cool way to import google bookmarks :)",
+      "role": "Verified User in Marketing and Advertising",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/notion/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "looking for a replacement for evernote, wunderlist, and google drive. That's a ton of data! Notion does ALL OF THIS.",
+        "resonance_evidence": "Their team is excellent,a nd listens their community to add new eatures"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "2829610",
+      "date": "7/24/2019",
+      "rating": 5.0,
+      "title": "Best app to organize EVERYTHING!",
+      "text": "Notion is incredibly simple to use, but I love how in-depth the features are! I have been able to use this app to organize and manage all my development projects quickly and allow my team to see and edit along with me. It is one of the few apps I use every single day at work and recently even at home on personal development projects! And the mobile app has been just as fantastic! It can be slow to load or switch between workspaces, and I wish there was a way to relate one post to another without just a link (this may be possible and I just haven't learned how, yet). Overall, however, I have very few complaints. It is a very well put together app and service.",
+      "role": "CTO",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/notion/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "It is one of the few apps I use every single day at work and recently even at home on personal development projects!"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "2723358",
+      "date": "7/9/2019",
+      "rating": 5.0,
+      "title": "Awesome tool for notes, documentation, planning, to-do's",
+      "text": "Easy to setup, provide with a plenty of templates, allows to have a team and a personal workspaces to easily manage notes, tasks, to-do's etc. Also the MacOS app is super user friendly:) There probably too many features. I guess I barely use 20% of them.",
+      "role": "Product Manager",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/notion/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Easy to setup, provide with a plenty of templates"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "3237497",
+      "date": "9/19/2019",
+      "rating": 5.0,
+      "title": "Notion is for me what Evernote should have been",
+      "text": "I love the flexibility of Notion; I use it for anything: It's my non-distractive writing app, my task-list, my project management tool, and the platform I share content with my students. The fact that I can use my backgrounds and icons helps it fit in with my brand. I also use it for personal stuff: Planning my vacation, storing recipes, lists of books to read and, a wishlist that I share with my husband, so he knows what presents to buy me. To be short: Except for my bookkeeping and invoicing, all my life and business is in Notion. There's nothing I dislike! The only problem is that the possibilities are seemingly endless, and it's necessary to think through what aspects to use and how to implement and organize Notion and not create a mess of the folder system.",
+      "role": "Eigenaar",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/notion/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "I love the flexibility of Notion"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "3043704",
+      "date": "8/22/2019",
+      "rating": 5.0,
+      "title": "Notion is the best software",
+      "text": "I really liked the templates which are made in Notion. It was easy to use the templates and simply add the required details. I also liked the use of Notion when we were doing a group project and sharing documents was very easy using notion, we have kept the Notion page as a repository. A few times it gets confusing as the documents are seen duplicate times i.e your main page and inside page as well. Sometimes I save the favorite URL's but I am not able to find it in the Notion page, also I am not able to tag URL's which has made searching a specific link difficult.",
+      "role": "Verified User in Education Management",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/notion/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "I really liked the templates which are made in Notion. It was easy to use the templates and simply add the required details."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "5376737",
+      "date": "2/25/2022",
+      "rating": 0.0,
+      "title": "Databases breaking and relations not working well",
+      "text": "The databases linking together was a great feature if it would work properly. The app is riddled with bugs making it impossibly to rely on.",
+      "role": "Verified User in Media Production",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/notion/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "The app is riddled with bugs making it impossibly to rely on."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "7754593",
+      "date": "5/29/2023",
+      "rating": 0.0,
+      "title": "Awful user experience. Non existent support. Hours wasted to try and make it usable.",
+      "text": "There is nothing I like about Notion that isn't better in other platforms in the same category. The user experience is not intuitive. When trying to implement Notion our team struggled so much to get to grips with the interface that we had to revert back to Asana. Also, their support is nonexistent. Notion fraudulently took a renewal despite our account being inactive and never agreeing to a paid premium and over 2 months later I am still fighting for my money back. I have had to raise a case with my bank. Notion claims they treat the case with the 'upmost urgency' but reply once every few weeks without any progress. It's abysmal.",
+      "role": "Verified User in Computer Software",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/notion/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "we had to revert back to Asana",
+        "resonance_evidence": "There is nothing I like about Notion that isn't better in other platforms in the same category."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "8144025",
+      "date": "5/25/2023",
+      "rating": 0.0,
+      "title": "Nice but an unnecessary expense",
+      "text": "The environment, the app and fast speed of generating answers That I can not have multiple line in one slot. And that I cannot copy the generated answers easily (except codes)",
+      "role": "Verified User in Higher Education",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/notion/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "The environment, the app and fast speed of generating answers"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "8106117",
+      "date": "5/18/2023",
+      "rating": 0.0,
+      "title": "I have always needed an assistant who can process a lot of information quickly",
+      "text": "Flexibility, innovation and design. I like the fact that I can easily delete pages and create my databases, that I can easily find the features I need, and that I'm not bombarded with marketing emails. When I work with the AI assistant, sometimes paragraphs of text disappear, or the AI may copy the same paragraph 3-4 times and I have to spend a lot of time editing it. Sometimes the AI assistant switches to a language other than the one I am writing in and I have to do extra things like translate or delete the text.",
+      "role": "Verified User in Computer & Network Security",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/notion/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Flexibility, innovation and design. I like the fact that I can easily delete pages and create my databases"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "8115159",
+      "date": "5/19/2023",
+      "rating": 0.0,
+      "title": "Charging & Refund Policies are a Joke - Support very dissapointing",
+      "text": "Yes I like notion but the Charging and refunding and Support are a joke and really annoying. I got Charged for two users which where not a member of my team. Just changed the domain name of Google Business and notion added two users. I got without notice chraged 1 year upfront without any notice after conactingg support they told me I had to respond in 3 days. They didn't respond in weeks. No a Product is just as good as its Support is. Leave the hands off notion. Even Credit Charg removement is not possible.",
+      "role": "CEO",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/notion/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "I got Charged for two users which where not a member of my team",
+        "resonance_evidence": "the Charging and refunding and Support are a joke and really annoying"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "12089579",
+      "date": "12/14/2025",
+      "rating": 0.0,
+      "title": "Worst customer support ever. Another company that will fall like for not providing good support.",
+      "text": "not anymore. I don't like it anymore, it's better to create an in house app Slow support response on what they should help faster. it seems that no time for AI to your support. Shame on you",
+      "role": "AI Enablement",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/notion/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "not anymore. I don't like it anymore, it's better to create an in house app"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "12352111",
+      "date": "2/12/2026",
+      "rating": 0.0,
+      "title": "Clunky Navigation, Needs Improved Search",
+      "text": "I guess the thing that I like the most about Notion is just the real-time updates, that Google Docs element. I'm not the biggest fan of Notion because it's a little clunky, especially when it comes to navigation. Diving into subpages gets really confusing, and finding the things I want in a bigger organization is hard. I'd want better search functionality. Also, setting it up initially was kind of clunky.",
+      "role": "Data Scientist &amp; Developer Advocate",
+      "company_size": null,
+      "source_url": "https://www.g2.com/products/notion/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "I guess the thing that I like the most about Notion is just the real-time updates, that Google Docs element. I'm not the biggest fan of Notion because it's a little clunky"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "12305820",
+      "date": "2/3/2026",
+      "rating": 0.0,
+      "title": "Notion bill jumped? Brief collaboration can quietly add seats and get expensive",
+      "text": "You can use it to organize information and notes With a business account, if you invite someone for a short collaboration, Notion will automatically add that person to your plan without any warning or pre-approval process. When I informed Notion that this was only a short collaboration and that I did not intend to add them to my plan, they refused to refund the additional $3,800 charge because it was past their \u201cthree-day grace period.\u201d I do not recommend Notion\u2019s service for any SME. You really have to be extremely careful when using their product, or you may end up with a ridiculous annual bill that cannot be refunded.",
+      "role": "Executive Assistant of KUPO and Director of KUPO Optics Department",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/notion/reviews",
+      "sample_order": "lowest_rated"
+    },
+    {
+      "portal": "G2",
+      "review_id": "12353873",
+      "date": "2/12/2026",
+      "rating": 0.0,
+      "title": "Flexible, Organized, but Needs Performance Boost for Larger Databases",
+      "text": "I use Notion to manage projects, track tasks and organize documentation in one place. I love its flexibility and ability to adapt to any workflow. The databases and linked views are the features I value the most as they make it easy to track projects, tasks, and information in a structured yet flexible way. I also appreciate the clean interface, and found the initial setup to be fairly easy and straightforward. Performance can slow down with larger databases. Faster load time and better optimization tools would improve the experience.",
+      "role": "Ronit Edwin B.",
+      "company_size": null,
+      "source_url": "https://www.g2.com/products/notion/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "I love its flexibility and ability to adapt to any workflow. The databases and linked views are the features I value the most"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "April 2, 2026",
+      "rating": null,
+      "title": null,
+      "text": "It is ideal for project management and allows for a variety of views and filters, such as bullet points, kantan board, etc. As expected from task management solutions it allows for different status' flags that can be customised (Completed, pending, cancelled, etc) as well as creation of different 'buckets' that can be set according to whatever logic is fit for your purpose.",
+      "role": "IT Team Lead",
+      "company_size": "201-500 employees",
+      "source_url": "https://www.capterra.com/p/186596/Notion/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "It is ideal for project management and allows for a variety of views and filters"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "July 13, 2026",
+      "rating": null,
+      "title": null,
+      "text": "The application faces clear challenges in terms of performance and speed; when dealing with large databases or heavy pages cluttered with elements, slow response times and data loading issues arise.",
+      "role": "free lancer",
+      "company_size": null,
+      "source_url": "https://www.capterra.com/p/186596/Notion/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "The application faces clear challenges in terms of performance and speed; when dealing with large databases or heavy pages cluttered with elements, slow response times and data loading issues arise."
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "May 2, 2026",
+      "rating": null,
+      "title": null,
+      "text": "I can create what works for my own personal workflow system and even link task to my calendar which helps with being a business owner, a research assistant, full time grad student and consultant.",
+      "role": "Maternal and child health systems analyst",
+      "company_size": null,
+      "source_url": "https://www.capterra.com/p/186596/Notion/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "I can create what works for my own personal workflow system and even link task to my calendar which helps with being a business owner, a research assistant, full time grad student and consultant."
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "July 6, 2026",
+      "rating": null,
+      "title": null,
+      "text": "the mobile application sometimes displays frustrating loading delays when pages contain large data tables, complicating quick verifications while on the move.",
+      "role": "Rebel and Founder Co-CEO Huda Beauty",
+      "company_size": "201-500 employees",
+      "source_url": "https://www.capterra.com/p/186596/Notion/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "the mobile application sometimes displays frustrating loading delays when pages contain large data tables, complicating quick verifications while on the move."
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "May 3, 2026",
+      "rating": null,
+      "title": null,
+      "text": "Its flexibility allows customization for various business and personal workflows, making it a valuable productivity tool. Although there can be a learning curve and occasional performance limitations, the benefits of centralizing information and streamlining operations far outweigh the challenges.",
+      "role": "Senior Lead Consultant",
+      "company_size": "10,001+ employees",
+      "source_url": "https://www.capterra.com/p/186596/Notion/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "the benefits of centralizing information and streamlining operations far outweigh the challenges"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "March 1, 2026",
+      "rating": null,
+      "title": null,
+      "text": "I have found the addition of AI to the app to be kind of annoying, especially when a note-taking banner would automatically pop up every time I started a Zoom call or even made a call via Google Voice in my browser.",
+      "role": "American accent coach",
+      "company_size": null,
+      "source_url": "https://www.capterra.com/p/186596/Notion/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I have found the addition of AI to the app to be kind of annoying"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "July 13, 2026",
+      "rating": null,
+      "title": null,
+      "text": "It also features an excellent text editor and ready-made, customisable templates that speed up the creation of personal and organisational systems.",
+      "role": "free lancer",
+      "company_size": null,
+      "source_url": "https://www.capterra.com/p/186596/Notion/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "speed up the creation of personal and organisational systems",
+        "resonance_evidence": "excellent text editor and ready-made, customisable templates"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "July 13, 2026",
+      "rating": null,
+      "title": null,
+      "text": "This variability is significantly influenced by the type of device used and the nature of daily usage, which may hinder the flexibility and smoothness of the user experience in work environments that require immediate responsiveness.",
+      "role": "free lancer",
+      "company_size": null,
+      "source_url": "https://www.capterra.com/p/186596/Notion/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "may hinder the flexibility and smoothness of the user experience in work environments that require immediate responsiveness"
+      }
+    },
+    {
+      "portal": "Gartner Peer Insights",
+      "review_id": null,
+      "date": "May 28, 2026",
+      "rating": 4.0,
+      "title": "Still a great platform, but moving away due to unsustainable per seat pricing",
+      "text": null,
+      "body_gated": true,
+      "role": "Chief Executive Officer",
+      "company_size": "<50M USD, Hardware",
+      "sentiment_label": "FAVORABLE",
+      "source_url": "https://www.gartner.com/reviews/product/notion-1730700624",
+      "sample_order": "page"
+    },
+    {
+      "portal": "Gartner Peer Insights",
+      "review_id": null,
+      "date": "Apr 2, 2026",
+      "rating": 3.0,
+      "title": "Notion Centralizes Project Management But Setup Process Remains Complex for Many",
+      "text": null,
+      "body_gated": true,
+      "role": "Marketing Manager",
+      "company_size": "<50M USD, Media",
+      "sentiment_label": "CRITICAL",
+      "source_url": "https://www.gartner.com/reviews/product/notion-1730700624",
+      "sample_order": "page"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-08-12",
+      "rating": 5,
+      "title": "Gro\u00dfartig",
+      "text": "UI/UX sind extrem stark designed. Die Nutzung macht einfach Spa\u00df und ich nutze es seit Jahren! :) Nur Liebe!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Die Nutzung macht einfach Spa\u00df und ich nutze es seit Jahren! :) Nur Liebe!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-08-11",
+      "rating": 5,
+      "title": "I've used Notion for years and am A MASSIVE Fan",
+      "text": "I've used Notion for years and am a huge advocate for this template-based, user-friendly software that has continued to set the bar high in performance, convenience, and adaptability. They're continually running good programs, in-person events, and have a fantastic community that helps one another out. Highly recommend Notion to everyone I meet, have done so for years and will continue to do so. Thanks for an amazing product!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-08-04",
+      "rating": 1,
+      "title": "Charged after deleting my account",
+      "text": "Notion generated an invoice on 13 July 2026. I deleted the related workspace and account about an hour later because I no longer wanted or used the service. Despite the account being deleted, Notion continued retrying the payment and eventually charged me R474.16 on 31 July. I contacted support as soon as the payment was taken. I explained that I had already tried to cancel, deleted the account and workspace, and received no benefit from the subscription afterward. Support confirmed the dates and acknowledged that the payment was collected after the workspace had been deleted. However, they repeatedly refused a refund because their three-day refund period starts when the invoice is generated, rather than when the payment is actually collected. What I find especially unreasonable is that deleting the account did not stop the outstanding invoice or further payment attempts, and this was not made clear. Instead of properly considering the circumstances or offering a reasonable goodwill exception, support simply repeated the policy and closed the ticket. This is the worst customer service experience I have had with a software company. Based on how this matter was handled, I will never use or recommend Notion again.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "charged me R474.16 on 31 July",
+        "resonance_evidence": "This is the worst customer service experience I have had with a software company. Based on how this matter was handled, I will never use or recommend Notion again."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-31",
+      "rating": 1,
+      "title": "Do not trial or provide payment details",
+      "text": "I\u2019d strongly recommend that people do not use this product or sign up for the free trial. I signed up to try the product and didn\u2019t feel that it met my needs. It was overly complicated and not what I needed. I ended my trial and have just realized they\u2019ve been charging me for the past three months. I tried to get a refund and they are refusing. Terrible experience.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-28",
+      "rating": 1,
+      "title": "Arnaque, \u00e0 fuir !",
+      "text": "J'ai voulu passer \u00e0 l'abonnement payant sauf qu'on m'a fait payer plus que ce qui \u00e9tait affich\u00e9. M\u00eame si cela correspond \u00e0 des taxes, c'est ill\u00e9gal de pr\u00e9lever plus que le prix affich\u00e9. Une plainte sera d\u00e9pos\u00e9. A fuir.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "on m'a fait payer plus que ce qui \u00e9tait affich\u00e9",
+        "resonance_evidence": "A fuir"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-24",
+      "rating": 1,
+      "title": "Bo amb algunes coses i moooolt dolent\u2026",
+      "text": "Bo amb algunes coses i moooolt dolent amb algunes altres... falten massa opcions i tamb\u00e9 el catal\u00e0...",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "moooolt dolent amb algunes altres"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-24",
+      "rating": 3,
+      "title": "Been using Notion for about 3 months\u2026",
+      "text": "Been using Notion for about 3 months now and honestly it's become part of my daily routine. The interface is clean, ${pick(['everything loads fast', 'features work smoothly', 'no complaints really'])}. Pretty happy overall with my experience.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "it's become part of my daily routine"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-23",
+      "rating": 1,
+      "title": "Tr\u00e8s d\u00e9\u00e7u par le fonctionnement de\u2026",
+      "text": "Tr\u00e8s d\u00e9\u00e7u par le fonctionnement de Notion. Le syst\u00e8me d\u2019abonnement annuel manque de transparence et donne le sentiment d\u2019\u00eatre pi\u00e9g\u00e9 une fois la p\u00e9riode initiale pass\u00e9e. Les conditions de sortie ou d\u2019annulation ne sont pas suffisamment claires, ce qui peut entra\u00eener une facturation que l\u2019utilisateur n\u2019avait pas anticip\u00e9e. Une exp\u00e9rience tr\u00e8s frustrante, avec un mod\u00e8le commercial qui donne l\u2019impression de privil\u00e9gier l\u2019engagement financier du client plut\u00f4t que sa libert\u00e9 de choix.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Tr\u00e8s d\u00e9\u00e7u par le fonctionnement de Notion"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-22",
+      "rating": 5,
+      "title": "love this tool.",
+      "text": "love this tool.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-19",
+      "rating": 4,
+      "title": "Changed my review to 4 stars! Give the app some time to get used to.",
+      "text": "It took me a couple of days to get used to the way Notion works. At first it's overwhelming, but if you give it some time, you really start to appreciate the usefulness of this tool. My favourite features are syncing across different devices and apps, and the range of options and formats for organising your life. Their AI feature definitely needs some tweaks, however - it struggles to create simplicity.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "It took me a couple of days to get used to the way Notion works",
+        "resonance_evidence": "you really start to appreciate the usefulness of this tool"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-12",
+      "rating": 1,
+      "title": "Very inflexible with their policies",
+      "text": "Very inflexible with their policies. Their business practices feel a bit scammy!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Their business practices feel a bit scammy!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-10",
+      "rating": 1,
+      "title": "Awful company",
+      "text": "Awful company. Do not subscribe. Even after cancelling my account and subscription, they keep trying to charge my card. It\u2019s borderline fraud. They will refuse to accept a subscription cancellation",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-02",
+      "rating": 1,
+      "title": "I was charged \u20ac406.98 for an annual\u2026",
+      "text": "I was charged \u20ac406.98 for an annual renewal with no clear advance reminder before the charge. I contacted support the same period requesting either a refund or a pro-rated refund for the unused portion, and offered to downgrade immediately so it wouldn\u2019t renew again. The agent cited a 30-day policy and, after I asked for the case to be escalated, the ticket was auto-closed without the issue being resolved or reviewed by anyone able to make an exception. Under EU consumer rules, auto-renewals of this size require clear and timely notice before charging. I tried in good faith to resolve this directly and was met with silence. Disappointing handling of a straightforward billing request.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "I was charged \u20ac406.98 for an annual renewal",
+        "resonance_evidence": "Disappointing handling of a straightforward billing request"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-01",
+      "rating": 3,
+      "title": "A really good app if its considered for\u2026studies ,notes ,to do list ,and research purpose as it includes ai as well",
+      "text": "A really good app if its considered for notes ,for student ,for making a to do list ,and to write your own notes ,,ai is good too ,,but issues with it is that it needs some improvement in' to do list ' a function where the box for ticking off tasks can be added everywhere ,not only on that page only ,,and for the ai it is good but its use is limited and after use it just locks its self .As there is vast competition in ai and most of people usethis application to use ai side by side with their work to make it efficient and if it turns out the ai gets locked after some use then they will just delete it ,so this issue should be solved",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "A really good app if its considered for notes ,for student ,for making a to do list"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-26",
+      "rating": 2,
+      "title": "Great product but extremely hard to\u2026",
+      "text": "Great product but extremely hard to use. Consistently requires screenshots / asking claude for new users to accomplish simple tasks.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Great product but extremely hard to use"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-24",
+      "rating": 4,
+      "title": "Notion for Personal and Business Use",
+      "text": "I use Notion in my personal and professional life daily. Overall, I believe the app allows for decent customization of simple databases, which can be built up and easily shared between a team, friends, or clients. I find Notion is easy to build policies and project management tools for my work. I enjoy the template marketplace, which makes it easy for me to build off of something existing or get inspiration for my own pages. I find the free plan is quite generous and allows for several free integrations. I find a lot of the third-party apps have been well developed and work well within Notion. I preferred Notion before it was heavily trying to push the AI though. I find I don't use Notion AI much because there is often misunderstandings or hallucinations which cause me to waste time trying to correct. If you require complex data analysis, Notion is not the best tool. However, if you are looking for a second brain to compose your thoughts, it is a decent platform with a learning curve. There are many YouTube videos to help inspire or troubleshoot though.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "I use Notion in my personal and professional life daily"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-15",
+      "rating": 1,
+      "title": "No real customer support at all",
+      "text": "No real customer support at all, 100% SCAM AI website that operates fully on theft and has so-so \"runs\" that can do mostly basic AI tasks but only if You pay up for more than 1 month or 400 RUNS (executions of AI commands) and all 400 are easily spent over few days and then it takes few months to be able to \"RUN\" again ... or a hefty price to renew. Avoid at all costs as there are a ton of better and FREE AI apps. I am still waiting for answer to my compolaints (I raised a month ago ... but I doubt I will ever get any real answer)",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "400 RUNS (executions of AI commands) and all 400 are easily spent over few days",
+        "resonance_evidence": "No real customer support at all, 100% SCAM"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-13",
+      "rating": 1,
+      "title": "What a load of c**p",
+      "text": "What a load of c**p! Just installed on my android and it went straight to AI. No visible menus nor anyway to navigate to get started. If the is then it is well hidden! During installation it prompted me to install the Notion Calendar. I did and it just sits there when you open it and does nothing. No user friendly guidance to get you started. Unless I am missing something, don't bother.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "What a load of c**p!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-08",
+      "rating": 1,
+      "title": "From Blessing to Financial Nightmare -Warning: Token Extortion",
+      "text": "Review: Notion \u2013 A Brilliant Trap for Productivity Seekers (Warning: Token Extortion) Title: From Blessing to Financial Nightmare \u2013 When AI Organization Becomes an Unaffordable Hostage Situation If you are looking for a solution to organize your life through text input and AI agents\u2014especially when dealing with ADHD or complex projects\u2014you will inevitably stumble upon the new Notion agents. And yes, the functionality is excellent. The morning briefings, the automated calendar organization, and the constant background activity are exactly what modern assistive work should look like. But this is where the praise ends and the systematic rip-off begins. 1. The Unaffordable Token System: Notion has created a system that relies on agents being constantly active in the background. That is the only way they can reliably remind you of appointments, create briefings, and sync information in real-time. But this is exactly where the trap snaps shut: every move, every reminder, every single action by these agents costs tokens. What starts as a seemingly fair price turns into a bottomless pit within a very short time. For a system that must work 24/7 to fulfill its purpose, charging per token is unethical and financially non-viable. 2. Technology Only for the Rich: This is a prime example of two-class technology. If you don't have a bloated business account to pump hundreds of dollars into token refills every month, you are left behind. Notion shows us exactly how perfect the solution to our chaos could be, only to snatch it away unless we are willing to pay extra for every single automated click. It is a disgrace for a software that claims to \"revolutionize\" the workflow. 3. A Testament to Microsoft's Failure: It is an unprecedented embarrassment that a trillion-dollar corporation like Microsoft, despite owning Windows, Outlook, and Teams, fails to offer even a remotely efficient system for task and project management. While their CEO throws billions out the window to research e",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "hundreds of dollars into token refills every month",
+        "resonance_evidence": "From Blessing to Financial Nightmare \u2013 When AI Organization Becomes an Unaffordable Hostage Situation"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-08",
+      "rating": 1,
+      "title": "Trash",
+      "text": "Trash, I was sold some templates by Oliver notion that were a total scam. you should regulate your platform better.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Trash, I was sold some templates by Oliver notion that were a total scam"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-08",
+      "rating": 1,
+      "title": "Extremely misleading UI and cold customer support\u2014charged $830+ for an accidental click!",
+      "text": "I am deeply shocked and disappointed by Notion's highly misleading UI/UX layout and their inflexible customer service. While simply trying to share content from my workspace, the platform's interface implicitly added users as \"Members\" instead of \"Guests\" and automatically upgraded my workspace to a high-tier Business Yearly plan. I had absolutely no intention of upgrading, nor did I realize a massive charge was being processed. I only discovered this huge financial burden weeks later on my credit card statement. Upon realizing the mistake, I immediately went into my settings and deleted all additional members to correct the workspace. I am a single, individual user who has absolutely no need for enterprise-level features. I reached out to Notion support explaining the situation, but the agent (Maurice) completely hid behind their rigid \"annual refund policy window,\" refusing to issue even a prorated refund for the remaining 11 months of a service I am not using and have already canceled in my settings. Forcing an individual to pay over $830 USD for an accidental click during a content-sharing process is completely unfair and predatory. Please be extremely careful when clicking anything in Notion, as their interface is designed to trap you into expensive subscriptions, and their support team will show zero empathy or flexibility to help you fix an honest mistake.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "Forcing an individual to pay over $830 USD for an accidental click",
+        "resonance_evidence": "I am deeply shocked and disappointed by Notion's highly misleading UI/UX layout"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-28",
+      "rating": 3,
+      "title": "light productivity only",
+      "text": "good for general productivity but also super annoying. When I started using notion it was fantastic but now Im just tired of it. The website randomly refuses to load, the app takes a long time to sync, the spellchecker doesn't work and other annoying bugs/features. so many small things that just make the experience unpleasant",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "good for general productivity but also super annoying"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-26",
+      "rating": 1,
+      "title": "I was told how great their writer\u2026",
+      "text": "I was told how great their writer planner would be but it barely works and it's riddled with AI. I only found out about it once i bought it, typical company using AI to reap money from people. If they're going to be so proud of using AI they can at least be upfront about it. Asking for a refund now, wish me luck.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "barely works and it's riddled with AI"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-26",
+      "rating": 5,
+      "title": "Great tool",
+      "text": "I've been using Notion for a few years by now and it becomes better and better. It's a place for all notes, data and projects, both for work and personal. Recently they also added AI features for a reasonable price that is useful. Love y'all!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "It's a place for all notes, data and projects, both for work and personal. Recently they also added AI features for a reasonable price that is useful. Love y'all!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-22",
+      "rating": 1,
+      "title": "M'a fait souscrire sans mon\u2026",
+      "text": "M'a fait souscrire sans mon consentement pour 1 an pour des si\u00e8ges que je n'ai jamais demand\u00e9 J'ai demand\u00e9 un refund mais je me suis fait voler 800 USD. je d\u00e9teste quand les boites de SAAS font \u00e7a c'est une honte",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "me suis fait voler 800 USD",
+        "resonance_evidence": "je d\u00e9teste quand les boites de SAAS font \u00e7a c'est une honte"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-21",
+      "rating": 4,
+      "title": "One of the best apps I\u2019ve used.",
+      "text": "One of the best apps I\u2019ve used. The only thing I\u2019d suggest is making more features free with usage limits instead of blocking them completely. I think that could help increase sales. Overall, the app itself is really cool. I use it for client management, and I\u2019ve integrated Claude into it as well. Thank you, guys!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-16",
+      "rating": 1,
+      "title": "Abbuchung trotz K\u00fcndigung",
+      "text": "Abbuchung, obwohl w\u00e4hrend der Testphase bereits gek\u00fcndigt. Notion schiebt Stripe die Schuld zu, Stripe schiebt es auf Notion. Selbst wenn es sich um einen Fehler von Stripe handeln sollte, ist Notion der Gesch\u00e4ftspartner und man kann eine kurzfristige L\u00f6sung erwarten. Ich musste daher den Weg \u00fcber die Bank gehen und es dort als betr\u00fcgerische Handlung melden.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "Abbuchung, obwohl w\u00e4hrend der Testphase bereits gek\u00fcndigt",
+        "resonance_evidence": "es dort als betr\u00fcgerische Handlung melden"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-13",
+      "rating": 5,
+      "title": "Praktische Anwendung",
+      "text": "Ich nutze Notion seit 2 Jahren und bin ein sehr gro\u00dfer Fan. Das Design ist modern und ansprechend. Besonders Notion AI ist sehr gut. Die Auswahl an verschiedenen KI Modellen und tiefe Integration in die Plattform helfen mir im Alltag und bearbeiten von Dokumenten.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "bin ein sehr gro\u00dfer Fan. Das Design ist modern und ansprechend. Besonders Notion AI ist sehr gut."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-11",
+      "rating": 1,
+      "title": "Accidental member charges with no warning \u2014 and no recourse",
+      "text": "I shared a document with family members on Notion and accidentally added them as Members instead of Guests. There was no friction, no confirmation step, nothing that hinted this would result in an annual paid seat. I only found out when I was charged over $100. When I contacted support, I was just outside their 3-day refund window \u2014 which was enough to shut the conversation down completely. I wasn't even asking for a full refund, just a prorated credit for months I'll never use. They refused. I'm not surprised to find that many other users have fallen into the exact same trap. At some point, a pattern this consistent stops being an accident.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "charged over $100",
+        "resonance_evidence": "At some point, a pattern this consistent stops being an accident."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-09",
+      "rating": 2,
+      "title": "Una aplicaci\u00f3n potente sin soporte a la altura.",
+      "text": "Es una aplicaci\u00f3n potente, pero tiene un problema: al ser operativa, se convierte en el eje del trabajo diario. Por eso, si surge alg\u00fan fallo, es como perder la conexi\u00f3n ADSL. Y ah\u00ed es donde falla. La atenci\u00f3n al cliente es evasiva. Primero te atiende una IA que da respuestas \"de primero de Notion\". Si insistes en hablar con un humano, tras d\u00edas de espera te marean hasta que o bien cierran el ticket sin resolver el problema, o aceptas vivir con el fallo y te adaptas a \u00e9l. He contactado cuatro veces por distintos motivos, y la estrategia siempre ha sido la misma. Lo peor es que, cuando te das cuenta, ya tienes todo tu sistema dentro, y no se trata solo de una migraci\u00f3n, sino de un cambio completo de sistema. Pi\u00e9nsatelo bien antes de entrar en su mundo...",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-06",
+      "rating": 4,
+      "title": "Uso Notion da svariati anni",
+      "text": "Uso Notion da svariati anni, ormai tutte le informazioni personali e aziendali sono l\u00ec. Funziona molto bene ed \u00e8 super customizzabile. Vorrei che la loro AI avesse crediti mensili gratuiti anzich\u00e8 una tantum, anche pochi farebbero comodo.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Funziona molto bene ed \u00e8 super customizzabile"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-29",
+      "rating": 4,
+      "title": "I`ve been using Notion as a jornal for\u2026",
+      "text": "I`ve been using Notion as a jornal for notes on free plan for the free plan for the past 3 months. I usually add new every 1\u20132 days. For me, it works well as a simple notebook, and the free plan is convenient enough for regular use. I don`t use the AI features because they\u2019re paid, and I already have subscriptions to other AI tools that cover that for me. As a notebook, Notion has a clean and pleasant interface with very little unnecessary clutter, so overall I\u2019m happy with it. One thing I`d still like to have is the option to lock my Notion with a possword, because privacy matters to my when it comes to personal notes. Right now, thet feature is missing.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "it works well as a simple notebook, and the free plan is convenient enough for regular use"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-27",
+      "rating": 1,
+      "title": "The most inconvenient app I've ever\u2026",
+      "text": "The most inconvenient app I've ever used. It doesn't let me do even the most basic tasks. I'm trying to figure out how to delete a user through AI. It's complete crap, and I've been using it for a week, doing basic tasks, and this piece of crap wants to charge me $24 a month. For me, Google Sheets is 100 times better, more convenient, and free.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "Google Sheets is 100 times better",
+        "resonance_evidence": "The most inconvenient app I've ever used. It doesn't let me do even the most basic tasks."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-27",
+      "rating": 1,
+      "title": "inutilizzabile",
+      "text": "inutilizzabile, \u00e8 il prodotto con l'usabilit\u00e0 pi\u00f9 bassa dell'universo. Una roba orribile",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "inutilizzabile, \u00e8 il prodotto con l'usabilit\u00e0 pi\u00f9 bassa dell'universo. Una roba orribile"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-26",
+      "rating": 1,
+      "title": "Don't use this app. They glitch and steal your money!",
+      "text": "I have had notion since 2018 because a friend of mine was using it and had me join to be a part of the project. Of course they don't let you use the full functionality of sharing small documents for free, so I was forced to buy it. It worked fine, but here's where it gets sticky and they take advantage of people--if you share with someone and they use the platform it can glitch and make them a team member. If it does this, you'll get an AUTOMATIC huge surprise bill (I didn't even know about this, NOR DID I OPT IN FOR IT). I am being billed $120 extra for a service I didn't even use because someone looked at a document. They said because I didn't notify them within THREE DAYS, THEY REFUSE TO REFUND THE MONEY. I'M NOW LOCKED INTO THIS FOR A YEAR, AND I DID NOT EVEN AUTO-RENEW. So I advise AGAINST USING THIS PLATFORM. Bad customer service, a platform that's not intuitive, it's glitchy and honestly, after 7 years of being a faithful customer and barely using the platform, you'd think they would have treated me better. STAY AWAY FROM THESE PEOPLE. THEY ARE CON ARTISTS! I contacted their customer support and they told me because",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "I am being billed $120 extra for a service I didn't even use",
+        "resonance_evidence": "So I advise AGAINST USING THIS PLATFORM. Bad customer service, a platform that's not intuitive, it's glitchy"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-17",
+      "rating": 2,
+      "title": "Misleidende facturatie en slechte klantenservice",
+      "text": "Notion is een fijn product, maar de manier waarop facturering werkt is ronduit misleidend. Toen ik een lid toevoegde aan mijn workspace, werd er automatisch een extra betaalde seat aangemaakt en gefactureerd, zonder enige waarschuwing, zonder bevestigingsstap, en zonder dat ik actief akkoord heb gegeven. De enige \"communicatie\" die ik ontving was een e-mail achteraf, met de tekst \"je hebt laatst betaalde plekken toegevoegd.\" Op dat moment was de factuur al verstuurd. Ik had dus nooit de kans om een bewuste keuze te maken. Na meerdere contactmomenten met de klantenservice weigert Notion een (gedeeltelde) terugbetaling. Ze verwijzen naar hun beleid en stellen dat de e-mail als communicatie geldt. Maar een notificatie n\u00e1dat de kosten al zijn gemaakt is geen informed consent.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "de manier waarop facturering werkt is ronduit misleidend"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-17",
+      "rating": 1,
+      "title": "Deleting the platform customer service and their AI agent is terrible",
+      "text": "Notion had an ad on FB and offered one year free if you sign up. I signed up and didnt see the email untial a few days later & gave them my notion info for my workspace no reply. Today I go on Notion and I get a business plan promotion for 50% off until May 16. I go to checkout and it is 24.00 not 12.00 complete scam. Talking to their AI about it - they just blame the consumer when it clearly showed 24.00 at checkout and the promotion was applied before hitting the checkout button.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "it is 24.00 not 12.00",
+        "resonance_evidence": "complete scam"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-10",
+      "rating": 1,
+      "title": "NEVER EVER, EVER-EVER, TRY THEIR PAID SERVICES FOR FREE",
+      "text": "NEVER TRY THEIR PAID SERVICES FOR FREE IF YOU DONT WANT TO PAY IN FUTURE! They will ask you to try a free plan for 1 month e.g. AI or Pro. You will stop autopay using your internet banking or whatever. Then weeks later you will receive warning that you would lose access to \"YOUR OWN NOTES\" unless you pay for the last month. Yes! Postpaid billing which is shady and unethical as hell! This has happened to me twice. THIS IS DELIBERATE. My workspace was locked and I could not access my own notes. MY OWN NOTES are being used as a blackmail to pay them. Now I use Samsung Notes, Obsidian and OneNote for different features.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "Postpaid billing which is shady and unethical as hell! This has happened to me twice.",
+        "resonance_evidence": "MY OWN NOTES are being used as a blackmail to pay them"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-09",
+      "rating": 1,
+      "title": "very disappointed with their AI",
+      "text": "I\u2019m very disappointed with their AI. It suggested permanently deleting all of my databases with no way to restore them. I would never recommend using it. Specifically, I had a Trash label next to my database and only wanted to remove that label. Instead, the AI removed not just the label, but the databases themselves from the trash. I\u2019m extremely disappointed, especially since restoration is impossible.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I would never recommend using it"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-07",
+      "rating": 1,
+      "title": "Good app, just overpriced",
+      "text": "Good app, been using it for years. But the plans are overpriced and don't really make sense, especially as I don't care about using AI and I'm just a solo user. Based on the above, I just don't really trust a company that doesn't come across as transparent. I'm going to move to a 'free' app instead.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I'm going to move to a 'free' app instead"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-04",
+      "rating": 1,
+      "title": "Unclear payment requests, sudden freezes",
+      "text": "I\u2019ve been using Notion for a while, but lately, it\u2019s become a complete disappointment. The app constantly asks for money \u2013 and for what? It\u2019s completely unclear. The web version freezes all the time, making it almost unusable. The overall quality of the app is an absolute nightmare. Honestly, it\u2019s embarrassing to even use this app. Charging users without delivering a stable, functional product is just shameful. You keep asking for payment \u2013 but the real question is: aren\u2019t you ashamed of yourselves? Do not recommend. Look elsewhere for a reliable note-taking tool.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Do not recommend. Look elsewhere for a reliable note-taking tool."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-03-28",
+      "rating": 5,
+      "title": "Total game changer",
+      "text": "Honestly, balancing my content calendar and UGC deadlines was a struggle until I built my workspace here. Total game changer for my workflow! I am completely obsessed with color-coordinating my project boards\u2014it fits my exact aesthetic and keeps my grid perfectly curated without the behind-the-scenes chaos. Having my backend this organized gives me so much more time to actually focus on my community and engagement rate.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "gives me so much more time to actually focus on my community and engagement rate",
+        "resonance_evidence": "Total game changer for my workflow! I am completely obsessed"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-03-25",
+      "rating": 3,
+      "title": "I like the user experience but features\u2026",
+      "text": "I like the user experience but features are very expensive. One can build such integrations in a few minutes locally, so one has to ask whether a tool like Notion is too expensive and too restrictive in functionality in 2026. One of the challenges we now have is repeatedly paying for AI tools, when you only really want to pay for one. Notion is one such example, why pay for it here, when you have it elsewhere? I think they key will be to use the AI locally and push data to Notion as a shared wiki and forego the expensive add ons. I hope billing models will reflect this new world soon and be a bit more realistic.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "I like the user experience but features are very expensive"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-03-24",
+      "rating": 1,
+      "title": "Predatory billing practices and dismissive customer support",
+      "text": "I had a very disappointing experience with Notion that has caused my organization to lose trust in both the product and the company. I shared a read-only version of a database with a test account and several team member email addresses. At no point during the sharing process was there any clear warning that these users would be added to our workspace as billable members. As a result, multiple accounts were added automatically, and we were charged hundreds of euros. To their credit, Notion did issue a refund. However, the handling of the issue afterward was extremely frustrating. Support responded by sending me a video showing a warning message that should appear when adding users. I then recorded my own video demonstrating that, in my version of Notion, no such warning appeared. Instead of engaging with this evidence, they told me they could only view videos via Loom and required me to create a third-party account to proceed. I declined and asked several follow-up questions, which were never answered. The ticket was then closed without resolution. This experience highlights what feels like a serious flaw in transparency around billing. We are not opposed to paying for team members\u2014but during an early development phase, we only needed to share content for feedback, not add paid users unintentionally. We will be moving away from Notion as soon as possible. While the product itself has strong potential, the lack of clarity and poor support handling are major concerns. I would urge others to proceed with caution, particularly when sharing access with external users.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "we were charged hundreds of euros",
+        "resonance_evidence": "We will be moving away from Notion as soon as possible"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-03-20",
+      "rating": 1,
+      "title": "The pro upgrade is a scam",
+      "text": "The pro upgrade is a scam. After using notion for 5 years I upgraded to the pro plan just to be able to set an agent to catagorize my notes. Shortly after upgrading a link appeared in under the Create An Agent option showing this would be an additional charge on top of the pro license starting in May of 2026",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "this would be an additional charge on top of the pro license starting in May of 2026",
+        "resonance_evidence": "The pro upgrade is a scam"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-03-10",
+      "rating": 4,
+      "title": "Tellement pratique",
+      "text": "Tellement pratique, notion \u00e0 vraiment eu un impact sur mon quotidien et mon organisation. Seule B mol le prix des abonnements et la restriction sur les fonctionnalit\u00e9s lorsqu\u2019on est en mode gratuit. \u00c0 part \u00e7a Je recommande !!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Je recommande !!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-03-09",
+      "rating": 1,
+      "title": "Very rigid refund policy despite limited usage and product complexity",
+      "text": "I purchased the Notion Business annual plan on January 14 for $288. After buying it, I spent time trying to integrate Notion into my workflow, but unfortunately I realized that the platform was not the right fit for my needs. One of the biggest issues for me was how complex the system is for relatively simple use cases. Even basic workflow setups require a lot of manual configuration, and building structured processes takes significantly more time than expected. In addition, some workflow and automation capabilities that I expected from a Business plan were either missing or required complicated workarounds. Because of this, I could not integrate Notion efficiently into my daily work. When I contacted support, they explained their 30-day refund policy. I understand that policies exist, but when I requested support it had been less than two months since the purchase and my actual usage was quite limited. They asked me to downgrade my workspace to the Free plan, which I did, but even after following their instructions they refused to offer any partial refund or credit for the unused months of the annual subscription. I was not asking for a full refund anymore \u2014 only a reasonable prorated refund for the unused portion of the subscription. It\u2019s disappointing to see such a rigid approach, especially for small business users where $288 is a significant expense. I hope Notion will reconsider situations like this in the future and provide more flexible solutions for customers who clearly did not fully use the service.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "the platform was not the right fit for my needs"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-03-05",
+      "rating": 1,
+      "title": "Surfacturation de compte et aucune\u2026",
+      "text": "Surfacturation de compte et aucune d\u00e9marche commerciale : Notion m'a factur\u00e9 2 comptes suppl\u00e9mentaires qui s'\u00e9tait cr\u00e9e par erreur et ne veut pas me rembourser car j'ai d\u00e9pass\u00e9 le d\u00e9lais d'1 mois. Je comprends la politique mais aucun geste commercial n'est fait pour mon prochain abonnement alors que nous sommes une association, le service client est d\u00e9plorable !",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "le service client est d\u00e9plorable"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-03-02",
+      "rating": 1,
+      "title": "They pivot projects and features\u2026",
+      "text": "They pivot projects and features without finishing them. Notion mail sucks, notion ai sucks, now they roll out agents. yet still cant work off line. Migrating off as soon as possible. Truly a bad app in 2026",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Migrating off as soon as possible. Truly a bad app in 2026"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-03-02",
+      "rating": 1,
+      "title": "API changes",
+      "text": "they changed the api integration so that it's unpossible now tu use it!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "they changed the api integration so that it's unpossible now tu use it"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-02-23",
+      "rating": 2,
+      "title": "Notion is really complicated and slow\u2026",
+      "text": "Notion is really complicated and slow nowadays. It lost the charm now.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "It lost the charm now"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-02-19",
+      "rating": 5,
+      "title": "We use Notion for basically everything\u2026",
+      "text": "We use Notion for basically everything - our agency KB, project management, and CRM. It\u2019s the backbone of how we stay organized. The Good Stuff: The customizability is unmatched. We\u2019re very API-forward, so the way it integrates with Make and the MCP we use with Claude is a total game-changer for our automation. In the last year, Notion has been pumping out updates so fast I can\u2019t even catch up. I\u2019m positive I\u2019m missing out on half the new features, but here are the ones actually moving the needle for us: AI Meeting Recording: This is huge. Since it\u2019s local and you don\u2019t have to have a \"bot\" join the call, it\u2019s way less intrusive. Plus, because it runs locally, I can use it for phone calls and in-person meetings, which is a massive plus. Database Upgrades: Love the recent additions like conditional coloring; it makes scanning high-level data so much easier. Notion Calendar: The recent UI updates have made this a staple in my daily workflow. The Not-So-Good Stuff: Notion Mail: Honestly, it needs some love. The sorting and AI features leave a lot to be desired, and it bugs out on me pretty often. It\u2019s a great concept, but it's not quite \"there\" yet. The Learning Curve: There is definitely a steep curve for new users. I really wish there was a better way to introduce basic features to new team members without it feeling overwhelming. My Wishlist: Notion Chat: I\u2019d love a native chat feature similar to Slack so we could finally keep the \"talk\" where the \"work\" is. Basic Text Formatting: I\u2019d love to use Notion as a legitimate word processor (like to write a book), but it\u2019s missing the basics. You can't do double line spacing and you can't even do paragraph indents. Overall, it\u2019s an incredible tool that we couldn't run the agency without, even if I'm constantly chasing the latest update.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-02-19",
+      "rating": 1,
+      "title": "the worst app",
+      "text": "the worst app cant even load first of all and secondly it may look good but doesnt even improve your productivity. 0/5 stars if i could do it",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "the worst app cant even load first of all and secondly it may look good but doesnt even improve your productivity"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-02-17",
+      "rating": 1,
+      "title": "worst software ever its always buggy\u2026",
+      "text": "worst software ever its always buggy almost every day dont use it its just a scam",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "worst software ever its always buggy almost every day dont use it its just a scam"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-02-16",
+      "rating": 1,
+      "title": "Normalerweise nicht mal einen Stern",
+      "text": "Normalerweise nicht mal einen Stern! Die Likes sind wieder alle weg! Einfach eine Frechheit!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Normalerweise nicht mal einen Stern! Die Likes sind wieder alle weg! Einfach eine Frechheit!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-02-12",
+      "rating": 1,
+      "title": "It pains my heart to write this review\u2026Notion is not good anymore",
+      "text": "It pains my heart to write this review because I love Notion software. They have the absolutely WORST billing experience I've ever encountered. They can bill you for users you never added, or even if you did accidentally add them, they still didn't do anything, so its like clearly it's a whops, NOPE. They' take their money. I remember when Notion was customer-first. Now IDK if its because they have investors they need to pay. But stealing money from your best users to pay investors is literally CRAZY.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "They can bill you for users you never added, or even if you did accidentally add them, they still didn't do anything, so its like clearly it's a whops, NOPE. They' take their money."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-02-10",
+      "rating": 1,
+      "title": "Started out as a very neat tool - beware scam pricing",
+      "text": "Started out as a very neat tool. However have a nasty habit of attempting to charge you piecemeal for lots of interlinking services. Was paying 50GBP a month for something I didn\u00b4t use, on deliberately opaque pricing.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "Was paying 50GBP a month for something I didn\u00b4t use",
+        "resonance_evidence": "Have a nasty habit of attempting to charge you piecemeal for lots of interlinking services"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-02-10",
+      "rating": 2,
+      "title": "Potencial desaprovechado",
+      "text": "Su idea es muy buena pero su ejecuci\u00f3n es p\u00e9sima. Muy confusa de utilizar y consume muchos recursos en computadores de gama baja/media. Si es una herramienta de apoyo laboral, debe ser lo m\u00e1s intuitiva y f\u00e1cil de usar posible.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Su idea es muy buena pero su ejecuci\u00f3n es p\u00e9sima. Muy confusa de utilizar y consume muchos recursos en computadores de gama baja/media."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-02-04",
+      "rating": 1,
+      "title": "Refund refused for unused subscription",
+      "text": "I am leaving this review to share my experience with Notion regarding billing and refunds. I was charged for a monthly Business subscription associated with a workspace called \u201cCircle For Pets\u201d. The subscription was not actively used, and no paid features were accessed during the billing period. I only became aware of the charges later when reviewing my bank statements. As soon as I noticed the issue, I contacted Notion Support in good faith to explain the situation and request a refund. I provided all the requested information, and my case was escalated internally. Despite acknowledging that the subscription was unused, Notion refused to issue any refund, stating that their policy only allows refunds if contacted within three days of invoice creation. No exception was considered, even though the service was not used at all and I contacted them immediately upon discovering the charges. While I understand that companies have internal policies, I find it unreasonable and unfair to completely deny refunds in cases where no service was consumed and the customer acts promptly once aware of the billing. This experience left me disappointed, particularly due to the lack of flexibility and consideration for exceptional circumstances. I believe potential users should be aware of how strict and inflexible Notion\u2019s refund practices can be.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-02-03",
+      "rating": 4,
+      "title": "Notion pour mieux s'organiser",
+      "text": "Notion est un outil devenu indispensable pour moi. J'y retrouve toutes les informations de ma boite, partag\u00e9es avec les \u00e9quipes. Cela se branche avec plein d'outils et peut m\u00eame \u00eatre automatis\u00e9 avec tableau, make, etc. Parfait pour s'organiser (calendrier, listes, documents) dans des vues diff\u00e9rentes ou y construire des bases de donn\u00e9es. LA version gratuite permet de prendre en main, mais rapidement si on veut aller plus loin, il faut passer au plan payant (9\u20ac par mois).",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "LA version gratuite permet de prendre en main, mais rapidement si on veut aller plus loin, il faut passer au plan payant (9\u20ac par mois).",
+        "resonance_evidence": "Notion est un outil devenu indispensable pour moi. J'y retrouve toutes les informations de ma boite, partag\u00e9es avec les \u00e9quipes. Cela se branche avec plein d'outils et peut m\u00eame \u00eatre automatis\u00e9 avec tableau, make, etc."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-01-24",
+      "rating": 1,
+      "title": "Paying customer, same limits as free users",
+      "text": "I'm a paying Plus plan subscriber and was told I've \"run out of free AI responses\" after asking just 2 questions. Turns out paying customers on Plus get the same 20 lifetime AI responses as free users. This was not disclosed when I subscribed. The pricing page buries this limitation. To get actual AI access, you have to upgrade to Business at $20/month - double what I'm already paying. I cancelled immediately. When I see the reviews here about billing issues, surprise charges, and unresponsive support, it's clear this is a pattern, not an accident. They changed their pricing model in May 2025 to force users onto expensive plans. Previously you could add AI to any plan for $8/month. Now it's bundled only into Business tier, and existing Plus customers are left with a useless 20-response \"trial.\" Switched to other tools. Don't give them your money.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "I'm a paying Plus plan subscriber and was told I've \"run out of free AI responses\" after asking just 2 questions. Turns out paying customers on Plus get the same 20 lifetime AI responses as free users.",
+        "resonance_evidence": "I cancelled immediately. When I see the reviews here about billing issues, surprise charges, and unresponsive support, it's clear this is a pattern, not an accident."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-01-23",
+      "rating": 5,
+      "title": "Free version is great for individual use",
+      "text": "Free version is great for taking notes and tracking personal to-do lists. I found the paid version and team collaboration really really unproductive. Review here is just for the free, personal version. Great for replacing Evernotes and generic list apps.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-01-20",
+      "rating": 1,
+      "title": "Od paru dni wersja p\u0142atna jest po prostu \u017ca\u0142osna",
+      "text": "Niestety Notion bardzo mnie zawi\u00f3d\u0142. W workspace z 2 lub wi\u0119cej osobami praktycznie nie da si\u0119 normalnie pracowa\u0107. Przez problemy z dost\u0119pem straci\u0142am dost\u0119p do mojej ci\u0119\u017ckiej pracy, kt\u00f3r\u0105 w\u0142o\u017cy\u0142am w tworzenie szablon\u00f3w niezb\u0119dnych do mojej pracy prywatnej. Od paru dni wersja p\u0142atna jest po prostu \u017ca\u0142osna. Nie nadaje si\u0119 do u\u017cytku w wi\u0119cej ni\u017c jednej osobie. A przecie\u017c Notion jest narz\u0119dziem, z kt\u00f3rego korzysta si\u0119 do pracy z INNYMI, a nie w pojedynk\u0119. W obecnym stanie nie ma sensu dalej go u\u017cywa\u0107, zw\u0142aszcza je\u015bli kto\u015b nie ma zasob\u00f3w aby p\u0142aci\u0107i liczy na stabilno\u015b\u0107 oraz wsp\u00f3\u0142prac\u0119 zespo\u0142ow\u0105. Ogromne rozczarowanie i strata czasu oraz pracy.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "straci\u0142am dost\u0119p do mojej ci\u0119\u017ckiej pracy, kt\u00f3r\u0105 w\u0142o\u017cy\u0142am w tworzenie szablon\u00f3w",
+        "resonance_evidence": "Niestety Notion bardzo mnie zawi\u00f3d\u0142"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-01-19",
+      "rating": 4,
+      "title": "The interface may seem a little\u2026",
+      "text": "The interface may seem a little complicated at first, but it becomes clearer over time. Overall, the service is suitable for everyday use and helps keep information in one place.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "the service is suitable for everyday use"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-01-14",
+      "rating": 1,
+      "title": "great tool, bad business practices",
+      "text": "Notion is a great productivity tool, but their billing practices are deeply questionable and completely lack accountability. I upgraded to \u201cPlus & AI\u201d inside the Notion iPad app and was charged 20 CHF. Despite this, my workspace still showed the Free plan and I was locked out of the features I paid for. When I contacted support, I was told that because the purchase went through Apple, Notion \u201ccannot see it\u201d and that I would need to subscribe again. In other words: I paid through their own app, yet they claim the payment is invisible to them \u2014 and the proposed solution is to pay again. There was no warning at purchase time that Notion would not be able to track or reconcile in-app subscriptions, and no clear process to resolve the issue internally. This puts all the burden and risk on the customer. It\u2019s unacceptable to charge users without being able to associate the payment to their own product. Until this is fixed, I cannot recommend trusting Notion with any paid features.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-01-13",
+      "rating": 1,
+      "title": "Way too expensive",
+      "text": "Great app/website for making lists, but why is it so expensive? I've stopped using it because i've reached my free limit, why would I pay 8.99 a month so I can make lists on my laptop. Silly",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "I've stopped using it because i've reached my free limit",
+        "resonance_evidence": "why is it so expensive? I've stopped using it"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-01-10",
+      "rating": 4,
+      "title": "the free individual member experience",
+      "text": "my experience: i think this is pretty great for anyone that would like to organize their plans and thoughts alone (more than 1 people lets u do less) for the negative reviews: billing issues - never experienced the billing issues people are talking about since ive never paid for this service, so nothing to say on that complicated to use - for people that are saying this, or that notion is hard to \"learn\", google is free, and they themselves have literal reference docs that teach you about each thing. laggy - i've never experienced slow loading or glitching or lagging in a big enough way that resulted in me feeling upset about the website, let alone remembering it.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "i think this is pretty great"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-01-09",
+      "rating": 4,
+      "title": "Solid tool for the cost; important to understand keyboard shortcuts",
+      "text": "We've been using Notion for a few months now, and overall it's been positive. I have used Confluence and other systems in the past, so compared to that I find Notion to be much simpler and user friendly. One thing that is a pain point is for users (like myself) who are less comfortable using keyboard shortcuts. Sometimes the UX is almost *too easy* in the sense that I often add, delete, or move things that I didn't intend to, by clicking in the \"wrong\" place etc. Similarly, formatting isn't as standard as other platforms, or even document tools like Word or Docs. I have been unable to make visual changes (centering font, color fill in charts, eyedropper for colors) in ways that have become standard and expected across the industry. Not a deal breaker, just worth noting. So, if your team is less computer-savvy, this is likely not the right tool for you. That being said, helpful features like AI catching spelling or capitalization inconsistencies, super quick content architecture, and other helpful features have been delightful.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "overall it's been positive"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-01-09",
+      "rating": 1,
+      "title": "Absolutely unbareably shit",
+      "text": "Absolutely terrible and shit As a developer I used notion to try out new capabilities to ease procedures for certain aspects of a clients company. The site is crap, its buggy, it is complicated, you can get lost for hours to realise its a complete waste of time and effort. My client was not impressed and it wasted a lot of time. I was billed \u00a3163 as a result to use business for a month, I tried to cancel and was told that I was not entitled to a refund because I did not cancel beforehand even though I did not pay for the subscription or use it at all. Customer service are ugly as well, for a company that does very well squabbling over \u00a3163 I honestly think that they as a company should fail and that no one should bother trying to get used to notions buggy and horrible interface that makes normal tasks confusing and terrible. Everything you want to do is better done in an excel spreadsheet or on an AI platform builder like Manus.im Do not waste your time learning how to use notion, trust me, its shit.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "I was billed \u00a3163 as a result to use business for a month",
+        "resonance_evidence": "Absolutely terrible and shit"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-01-08",
+      "rating": 5,
+      "title": "Great project management tool",
+      "text": "This tool has been great to get everyone on our team to keep projects moving and get results delivered on time. Even for the creative and non-tech team members its been easy to learn.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "get everyone on our team to keep projects moving and get results delivered on time",
+        "resonance_evidence": "This tool has been great"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-01-04",
+      "rating": 2,
+      "title": "Background troppo chiaro per sessioni lunghe di lavoro",
+      "text": "Utilizzo Notion per organizzare i miei appunti di studio. Usando le funzioni minimali. Il problema di questo programma \u00e8 che lo sfondo non \u00e8 nero come dovrebbe essere, \u00e8 leggermente chiaro. Per le sessioni lunghe di lavoro arrivi con il mal di testa e gli occhi che s'incrociano. lo sfondo un po chiaro con le scritte bianche ed il grassetto che alla lunga nemmeno si percepisce rende il tutto davvero fastidioso, poco chiaro e disordinato. Sono costretta a dover ricercare qualcosa di meno fastidioso, peccato perch\u00e8 \u00e8 un buon programma dalle buone potenzialit\u00e0",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Sono costretta a dover ricercare qualcosa di meno fastidioso"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-01-03",
+      "rating": 5,
+      "title": "Super f\u00fcr den Alltag",
+      "text": "Bietet einen sehr hohen Funktionsumfang, ein tolles Design und gute M\u00f6glichkeiten um sich zu vernetzen. Der Support ist freundlich, hilfsbereit, geduldig und vor allem schnell, was ich bei so einer gro\u00dfen Plattform bemerkenswert finde.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Bietet einen sehr hohen Funktionsumfang, ein tolles Design"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-12-30",
+      "rating": 1,
+      "title": "\u26a0\ufe0f Serious Billing System Issues with Notion \u2013 Read Before Subscribing",
+      "text": "Notion is a powerful platform, but its billing system has serious and recurring problems. When I first subscribed to a paid plan, Notion failed to upgrade my account, leaving me on the Free Plan for almost a month until I contacted support and asked them to apply the upgrade manually. This was a system failure, not a user error. Later, when I requested to downgrade back to the Free Plan, the opposite happened. The app itself showed that the downgrade was scheduled, yet Notion continued charging me month after month. The downgrade was never executed. To make things worse, Notion does not email payment receipts, so unless you manually download them, you have no clear billing record. If you question the charges, you may be told there is an \u201coutstanding invoice\u201d and your workspace can be restricted until you pay again. In short: Notion\u2019s system sometimes fails to apply upgrades It also fails to apply downgrades Once you enter a paid plan, getting out is not reliable Billing errors always fall on the user Great product. Unreliable billing. Proceed with caution before subscribing.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-12-27",
+      "rating": 3,
+      "title": "Eu queria criar um e-mail no Notion e\u2026",
+      "text": "Eu queria criar um e-mail no Notion e completei todos os passos necess\u00e1rios para a verifica\u00e7\u00e3o. E no final recebi uma notifica\u00e7\u00e3o: \"Desculpe, o servi\u00e7o n\u00e3o est\u00e1 funcionando, entre em contato com o suporte t\u00e9cnico\". \u00c9 uma pena o tempo perdido",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "\u00c9 uma pena o tempo perdido",
+        "resonance_evidence": "\u00c9 uma pena o tempo perdido"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-12-19",
+      "rating": 5,
+      "title": "Great for small businesses",
+      "text": "I use Notion everyday for managing my projects, keeping track of ideas, and writing first drafts of content. The AI features are a bit oversold IMHO, but the core functionality is very useful and intuitive.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "the core functionality is very useful and intuitive"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-12-19",
+      "rating": 5,
+      "title": "I recently decided to organize my notes\u2026",
+      "text": "I recently decided to organize my notes and tasks, so I tried Notion. It only took me a couple of minutes to set everything up-I added a table, a couple of to-do lists, and it already looks great. Files load quickly, nothing freezes. Overall, I figured it out without any instructions.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "It only took me a couple of minutes to set everything up",
+        "resonance_evidence": "it already looks great. Files load quickly, nothing freezes. Overall, I figured it out without any instructions."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-12-19",
+      "rating": 3,
+      "title": "Bien, peu mieux faire..",
+      "text": "Notion est, selon moi, une tr\u00e8s bonne application pour structurer mes notes de cours gr\u00e2ce \u00e0 son syst\u00e8me de blocs. Une fois qu\u2019on a compris son fonctionnement, elle est assez simple \u00e0 utiliser. Cependant, j\u2019ai \u00e9t\u00e9 d\u00e9\u00e7u par le manque de transparence au niveau du paiement. J\u2019ai souscrit \u00e0 un mois en version Premium, annonc\u00e9 \u00e0 10 \u20ac sur le site, mais j\u2019ai \u00e9t\u00e9 factur\u00e9 16 \u20ac via mon application bancaire, \u00e0 cause de frais suppl\u00e9mentaires. Entre les frais bancaires et d\u2019autres co\u00fbts non clairement expliqu\u00e9s, le paiement n\u2019a pas \u00e9t\u00e9 du tout transparent",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-12-18",
+      "rating": 1,
+      "title": "Just spent 45 mins trying to copy and\u2026",
+      "text": "Just spent 45 mins trying to copy and paste something from one page to another lol started glitching out and being slow af for agesssssssss. I use this app to save time, yet it's stealing my time away from me because it can't do the absolute most basic of things. SOOOOOO SLOOOOOOWWWWWW",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "Just spent 45 mins trying to copy and paste something from one page to another",
+        "resonance_evidence": "I use this app to save time, yet it's stealing my time away from me because it can't do the absolute most basic of things"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-12-16",
+      "rating": 5,
+      "title": "Master student using Notion",
+      "text": "Master student using Notion I have been using notion for the past 4 years for note taking. Once you get to really know it then you will never use anything else. I rarely write reviews but cant recommand something more.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Once you get to really know it then you will never use anything else"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-12-09",
+      "rating": 1,
+      "title": "Attention \u00e0 tout",
+      "text": "Attention \u00e0 tout, voil\u00e0 ce que j'ai \u00e0 vous partager. Vous invitez la m\u00eame personne 2 fois par erreur on vous facture 2 forfaits annuels sans vous signaler la facture vous le d\u00e9couvrez sur votre compte bancaire. Le service clients qui vous dit que quelques part dans les conditions de remboursement vous avez les information et qu'il fallait contester sous 3 jours apr\u00e8s facture. Mais si on n'a pas la notif de la facture comment le savoir ? Bref il pourrait-\u00eatre l'outil le plus utile au monde ce type de pratique trompeuse sur l'engagement est execrable.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "on vous facture 2 forfaits annuels",
+        "resonance_evidence": "ce type de pratique trompeuse sur l'engagement est execrable"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-12-08",
+      "rating": 1,
+      "title": "Verweigerung Schadensabwicklung nach Versanddiebstahl",
+      "text": "Paket kam ge\u00f6ffnet (seitlich aufgerissen) an und es wurde ein Parf\u00fcm entwendet- Notino hat uns erkl\u00e4rt, dass w\u00e4re bei uns passiert- ohne Worte- zumal der H\u00e4ndler seine Pakete versichert versendet und dar\u00fcber das h\u00e4tte geltend machen k\u00f6nnen, aber alles auf den Verbraucher schieben- sehr entt\u00e4uschend- nicht empfehlenswert",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "sehr entt\u00e4uschend- nicht empfehlenswert"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-12-05",
+      "rating": 1,
+      "title": "Terrible service",
+      "text": "Terrible service takes 6 days to answer without providing answer, although we pay enterprise level subscription money - unacceptable",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "takes 6 days to answer",
+        "resonance_evidence": "Terrible service"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-11-28",
+      "rating": 2,
+      "title": "Verwarrende betalingen en slechte klantenservice",
+      "text": "Helaas ben ik zeer teleurgesteld over de betalings- en klantenservice-ervaring. Voor mij was het nooit duidelijk dat het toevoegen van een extra lid in een betaald pakket zulke hoge kosten met zich meebrengt. Voor mijn gevoel heb ik nooit een duidelijke waarschuwing gekregen. Het is extra verwarrend omdat je in het gratis pakket w\u00e9l een extra lid kunt toevoegen, waardoor ik bij een betaald pakket niet per se iets anders verwachtte. Ik gebruik Notion alleen voor mezelf en had nooit de intentie om extra leden toe te voegen. Dit resulteerde in een onverwachte afschrijving van \u20ac85,31, iets wat ik absoluut niet had kunnen voorzien of dragen. Daarnaast is het vrijwel onmogelijk om snel contact te krijgen met de klantenservice. Het bekijken van facturen werkt bijvoorbeeld niet goed in Chrome; het laadscherm blijft hangen en ik kon de facturen niet inzien. Alles bij elkaar is dit erg stressvol. Kortom: goed product, maar het betalingsproces, de informatievoorziening en de klantenservice moeten duidelijk verbeterd worden.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "onverwachte afschrijving van \u20ac85,31",
+        "resonance_evidence": "zeer teleurgesteld"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-11-20",
+      "rating": 2,
+      "title": "Cannot change seats so they let you pay\u2026",
+      "text": "Cannot change seats so they let you pay unnecessary much.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Cannot change seats so they let you pay unnecessary much"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-11-20",
+      "rating": 5,
+      "title": "Strange that its so negative here",
+      "text": "Not sure why there are so many negative reviews here, I genuinely loveee notion. Its saved me so much time and effort with planning and organising.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "Its saved me so much time and effort",
+        "resonance_evidence": "I genuinely loveee notion"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-11-20",
+      "rating": 1,
+      "title": "i just lost my planning for he day",
+      "text": "i just lost my planning for he day , and the is no undo so stupid no the 17 is not do day , but i did what i need to bod thus day . lost of time, go dice notion",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "lost of time",
+        "resonance_evidence": "so stupid"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-11-19",
+      "rating": 5,
+      "title": "This is one of the most flexible tools\u2026",
+      "text": "This is one of the most flexible tools i've used for organizing work. Once you get the hang of it, the setup becomes smooth and everything fits together. Thank you",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "This is one of the most flexible tools i've used for organizing work"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-11-18",
+      "rating": 2,
+      "title": "i loved notion before",
+      "text": "i loved notion before, but sadly it has changed... it's often buggy and slow now, which make managing tasks frustrating... i hope they improve soon",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "i loved notion before, but sadly it has changed... it's often buggy and slow now, which make managing tasks frustrating"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-11-15",
+      "rating": 4,
+      "title": "We like using Notion for our company\u2026",
+      "text": "We like using Notion for our company docs. Its easy to use and they've been adding some great features recently but their per seat pricing is getting expensive. Especially for the AI features.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "We like using Notion for our company docs. Its easy to use and they've been adding some great features recently but their per seat pricing is getting expensive"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-11-14",
+      "rating": 1,
+      "title": "it feels like their servers up with\u2026",
+      "text": "it feels like their servers up with raspberry pi",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "it feels like their servers up with raspberry pi"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-11-13",
+      "rating": 2,
+      "title": "It can be really useful when it works\u2026",
+      "text": "It can be really useful when it works properly, but the problem is its often slow or goes down, which makes it frustating to rely on.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "It can be really useful when it works properly, but the problem is its often slow or goes down, which makes it frustating to rely on"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-11-13",
+      "rating": 1,
+      "title": "Love the tool but the billing practice\u2026",
+      "text": "Love the tool but the billing practice is a scam. I will look for a different company and product. This is a rip off.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Love the tool but the billing practice is a scam. I will look for a different company and product. This is a rip off."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-11-11",
+      "rating": 5,
+      "title": "I simply ADORE notion",
+      "text": "I simply ADORE notion. It's my day-to-day product for pretty much anything. Great tool!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "I simply ADORE notion. It's my day-to-day product for pretty much anything. Great tool!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-11-08",
+      "rating": 3,
+      "title": "Notion is pretty cool in theory",
+      "text": "Notion is pretty cool in theory, and I get why so many people love it. You can build docs, databases, notes - basically anything. I like the flexibility and how clean everything looks. But honestly, it can feel overwhelming. Every time I want to set something simple up, I end up getting lost in templates, blocks, settings\u2026 feels like too much sometimes. Also noticed it gets laggy when you add a lot of content. I still use it, but more for light stuff. Great idea, just not always smooth for everyday tasks unless you\u2019re ready to spend extra time learning and tweaking everything.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "I still use it, but more for light stuff"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-11-07",
+      "rating": 4,
+      "title": "Good tool for me",
+      "text": "Good tool for me i use it for all my documentation. the only thing which is weird is the copy/paste thing - it makes a mess if i copy the things somewhere else",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Good tool for me i use it for all my documentation"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-11-03",
+      "rating": 1,
+      "title": "Scammers they put you on a free trial\u2026",
+      "text": "Scammers they put you on a free trial then \"invoice you\" and you cant cancel the suscription untill you pay the invoice. its such a scam \"must pay Invoice before you can edit plan... No way to cancel no way to remove card. I have to cancel my card now to avoid the 96 dollar charge every month that. Theres no way this billing department is regulated. these are scumbags,,,",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Scammers they put you on a free trial then \"invoice you\" and you cant cancel the suscription untill you pay the invoice. its such a scam"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-11-01",
+      "rating": 4,
+      "title": "Bien mais cher !",
+      "text": "Super outil pour prendre des notes. Juste dommage que le prix sois si cher quand on veut l\u2019utiliser avec une entreprise ou association. Vraiment dommage car c\u2019est beaucoup trop cher pour mon association alors que \u00e7a pourrait faciliter le travail grandement\u2026",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Super outil pour prendre des notes. Juste dommage que le prix sois si cher"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-10-31",
+      "rating": 2,
+      "title": "Deludente",
+      "text": "Nell'apparenza sembra un buon software; Puoi utilizzarlo da PC o smartphone, web o app e gode dell'intelligenza artificiale, che dovrebbe semplificare di molto il lavoro. Andando avanti con l'utilizzo e la configurazione passa pochissimo tempo che ci si ricrede subito. L'AI non \u00e8 in grado di fare ci\u00f2 che sa fare normalmente fuori da Notion. Non \u00e8 in grado neppure di importare fedelmente un CSV senza prendere l'iniziativa di fare un minestrone di dati, ricrea la stessa tabella con un ordine insensato e ingestibile. E purtroppo, senza l'AI, il tempo di configurazione \u00e8 tale che non ne vale pi\u00f9 la pena. Ci sono concorrenti pi\u00f9 efficaci. Eravamo alla ricerca di un software all'altezza di ospitare la nostra azienda per la gestione del lavoro. Abbiamo ben compreso, purtroppo, che non \u00e8 Notion la risposta giusta. Dispiace",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Abbiamo ben compreso, purtroppo, che non \u00e8 Notion la risposta giusta. Dispiace"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-10-28",
+      "rating": 4,
+      "title": "It's pretty good with the boring stuff",
+      "text": "It's pretty good with the boring stuff, but I wouldn't call it a full-on assistant for creative ideas. That said, for things like making a first draft or tweaking text to fit a structure, it does a solid job.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "for things like making a first draft or tweaking text to fit a structure, it does a solid job"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-10-25",
+      "rating": 4,
+      "title": "\u00d3tima App para gerir a vida, mas a IA tem que melhorar!",
+      "text": "Usava TickTick, usava Evernote, cheguei a usar Obsidian. Embora tenho passado um mau tempo com o Notion por sobrecarga de cria\u00e7\u00e3o de templates etc, \u00e9 uma \u00f3tima aplica\u00e7\u00e3o! O essencial est\u00e1 dispon\u00edvel no plano gratuito, e quem tem criatividade consegue desenvolver os melhores sistemas para gerir a sua vida. N\u00e3o levam 5 estrelas pois, a IA integrada do Notion \u00e9 extremamente limitada para coisas simples que n\u00e3o deviam estar sequer atr\u00e1s de uma paywall!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Usava TickTick, usava Evernote, cheguei a usar Obsidian. Embora tenho passado um mau tempo com o Notion por sobrecarga de cria\u00e7\u00e3o de templates etc, \u00e9 uma \u00f3tima aplica\u00e7\u00e3o!"
+      }
+    }
+  ]
+}

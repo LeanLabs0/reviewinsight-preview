@@ -1,0 +1,2619 @@
+{
+  "weights": {
+    "recent": 0.3,
+    "reliable": 0.25,
+    "results": 0.25,
+    "resonance": 0.2
+  },
+  "curves": {
+    "freshness": [
+      [
+        0,
+        100
+      ],
+      [
+        14,
+        95
+      ],
+      [
+        30,
+        88
+      ],
+      [
+        60,
+        75
+      ],
+      [
+        90,
+        62
+      ],
+      [
+        180,
+        40
+      ],
+      [
+        365,
+        15
+      ],
+      [
+        730,
+        0
+      ]
+    ],
+    "recency_share": [
+      [
+        0,
+        0
+      ],
+      [
+        0.1,
+        20
+      ],
+      [
+        0.25,
+        45
+      ],
+      [
+        0.4,
+        62
+      ],
+      [
+        0.6,
+        80
+      ],
+      [
+        0.8,
+        92
+      ],
+      [
+        1,
+        100
+      ]
+    ],
+    "agreement": [
+      [
+        0,
+        100
+      ],
+      [
+        0.25,
+        95
+      ],
+      [
+        0.5,
+        88
+      ],
+      [
+        1.0,
+        75
+      ],
+      [
+        1.5,
+        60
+      ],
+      [
+        2.0,
+        45
+      ],
+      [
+        2.5,
+        30
+      ],
+      [
+        3.0,
+        18
+      ],
+      [
+        4.0,
+        0
+      ]
+    ],
+    "coherence": [
+      [
+        0,
+        0
+      ],
+      [
+        0.4,
+        25
+      ],
+      [
+        0.6,
+        50
+      ],
+      [
+        0.75,
+        70
+      ],
+      [
+        0.85,
+        85
+      ],
+      [
+        0.95,
+        97
+      ],
+      [
+        1,
+        100
+      ]
+    ],
+    "specificity": [
+      [
+        0,
+        0
+      ],
+      [
+        0.02,
+        12
+      ],
+      [
+        0.05,
+        28
+      ],
+      [
+        0.1,
+        48
+      ],
+      [
+        0.15,
+        62
+      ],
+      [
+        0.2,
+        72
+      ],
+      [
+        0.3,
+        85
+      ],
+      [
+        0.4,
+        93
+      ],
+      [
+        0.5,
+        100
+      ]
+    ]
+  },
+  "floors": {
+    "sites": 2,
+    "reviews": 15,
+    "recent_reviews": 5
+  },
+  "band_points": {
+    "detractor": 0,
+    "lukewarm": 35,
+    "satisfied": 65,
+    "advocate": 100
+  },
+  "scores": {
+    "hubspot-marketing-hub": {
+      "slug": "hubspot-marketing-hub",
+      "rated": true,
+      "score": 66,
+      "rating": 74.0,
+      "evidence": 66.5,
+      "evidence_math": "0.30x96.1 + 0.25x53.5 + 0.25x71.0 + 0.20x32.7 = 66.5",
+      "score_math": "50 + (74.0 - 50) x 66.5/100 = 66.0 -> 66",
+      "dimensions": [
+        {
+          "key": "rating",
+          "label": "What reviewers rate it",
+          "value": 74.0,
+          "math": "4.4 + 4.5 + 4.4 + 1.5 = 14.8, / 4 = 3.70, x20 = 74.0",
+          "inputs": {
+            "G2": 4.4,
+            "Capterra": 4.5,
+            "Gartner Peer Insights": 4.4,
+            "Trustpilot": 1.5
+          }
+        },
+        {
+          "key": "recent",
+          "label": "Recent",
+          "value": 96.1,
+          "math": "0.5 x 100.0 + 0.5 x 92.2 = 96.1",
+          "parts": [
+            {
+              "name": "Newest review",
+              "detail": "0 days ago",
+              "value": 100.0,
+              "curve": "0 at or below 0 -> 100"
+            },
+            {
+              "name": "Share from the last year",
+              "detail": "120 of 149 dated reviews (81%)",
+              "value": 92.2,
+              "curve": "92 + (0.805-0.8)/(1-0.8) x (100-92) = 92.2"
+            }
+          ]
+        },
+        {
+          "key": "reliable",
+          "label": "Reliable",
+          "value": 53.5,
+          "math": "0.5 x 18.0 + 0.5 x 89.0 = 53.5",
+          "parts": [
+            {
+              "name": "Sites agree",
+              "detail": "3.0 stars between highest and lowest",
+              "value": 18.0,
+              "curve": "30 + (3-2.5)/(3-2.5) x (18-30) = 18.0"
+            },
+            {
+              "name": "Words match the stars",
+              "detail": "95 of 98 reviews read the way their star rating implies, averaged across 2 sites",
+              "value": 89.0,
+              "curve": "85 + (0.883-0.85)/(0.95-0.85) x (97-85) = 89.0"
+            }
+          ]
+        },
+        {
+          "key": "results",
+          "label": "Results-specific",
+          "value": 71.0,
+          "math": "62 + (0.195-0.15)/(0.2-0.15) x (72-62) = 71.0",
+          "parts": [
+            {
+              "name": "Reviews naming a checkable outcome",
+              "detail": "33 of 106 labelled reviews, 19% averaged across sites",
+              "value": 71.0,
+              "curve": "62 + (0.195-0.15)/(0.2-0.15) x (72-62) = 71.0"
+            },
+            {
+              "name": "Capterra",
+              "detail": "12% of 8 reviews",
+              "value": 12.5,
+              "curve": ""
+            },
+            {
+              "name": "G2",
+              "detail": "11% of 9 reviews",
+              "value": 11.1,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "35% of 89 reviews",
+              "value": 34.8,
+              "curve": ""
+            }
+          ]
+        },
+        {
+          "key": "resonance",
+          "label": "Resonance",
+          "value": 32.7,
+          "math": "mean of the site means: Capterra 45.6, G2 48.3, Trustpilot 4.2 -> 32.7",
+          "parts": [
+            {
+              "name": "Detractor",
+              "detail": "86 reviews (81%)",
+              "value": 0,
+              "curve": ""
+            },
+            {
+              "name": "Lukewarm",
+              "detail": "9 reviews (8%)",
+              "value": 35,
+              "curve": ""
+            },
+            {
+              "name": "Satisfied",
+              "detail": "7 reviews (7%)",
+              "value": 65,
+              "curve": ""
+            },
+            {
+              "name": "Advocate",
+              "detail": "4 reviews (4%)",
+              "value": 100,
+              "curve": ""
+            },
+            {
+              "name": "Capterra",
+              "detail": "8 reviews",
+              "value": 45.6,
+              "curve": ""
+            },
+            {
+              "name": "G2",
+              "detail": "9 reviews",
+              "value": 48.3,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "89 reviews",
+              "value": 4.2,
+              "curve": ""
+            }
+          ]
+        }
+      ],
+      "eligibility": {
+        "sites": 4,
+        "reviews": 24997,
+        "recent_reviews": 120,
+        "sample": 149,
+        "labelled": 106
+      },
+      "sample_size": 149,
+      "labelled": 106
+    },
+    "klaviyo": {
+      "slug": "klaviyo",
+      "rated": true,
+      "score": 69,
+      "rating": 78.0,
+      "evidence": 69.1,
+      "evidence_math": "0.30x88.9 + 0.25x59.0 + 0.25x78.6 + 0.20x40.1 = 69.1",
+      "score_math": "50 + (78.0 - 50) x 69.1/100 = 69.3 -> 69",
+      "dimensions": [
+        {
+          "key": "rating",
+          "label": "What reviewers rate it",
+          "value": 78.0,
+          "math": "4.6 + 4.6 + 4.7 + 1.7 = 15.6, / 4 = 3.90, x20 = 78.0",
+          "inputs": {
+            "G2": 4.6,
+            "Capterra": 4.6,
+            "Gartner Peer Insights": 4.7,
+            "Trustpilot": 1.7
+          }
+        },
+        {
+          "key": "recent",
+          "label": "Recent",
+          "value": 88.9,
+          "math": "0.5 x 99.3 + 0.5 x 78.5 = 88.9",
+          "parts": [
+            {
+              "name": "Newest review",
+              "detail": "2 days ago",
+              "value": 99.3,
+              "curve": "100 + (2-0)/(14-0) x (95-100) = 99.3"
+            },
+            {
+              "name": "Share from the last year",
+              "detail": "84 of 144 dated reviews (58%)",
+              "value": 78.5,
+              "curve": "62 + (0.583-0.4)/(0.6-0.4) x (80-62) = 78.5"
+            }
+          ]
+        },
+        {
+          "key": "reliable",
+          "label": "Reliable",
+          "value": 59.0,
+          "math": "0.5 x 18.0 + 0.5 x 100.0 = 59.0",
+          "parts": [
+            {
+              "name": "Sites agree",
+              "detail": "3.0 stars between highest and lowest",
+              "value": 18.0,
+              "curve": "30 + (3-2.5)/(3-2.5) x (18-30) = 18.0"
+            },
+            {
+              "name": "Words match the stars",
+              "detail": "87 of 87 reviews read the way their star rating implies, averaged across 2 sites",
+              "value": 100.0,
+              "curve": "1.0 at or above 1 -> 100"
+            }
+          ]
+        },
+        {
+          "key": "results",
+          "label": "Results-specific",
+          "value": 78.6,
+          "math": "72 + (0.251-0.2)/(0.3-0.2) x (85-72) = 78.6",
+          "parts": [
+            {
+              "name": "Reviews naming a checkable outcome",
+              "detail": "29 of 94 labelled reviews, 25% averaged across sites",
+              "value": 78.6,
+              "curve": "72 + (0.251-0.2)/(0.3-0.2) x (85-72) = 78.6"
+            },
+            {
+              "name": "Capterra",
+              "detail": "29% of 7 reviews",
+              "value": 28.6,
+              "curve": ""
+            },
+            {
+              "name": "G2",
+              "detail": "14% of 7 reviews",
+              "value": 14.3,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "32% of 80 reviews",
+              "value": 32.5,
+              "curve": ""
+            }
+          ]
+        },
+        {
+          "key": "resonance",
+          "label": "Resonance",
+          "value": 40.1,
+          "math": "mean of the site means: Capterra 48.6, G2 61.4, Trustpilot 10.4 -> 40.1",
+          "parts": [
+            {
+              "name": "Detractor",
+              "detail": "69 reviews (73%)",
+              "value": 0,
+              "curve": ""
+            },
+            {
+              "name": "Lukewarm",
+              "detail": "9 reviews (10%)",
+              "value": 35,
+              "curve": ""
+            },
+            {
+              "name": "Satisfied",
+              "detail": "9 reviews (10%)",
+              "value": 65,
+              "curve": ""
+            },
+            {
+              "name": "Advocate",
+              "detail": "7 reviews (7%)",
+              "value": 100,
+              "curve": ""
+            },
+            {
+              "name": "Capterra",
+              "detail": "7 reviews",
+              "value": 48.6,
+              "curve": ""
+            },
+            {
+              "name": "G2",
+              "detail": "7 reviews",
+              "value": 61.4,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "80 reviews",
+              "value": 10.4,
+              "curve": ""
+            }
+          ]
+        }
+      ],
+      "eligibility": {
+        "sites": 4,
+        "reviews": 2429,
+        "recent_reviews": 84,
+        "sample": 144,
+        "labelled": 94
+      },
+      "sample_size": 144,
+      "labelled": 94
+    },
+    "adobe-marketo-engage": {
+      "slug": "adobe-marketo-engage",
+      "rated": true,
+      "score": 64,
+      "rating": 75.5,
+      "evidence": 54.3,
+      "evidence_math": "0.30x71.2 + 0.25x59.0 + 0.25x41.2 + 0.20x39.4 = 54.3",
+      "score_math": "50 + (75.5 - 50) x 54.3/100 = 63.8 -> 64",
+      "dimensions": [
+        {
+          "key": "rating",
+          "label": "What reviewers rate it",
+          "value": 75.5,
+          "math": "4.1 + 4.3 + 4.3 + 2.4 = 15.1, / 4 = 3.77, x20 = 75.5",
+          "inputs": {
+            "G2": 4.1,
+            "Capterra": 4.3,
+            "Gartner Peer Insights": 4.3,
+            "Trustpilot": 2.4
+          }
+        },
+        {
+          "key": "recent",
+          "label": "Recent",
+          "value": 71.2,
+          "math": "0.5 x 96.8 + 0.5 x 45.6 = 71.2",
+          "parts": [
+            {
+              "name": "Newest review",
+              "detail": "9 days ago",
+              "value": 96.8,
+              "curve": "100 + (9-0)/(14-0) x (95-100) = 96.8"
+            },
+            {
+              "name": "Share from the last year",
+              "detail": "14 of 55 dated reviews (25%)",
+              "value": 45.6,
+              "curve": "45 + (0.255-0.25)/(0.4-0.25) x (62-45) = 45.6"
+            }
+          ]
+        },
+        {
+          "key": "reliable",
+          "label": "Reliable",
+          "value": 59.0,
+          "math": "0.5 x 48.0 + 0.5 x 70.0 = 59.0",
+          "parts": [
+            {
+              "name": "Sites agree",
+              "detail": "1.9 stars between highest and lowest",
+              "value": 48.0,
+              "curve": "60 + (1.9-1.5)/(2-1.5) x (45-60) = 48.0"
+            },
+            {
+              "name": "Words match the stars",
+              "detail": "10 of 14 reviews read the way their star rating implies, averaged across 2 sites",
+              "value": 70.0,
+              "curve": "50 + (0.75-0.6)/(0.75-0.6) x (70-50) = 70.0"
+            }
+          ]
+        },
+        {
+          "key": "results",
+          "label": "Results-specific",
+          "value": 41.2,
+          "math": "28 + (0.083-0.05)/(0.1-0.05) x (48-28) = 41.2",
+          "parts": [
+            {
+              "name": "Reviews naming a checkable outcome",
+              "detail": "2 of 21 labelled reviews, 8% averaged across sites",
+              "value": 41.2,
+              "curve": "28 + (0.083-0.05)/(0.1-0.05) x (48-28) = 41.2"
+            },
+            {
+              "name": "Capterra",
+              "detail": "0% of 7 reviews",
+              "value": 0.0,
+              "curve": ""
+            },
+            {
+              "name": "G2",
+              "detail": "25% of 8 reviews",
+              "value": 25.0,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "0% of 6 reviews",
+              "value": 0.0,
+              "curve": ""
+            }
+          ]
+        },
+        {
+          "key": "resonance",
+          "label": "Resonance",
+          "value": 39.4,
+          "math": "mean of the site means: Capterra 32.9, G2 46.2, Trustpilot 39.2 -> 39.4",
+          "parts": [
+            {
+              "name": "Detractor",
+              "detail": "5 reviews (24%)",
+              "value": 0,
+              "curve": ""
+            },
+            {
+              "name": "Lukewarm",
+              "detail": "8 reviews (38%)",
+              "value": 35,
+              "curve": ""
+            },
+            {
+              "name": "Satisfied",
+              "detail": "7 reviews (33%)",
+              "value": 65,
+              "curve": ""
+            },
+            {
+              "name": "Advocate",
+              "detail": "1 reviews (5%)",
+              "value": 100,
+              "curve": ""
+            },
+            {
+              "name": "Capterra",
+              "detail": "7 reviews",
+              "value": 32.9,
+              "curve": ""
+            },
+            {
+              "name": "G2",
+              "detail": "8 reviews",
+              "value": 46.2,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "6 reviews",
+              "value": 39.2,
+              "curve": ""
+            }
+          ]
+        }
+      ],
+      "eligibility": {
+        "sites": 4,
+        "reviews": 4973,
+        "recent_reviews": 14,
+        "sample": 55,
+        "labelled": 21
+      },
+      "sample_size": 55,
+      "labelled": 21
+    },
+    "mailchimp": {
+      "slug": "mailchimp",
+      "rated": true,
+      "score": 72,
+      "rating": 79.5,
+      "evidence": 74.1,
+      "evidence_math": "0.30x95.2 + 0.25x67.2 + 0.25x86.6 + 0.20x35.5 = 74.1",
+      "score_math": "50 + (79.5 - 50) x 74.1/100 = 71.9 -> 72",
+      "dimensions": [
+        {
+          "key": "rating",
+          "label": "What reviewers rate it",
+          "value": 79.5,
+          "math": "4.4 + 4.5 + 4.4 + 2.6 = 15.9, / 4 = 3.98, x20 = 79.5",
+          "inputs": {
+            "G2": 4.4,
+            "Capterra": 4.5,
+            "Gartner Peer Insights": 4.4,
+            "Trustpilot": 2.6
+          }
+        },
+        {
+          "key": "recent",
+          "label": "Recent",
+          "value": 95.2,
+          "math": "0.5 x 100.0 + 0.5 x 90.4 = 95.2",
+          "parts": [
+            {
+              "name": "Newest review",
+              "detail": "0 days ago",
+              "value": 100.0,
+              "curve": "0 at or below 0 -> 100"
+            },
+            {
+              "name": "Share from the last year",
+              "detail": "113 of 146 dated reviews (77%)",
+              "value": 90.4,
+              "curve": "80 + (0.774-0.6)/(0.8-0.6) x (92-80) = 90.4"
+            }
+          ]
+        },
+        {
+          "key": "reliable",
+          "label": "Reliable",
+          "value": 67.2,
+          "math": "0.5 x 48.0 + 0.5 x 86.4 = 67.2",
+          "parts": [
+            {
+              "name": "Sites agree",
+              "detail": "1.9 stars between highest and lowest",
+              "value": 48.0,
+              "curve": "60 + (1.9-1.5)/(2-1.5) x (45-60) = 48.0"
+            },
+            {
+              "name": "Words match the stars",
+              "detail": "80 of 84 reviews read the way their star rating implies, averaged across 2 sites",
+              "value": 86.4,
+              "curve": "85 + (0.862-0.85)/(0.95-0.85) x (97-85) = 86.4"
+            }
+          ]
+        },
+        {
+          "key": "results",
+          "label": "Results-specific",
+          "value": 86.6,
+          "math": "85 + (0.32-0.3)/(0.4-0.3) x (93-85) = 86.6",
+          "parts": [
+            {
+              "name": "Reviews naming a checkable outcome",
+              "detail": "35 of 91 labelled reviews, 32% averaged across sites",
+              "value": 86.6,
+              "curve": "85 + (0.32-0.3)/(0.4-0.3) x (93-85) = 86.6"
+            },
+            {
+              "name": "Capterra",
+              "detail": "43% of 7 reviews",
+              "value": 42.9,
+              "curve": ""
+            },
+            {
+              "name": "G2",
+              "detail": "12% of 8 reviews",
+              "value": 12.5,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "41% of 76 reviews",
+              "value": 40.8,
+              "curve": ""
+            }
+          ]
+        },
+        {
+          "key": "resonance",
+          "label": "Resonance",
+          "value": 35.5,
+          "math": "mean of the site means: Capterra 27.9, G2 58.1, Trustpilot 20.4 -> 35.5",
+          "parts": [
+            {
+              "name": "Detractor",
+              "detail": "57 reviews (63%)",
+              "value": 0,
+              "curve": ""
+            },
+            {
+              "name": "Lukewarm",
+              "detail": "7 reviews (8%)",
+              "value": 35,
+              "curve": ""
+            },
+            {
+              "name": "Satisfied",
+              "detail": "21 reviews (23%)",
+              "value": 65,
+              "curve": ""
+            },
+            {
+              "name": "Advocate",
+              "detail": "6 reviews (7%)",
+              "value": 100,
+              "curve": ""
+            },
+            {
+              "name": "Capterra",
+              "detail": "7 reviews",
+              "value": 27.9,
+              "curve": ""
+            },
+            {
+              "name": "G2",
+              "detail": "8 reviews",
+              "value": 58.1,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "76 reviews",
+              "value": 20.4,
+              "curve": ""
+            }
+          ]
+        }
+      ],
+      "eligibility": {
+        "sites": 4,
+        "reviews": 25840,
+        "recent_reviews": 113,
+        "sample": 146,
+        "labelled": 91
+      },
+      "sample_size": 146,
+      "labelled": 91
+    },
+    "activecampaign": {
+      "slug": "activecampaign",
+      "rated": true,
+      "score": 71,
+      "rating": 80.5,
+      "evidence": 70.0,
+      "evidence_math": "0.30x95.8 + 0.25x64.3 + 0.25x71.6 + 0.20x36.4 = 70.0",
+      "score_math": "50 + (80.5 - 50) x 70.0/100 = 71.3 -> 71",
+      "dimensions": [
+        {
+          "key": "rating",
+          "label": "What reviewers rate it",
+          "value": 80.5,
+          "math": "4.4 + 4.6 + 4.3 + 2.8 = 16.1, / 4 = 4.03, x20 = 80.5",
+          "inputs": {
+            "G2": 4.4,
+            "Capterra": 4.6,
+            "Gartner Peer Insights": 4.3,
+            "Trustpilot": 2.8
+          }
+        },
+        {
+          "key": "recent",
+          "label": "Recent",
+          "value": 95.8,
+          "math": "0.5 x 99.3 + 0.5 x 92.2 = 95.8",
+          "parts": [
+            {
+              "name": "Newest review",
+              "detail": "2 days ago",
+              "value": 99.3,
+              "curve": "100 + (2-0)/(14-0) x (95-100) = 99.3"
+            },
+            {
+              "name": "Share from the last year",
+              "detail": "116 of 144 dated reviews (81%)",
+              "value": 92.2,
+              "curve": "92 + (0.806-0.8)/(1-0.8) x (100-92) = 92.2"
+            }
+          ]
+        },
+        {
+          "key": "reliable",
+          "label": "Reliable",
+          "value": 64.3,
+          "math": "0.5 x 51.0 + 0.5 x 77.7 = 64.3",
+          "parts": [
+            {
+              "name": "Sites agree",
+              "detail": "1.8 stars between highest and lowest",
+              "value": 51.0,
+              "curve": "60 + (1.8-1.5)/(2-1.5) x (45-60) = 51.0"
+            },
+            {
+              "name": "Words match the stars",
+              "detail": "90 of 95 reviews read the way their star rating implies, averaged across 2 sites",
+              "value": 77.7,
+              "curve": "70 + (0.801-0.75)/(0.85-0.75) x (85-70) = 77.7"
+            }
+          ]
+        },
+        {
+          "key": "results",
+          "label": "Results-specific",
+          "value": 71.6,
+          "math": "62 + (0.198-0.15)/(0.2-0.15) x (72-62) = 71.6",
+          "parts": [
+            {
+              "name": "Reviews naming a checkable outcome",
+              "detail": "32 of 103 labelled reviews, 20% averaged across sites",
+              "value": 71.6,
+              "curve": "62 + (0.198-0.15)/(0.2-0.15) x (72-62) = 71.6"
+            },
+            {
+              "name": "Capterra",
+              "detail": "0% of 8 reviews",
+              "value": 0.0,
+              "curve": ""
+            },
+            {
+              "name": "G2",
+              "detail": "25% of 8 reviews",
+              "value": 25.0,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "34% of 87 reviews",
+              "value": 34.5,
+              "curve": ""
+            }
+          ]
+        },
+        {
+          "key": "resonance",
+          "label": "Resonance",
+          "value": 36.4,
+          "math": "mean of the site means: Capterra 36.9, G2 41.9, Trustpilot 30.6 -> 36.4",
+          "parts": [
+            {
+              "name": "Detractor",
+              "detail": "52 reviews (50%)",
+              "value": 0,
+              "curve": ""
+            },
+            {
+              "name": "Lukewarm",
+              "detail": "16 reviews (16%)",
+              "value": 35,
+              "curve": ""
+            },
+            {
+              "name": "Satisfied",
+              "detail": "22 reviews (21%)",
+              "value": 65,
+              "curve": ""
+            },
+            {
+              "name": "Advocate",
+              "detail": "13 reviews (13%)",
+              "value": 100,
+              "curve": ""
+            },
+            {
+              "name": "Capterra",
+              "detail": "8 reviews",
+              "value": 36.9,
+              "curve": ""
+            },
+            {
+              "name": "G2",
+              "detail": "8 reviews",
+              "value": 41.9,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "87 reviews",
+              "value": 30.6,
+              "curve": ""
+            }
+          ]
+        }
+      ],
+      "eligibility": {
+        "sites": 4,
+        "reviews": 18870,
+        "recent_reviews": 116,
+        "sample": 144,
+        "labelled": 103
+      },
+      "sample_size": 144,
+      "labelled": 103
+    },
+    "brevo": {
+      "slug": "brevo",
+      "rated": true,
+      "score": 79,
+      "rating": 88.0,
+      "evidence": 76.8,
+      "evidence_math": "0.30x95.8 + 0.25x86.0 + 0.25x68.0 + 0.20x47.7 = 76.8",
+      "score_math": "50 + (88.0 - 50) x 76.8/100 = 79.2 -> 79",
+      "dimensions": [
+        {
+          "key": "rating",
+          "label": "What reviewers rate it",
+          "value": 88.0,
+          "math": "4.5 + 4.6 + 4.5 + 4 = 17.6, / 4 = 4.40, x20 = 88.0",
+          "inputs": {
+            "G2": 4.5,
+            "Capterra": 4.6,
+            "Gartner Peer Insights": 4.5,
+            "Trustpilot": 4
+          }
+        },
+        {
+          "key": "recent",
+          "label": "Recent",
+          "value": 95.8,
+          "math": "0.5 x 99.6 + 0.5 x 92.0 = 95.8",
+          "parts": [
+            {
+              "name": "Newest review",
+              "detail": "1 days ago",
+              "value": 99.6,
+              "curve": "100 + (1-0)/(14-0) x (95-100) = 99.6"
+            },
+            {
+              "name": "Share from the last year",
+              "detail": "120 of 150 dated reviews (80%)",
+              "value": 92.0,
+              "curve": "80 + (0.8-0.6)/(0.8-0.6) x (92-80) = 92.0"
+            }
+          ]
+        },
+        {
+          "key": "reliable",
+          "label": "Reliable",
+          "value": 86.0,
+          "math": "0.5 x 85.4 + 0.5 x 86.6 = 86.0",
+          "parts": [
+            {
+              "name": "Sites agree",
+              "detail": "0.6 stars between highest and lowest",
+              "value": 85.4,
+              "curve": "88 + (0.6-0.5)/(1-0.5) x (75-88) = 85.4"
+            },
+            {
+              "name": "Words match the stars",
+              "detail": "87 of 91 reviews read the way their star rating implies, averaged across 2 sites",
+              "value": 86.6,
+              "curve": "85 + (0.863-0.85)/(0.95-0.85) x (97-85) = 86.6"
+            }
+          ]
+        },
+        {
+          "key": "results",
+          "label": "Results-specific",
+          "value": 68.0,
+          "math": "62 + (0.18-0.15)/(0.2-0.15) x (72-62) = 68.0",
+          "parts": [
+            {
+              "name": "Reviews naming a checkable outcome",
+              "detail": "26 of 99 labelled reviews, 18% averaged across sites",
+              "value": 68.0,
+              "curve": "62 + (0.18-0.15)/(0.2-0.15) x (72-62) = 68.0"
+            },
+            {
+              "name": "Capterra",
+              "detail": "12% of 8 reviews",
+              "value": 12.5,
+              "curve": ""
+            },
+            {
+              "name": "G2",
+              "detail": "12% of 8 reviews",
+              "value": 12.5,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "29% of 83 reviews",
+              "value": 28.9,
+              "curve": ""
+            }
+          ]
+        },
+        {
+          "key": "resonance",
+          "label": "Resonance",
+          "value": 47.7,
+          "math": "mean of the site means: Capterra 45.6, G2 66.2, Trustpilot 31.1 -> 47.7",
+          "parts": [
+            {
+              "name": "Detractor",
+              "detail": "50 reviews (51%)",
+              "value": 0,
+              "curve": ""
+            },
+            {
+              "name": "Lukewarm",
+              "detail": "10 reviews (10%)",
+              "value": 35,
+              "curve": ""
+            },
+            {
+              "name": "Satisfied",
+              "detail": "22 reviews (22%)",
+              "value": 65,
+              "curve": ""
+            },
+            {
+              "name": "Advocate",
+              "detail": "17 reviews (17%)",
+              "value": 100,
+              "curve": ""
+            },
+            {
+              "name": "Capterra",
+              "detail": "8 reviews",
+              "value": 45.6,
+              "curve": ""
+            },
+            {
+              "name": "G2",
+              "detail": "8 reviews",
+              "value": 66.2,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "83 reviews",
+              "value": 31.1,
+              "curve": ""
+            }
+          ]
+        }
+      ],
+      "eligibility": {
+        "sites": 4,
+        "reviews": 13484,
+        "recent_reviews": 120,
+        "sample": 150,
+        "labelled": 99
+      },
+      "sample_size": 150,
+      "labelled": 99
+    },
+    "braze": {
+      "slug": "braze",
+      "rated": true,
+      "score": 72,
+      "rating": 82.5,
+      "evidence": 66.7,
+      "evidence_math": "0.30x75.2 + 0.25x74.0 + 0.25x57.5 + 0.20x56.4 = 66.7",
+      "score_math": "50 + (82.5 - 50) x 66.7/100 = 71.7 -> 72",
+      "dimensions": [
+        {
+          "key": "rating",
+          "label": "What reviewers rate it",
+          "value": 82.5,
+          "math": "4.5 + 4.7 + 4.5 + 2.8 = 16.5, / 4 = 4.12, x20 = 82.5",
+          "inputs": {
+            "G2": 4.5,
+            "Capterra": 4.7,
+            "Gartner Peer Insights": 4.5,
+            "Trustpilot": 2.8
+          }
+        },
+        {
+          "key": "recent",
+          "label": "Recent",
+          "value": 75.2,
+          "math": "0.5 x 99.6 + 0.5 x 50.7 = 75.2",
+          "parts": [
+            {
+              "name": "Newest review",
+              "detail": "1 days ago",
+              "value": 99.6,
+              "curve": "100 + (1-0)/(14-0) x (95-100) = 99.6"
+            },
+            {
+              "name": "Share from the last year",
+              "detail": "15 of 50 dated reviews (30%)",
+              "value": 50.7,
+              "curve": "45 + (0.3-0.25)/(0.4-0.25) x (62-45) = 50.7"
+            }
+          ]
+        },
+        {
+          "key": "reliable",
+          "label": "Reliable",
+          "value": 74.0,
+          "math": "0.5 x 48.0 + 0.5 x 100.0 = 74.0",
+          "parts": [
+            {
+              "name": "Sites agree",
+              "detail": "1.9 stars between highest and lowest",
+              "value": 48.0,
+              "curve": "60 + (1.9-1.5)/(2-1.5) x (45-60) = 48.0"
+            },
+            {
+              "name": "Words match the stars",
+              "detail": "10 of 10 reviews read the way their star rating implies, averaged across 1 site",
+              "value": 100.0,
+              "curve": "1.0 at or above 1 -> 100"
+            }
+          ]
+        },
+        {
+          "key": "results",
+          "label": "Results-specific",
+          "value": 57.5,
+          "math": "48 + (0.134-0.1)/(0.15-0.1) x (62-48) = 57.5",
+          "parts": [
+            {
+              "name": "Reviews naming a checkable outcome",
+              "detail": "3 of 17 labelled reviews, 13% averaged across sites",
+              "value": 57.5,
+              "curve": "48 + (0.134-0.1)/(0.15-0.1) x (62-48) = 57.5"
+            },
+            {
+              "name": "Capterra",
+              "detail": "14% of 7 reviews",
+              "value": 14.3,
+              "curve": ""
+            },
+            {
+              "name": "G2",
+              "detail": "12% of 8 reviews",
+              "value": 12.5,
+              "curve": ""
+            }
+          ]
+        },
+        {
+          "key": "resonance",
+          "label": "Resonance",
+          "value": 56.4,
+          "math": "mean of the site means: Capterra 47.1, G2 65.6 -> 56.4",
+          "parts": [
+            {
+              "name": "Detractor",
+              "detail": "3 reviews (18%)",
+              "value": 0,
+              "curve": ""
+            },
+            {
+              "name": "Lukewarm",
+              "detail": "2 reviews (12%)",
+              "value": 35,
+              "curve": ""
+            },
+            {
+              "name": "Satisfied",
+              "detail": "9 reviews (53%)",
+              "value": 65,
+              "curve": ""
+            },
+            {
+              "name": "Advocate",
+              "detail": "3 reviews (18%)",
+              "value": 100,
+              "curve": ""
+            },
+            {
+              "name": "Capterra",
+              "detail": "7 reviews",
+              "value": 47.1,
+              "curve": ""
+            },
+            {
+              "name": "G2",
+              "detail": "8 reviews",
+              "value": 65.6,
+              "curve": ""
+            }
+          ]
+        }
+      ],
+      "eligibility": {
+        "sites": 4,
+        "reviews": 2322,
+        "recent_reviews": 15,
+        "sample": 50,
+        "labelled": 17
+      },
+      "sample_size": 50,
+      "labelled": 17
+    },
+    "iterable": {
+      "slug": "iterable",
+      "rated": true,
+      "score": 71,
+      "rating": 87.3,
+      "evidence": 56.5,
+      "evidence_math": "0.30x64.3 + 0.25x86.1 + 0.25x30.4 + 0.20x40.2 = 56.5",
+      "score_math": "50 + (87.3 - 50) x 56.5/100 = 71.1 -> 71",
+      "dimensions": [
+        {
+          "key": "rating",
+          "label": "What reviewers rate it",
+          "value": 87.3,
+          "math": "4.4 + 4.3 + 4.4 = 13.1, / 3 = 4.37, x20 = 87.3",
+          "inputs": {
+            "G2": 4.4,
+            "Capterra": 4.3,
+            "Gartner Peer Insights": 4.4
+          }
+        },
+        {
+          "key": "recent",
+          "label": "Recent",
+          "value": 64.3,
+          "math": "0.5 x 75.9 + 0.5 x 52.7 = 64.3",
+          "parts": [
+            {
+              "name": "Newest review",
+              "detail": "58 days ago",
+              "value": 75.9,
+              "curve": "88 + (58-30)/(60-30) x (75-88) = 75.9"
+            },
+            {
+              "name": "Share from the last year",
+              "detail": "14 of 44 dated reviews (32%)",
+              "value": 52.7,
+              "curve": "45 + (0.318-0.25)/(0.4-0.25) x (62-45) = 52.7"
+            }
+          ]
+        },
+        {
+          "key": "reliable",
+          "label": "Reliable",
+          "value": 86.1,
+          "math": "0.5 x 98.0 + 0.5 x 74.2 = 86.1",
+          "parts": [
+            {
+              "name": "Sites agree",
+              "detail": "0.1 stars between highest and lowest",
+              "value": 98.0,
+              "curve": "100 + (0.1-0)/(0.25-0) x (95-100) = 98.0"
+            },
+            {
+              "name": "Words match the stars",
+              "detail": "7 of 9 reviews read the way their star rating implies, averaged across 1 site",
+              "value": 74.2,
+              "curve": "70 + (0.778-0.75)/(0.85-0.75) x (85-70) = 74.2"
+            }
+          ]
+        },
+        {
+          "key": "results",
+          "label": "Results-specific",
+          "value": 30.4,
+          "math": "28 + (0.056-0.05)/(0.1-0.05) x (48-28) = 30.4",
+          "parts": [
+            {
+              "name": "Reviews naming a checkable outcome",
+              "detail": "1 of 17 labelled reviews, 6% averaged across sites",
+              "value": 30.4,
+              "curve": "28 + (0.056-0.05)/(0.1-0.05) x (48-28) = 30.4"
+            },
+            {
+              "name": "Capterra",
+              "detail": "0% of 8 reviews",
+              "value": 0.0,
+              "curve": ""
+            },
+            {
+              "name": "G2",
+              "detail": "11% of 9 reviews",
+              "value": 11.1,
+              "curve": ""
+            }
+          ]
+        },
+        {
+          "key": "resonance",
+          "label": "Resonance",
+          "value": 40.2,
+          "math": "mean of the site means: Capterra 28.8, G2 51.7 -> 40.2",
+          "parts": [
+            {
+              "name": "Detractor",
+              "detail": "5 reviews (29%)",
+              "value": 0,
+              "curve": ""
+            },
+            {
+              "name": "Lukewarm",
+              "detail": "4 reviews (24%)",
+              "value": 35,
+              "curve": ""
+            },
+            {
+              "name": "Satisfied",
+              "detail": "7 reviews (41%)",
+              "value": 65,
+              "curve": ""
+            },
+            {
+              "name": "Advocate",
+              "detail": "1 reviews (6%)",
+              "value": 100,
+              "curve": ""
+            },
+            {
+              "name": "Capterra",
+              "detail": "8 reviews",
+              "value": 28.8,
+              "curve": ""
+            },
+            {
+              "name": "G2",
+              "detail": "9 reviews",
+              "value": 51.7,
+              "curve": ""
+            }
+          ]
+        }
+      ],
+      "eligibility": {
+        "sites": 3,
+        "reviews": 1214,
+        "recent_reviews": 14,
+        "sample": 44,
+        "labelled": 17
+      },
+      "sample_size": 44,
+      "labelled": 17
+    },
+    "monday-com": {
+      "slug": "monday-com",
+      "rated": true,
+      "score": 72,
+      "rating": 80.5,
+      "evidence": 73.2,
+      "evidence_math": "0.30x93.4 + 0.25x62.7 + 0.25x86.6 + 0.20x39.3 = 73.2",
+      "score_math": "50 + (80.5 - 50) x 73.2/100 = 72.3 -> 72",
+      "dimensions": [
+        {
+          "key": "rating",
+          "label": "What reviewers rate it",
+          "value": 80.5,
+          "math": "4.7 + 4.6 + 4.5 + 2.3 = 16.1, / 4 = 4.03, x20 = 80.5",
+          "inputs": {
+            "G2": 4.7,
+            "Capterra": 4.6,
+            "Gartner Peer Insights": 4.5,
+            "Trustpilot": 2.3
+          }
+        },
+        {
+          "key": "recent",
+          "label": "Recent",
+          "value": 93.4,
+          "math": "0.5 x 100.0 + 0.5 x 86.8 = 93.4",
+          "parts": [
+            {
+              "name": "Newest review",
+              "detail": "0 days ago",
+              "value": 100.0,
+              "curve": "0 at or below 0 -> 100"
+            },
+            {
+              "name": "Share from the last year",
+              "detail": "107 of 150 dated reviews (71%)",
+              "value": 86.8,
+              "curve": "80 + (0.713-0.6)/(0.8-0.6) x (92-80) = 86.8"
+            }
+          ]
+        },
+        {
+          "key": "reliable",
+          "label": "Reliable",
+          "value": 62.7,
+          "math": "0.5 x 33.0 + 0.5 x 92.3 = 62.7",
+          "parts": [
+            {
+              "name": "Sites agree",
+              "detail": "2.4 stars between highest and lowest",
+              "value": 33.0,
+              "curve": "45 + (2.4-2)/(2.5-2) x (30-45) = 33.0"
+            },
+            {
+              "name": "Words match the stars",
+              "detail": "86 of 88 reviews read the way their star rating implies, averaged across 2 sites",
+              "value": 92.3,
+              "curve": "85 + (0.911-0.85)/(0.95-0.85) x (97-85) = 92.3"
+            }
+          ]
+        },
+        {
+          "key": "results",
+          "label": "Results-specific",
+          "value": 86.6,
+          "math": "85 + (0.32-0.3)/(0.4-0.3) x (93-85) = 86.6",
+          "parts": [
+            {
+              "name": "Reviews naming a checkable outcome",
+              "detail": "28 of 94 labelled reviews, 32% averaged across sites",
+              "value": 86.6,
+              "curve": "85 + (0.32-0.3)/(0.4-0.3) x (93-85) = 86.6"
+            },
+            {
+              "name": "Capterra",
+              "detail": "17% of 6 reviews",
+              "value": 16.7,
+              "curve": ""
+            },
+            {
+              "name": "G2",
+              "detail": "50% of 6 reviews",
+              "value": 50.0,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "29% of 82 reviews",
+              "value": 29.3,
+              "curve": ""
+            }
+          ]
+        },
+        {
+          "key": "resonance",
+          "label": "Resonance",
+          "value": 39.3,
+          "math": "mean of the site means: Capterra 38.3, G2 71.7, Trustpilot 7.8 -> 39.3",
+          "parts": [
+            {
+              "name": "Detractor",
+              "detail": "74 reviews (79%)",
+              "value": 0,
+              "curve": ""
+            },
+            {
+              "name": "Lukewarm",
+              "detail": "7 reviews (7%)",
+              "value": 35,
+              "curve": ""
+            },
+            {
+              "name": "Satisfied",
+              "detail": "7 reviews (7%)",
+              "value": 65,
+              "curve": ""
+            },
+            {
+              "name": "Advocate",
+              "detail": "6 reviews (6%)",
+              "value": 100,
+              "curve": ""
+            },
+            {
+              "name": "Capterra",
+              "detail": "6 reviews",
+              "value": 38.3,
+              "curve": ""
+            },
+            {
+              "name": "G2",
+              "detail": "6 reviews",
+              "value": 71.7,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "82 reviews",
+              "value": 7.8,
+              "curve": ""
+            }
+          ]
+        }
+      ],
+      "eligibility": {
+        "sites": 4,
+        "reviews": 27962,
+        "recent_reviews": 107,
+        "sample": 150,
+        "labelled": 94
+      },
+      "sample_size": 150,
+      "labelled": 94
+    },
+    "asana": {
+      "slug": "asana",
+      "rated": true,
+      "score": 65,
+      "rating": 74.5,
+      "evidence": 63.0,
+      "evidence_math": "0.30x84.4 + 0.25x53.8 + 0.25x67.4 + 0.20x36.9 = 63.0",
+      "score_math": "50 + (74.5 - 50) x 63.0/100 = 65.4 -> 65",
+      "dimensions": [
+        {
+          "key": "rating",
+          "label": "What reviewers rate it",
+          "value": 74.5,
+          "math": "4.4 + 4.5 + 4.5 + 1.5 = 14.9, / 4 = 3.73, x20 = 74.5",
+          "inputs": {
+            "G2": 4.4,
+            "Capterra": 4.5,
+            "Gartner Peer Insights": 4.5,
+            "Trustpilot": 1.5
+          }
+        },
+        {
+          "key": "recent",
+          "label": "Recent",
+          "value": 84.4,
+          "math": "0.5 x 100.0 + 0.5 x 68.8 = 84.4",
+          "parts": [
+            {
+              "name": "Newest review",
+              "detail": "0 days ago",
+              "value": 100.0,
+              "curve": "0 at or below 0 -> 100"
+            },
+            {
+              "name": "Share from the last year",
+              "detail": "70 of 147 dated reviews (48%)",
+              "value": 68.8,
+              "curve": "62 + (0.476-0.4)/(0.6-0.4) x (80-62) = 68.8"
+            }
+          ]
+        },
+        {
+          "key": "reliable",
+          "label": "Reliable",
+          "value": 53.8,
+          "math": "0.5 x 18.0 + 0.5 x 89.7 = 53.8",
+          "parts": [
+            {
+              "name": "Sites agree",
+              "detail": "3.0 stars between highest and lowest",
+              "value": 18.0,
+              "curve": "30 + (3-2.5)/(3-2.5) x (18-30) = 18.0"
+            },
+            {
+              "name": "Words match the stars",
+              "detail": "86 of 88 reviews read the way their star rating implies, averaged across 2 sites",
+              "value": 89.7,
+              "curve": "85 + (0.889-0.85)/(0.95-0.85) x (97-85) = 89.7"
+            }
+          ]
+        },
+        {
+          "key": "results",
+          "label": "Results-specific",
+          "value": 67.4,
+          "math": "62 + (0.177-0.15)/(0.2-0.15) x (72-62) = 67.4",
+          "parts": [
+            {
+              "name": "Reviews naming a checkable outcome",
+              "detail": "33 of 96 labelled reviews, 18% averaged across sites",
+              "value": 67.4,
+              "curve": "62 + (0.177-0.15)/(0.2-0.15) x (72-62) = 67.4"
+            },
+            {
+              "name": "Capterra",
+              "detail": "12% of 8 reviews",
+              "value": 12.5,
+              "curve": ""
+            },
+            {
+              "name": "G2",
+              "detail": "0% of 9 reviews",
+              "value": 0.0,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "41% of 79 reviews",
+              "value": 40.5,
+              "curve": ""
+            }
+          ]
+        },
+        {
+          "key": "resonance",
+          "label": "Resonance",
+          "value": 36.9,
+          "math": "mean of the site means: Capterra 46.2, G2 56.1, Trustpilot 8.4 -> 36.9",
+          "parts": [
+            {
+              "name": "Detractor",
+              "detail": "70 reviews (73%)",
+              "value": 0,
+              "curve": ""
+            },
+            {
+              "name": "Lukewarm",
+              "detail": "12 reviews (12%)",
+              "value": 35,
+              "curve": ""
+            },
+            {
+              "name": "Satisfied",
+              "detail": "8 reviews (8%)",
+              "value": 65,
+              "curve": ""
+            },
+            {
+              "name": "Advocate",
+              "detail": "6 reviews (6%)",
+              "value": 100,
+              "curve": ""
+            },
+            {
+              "name": "Capterra",
+              "detail": "8 reviews",
+              "value": 46.2,
+              "curve": ""
+            },
+            {
+              "name": "G2",
+              "detail": "9 reviews",
+              "value": 56.1,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "79 reviews",
+              "value": 8.4,
+              "curve": ""
+            }
+          ]
+        }
+      ],
+      "eligibility": {
+        "sites": 4,
+        "reviews": 30237,
+        "recent_reviews": 70,
+        "sample": 147,
+        "labelled": 96
+      },
+      "sample_size": 147,
+      "labelled": 96
+    },
+    "clickup": {
+      "slug": "clickup",
+      "rated": true,
+      "score": 81,
+      "rating": 88.5,
+      "evidence": 81.8,
+      "evidence_math": "0.30x97.1 + 0.25x91.4 + 0.25x76.3 + 0.20x53.6 = 81.8",
+      "score_math": "50 + (88.5 - 50) x 81.8/100 = 81.5 -> 81",
+      "dimensions": [
+        {
+          "key": "rating",
+          "label": "What reviewers rate it",
+          "value": 88.5,
+          "math": "4.6 + 4.6 + 4.5 + 4 = 17.7, / 4 = 4.42, x20 = 88.5",
+          "inputs": {
+            "G2": 4.6,
+            "Capterra": 4.6,
+            "Gartner Peer Insights": 4.5,
+            "Trustpilot": 4
+          }
+        },
+        {
+          "key": "recent",
+          "label": "Recent",
+          "value": 97.1,
+          "math": "0.5 x 99.6 + 0.5 x 94.6 = 97.1",
+          "parts": [
+            {
+              "name": "Newest review",
+              "detail": "1 days ago",
+              "value": 99.6,
+              "curve": "100 + (1-0)/(14-0) x (95-100) = 99.6"
+            },
+            {
+              "name": "Share from the last year",
+              "detail": "110 of 127 dated reviews (87%)",
+              "value": 94.6,
+              "curve": "92 + (0.866-0.8)/(1-0.8) x (100-92) = 94.6"
+            }
+          ]
+        },
+        {
+          "key": "reliable",
+          "label": "Reliable",
+          "value": 91.4,
+          "math": "0.5 x 85.4 + 0.5 x 97.4 = 91.4",
+          "parts": [
+            {
+              "name": "Sites agree",
+              "detail": "0.6 stars between highest and lowest",
+              "value": 85.4,
+              "curve": "88 + (0.6-0.5)/(1-0.5) x (75-88) = 85.4"
+            },
+            {
+              "name": "Words match the stars",
+              "detail": "89 of 93 reviews read the way their star rating implies, averaged across 1 site",
+              "value": 97.4,
+              "curve": "97 + (0.957-0.95)/(1-0.95) x (100-97) = 97.4"
+            }
+          ]
+        },
+        {
+          "key": "results",
+          "label": "Results-specific",
+          "value": 76.3,
+          "math": "72 + (0.233-0.2)/(0.3-0.2) x (85-72) = 76.3",
+          "parts": [
+            {
+              "name": "Reviews naming a checkable outcome",
+              "detail": "31 of 100 labelled reviews, 23% averaged across sites",
+              "value": 76.3,
+              "curve": "72 + (0.233-0.2)/(0.3-0.2) x (85-72) = 76.3"
+            },
+            {
+              "name": "Capterra",
+              "detail": "14% of 7 reviews",
+              "value": 14.3,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "32% of 93 reviews",
+              "value": 32.3,
+              "curve": ""
+            }
+          ]
+        },
+        {
+          "key": "resonance",
+          "label": "Resonance",
+          "value": 53.6,
+          "math": "mean of the site means: Capterra 37.9, Trustpilot 69.4 -> 53.6",
+          "parts": [
+            {
+              "name": "Detractor",
+              "detail": "15 reviews (15%)",
+              "value": 0,
+              "curve": ""
+            },
+            {
+              "name": "Lukewarm",
+              "detail": "8 reviews (8%)",
+              "value": 35,
+              "curve": ""
+            },
+            {
+              "name": "Satisfied",
+              "detail": "36 reviews (36%)",
+              "value": 65,
+              "curve": ""
+            },
+            {
+              "name": "Advocate",
+              "detail": "41 reviews (41%)",
+              "value": 100,
+              "curve": ""
+            },
+            {
+              "name": "Capterra",
+              "detail": "7 reviews",
+              "value": 37.9,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "93 reviews",
+              "value": 69.4,
+              "curve": ""
+            }
+          ]
+        }
+      ],
+      "eligibility": {
+        "sites": 4,
+        "reviews": 19713,
+        "recent_reviews": 110,
+        "sample": 127,
+        "labelled": 100
+      },
+      "sample_size": 127,
+      "labelled": 100
+    },
+    "wrike": {
+      "slug": "wrike",
+      "rated": true,
+      "score": 74,
+      "rating": 83.0,
+      "evidence": 71.6,
+      "evidence_math": "0.30x64.0 + 0.25x80.5 + 0.25x87.0 + 0.20x52.6 = 71.6",
+      "score_math": "50 + (83.0 - 50) x 71.6/100 = 73.6 -> 74",
+      "dimensions": [
+        {
+          "key": "rating",
+          "label": "What reviewers rate it",
+          "value": 83.0,
+          "math": "4.2 + 4.4 + 4.4 + 3.6 = 16.6, / 4 = 4.15, x20 = 83.0",
+          "inputs": {
+            "G2": 4.2,
+            "Capterra": 4.4,
+            "Gartner Peer Insights": 4.4,
+            "Trustpilot": 3.6
+          }
+        },
+        {
+          "key": "recent",
+          "label": "Recent",
+          "value": 64.0,
+          "math": "0.5 x 100.0 + 0.5 x 28.0 = 64.0",
+          "parts": [
+            {
+              "name": "Newest review",
+              "detail": "0 days ago",
+              "value": 100.0,
+              "curve": "0 at or below 0 -> 100"
+            },
+            {
+              "name": "Share from the last year",
+              "detail": "22 of 149 dated reviews (15%)",
+              "value": 28.0,
+              "curve": "20 + (0.148-0.1)/(0.25-0.1) x (45-20) = 28.0"
+            }
+          ]
+        },
+        {
+          "key": "reliable",
+          "label": "Reliable",
+          "value": 80.5,
+          "math": "0.5 x 80.2 + 0.5 x 80.8 = 80.5",
+          "parts": [
+            {
+              "name": "Sites agree",
+              "detail": "0.8 stars between highest and lowest",
+              "value": 80.2,
+              "curve": "88 + (0.8-0.5)/(1-0.5) x (75-88) = 80.2"
+            },
+            {
+              "name": "Words match the stars",
+              "detail": "92 of 97 reviews read the way their star rating implies, averaged across 2 sites",
+              "value": 80.8,
+              "curve": "70 + (0.822-0.75)/(0.85-0.75) x (85-70) = 80.8"
+            }
+          ]
+        },
+        {
+          "key": "results",
+          "label": "Results-specific",
+          "value": 87.0,
+          "math": "85 + (0.325-0.3)/(0.4-0.3) x (93-85) = 87.0",
+          "parts": [
+            {
+              "name": "Reviews naming a checkable outcome",
+              "detail": "32 of 105 labelled reviews, 33% averaged across sites",
+              "value": 87.0,
+              "curve": "85 + (0.325-0.3)/(0.4-0.3) x (93-85) = 87.0"
+            },
+            {
+              "name": "Capterra",
+              "detail": "12% of 8 reviews",
+              "value": 12.5,
+              "curve": ""
+            },
+            {
+              "name": "G2",
+              "detail": "56% of 9 reviews",
+              "value": 55.6,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "30% of 88 reviews",
+              "value": 29.5,
+              "curve": ""
+            }
+          ]
+        },
+        {
+          "key": "resonance",
+          "label": "Resonance",
+          "value": 52.6,
+          "math": "mean of the site means: Capterra 45.6, G2 58.9, Trustpilot 53.2 -> 52.6",
+          "parts": [
+            {
+              "name": "Detractor",
+              "detail": "29 reviews (28%)",
+              "value": 0,
+              "curve": ""
+            },
+            {
+              "name": "Lukewarm",
+              "detail": "15 reviews (14%)",
+              "value": 35,
+              "curve": ""
+            },
+            {
+              "name": "Satisfied",
+              "detail": "30 reviews (29%)",
+              "value": 65,
+              "curve": ""
+            },
+            {
+              "name": "Advocate",
+              "detail": "31 reviews (30%)",
+              "value": 100,
+              "curve": ""
+            },
+            {
+              "name": "Capterra",
+              "detail": "8 reviews",
+              "value": 45.6,
+              "curve": ""
+            },
+            {
+              "name": "G2",
+              "detail": "9 reviews",
+              "value": 58.9,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "88 reviews",
+              "value": 53.2,
+              "curve": ""
+            }
+          ]
+        }
+      ],
+      "eligibility": {
+        "sites": 4,
+        "reviews": 9539,
+        "recent_reviews": 22,
+        "sample": 149,
+        "labelled": 105
+      },
+      "sample_size": 149,
+      "labelled": 105
+    },
+    "smartsheet": {
+      "slug": "smartsheet",
+      "rated": true,
+      "score": 66,
+      "rating": 73.5,
+      "evidence": 66.4,
+      "evidence_math": "0.30x76.5 + 0.25x57.0 + 0.25x86.0 + 0.20x38.4 = 66.4",
+      "score_math": "50 + (73.5 - 50) x 66.4/100 = 65.6 -> 66",
+      "dimensions": [
+        {
+          "key": "rating",
+          "label": "What reviewers rate it",
+          "value": 73.5,
+          "math": "4.4 + 4.5 + 4.5 + 1.3 = 14.7, / 4 = 3.68, x20 = 73.5",
+          "inputs": {
+            "G2": 4.4,
+            "Capterra": 4.5,
+            "Gartner Peer Insights": 4.5,
+            "Trustpilot": 1.3
+          }
+        },
+        {
+          "key": "recent",
+          "label": "Recent",
+          "value": 76.5,
+          "math": "0.5 x 100.0 + 0.5 x 52.9 = 76.5",
+          "parts": [
+            {
+              "name": "Newest review",
+              "detail": "0 days ago",
+              "value": 100.0,
+              "curve": "0 at or below 0 -> 100"
+            },
+            {
+              "name": "Share from the last year",
+              "detail": "47 of 147 dated reviews (32%)",
+              "value": 52.9,
+              "curve": "45 + (0.32-0.25)/(0.4-0.25) x (62-45) = 52.9"
+            }
+          ]
+        },
+        {
+          "key": "reliable",
+          "label": "Reliable",
+          "value": 57.0,
+          "math": "0.5 x 14.4 + 0.5 x 99.6 = 57.0",
+          "parts": [
+            {
+              "name": "Sites agree",
+              "detail": "3.2 stars between highest and lowest",
+              "value": 14.4,
+              "curve": "18 + (3.2-3)/(4-3) x (0-18) = 14.4"
+            },
+            {
+              "name": "Words match the stars",
+              "detail": "95 of 96 reviews read the way their star rating implies, averaged across 2 sites",
+              "value": 99.6,
+              "curve": "97 + (0.994-0.95)/(1-0.95) x (100-97) = 99.6"
+            }
+          ]
+        },
+        {
+          "key": "results",
+          "label": "Results-specific",
+          "value": 86.0,
+          "math": "85 + (0.312-0.3)/(0.4-0.3) x (93-85) = 86.0",
+          "parts": [
+            {
+              "name": "Reviews naming a checkable outcome",
+              "detail": "37 of 104 labelled reviews, 31% averaged across sites",
+              "value": 86.0,
+              "curve": "85 + (0.312-0.3)/(0.4-0.3) x (93-85) = 86.0"
+            },
+            {
+              "name": "Capterra",
+              "detail": "12% of 8 reviews",
+              "value": 12.5,
+              "curve": ""
+            },
+            {
+              "name": "G2",
+              "detail": "44% of 9 reviews",
+              "value": 44.4,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "37% of 87 reviews",
+              "value": 36.8,
+              "curve": ""
+            }
+          ]
+        },
+        {
+          "key": "resonance",
+          "label": "Resonance",
+          "value": 38.4,
+          "math": "mean of the site means: Capterra 37.5, G2 58.9, Trustpilot 18.7 -> 38.4",
+          "parts": [
+            {
+              "name": "Detractor",
+              "detail": "67 reviews (64%)",
+              "value": 0,
+              "curve": ""
+            },
+            {
+              "name": "Lukewarm",
+              "detail": "10 reviews (10%)",
+              "value": 35,
+              "curve": ""
+            },
+            {
+              "name": "Satisfied",
+              "detail": "17 reviews (16%)",
+              "value": 65,
+              "curve": ""
+            },
+            {
+              "name": "Advocate",
+              "detail": "10 reviews (10%)",
+              "value": 100,
+              "curve": ""
+            },
+            {
+              "name": "Capterra",
+              "detail": "8 reviews",
+              "value": 37.5,
+              "curve": ""
+            },
+            {
+              "name": "G2",
+              "detail": "9 reviews",
+              "value": 58.9,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "87 reviews",
+              "value": 18.7,
+              "curve": ""
+            }
+          ]
+        }
+      ],
+      "eligibility": {
+        "sites": 4,
+        "reviews": 29185,
+        "recent_reviews": 47,
+        "sample": 147,
+        "labelled": 104
+      },
+      "sample_size": 147,
+      "labelled": 104
+    },
+    "notion": {
+      "slug": "notion",
+      "rated": true,
+      "score": 72,
+      "rating": 80.5,
+      "evidence": 72.0,
+      "evidence_math": "0.30x96.9 + 0.25x57.7 + 0.25x81.6 + 0.20x40.6 = 72.0",
+      "score_math": "50 + (80.5 - 50) x 72.0/100 = 72.0 -> 72",
+      "dimensions": [
+        {
+          "key": "rating",
+          "label": "What reviewers rate it",
+          "value": 80.5,
+          "math": "4.6 + 4.7 + 4.5 + 2.3 = 16.1, / 4 = 4.03, x20 = 80.5",
+          "inputs": {
+            "G2": 4.6,
+            "Capterra": 4.7,
+            "Gartner Peer Insights": 4.5,
+            "Trustpilot": 2.3
+          }
+        },
+        {
+          "key": "recent",
+          "label": "Recent",
+          "value": 96.9,
+          "math": "0.5 x 100.0 + 0.5 x 93.8 = 96.9",
+          "parts": [
+            {
+              "name": "Newest review",
+              "detail": "0 days ago",
+              "value": 100.0,
+              "curve": "0 at or below 0 -> 100"
+            },
+            {
+              "name": "Share from the last year",
+              "detail": "124 of 147 dated reviews (84%)",
+              "value": 93.8,
+              "curve": "92 + (0.844-0.8)/(1-0.8) x (100-92) = 93.8"
+            }
+          ]
+        },
+        {
+          "key": "reliable",
+          "label": "Reliable",
+          "value": 57.7,
+          "math": "0.5 x 33.0 + 0.5 x 82.5 = 57.7",
+          "parts": [
+            {
+              "name": "Sites agree",
+              "detail": "2.4 stars between highest and lowest",
+              "value": 33.0,
+              "curve": "45 + (2.4-2)/(2.5-2) x (30-45) = 33.0"
+            },
+            {
+              "name": "Words match the stars",
+              "detail": "94 of 97 reviews read the way their star rating implies, averaged across 2 sites",
+              "value": 82.5,
+              "curve": "70 + (0.833-0.75)/(0.85-0.75) x (85-70) = 82.5"
+            }
+          ]
+        },
+        {
+          "key": "results",
+          "label": "Results-specific",
+          "value": 81.6,
+          "math": "72 + (0.274-0.2)/(0.3-0.2) x (85-72) = 81.6",
+          "parts": [
+            {
+              "name": "Reviews naming a checkable outcome",
+              "detail": "36 of 105 labelled reviews, 27% averaged across sites",
+              "value": 81.6,
+              "curve": "72 + (0.274-0.2)/(0.3-0.2) x (85-72) = 81.6"
+            },
+            {
+              "name": "Capterra",
+              "detail": "12% of 8 reviews",
+              "value": 12.5,
+              "curve": ""
+            },
+            {
+              "name": "G2",
+              "detail": "33% of 9 reviews",
+              "value": 33.3,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "36% of 88 reviews",
+              "value": 36.4,
+              "curve": ""
+            }
+          ]
+        },
+        {
+          "key": "resonance",
+          "label": "Resonance",
+          "value": 40.6,
+          "math": "mean of the site means: Capterra 36.9, G2 58.9, Trustpilot 26.1 -> 40.6",
+          "parts": [
+            {
+              "name": "Detractor",
+              "detail": "61 reviews (58%)",
+              "value": 0,
+              "curve": ""
+            },
+            {
+              "name": "Lukewarm",
+              "detail": "10 reviews (10%)",
+              "value": 35,
+              "curve": ""
+            },
+            {
+              "name": "Satisfied",
+              "detail": "18 reviews (17%)",
+              "value": 65,
+              "curve": ""
+            },
+            {
+              "name": "Advocate",
+              "detail": "16 reviews (15%)",
+              "value": 100,
+              "curve": ""
+            },
+            {
+              "name": "Capterra",
+              "detail": "8 reviews",
+              "value": 36.9,
+              "curve": ""
+            },
+            {
+              "name": "G2",
+              "detail": "9 reviews",
+              "value": 58.9,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "88 reviews",
+              "value": 26.1,
+              "curve": ""
+            }
+          ]
+        }
+      ],
+      "eligibility": {
+        "sites": 4,
+        "reviews": 17210,
+        "recent_reviews": 124,
+        "sample": 147,
+        "labelled": 105
+      },
+      "sample_size": 147,
+      "labelled": 105
+    },
+    "jira": {
+      "slug": "jira",
+      "rated": true,
+      "score": 62,
+      "rating": 71.5,
+      "evidence": 57.4,
+      "evidence_math": "0.30x92.2 + 0.25x40.3 + 0.25x52.2 + 0.20x33.3 = 57.4",
+      "score_math": "50 + (71.5 - 50) x 57.4/100 = 62.3 -> 62",
+      "dimensions": [
+        {
+          "key": "rating",
+          "label": "What reviewers rate it",
+          "value": 71.5,
+          "math": "4.3 + 4.4 + 4.4 + 1.2 = 14.3, / 4 = 3.58, x20 = 71.5",
+          "inputs": {
+            "G2": 4.3,
+            "Capterra": 4.4,
+            "Gartner Peer Insights": 4.4,
+            "Trustpilot": 1.2
+          }
+        },
+        {
+          "key": "recent",
+          "label": "Recent",
+          "value": 92.2,
+          "math": "0.5 x 100.0 + 0.5 x 84.4 = 92.2",
+          "parts": [
+            {
+              "name": "Newest review",
+              "detail": "0 days ago",
+              "value": 100.0,
+              "curve": "0 at or below 0 -> 100"
+            },
+            {
+              "name": "Share from the last year",
+              "detail": "99 of 147 dated reviews (67%)",
+              "value": 84.4,
+              "curve": "80 + (0.673-0.6)/(0.8-0.6) x (92-80) = 84.4"
+            }
+          ]
+        },
+        {
+          "key": "reliable",
+          "label": "Reliable",
+          "value": 40.3,
+          "math": "0.5 x 14.4 + 0.5 x 66.3 = 40.3",
+          "parts": [
+            {
+              "name": "Sites agree",
+              "detail": "3.2 stars between highest and lowest",
+              "value": 14.4,
+              "curve": "18 + (3.2-3)/(4-3) x (0-18) = 14.4"
+            },
+            {
+              "name": "Words match the stars",
+              "detail": "91 of 96 reviews read the way their star rating implies, averaged across 2 sites",
+              "value": 66.3,
+              "curve": "50 + (0.722-0.6)/(0.75-0.6) x (70-50) = 66.3"
+            }
+          ]
+        },
+        {
+          "key": "results",
+          "label": "Results-specific",
+          "value": 52.2,
+          "math": "48 + (0.115-0.1)/(0.15-0.1) x (62-48) = 52.2",
+          "parts": [
+            {
+              "name": "Reviews naming a checkable outcome",
+              "detail": "30 of 104 labelled reviews, 11% averaged across sites",
+              "value": 52.2,
+              "curve": "48 + (0.115-0.1)/(0.15-0.1) x (62-48) = 52.2"
+            },
+            {
+              "name": "Capterra",
+              "detail": "0% of 8 reviews",
+              "value": 0.0,
+              "curve": ""
+            },
+            {
+              "name": "G2",
+              "detail": "0% of 9 reviews",
+              "value": 0.0,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "34% of 87 reviews",
+              "value": 34.5,
+              "curve": ""
+            }
+          ]
+        },
+        {
+          "key": "resonance",
+          "label": "Resonance",
+          "value": 33.3,
+          "math": "mean of the site means: Capterra 45.6, G2 52.2, Trustpilot 2.0 -> 33.3",
+          "parts": [
+            {
+              "name": "Detractor",
+              "detail": "86 reviews (83%)",
+              "value": 0,
+              "curve": ""
+            },
+            {
+              "name": "Lukewarm",
+              "detail": "9 reviews (9%)",
+              "value": 35,
+              "curve": ""
+            },
+            {
+              "name": "Satisfied",
+              "detail": "6 reviews (6%)",
+              "value": 65,
+              "curve": ""
+            },
+            {
+              "name": "Advocate",
+              "detail": "3 reviews (3%)",
+              "value": 100,
+              "curve": ""
+            },
+            {
+              "name": "Capterra",
+              "detail": "8 reviews",
+              "value": 45.6,
+              "curve": ""
+            },
+            {
+              "name": "G2",
+              "detail": "9 reviews",
+              "value": 52.2,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "87 reviews",
+              "value": 2.0,
+              "curve": ""
+            }
+          ]
+        }
+      ],
+      "eligibility": {
+        "sites": 4,
+        "reviews": 31446,
+        "recent_reviews": 99,
+        "sample": 147,
+        "labelled": 104
+      },
+      "sample_size": 147,
+      "labelled": 104
+    },
+    "basecamp": {
+      "slug": "basecamp",
+      "rated": true,
+      "score": 66,
+      "rating": 71.3,
+      "evidence": 73.3,
+      "evidence_math": "0.30x83.2 + 0.25x68.9 + 0.25x87.8 + 0.20x46.0 = 73.3",
+      "score_math": "50 + (71.3 - 50) x 73.3/100 = 65.6 -> 66",
+      "dimensions": [
+        {
+          "key": "rating",
+          "label": "What reviewers rate it",
+          "value": 71.3,
+          "math": "4.1 + 4.3 + 2.3 = 10.7, / 3 = 3.57, x20 = 71.3",
+          "inputs": {
+            "G2": 4.1,
+            "Capterra": 4.3,
+            "Trustpilot": 2.3
+          }
+        },
+        {
+          "key": "recent",
+          "label": "Recent",
+          "value": 83.2,
+          "math": "0.5 x 97.1 + 0.5 x 69.3 = 83.2",
+          "parts": [
+            {
+              "name": "Newest review",
+              "detail": "8 days ago",
+              "value": 97.1,
+              "curve": "100 + (8-0)/(14-0) x (95-100) = 97.1"
+            },
+            {
+              "name": "Share from the last year",
+              "detail": "38 of 79 dated reviews (48%)",
+              "value": 69.3,
+              "curve": "62 + (0.481-0.4)/(0.6-0.4) x (80-62) = 69.3"
+            }
+          ]
+        },
+        {
+          "key": "reliable",
+          "label": "Reliable",
+          "value": 68.9,
+          "math": "0.5 x 45.0 + 0.5 x 92.8 = 68.9",
+          "parts": [
+            {
+              "name": "Sites agree",
+              "detail": "2.0 stars between highest and lowest",
+              "value": 45.0,
+              "curve": "60 + (2-1.5)/(2-1.5) x (45-60) = 45.0"
+            },
+            {
+              "name": "Words match the stars",
+              "detail": "43 of 45 reviews read the way their star rating implies, averaged across 2 sites",
+              "value": 92.8,
+              "curve": "85 + (0.915-0.85)/(0.95-0.85) x (97-85) = 92.8"
+            }
+          ]
+        },
+        {
+          "key": "results",
+          "label": "Results-specific",
+          "value": 87.8,
+          "math": "85 + (0.335-0.3)/(0.4-0.3) x (93-85) = 87.8",
+          "parts": [
+            {
+              "name": "Reviews naming a checkable outcome",
+              "detail": "13 of 53 labelled reviews, 34% averaged across sites",
+              "value": 87.8,
+              "curve": "85 + (0.335-0.3)/(0.4-0.3) x (93-85) = 87.8"
+            },
+            {
+              "name": "Capterra",
+              "detail": "25% of 8 reviews",
+              "value": 25.0,
+              "curve": ""
+            },
+            {
+              "name": "G2",
+              "detail": "57% of 7 reviews",
+              "value": 57.1,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "18% of 38 reviews",
+              "value": 18.4,
+              "curve": ""
+            }
+          ]
+        },
+        {
+          "key": "resonance",
+          "label": "Resonance",
+          "value": 46.0,
+          "math": "mean of the site means: Capterra 50.0, G2 52.9, Trustpilot 35.0 -> 46.0",
+          "parts": [
+            {
+              "name": "Detractor",
+              "detail": "21 reviews (40%)",
+              "value": 0,
+              "curve": ""
+            },
+            {
+              "name": "Lukewarm",
+              "detail": "11 reviews (21%)",
+              "value": 35,
+              "curve": ""
+            },
+            {
+              "name": "Satisfied",
+              "detail": "11 reviews (21%)",
+              "value": 65,
+              "curve": ""
+            },
+            {
+              "name": "Advocate",
+              "detail": "10 reviews (19%)",
+              "value": 100,
+              "curve": ""
+            },
+            {
+              "name": "Capterra",
+              "detail": "8 reviews",
+              "value": 50.0,
+              "curve": ""
+            },
+            {
+              "name": "G2",
+              "detail": "7 reviews",
+              "value": 52.9,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "38 reviews",
+              "value": 35.0,
+              "curve": ""
+            }
+          ]
+        }
+      ],
+      "eligibility": {
+        "sites": 3,
+        "reviews": 19963,
+        "recent_reviews": 38,
+        "sample": 79,
+        "labelled": 53
+      },
+      "sample_size": 79,
+      "labelled": 53
+    }
+  }
+}

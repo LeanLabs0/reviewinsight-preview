@@ -1,0 +1,784 @@
+{
+  "slug": "iterable",
+  "captured_at": "2026-08-12T20:48:37.032020+00:00",
+  "reviews": [
+    {
+      "portal": "G2",
+      "review_id": "12943549",
+      "date": "6/10/2026",
+      "rating": 5.0,
+      "title": "Iterable scales with your growth and unifies B2B and B2C journeys",
+      "text": "It grows with you without forcing you to rebuild. Most platforms make you choose: either you optimize for high-volume consumer marketing, or you build for complex B2B journeys. Iterable handles both without the trade-off. Whether you are nurturing enterprise accounts through a long sales cycle or activating product users at scale, the same platform supports both motions. That matters a lot when your business serves multiple audiences or when your go-to-market strategy is evolving. The other thing that stands out is how well it connects to the rest of your stack. We reduced the operational overhead of our programs significantly once we had all the right data flowing in. What used to require a lot of manual work and one-off builds now runs automatically based on what customers actually do. That frees the team to focus on strategy instead of maintenance. If you are evaluating lifecycle platforms, the question to ask is not just \"can it send emails.\" It is \"can it become the central nervous system of our customer communication, connected to our data, and able to keep up as we grow.\" For my team, Iterable has been that. Reporting is functional but not deep enough to be your single source of truth. Most mature teams will need to connect Iterable to a data warehouse or a BI tool to answer the questions leadership actually asks. That is not unique to Iterable, but it is worth knowing before you assume the platform analytics will cover your needs out of the box. And early configuration decisions matter more than you expect. Some settings and data structures are difficult to reverse once your programs are live. That is manageable if you invest in the right setup upfront, but it means the implementation phase deserves more attention than most teams give it. None of these are dealbreakers. But knowing them going in saves you surprises later.",
+      "role": "Senior Marketing Ops manager",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/iterable/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "We reduced the operational overhead of our programs significantly",
+        "resonance_evidence": "For my team, Iterable has been that"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "10593281",
+      "date": "12/2/2024",
+      "rating": 4.5,
+      "title": "Great Email Marketing Program!",
+      "text": "Iterable's layout is super easy to use. I use it daily for campaigns and journeys and it has a lot of features that make it easy to clone and edit these. I would like to see more analytics when it comes to pulling multiple campaigns. Also, for segmentation, it would be nice to be able to see the users who are being removed for each filter.",
+      "role": "Verified User in Computer Software",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/iterable/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Iterable's layout is super easy to use"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "12383489",
+      "date": "4/29/2026",
+      "rating": 4.5,
+      "title": "Iterable: The Intuitive Platform That Makes Data Actionable",
+      "text": "It's an intuitive platform that makes connecting your data and making it actionable incredibly easy. The platform allows my team and I to quickly move from idea to execution to orchestrate user touch points that create real value to the business. The out of the box reporting is lacking insights, it provides what every system provides which is overall and per campaign analytics but diving deeper into those data points aren't well supported.",
+      "role": "Automation and Retention Marketing Lead",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/iterable/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "It's an intuitive platform that makes connecting your data and making it actionable incredibly easy"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "12705610",
+      "date": "4/28/2026",
+      "rating": 4.0,
+      "title": "Campaign Folders Keep Client Projects Organized",
+      "text": "I like the option to organize Campaigns in folders, which helps keep different client projects organized. Iterable's support team is another great feature, where it's easy to speak with a human, and the automated chat responses, if a human isn't available, are helpful to reference & document projects when we're troubleshooting items. I dislike the journey/campaign setup of Iterable. Sometimes it can be difficult to locate which Journey a Campaign is in because of the way the emails/campaigns/templates are accessed, making it difficult to weave in and out of making email edits.",
+      "role": "Verified User in Marketing and Advertising",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/iterable/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "I like the option to organize Campaigns in folders, which helps keep different client projects organized"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "12704576",
+      "date": "4/28/2026",
+      "rating": 0.0,
+      "title": "A feature set several years behind the competition",
+      "text": "Iterable was reasonably well appreciated by our internal engineers as a tool that was easy enough to pipe data into and work with. The UX of the journey building system is easy to understand, and even if it needs refinement, it is an 'easier' solution for smaller teams who require less flexibility or more advanced features. Iterable, especially contrasted against industry mainstay competitors (eg, Braze, Salesforce, etc) falls short in its feature set. It simply isn't as robust as its counterparts, and even things like A/B testing functionality have hurdles involved within their journey builder that simply do not exist on other platforms. I found our account management representatives to be particularly unflexible and difficult to work with, and contrasting to other providers, Iterable is comparatively a small cost savings, but not nearly enough to justify the significant downgrade in quality and features. It's, generally, a few years behind its larger competitors.",
+      "role": "Verified User in Marketing and Advertising",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/iterable/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "falls short in its feature set. It simply isn't as robust as its counterparts"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "12678385",
+      "date": "4/23/2026",
+      "rating": 5.0,
+      "title": "So Easy to Use\u2014Powerful Segmentation with Minimal Code",
+      "text": "So easy to use. Very little code required. The segmentation tool is very use friendly to me. It feels very email marketing heavy. They are making real progress bringing in all the other channels but it sill feels very email first, and ecommerce focused. (but we are not ecommerce and it works great for us)",
+      "role": "Associate Director, Marketing Operations",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/iterable/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "So easy to use. Very little code required. The segmentation tool is very use friendly to me"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "12677697",
+      "date": "4/23/2026",
+      "rating": 4.5,
+      "title": "Intuitive Interface and Helpful Tech Support",
+      "text": "intuitive interface, helpful tech support little confusing structure with templates and snippets",
+      "role": "crm marketing manager",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/iterable/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "intuitive interface, helpful tech support little confusing structure with templates and snippets"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "12673362",
+      "date": "4/22/2026",
+      "rating": 5.0,
+      "title": "Easy for Marketers to Learn and Build In",
+      "text": "Fairly easy for marketers to learn and build within the platform Challenges collating results and reporting",
+      "role": "Verified User in Computer Games",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/iterable/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Fairly easy for marketers to learn and build within the platform"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "12673353",
+      "date": "4/22/2026",
+      "rating": 3.5,
+      "title": "User-Friendly Email Platform, Needs More Reusable Features",
+      "text": "I use Iterable for email development and sending, and I really appreciate its ease of sending and user friendliness. It allows multiple team members to use it, which is incredibly beneficial for our team collaboration. I also value the drag and drop tool, which simplifies the process significantly. I would love for it to be developed further to use reusable modules.",
+      "role": "Art Director Lifecycle",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/iterable/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "I really appreciate its ease of sending and user friendliness. It allows multiple team members to use it, which is incredibly beneficial for our team collaboration."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "2993069",
+      "date": "8/15/2019",
+      "rating": 4.0,
+      "title": "It adapts to the competency market",
+      "text": "Iterable is so flexible that there are always multiple ways to solve any new idea. I also like it since I can segment and customize the specific experience of each user. Something that is very useful in this program is that the integration with multiple tools, including our own development tools, means that I can track the life cycle of our users, including any action the user takes, which makes us have greater reach with the client and greater prominence based on control. Sometimes when you search for campaigns, a campaign does not appear in search results that do exist and must be displayed as search results. You must refresh the page several times to make it work. It happens very little but when it happens it is tedious. Two other things that I will say, is that I would like to have more sources available when using the drag and drop function. I would also like templates and campaigns to self-save.",
+      "role": "Consumer Goods",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/iterable/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Iterable is so flexible that there are always multiple ways to solve any new idea. I also like it since I can segment and customize the specific experience of each user."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "2741255",
+      "date": "7/11/2019",
+      "rating": 5.0,
+      "title": "One of the best marketing automation tool with powerful customization",
+      "text": "It is a very innovative tool with very friendly user interface. It helps to customize our emails and campaigns in a very interactive manner. Can perform our A/B test easily. Generate a very illustrative report, helps to manage our campaigns in right direction. Not much to dislike, but in workflow it should keep track who updated it last, so to keep an easy way to co-relate the work.",
+      "role": "Software Developer",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/iterable/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "It is a very innovative tool with very friendly user interface. It helps to customize our emails and campaigns in a very interactive manner. Can perform our A/B test easily."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "3056393",
+      "date": "8/25/2019",
+      "rating": 4.0,
+      "title": "Very decent tool at the given price point, but some advanced functionality missing",
+      "text": "It's very easy to setup differenent types of campaigns, as well as workflows. The analytics available in the tool are also very decent. Personalization is also very easy to do. You can't perform any sort of data manipulation using the data that is fed into the tool. You can't create a new data field using the existing data fields.",
+      "role": "Verified User in Food & Beverages",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/iterable/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "It's very easy to setup differenent types of campaigns, as well as workflows. The analytics available in the tool are also very decent."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "89849",
+      "date": "1/15/2016",
+      "rating": 4.5,
+      "title": "My favorite Marketing Automation tool",
+      "text": "Very robust Workflow tool, really nice Segment Integration, very responsive customer service. Competitive pricing Iterable can benefit from more robust roles and entitlement schema",
+      "role": "Verified User in E-Learning",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/iterable/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Very robust Workflow tool, really nice Segment Integration, very responsive customer service. Competitive pricing"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "105251",
+      "date": "3/10/2016",
+      "rating": 4.5,
+      "title": "Great customize-able CRM tool, easy for both developers and marketing managers",
+      "text": "Workflow tool allows us to easily set complex rules that would have been impossible or required months of engineering work in a different ESP Easy-to-use data export API's allow us to create custom dashboards on our end that tell us how well our campaigns are doing Handlebars is easy to pick up and learn Some basic features missing since the product is still in development mode, e.g. folder structures Some tasks are a bit un-intuitive and have led to minor bugs in our system, e.g. having to always edit a template within a campaign rather than being able to edit a template itself",
+      "role": "Internet",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/iterable/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "would have been impossible or required months of engineering work in a different ESP",
+        "resonance_evidence": "Workflow tool allows us to easily set complex rules that would have been impossible or required months of engineering work in a different ESP"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "105252",
+      "date": "3/10/2016",
+      "rating": 4.5,
+      "title": "Iterable is worth your consideration",
+      "text": "Exporting email statistics data is easy because you can set a date range. It makes it very easy for reporting purposes. You can also find out how many new emails are added using segmentation under users, but it takes some practice to figure out how to set your preferences right. It's difficult to import lists. In each CSV I have to match up the fields exactly how Iterable wants to have it import correctly, which is time consuming. The new template structure makes it easier for people who don't know CSS coding, but makes it more difficult who do know how to code and customize templates and unique emails.",
+      "role": "Marketing and Advertising",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/iterable/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "It makes it very easy for reporting purposes. You can also find out how many new emails are added using segmentation under users, but it takes some practice to figure out how to set your preferences right."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "105256",
+      "date": "3/10/2016",
+      "rating": 5.0,
+      "title": "Power in workflows",
+      "text": "Iterable has really taken our email marketing campaigns and automation to the next level. Using the workflows has allowed us to create a real relationship with the people on our lists without tiring them out from endless asks or asks that don't pique their interest. The biggest issue we've had has been with the import process. Our company had to build our own import plug-in and profile editor to ensure no data was being mishandled in the import and editing process. It would be very helpful to have an easier way to update profiles (i.e. first names, last names, zips, etc.).",
+      "role": "Marketing and Advertising",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/iterable/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Iterable has really taken our email marketing campaigns and automation to the next level. Using the workflows has allowed us to create a real relationship with the people on our lists"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "105258",
+      "date": "3/10/2016",
+      "rating": 4.5,
+      "title": "Easy to Use + Great Support",
+      "text": "Easy to use and set up templates/create blast campaigns. Easy to see how emails are performing. The Iterable team is constantly working to improve their product which is great to see. Support has been helpful and spends time to solve problems Needs more API support! Would like more in depth data when it comes to revenue reporting. List segmentation can get complicated quick and become messy. Would like more notification when changes do get rolled out to the site instead of being surprised.",
+      "role": "Retail",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/iterable/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Easy to use and set up templates/create blast campaigns. Easy to see how emails are performing. The Iterable team is constantly working to improve their product which is great to see."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "105259",
+      "date": "3/10/2016",
+      "rating": 3.5,
+      "title": "Iterable Review",
+      "text": "I very much like that iterable is very clean and organized. I also like that the email is compatible on all computers, phone, iPads, tablets, etc. While it is user friendly, I feel as though I need to be very careful to not press certain buttons and also that I cannot make a lot of changes on my own, stylistically. Lastly, I wish I could update email lists on my own - but that is more of a personal pet peeve.",
+      "role": "Verified User in Political Organization",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/iterable/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "I very much like that iterable is very clean and organized. I also like that the email is compatible on all computers, phone, iPads, tablets, etc. While it is user friendly, I feel as though I need to be very careful"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "105260",
+      "date": "3/10/2016",
+      "rating": 1.5,
+      "title": "Need work to be more intuitive",
+      "text": "The ability to create workflows and templates. UX and UI sometimes are not very intuitive.",
+      "role": "Verified User in Computer Software",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/iterable/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "The ability to create workflows and templates. UX and UI sometimes are not very intuitive."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "105275",
+      "date": "3/10/2016",
+      "rating": 5.0,
+      "title": "Nothing but amazing",
+      "text": "Features are solid and the support is great! Iterable is young and flexible and the API is very comprehensive. Importing tool needs to be redone to allow you to match fields. Can all be done through the API well enough, but the UI needs a little more work.",
+      "role": "Marketing and Advertising",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/iterable/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Features are solid and the support is great!"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "105416",
+      "date": "3/10/2016",
+      "rating": 5.0,
+      "title": "Iterable's team has the knowledge and flexibility to make their email system the best I have used.",
+      "text": "The workflows have made it easy for me to add and remove users from list to then use as suppression lists as well as create holding patterns to keep every user happy, engaged and converting. The inability to dig into segments within an email after sent (essentially, to layer levels of analytics on each other.)",
+      "role": "Verified User in Marketing and Advertising",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/iterable/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "The workflows have made it easy for me to add and remove users from list to then use as suppression lists as well as create holding patterns to keep every user happy, engaged and converting."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "106133",
+      "date": "3/11/2016",
+      "rating": 5.0,
+      "title": "Exactly what we were looking for.",
+      "text": "\\- Amazing support \\- Visual journey builder \\- Segment integration \\- Modern UI/UX \\- Feature building Sometimes I'll run into a few bugs, but nothing the support team won't help me solve.",
+      "role": "Verified User in Internet",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/iterable/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Amazing support"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "105153",
+      "date": "3/9/2016",
+      "rating": 5.0,
+      "title": "Great customer service",
+      "text": "I like how helpful support is, and how quick they get back. i also like the platform, it's open enough with simple APIs so we can build whatever we want. In workflows, creating a new email. Seems to make more sense in my mind that you can select an existing email/template you have in the triggered tab. On the final page before hitting send on a blast, the estimated audience size is way off for us (lots of segments, lots of unsubs). There are no built in geographic/zip code segmenting tools (target using radius within XXX location column). To create an int column data first needs to come through API csv upload makes numbers string.",
+      "role": "Marketing and Advertising",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/iterable/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "I like how helpful support is, and how quick they get back. i also like the platform, it's open enough with simple APIs so we can build whatever we want."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "105218",
+      "date": "3/10/2016",
+      "rating": 5.0,
+      "title": "Iterable EMS is the best out there",
+      "text": "The flexibility of the entire system and the entire team. The customer support is unlike any other EMS I've ever worked with, and it's a game changer to have people on call at almost all hours of the day that are skilled in the space and are helpful in getting things done. As far as the system goes, everything from the workflows to the complexity in each and every trigger. It's extremely helpful in making automation a priority for email marketing, and I'll never be able to use a different EMS. Sometimes change is good, sometimes change is bad. I think that for the most part the changes happening on Iterable are fantastic, but sometimes the user interface changes without a prior warning and I'm thrown off. Other than that, I honestly have no complaints.",
+      "role": "Marketing and Advertising",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/iterable/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "I'll never be able to use a different EMS."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "105234",
+      "date": "3/10/2016",
+      "rating": 5.0,
+      "title": "A Quick and Clean Program",
+      "text": "There are so many cool and exciting methods of sending. Email, Workflows, Triggered messages, SMS... and they keep adding new things. I would like the design elements to have a standard feature of the operator's choosing. For example, I use black, size 16 font, but the default for Iterable is 12 and gray. Takes up time.",
+      "role": "Production Coordinator",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/iterable/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "There are so many cool and exciting methods of sending."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "105242",
+      "date": "3/10/2016",
+      "rating": 5.0,
+      "title": "Top tier product with great service",
+      "text": "The product itself is the biggest selling point. Integrated email and push allows us to have one hub for messaging users; of the players that offer both push and email, Iterable has the most developed email service and best roadmap for future advancements. The primary key for data is a user's email address rather than a User ID or something else that could be determined by a customer. It led our dev team to some hacky workarounds.",
+      "role": "Verified User in Internet",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/iterable/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Iterable has the most developed email service and best roadmap for future advancements."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "108732",
+      "date": "3/18/2016",
+      "rating": 5.0,
+      "title": "The only modern retention marketing suite",
+      "text": "Our developers like Iterable because it has the best APIs for handling programmatic message from our internal stack, and our marketers like Iterable because of the power and ease of the visual Workflows feature. No complaints so far. When we have had feedback about the product, Iterable have been lightning fast at addressing it.",
+      "role": "Internet",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/iterable/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "No complaints so far. When we have had feedback about the product, Iterable have been lightning fast at addressing it."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "3769385",
+      "date": "11/28/2019",
+      "rating": 0.0,
+      "title": "Rainbows and unicorns",
+      "text": "Promise of non-engineers to create complex marketing campaigns and cart abandoner targeting Utterly and complete failure to meet any and all promises, and blaming Segment for all failures.",
+      "role": "Director of Engineering",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/iterable/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Utterly and complete failure to meet any and all promises"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "11912602",
+      "date": "12/4/2025",
+      "rating": 0.0,
+      "title": "Lacking Features and Aggressive Renewal Tactics",
+      "text": "I like that we were able to end the contract. I don't like that Iterable lacks A/B testing and proper holdout functionality in their Journey feature. It also misses basic features like drop and hold testing, and they require a manual workaround that is cumbersome. Additionally, the company enforced an auto-renewal in full just three days after the window, which was frustrating. They even harassed employees with personal phone calls, which felt unprofessional and pushy. The initial setup wasn't easy. Overall, I would look for alternative providers in the future.",
+      "role": "Non-Profit Organization Management",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/iterable/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I would look for alternative providers in the future"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "10918766",
+      "date": "3/6/2025",
+      "rating": 0.0,
+      "title": "Impossible login requirements",
+      "text": "The tool itself works well. My team is able to manage multiple campaigns at once. We take advantage of the multiple projects feature, which is great for the way my company works. Integrations work well. Customer support is pretty solid too. 24 character minimum for passwords. That's almost all of the letters. What are we doing here? Now they are adding in another form of additional authentication on top of that? I'm emailing our users, not the Pentagon. This is the most obnoxious password system I've ever seen. I hate it so much. At this point I would rather handwrite letters to our users.",
+      "role": "Verified User in Internet",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/iterable/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "The tool itself works well. My team is able to manage multiple campaigns at once."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "8328602",
+      "date": "7/17/2023",
+      "rating": 0.5,
+      "title": "Technology and support are lacking",
+      "text": "The drag and drop email builder is easy to use. Frequent slowness/outages/UI bugs. Automated journeys lack sophisticated features. Data limitations. OOTB functionality is very basic. Hard to get ahold of our rep, gives the run around, goes out of office and doesn't leave backup contacts for support.",
+      "role": "Verified User in Marketing and Advertising",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/iterable/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Frequent slowness/outages/UI bugs"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "4663464",
+      "date": "3/26/2021",
+      "rating": 1.0,
+      "title": "Great for enterprise companies, not for startups",
+      "text": "Team was always ready and willing to be helpful Way too complicated. If you have a huge dev team that can do a lot of the work, then I think it could be great and really flexible -- few guide rails to stop you from anything custom you want. If you are light on resources and looking for simplicity, it's not for you. It took months just to get the basic tracking and implementation done, and you have to go through their university to get trained on things that other products allow you to click a button on.",
+      "role": "Verified User in Consumer Electronics",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/iterable/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": true,
+        "resonance": "lukewarm",
+        "results_evidence": "It took months just to get the basic tracking and implementation done",
+        "resonance_evidence": "Team was always ready and willing to be helpful"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "11971575",
+      "date": "11/18/2025",
+      "rating": 1.0,
+      "title": "Usable APIs, But Digioh Frustrations Hinder Recommendation",
+      "text": "I find Iterable's APIs to be easy to use, which is a significant positive aspect for me as it facilitates seamless integration and interaction with different systems. This ease of use reflects a thoughtful design and user-friendly approach, making technical operations more manageable. Additionally, during the initial setup of Iterable, the process was acceptable and the onboarding experience was fine, indicating a well-organized and efficient approach to getting users started with the platform. This aspect helps in harmonizing setup across various systems within a group, showing Iterable's capability to accommodate diverse configurations and streamline operations. I am frustrated with the integration of Digioh as a third-party tool with Iterable, which causes immense frustration due to its complexity and lack of transparency. The fact that it's a massive file to load and the instructions around it being not intuitive or 'you just have to do it this way' does not fit the profile of an acceptable enterprise solution. This inconsistency in ease of use compared to Iterable\u2019s technology represents a significant downside. Furthermore, the unexpected requirement to use Digioh halfway through the onboarding process was not acceptable, and this reliance on a third-party tool makes it impossible for me to recommend Iterable confidently.",
+      "role": "Pete C.",
+      "company_size": null,
+      "source_url": "https://www.g2.com/products/iterable/reviews",
+      "sample_order": "lowest_rated"
+    },
+    {
+      "portal": "G2",
+      "review_id": "105185",
+      "date": "4/12/2018",
+      "rating": 1.5,
+      "title": "It could be good...it just isn't reliable",
+      "text": "The best part about Iterable is all that you can do on it. The capabilities for different campaigns you can set up are numerous. The UI can be VERY difficult to use and the system cannot really handle a high volume of use. The tool is also HIGHLY unreliable. Lists dont upload, sends stop midway - and it isn't caught unless you are proactively looking.",
+      "role": "Verified User in Music",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/iterable/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "The tool is also HIGHLY unreliable. Lists dont upload, sends stop midway"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "February 25, 2026",
+      "rating": null,
+      "title": null,
+      "text": "Iterable records various customer events, which are visible in two formats - charts and table listing, which helps us to understand better customer's behaviour and target marketing campaigns, also manage targeted emails sent to customers.",
+      "role": "Senior QA Analyst",
+      "company_size": "201-500 employees",
+      "source_url": "https://www.capterra.com/p/143902/Iterable/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "helps us to understand better customer's behaviour and target marketing campaigns"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "May 15, 2025",
+      "rating": null,
+      "title": null,
+      "text": "Hidden fee - they charge extra for something as simple as creating new senders, something which is usually self serve in even the most basic tools and they don't tell you this when signing you on.",
+      "role": "Product",
+      "company_size": "11-50 employees",
+      "source_url": "https://www.capterra.com/p/143902/Iterable/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Hidden fee - they charge extra for something as simple as creating new senders, something which is usually self serve in even the most basic tools and they don't tell you this when signing you on."
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "October 19, 2025",
+      "rating": null,
+      "title": null,
+      "text": "The ability to deliver personalization data to customers and easy communication management Iterable provides the most reliable functions.",
+      "role": "Advertising Specialist",
+      "company_size": "11-50 employees",
+      "source_url": "https://www.capterra.com/p/143902/Iterable/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Iterable provides the most reliable functions."
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "May 15, 2025",
+      "rating": null,
+      "title": null,
+      "text": "I am weary of signing on new products with them, because I also don't know which parts of the tool will be free to use, and what I would have to pay for after I have signed.",
+      "role": "Product",
+      "company_size": "11-50 employees",
+      "source_url": "https://www.capterra.com/p/143902/Iterable/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I am weary of signing on new products with them, because I also don't know which parts of the tool will be free to use, and what I would have to pay for after I have signed."
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "April 16, 2025",
+      "rating": null,
+      "title": null,
+      "text": "Iterable enhances cross-channel marketing campaigns orchestration which unify customer experiences in real-time.",
+      "role": "Owner",
+      "company_size": null,
+      "source_url": "https://www.capterra.com/p/143902/Iterable/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Iterable enhances cross-channel marketing campaigns orchestration which unify customer experiences in real-time."
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "May 15, 2025",
+      "rating": null,
+      "title": null,
+      "text": "Our SMS have been blocked twice in the past 1 month, and they have zero accountability for it.",
+      "role": "Product",
+      "company_size": "11-50 employees",
+      "source_url": "https://www.capterra.com/p/143902/Iterable/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Our SMS have been blocked twice in the past 1 month, and they have zero accountability for it."
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "January 1, 2025",
+      "rating": null,
+      "title": null,
+      "text": "You can book or request a demo in their website, and uses AI for convenience.",
+      "role": "Admin Clerk",
+      "company_size": "11-50 employees",
+      "source_url": "https://www.capterra.com/p/143902/Iterable/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "You can book or request a demo in their website, and uses AI for convenience."
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "October 10, 2023",
+      "rating": null,
+      "title": null,
+      "text": "Iterable doesn't allow this and you sometimes need to click 5-6 different buttons to open a window.",
+      "role": "CRM Lead",
+      "company_size": "501-1,000 employees",
+      "source_url": "https://www.capterra.com/p/143902/Iterable/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Iterable doesn't allow this and you sometimes need to click 5-6 different buttons to open a window."
+      }
+    },
+    {
+      "portal": "Gartner Peer Insights",
+      "review_id": null,
+      "date": "Jun 15, 2026",
+      "rating": 5.0,
+      "title": "Hands down the best platform of its kind out there.",
+      "text": null,
+      "body_gated": true,
+      "role": "Engineer",
+      "company_size": "<50M USD, Services (non-Government)",
+      "sentiment_label": "FAVORABLE",
+      "source_url": "https://www.gartner.com/reviews/product/iterable-1860591838",
+      "sample_order": "page"
+    },
+    {
+      "portal": "Gartner Peer Insights",
+      "review_id": null,
+      "date": "Jan 28, 2026",
+      "rating": 3.0,
+      "title": "Easy to use but overcomplicated segmentation and inefficient updates",
+      "text": null,
+      "body_gated": true,
+      "role": "Marketing Associate",
+      "company_size": "50M - 250M USD, Transportation",
+      "sentiment_label": "CRITICAL",
+      "source_url": "https://www.gartner.com/reviews/product/iterable-1860591838",
+      "sample_order": "page"
+    }
+  ]
+}

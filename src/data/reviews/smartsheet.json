@@ -1,0 +1,2560 @@
+{
+  "slug": "smartsheet",
+  "captured_at": "2026-08-12T20:48:37.032020+00:00",
+  "reviews": [
+    {
+      "portal": "G2",
+      "review_id": "13251147",
+      "date": "8/12/2026",
+      "rating": 5.0,
+      "title": "Feature-Rich Platform That Means Business",
+      "text": "Coming from a background of using various project management tools, Smartsheet stands out for its depth and sophistication. I have been using it for about fifteen months now and I continue to discover new capabilities that make our work easier. The sheet structure provides a familiar foundation while the automation tools, forms, and dashboards add powerful layers of functionality. The ability to create solution-like workflows without development resources has been a significant advantage for us. I particularly like the conditional formatting which helps prioritize work visually. There are definitely areas where I wish Smartsheet would improve. The user experience feels clunky at times, especially when navigating between different views and sheets. It does not have the polish of some consumer-grade applications that team members might be accustomed to. The setup process for more complex workflows requires significant expertise and trial and error.",
+      "role": "Hospital & Health Care",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/smartsheet/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "I have been using it for about fifteen months now and I continue to discover new capabilities that make our work easier"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13244136",
+      "date": "8/11/2026",
+      "rating": 3.5,
+      "title": "Scalable Reporting Powerhouse, But Setup and Training Take Time",
+      "text": "I have been using Smartsheet consistently for the past year and it has become our go-to platform for managing work across the organization. The scalability of the platform is impressive. We started with a small team using basic sheets and have grown to hundreds of users managing complex portfolios without outgrowing the system. The reporting and dashboard capabilities are particularly strong, allowing us to create executive-level views that communicate progress effectively. The platform is not without its flaws however. The initial implementation process was more involved than we expected, requiring significant configuration and testing before we could roll it out broadly. The user interface could be more intuitive, especially for team members who are not technology focused. We have had to invest considerable time in training to ensure everyone uses the platform effectively.",
+      "role": "Retail",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/smartsheet/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "We started with a small team using basic sheets and have grown to hundreds of users managing complex portfolios without outgrowing the system",
+        "resonance_evidence": "it has become our go-to platform for managing work across the organization. The scalability of the platform is impressive"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13244012",
+      "date": "8/11/2026",
+      "rating": 5.0,
+      "title": "Smartsheet Transformed Our Initiative Management with Powerful Gantt and Resource Planning",
+      "text": "What drew me to Smartsheet initially was its reputation for handling complexity and it has certainly lived up to that expectation. We have been using it for about ten months and it has transformed how we manage our initiatives. The hierarchical structure of sheets, rows, and columns gives us incredible flexibility to model our work exactly as we need. I particularly value the Gantt chart views which provide excellent visibility into project timelines and dependencies. The resource management features have also been incredibly helpful for capacity planning and preventing burnout. While Smartsheet is powerful, it sometimes feels like overkill for simpler tasks. There are times when a basic tool would suffice but we are locked into using Smartsheet for everything because of our subscription.",
+      "role": "Accounting",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/smartsheet/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "it has transformed how we manage our initiatives",
+        "resonance_evidence": "What drew me to Smartsheet initially was its reputation for handling complexity and it has certainly lived up to that expectation"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13237604",
+      "date": "8/11/2026",
+      "rating": 3.5,
+      "title": "Versatile Layouts, but Co-Editing and Filter Navigation Need Improvement",
+      "text": "I like the diversity of layouts it can be displayed in. Co-editing isn\u2019t something that works very well right now, and the filters could use better navigation\u2014something closer to an Excel-style UX, for example.",
+      "role": "Media Manager",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/smartsheet/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "I like the diversity of layouts it can be displayed in"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13239922",
+      "date": "8/11/2026",
+      "rating": 5.0,
+      "title": "Dynamic Views and Access Control Enhance Collaboration",
+      "text": "I use Smartsheet mainly for project and task management, tracking deliverables, deadlines, and progress across a team. I really like the control it gives over access, as I can ask someone to update just a specific field or section without handing over access to the entire sheet, keeping things clean and reducing the risk of accidental changes elsewhere. I'm also a big fan of the Dynamic View feature; it lets me expose only the relevant records or fields to someone without sharing the full source sheet. It saves a lot of back and forth around permissions and data privacy. When I need to share progress with someone like a client or manager who doesn\u2019t need to see the underlying structure or sensitive columns, I can build a view that only shows what\u2019s relevant to them. This 'safe' version of the sheet is already there and stays live. The cost is probably my biggest concern\u2014the per-user pricing adds up quickly as a team grows, making it harder to justify rolling it out more broadly. I'd like to see more flexible pricing for occasional or view-only users who don't need full functionality. The other limitation is the reliance on an internet connection. Most of the work requires being online, so there's no reliable way to view or update sheets when connectivity is spotty. That becomes a real problem when I'm traveling or working somewhere with an unstable connection.",
+      "role": "Matthew jimmy O.",
+      "company_size": null,
+      "source_url": "https://www.g2.com/products/smartsheet/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "It saves a lot of back and forth around permissions and data privacy",
+        "resonance_evidence": "I really like the control it gives over access"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13238077",
+      "date": "8/10/2026",
+      "rating": 4.0,
+      "title": "Accessible for Everyone and Easy to Adopt",
+      "text": "I like that it is accesable for everyone. I feel like things can get lost in translation.",
+      "role": "Clinical",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/smartsheet/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "I like that it is accesable for everyone"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13234166",
+      "date": "8/10/2026",
+      "rating": 4.0,
+      "title": "User-Friendly Interface That\u2019s Easy to Use",
+      "text": "It has a user-friendly interface and is easy to use. It doesn\u2019t load as quickly as I\u2019d like when there are dependencies involved.",
+      "role": "Verified User in Human Resources",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/smartsheet/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "It has a user-friendly interface and is easy to use"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13233294",
+      "date": "8/10/2026",
+      "rating": 4.0,
+      "title": "Streamlines Budget Tracking, Needs Smoother Transition",
+      "text": "I use Smartsheet to track department budgets and handle reconciliation processes, which involve workflows and approvals. I like that Smartsheet is well-structured, offers data validation, and has in-built reporting using dashboards. The visual representation of budget tracking and reconciliation helps me directly report to senior management. Transferring from Excel to Smartsheet is difficult for team members, and the transition could be smoother. I'm unaware of how to link Smartsheet with other tools, which limits integration options. The initial setup was difficult and not intuitive.",
+      "role": "Corporate Project Manager",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/smartsheet/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "The visual representation of budget tracking and reconciliation helps me directly report to senior management",
+        "resonance_evidence": "I like that Smartsheet is well-structured, offers data validation, and has in-built reporting using dashboards"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13232349",
+      "date": "8/9/2026",
+      "rating": 4.5,
+      "title": "Highly Customizable Sheets with Easy Team Access Controls",
+      "text": "I really like how customizable the sheets are, and how easy it is to give members of my team access for things like approvals and content uploads. I wish there were a way to upload images directly into the sheet, instead of having to add them as attachments.",
+      "role": "Verified User in Staffing and Recruiting",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/smartsheet/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "I really like how customizable the sheets are, and how easy it is to give members of my team access"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "16943",
+      "date": "10/7/2013",
+      "rating": 1.0,
+      "title": "Excel on steroids. However, Smartsheet has turned into Slowsheet.",
+      "text": "End-user development. This is an online spreadsheet, a 21st Century version of Excel on steroids. As a spreadsheet it allows very flexible form & function, the most flexible I've ever seen in an app. I'm also impressed by how well this company executes its vision. It's solid. I've only needed tech support once and I got a reply within 3 hours. Slowest app to load, sometimes takes several reloads for app to become available. Slower than any other app I use. Downtime for maintenance. Have to log back in after maintenance. Adertisement banners appearing across top of page more and more. Can't merge cells. Did I mention it's s-l-o-o-o-o-w?",
+      "role": "Wellness Coach &amp; Fitness Trainer",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/smartsheet/reviews",
+      "sample_order": "most_helpful"
+    },
+    {
+      "portal": "G2",
+      "review_id": "19968",
+      "date": "2/26/2014",
+      "rating": 4.5,
+      "title": "Powerful yet easy-to-use tool that works best in a team enivronment",
+      "text": "SmartSheet's simplicity and intuitive design make it very easy to become productive very quickly. It combines the best aspects of Microsoft Excel like the ability to create complex formulas with the sharing, collaborative parts of Google spreadsheets. For project management needs, the current version does not allow you to track duration in hours, only days. Although you can enter a fraction for a day such as .5 day equals 4 hours, SmartSheet still plans for a complete day. Also, resource-leveling was only just recently introduced but is not available in the basic version. SmartSheet is not a replacement for Microsoft Project. However, if you don't need the sophisticated features of Project and prefer a more collaborative, team-based tool then it should fit your need",
+      "role": "Computer Software",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/smartsheet/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "it should fit your need"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "8831072",
+      "date": "11/7/2023",
+      "rating": 5.0,
+      "title": "Maximizing Efficiency with SmartSheet: A Game-Changing Tool",
+      "text": "I have been using SmartSheet for a while now, and I must say that it has become an indispensable tool in my daily work routine. What I like most about SmartSheet is its remarkable versatility. It's not just a project management tool; it's an all-in-one solution that can adapt to various tasks and projects, making it highly efficient for both individuals and teams. One of the aspects I find most helpful about SmartSheet is its intuitive interface. From the moment you start using it, you can tell that the developers truly understand the needs of their users. Creating and customizing sheets, reports, and dashboards is a breeze, and the drag-and-drop functionality makes organization seamless. This simplicity doesn't compromise on its capabilities. SmartSheet offers an impressive range of functions, such as automated workflows, conditional formatting, and data validation, which enable you to automate repetitive tasks and maintain data accuracy. The upsides of using SmartSheet are numerous. First and foremost, it's a cloud-based platform, which means you can access your sheets from anywhere, at any time. This flexibility has greatly improved collaboration within my team, as we can work on projects simultaneously, ensuring real-time updates and a centralized source of truth. Additionally, SmartSheet integrates seamlessly with popular tools like Microsoft Office, Google Workspace, and even third-party apps through connectors and Zapier. This integration capability enhances our productivity and streamlines our workflow. One standout feature is the Gantt chart view, which is incredibly useful for project managers. It offers a clear visualization of project timelines, dependencies, and critical paths. This feature alone has made project planning and tracking more efficient and less error-prone. I also appreciate the automated notifications and reminders, which help keep everyone on track and ensure that deadlines are met. SmartSheet's collaboration tools, such as commenting an",
+      "role": "Evan H.",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/smartsheet/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "it has become an indispensable tool in my daily work routine"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "9327253",
+      "date": "2/22/2024",
+      "rating": 5.0,
+      "title": "Why Smartsheet remains my top choice and why I love it!",
+      "text": "Smartsheet is a cloud-based platform that combines the functionality of project management and collaboration software with the ease of use of spreadsheets. Regardless of the size of the project or portfolio, Smartsheet may be used to plan, monitor, carry out, and report on any type of activity. Project management requires time tracking and resource management, both of which Smartsheet lacks natively. To use these capabilities, users must either use add-ons or subscribe to the Business plan.",
+      "role": "Ram C.",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/smartsheet/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Smartsheet may be used to plan, monitor, carry out, and report on any type of activity"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "9327961",
+      "date": "2/22/2024",
+      "rating": 4.5,
+      "title": "Perfect No-Code Tool for Project Management with inbuilt Templates",
+      "text": "Smartsheet assisted us in accomplishing our objectives, regardless of the size of the project or portfolio we are managing. With Smartsheet's dynamic and adaptable platform, we may design and alter our own procedures and workflows. Complex projects requiring sophisticated capabilities like dependency management, critical path analysis, and risk management are not a good fit for Smartsheet.",
+      "role": "Vijay M.",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/smartsheet/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Smartsheet assisted us in accomplishing our objectives"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "9311365",
+      "date": "2/20/2024",
+      "rating": 4.0,
+      "title": "Smartsheet Improved our Efficiency and Collaboration",
+      "text": "We can jump directly into our projects with Smartsheet thanks to its user-friendly interface, which eliminates the need for lengthy training. Even for beginners, navigating around the platform is made simple by its clear and well-organized style. The Smartsheet interface guarantees that we can take charge of our job and quickly obtain the information we require, regardless of the size of our team or the number of intricate projects we oversee. Although Smartsheet has a mobile app available for iOS and Android smartphones, its features are not as extensive as those of the desktop version. Since we rely so heavily on working when on the go, it is unfortunate that several advanced functionalities are not completely accessible on mobile devices. Basic functions, such as viewing and modifying sheets, can still be performed on mobile devices.",
+      "role": "Project Manager",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/smartsheet/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "it is unfortunate that several advanced functionalities are not completely accessible on mobile devices"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "9332948",
+      "date": "2/23/2024",
+      "rating": 4.5,
+      "title": "Smartsheet is a smart way to manage our Projects and Workflow",
+      "text": "With Smartsheet, we combine the greatest features of project management software and spreadsheet. It provides ease of use into one platform for collaboration and project management. We produce and manage many types of work with Smartsheet, including company portfolios and personal projects. Because users must trust a third-party supplier to keep and manage their data in the cloud, Smartsheet raises some security and privacy issues.",
+      "role": "Rakesh J.",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/smartsheet/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Smartsheet raises some security and privacy issues"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "9333509",
+      "date": "2/23/2024",
+      "rating": 4.5,
+      "title": "Effective Poject and Workflow Management with Smartsheet",
+      "text": "Smartsheet continuously innovates and enhances its platform in response to market changes and customer input. Also, it has a committed team of customer care representatives that are reachable by phone, email, and chat around-the-clock. We need to use other tools and extensions to customize the platform to our own requirements and tastes, Smartsheet has certain customization and integration issues.",
+      "role": "Amir P.",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/smartsheet/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Smartsheet has certain customization and integration issues"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "29157",
+      "date": "11/7/2014",
+      "rating": 5.0,
+      "title": "Excellent Tool - Very Collaborative",
+      "text": "I like that I can publish my different sheets out via a hyperlink as 'read only' . I can then use these links in my status reports etc for the most updated information. As soon as I update information it is out there for my user base to see. Also like that I can quickly download the information should I need an actual excel sheet. I also appreciate the variety of templates that are out there, it gives me a quick place to start so I don't have to reinvent the wheel. Other features I really like: \\\\* Move rows around quickly - drag and drop \\\\* Formatting is pretty good \\\\* There is ability to have others edit the documents, add attachments, add forms to enter data \\\\* Organize sheets by a grouping or set of users \\\\* visibility on mobile 1\\. One thing I'd really like to see is being able to use more complex calculations in Smartsheet like with excel. Perhaps there is a way to do it and I am not certain. 2\\. I'd really like a quick training on how to use this better at an enterprise level, I have not asked for this, but I am getting close as this tool is very helpful. I'd love a demo.",
+      "role": "Information Technology and Services",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/smartsheet/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "this tool is very helpful"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "45269",
+      "date": "5/27/2015",
+      "rating": 5.0,
+      "title": "SmartSheet - A Great Tool For Your Inner Project Manager",
+      "text": "I use SmartSheet when I need to manage a development project for one of our clients. My favorite feature of this cloud based tool is the ability to populate a sheet with development tasks, milestones deliverable dates and projected timelines AND publish a read-only version that is client facing. Our clients are able to review the read only version in three different ways: 1) Spreadsheet view, 2) Gant Chartt Chart view and 3) Calendar view. Our clients are review the development plan and progress when they have the time. This enables us to use meeting time in a more productive manner, rather than spending a lot of time reporting on project status. SmartSheet facilitates discussions linked to specific entries, which can include images or attached files. I like this feature because it enables us to hold productive meetings because all stakeholders, included users and developers participate in the virtual discussions prior to our regularly scheduled meetings. SmartSheet is very customizable. I make use of color formatting which is based on the state of the listing. I am able to quickly see those items that are at risk or behind schedule. The export feature enables users to export a SmartSheet project plan to Excel. Earlier iterations of this feature were not impressive, but the current export functionality works great and I use it all the time. The fact that a creator is able to invite an unlimited number of collaborators is a big plus. The type of subscription used determines who can create - but collaborators make my job easier. SmartSheet provides some templates. I have found that I am very comfortable not using a template when working in SmartSheet - It's that easy to use. I would like a more intuitive way to roll up task hours to parent rows. Currently, this task is not difficult, but adding entries can trip you up if you are not careful. I would also like a more intuitive method with which to set the hierarchical tasks and lag time between tasks.",
+      "role": "Computer Software",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/smartsheet/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "enables us to use meeting time in a more productive manner, rather than spending a lot of time reporting on project status",
+        "resonance_evidence": "My favorite feature of this cloud based tool is the ability to populate a sheet with development tasks, milestones deliverable dates and projected timelines AND publish a read-only version that is client facing"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "1681443",
+      "date": "2/7/2019",
+      "rating": 5.0,
+      "title": "Smartsheet is a great realtime spreadsheet tool that is far more convenient to excel.",
+      "text": "I like the real-time edit capabilities the ability to edit while other people are in the same sheet. There isn't really anything I dislike about it.",
+      "role": "Verified User in Education Management",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/smartsheet/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "I like the real-time edit capabilities the ability to edit while other people are in the same sheet"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "1910178",
+      "date": "3/11/2019",
+      "rating": 5.0,
+      "title": "Better than Project!",
+      "text": "Way easier to use than Microsoft Project - the cloud based allows access remotely for clients/PMs/etc. Very collaborative and as robust as you need it to be. The pricing used to be better, now it's a bit confusing and more expensive for smaller projects.",
+      "role": "Verified User in Marketing and Advertising",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/smartsheet/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "The pricing used to be better, now it's a bit confusing and more expensive for smaller projects"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "1768836",
+      "date": "2/14/2019",
+      "rating": 5.0,
+      "title": "work smarter",
+      "text": "at a glance ability to determine work load/task and project completion challenging to get others trained an onboard to switch from other products. The learning curve is an issue getting team members trained across the board at the same time.",
+      "role": "Verified User in Music",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/smartsheet/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "challenging to get others trained an onboard to switch from other products. The learning curve is an issue getting team members trained across the board at the same time"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "1602791",
+      "date": "1/18/2019",
+      "rating": 5.0,
+      "title": "The best app for your business management that helps you to arrange every inch of your work easily.",
+      "text": "Thea easy of usage and the smooth UI and UX that has alot of functions better than others. The price comparing to other software in the market is little high and there is no discount or support for the startups.",
+      "role": "SPSA",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/smartsheet/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "The price comparing to other software in the market is little high and there is no discount or support for the startups"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "2032060",
+      "date": "4/1/2019",
+      "rating": 5.0,
+      "title": "business analyst",
+      "text": "i love how organized the sheet is, with icons for priority as an example. another example is the status option if you visually look at the sheet sometimes it can get overwhelming with all of the information that can be presented on one sheet",
+      "role": "Verified User in Banking",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/smartsheet/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "sometimes it can get overwhelming with all of the information that can be presented on one sheet"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "2065732",
+      "date": "4/8/2019",
+      "rating": 5.0,
+      "title": "Easy organization!",
+      "text": "What I like best about smartsheet is that you can create several sheets with as many details added to helping your company keep things well organized. At firs I was a little hesitant to use as I am not a fan of excel, but this is WAY better! I can set myself to get email notifications when something is updated or reminders and can add columns needed to help me know where a project stands. We share our sheet with our sub contractors and we wouldn't be so efficient without it! I do not think I have found something too big in disliking because it has worked well for me. I would only say that it is minimized in the number of admins you can have, but not a bid deal at all. The notifications as well could use a bit more details such as who it was posted by and exactly what column was updated (still overall I have set settings to highlight what column was updated)",
+      "role": "Verified User in Utilities",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/smartsheet/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "We share our sheet with our sub contractors and we wouldn't be so efficient without it!"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "2037684",
+      "date": "4/2/2019",
+      "rating": 5.0,
+      "title": "You will drink the Smartsheet koolaid and love it!",
+      "text": "SmartSheet is like a cross between Excel, MS Project, Survey Monkey, SharePoint and Outlook. You are only limited by your imagination as to design and flexibility. The return on investment is crazy. I originally used it for one performance system project that would take 3 full days to prepare. Using SmartSheet, I can now do the same process in 4 hours start to finish with better accuracy and more reports including dashboards for real time data visualization and sharing with unlimited partners. Formal training is a little costly - and it is cloud based so there are connectivity issues on occasion.",
+      "role": null,
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/smartsheet/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "I originally used it for one performance system project that would take 3 full days to prepare. Using SmartSheet, I can now do the same process in 4 hours start to finish",
+        "resonance_evidence": "The return on investment is crazy"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "2001826",
+      "date": "10/24/2019",
+      "rating": 5.0,
+      "title": "Great Tool with more to learn",
+      "text": "I love being able to create sheets that talk to each other and create dashboards that create a snapshot of all information that I need, I don't like how you can only work mostly vertical and its hard to work horizontally. I have to do some work in google sheet or excel and wish I could do it all in smartsheet.",
+      "role": "Verified User in Events Services",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/smartsheet/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "I love being able to create sheets that talk to each other and create dashboards that create a snapshot of all information that I need, I don't like how you can only work mostly vertical"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "2660866",
+      "date": "7/3/2019",
+      "rating": 5.0,
+      "title": "Smartsheet - Collaborate like a pro!",
+      "text": "Smartsheet is an online collaboration tool that can be used in many ways, from creating functional spreadsheets to project planning and more. My team mainly uses the spreadsheet function. We used it to keep track of the applicant tracking process as we are recruiting and onboarding new employees, as well as onboarding new clients. It is so easy to use and learn. I love that we can create forms that populate the spreadsheets and that it is so easy to share with others. There is not much I dislike about Smartsheet. If there is ever a time that I don't know how to do something, their support platform has the answer. It is a very easy-to-learn platform. Maybe I can say I dislike the fact that there is so much you can do on the platform, that I wish I had the time to learn all of its functionality. I'm sure I'm missing out!",
+      "role": "Education Management",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/smartsheet/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "It is so easy to use and learn. I love that we can create forms that populate the spreadsheets and that it is so easy to share with others. There is not much I dislike about Smartsheet."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "44407",
+      "date": "5/20/2015",
+      "rating": 0.0,
+      "title": "Terrible Customer Service, Performance and Technical Assistance",
+      "text": "I thought I would like the Google Sheets add-on using Smartsheet, but was quickly mistaken. I have experienced the worst customer service and subscription experience with this company. My 30-day trial was excellent and I had high hopes for working with them. Once I paid for a year subscription, I began to have issues with my account. I attempted to contact their development team for assistance and quickly learned they are completely unreachable by phone, the company has no customer service department and any communication would need to be electronic. Since I am EST and they are PST, all communications took a full business day between email exchanges. When I called to talk to them (a sales rep attempted to help me with my customer service issue) I was told I couldn't speak with the technical support. When my tech support person, Shaine, did email me, he gave me information to cancel my account and told me I would need to record my screen and send it to them, which is not a capability I have. I have struggled with this program not working for close to two weeks and the best this company could offer was account cancellation information and requesting a screen recording. I would NOT recommend this company to anyone -- business or individual.",
+      "role": "Verified User in Building Materials",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/smartsheet/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I would NOT recommend this company to anyone -- business or individual."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "164714",
+      "date": "8/15/2016",
+      "rating": 0.0,
+      "title": "Overprices for the services that make this product useful",
+      "text": "Buyer beware...man these guys boost about having 80,000 users?! For the cost they charge to actually use and benefit from their service you could create your own functioning excel sheets or web based platform. This is just a note for those who don't enjoy being robbed or overpaying for a service from a fly-by-night company. The cost and breakdown of the 3 options...they need to do a better job at making their better services available for companies that do no want a horde of members.",
+      "role": "Verified User in Insurance",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/smartsheet/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Buyer beware...man these guys boost about having 80,000 users?! For the cost they charge to actually use and benefit from their service you could create your own functioning excel sheets or web based platform."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "1765156",
+      "date": "2/14/2019",
+      "rating": 0.0,
+      "title": "No Customer Support",
+      "text": "Their platform is a worse version of keeping an excel spreadsheet online but their conditional formatting is lacking especially if you are using the dashboard features. Everything. Conditional formatting limited, dashboards unimaginative and lacking. A major concern is if you need customer service, you will NEVER get someone on the phone or even an email rebuttal. The automated email when you message support sends two links the help center and community for generic responses.",
+      "role": "Operations",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/smartsheet/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Their platform is a worse version of keeping an excel spreadsheet online but their conditional formatting is lacking especially if you are using the dashboard features."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "237397",
+      "date": "2/1/2017",
+      "rating": 0.0,
+      "title": "Not intuitive, spreadsheets are better.",
+      "text": "The tools are nice but a lot of it replicates what Google SpreadSheet or Microsoft Excel does. The UI and UX is horrible. Not much different than just using another Spreadsheet program.",
+      "role": "Verified User in Computer Software",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/smartsheet/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "The tools are nice but a lot of it replicates what Google SpreadSheet or Microsoft Excel does. The UI and UX is horrible."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "3418576",
+      "date": "10/15/2019",
+      "rating": 0.0,
+      "title": "Most confusing program ever.",
+      "text": "You are able to save multiple files into one folder for a group to review. Because of this though it makes navigating through the different files very difficult and time consuming. It is very disorganized. It is hard to find a file in the mist of many files. It is also difficult to find certain information within the file.",
+      "role": "Verified User in Architecture & Planning",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/smartsheet/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Because of this though it makes navigating through the different files very difficult and time consuming. It is very disorganized."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "3661603",
+      "date": "11/14/2019",
+      "rating": 0.0,
+      "title": "Too hard to use",
+      "text": "Visual representation of project completion Projects could not be easily outlined in the sheet, format was too rigid for different applications",
+      "role": "Verified User in Biotechnology",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/smartsheet/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "Visual representation of project completion",
+        "resonance_evidence": "Projects could not be easily outlined in the sheet, format was too rigid for different applications"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "10315032",
+      "date": "9/27/2024",
+      "rating": 0.0,
+      "title": "Confusing platform and lacks intuitive planning",
+      "text": "The reminder features and file attachment No intercommunicating sheets on each file. There is no way for the platform to read the uploaded documents to gather information.",
+      "role": "Verified User in Hospital & Health Care",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/smartsheet/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "There is no way for the platform to read the uploaded documents to gather information."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "10276664",
+      "date": "9/18/2024",
+      "rating": 0.0,
+      "title": "Smartsheet leaves quite a bit more to be desired.",
+      "text": "This provides the whole company with insight of how any one project is going. There's quite a bit to dislike about smartsheet. The endless scroll-bars and divided tasks allow you to micro-manage every little part of the project at hand. It is not easy to navigate though and finding other projects that you need to work on, if they are not bookmarked or added to your favourites, can be a cumbersome task. This is something our team strives to use every day but I'm hard pressed to use it more than once a week even on a single project. If I leave it on a single page I can navigate it easily enough. It's been difficult to integrate with between different parts of our company. I find it's very fumbly and clunky and not a great tool at all. Other previous tools used fit the bill much better but it was part of a company wide integration project. I have yet to deal with customer support but I'm not optimistic of how it would work out.",
+      "role": "Verified User in Oil & Energy",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/smartsheet/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I find it's very fumbly and clunky and not a great tool at all."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "10811158",
+      "date": "2/7/2025",
+      "rating": 0.0,
+      "title": "I was a massive Smartsheet advocate, but recent changes have meant that I no option but to move away",
+      "text": "Nothing left to say. The software is great but recent changes have pushed it out of reach of most small businesses. We have used smartsheet for years but the recent changes to the subscription model have killed it as a viable option for our SME. It is clear that the company is not interested in the smaller customers and have moved towards enterprises. In addition, the system will only support MFA on the higher tiers of subscription, which also kills it as a viable option. In summary, to continue using the software under the new subscription model and comply with our cyber essentials plus certification, our annual cost is set to increase ten-fold, which I predict is only going to hurt Smartsheet a much as it does its customers",
+      "role": "Verified User in Manufacturing",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/smartsheet/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "our annual cost is set to increase ten-fold",
+        "resonance_evidence": "The software is great but recent changes have pushed it out of reach of most small businesses."
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "June 5, 2026",
+      "rating": null,
+      "title": null,
+      "text": "Smartsheet supports a wide range of use cases, from workflow automation and reporting to governance, compliance, project management, and client-facing solutions.",
+      "role": "Group Technology Director",
+      "company_size": "1,001-5,000 employees",
+      "source_url": "https://www.capterra.com/p/79104/Smartsheet/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Smartsheet supports a wide range of use cases, from workflow automation and reporting to governance, compliance, project management, and client-facing solutions."
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "July 12, 2026",
+      "rating": null,
+      "title": null,
+      "text": "You can't just click on a random cell and type a formula; it forces you to apply formulas to entire columns. Plus, referencing data across different sheets requires a bunch of extra, tedious steps.",
+      "role": "HUMAN RELATIONSAlternative Dispute Resolution, 11 - 50 employees",
+      "company_size": "11-50 employees",
+      "source_url": "https://www.capterra.com/p/79104/Smartsheet/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "You can't just click on a random cell and type a formula; it forces you to apply formulas to entire columns."
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "June 22, 2026",
+      "rating": null,
+      "title": null,
+      "text": "I used it for project tracking, surveys, dashboards, and automations, and it gave me a flexible way to organize a lot of different work in one place.",
+      "role": "COORetail, 51 - 200 employees",
+      "company_size": "51-200 employees",
+      "source_url": "https://www.capterra.com/p/79104/Smartsheet/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "it gave me a flexible way to organize a lot of different work in one place."
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "July 19, 2026",
+      "rating": null,
+      "title": null,
+      "text": "Smartsheet has a few frustrating elements when it comes to collaborations. If different team members have different license levels it can complicate things if you\u2019re trying to create smartsheets collaboratively.",
+      "role": "Owner",
+      "company_size": "2-10 employees",
+      "source_url": "https://www.capterra.com/p/79104/Smartsheet/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Smartsheet has a few frustrating elements when it comes to collaborations."
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "May 19, 2026",
+      "rating": null,
+      "title": null,
+      "text": "I like that Smartsheet supports different ways of managing work, including task tracking, automated alerts, shared sheets, dashboards, and project timelines.",
+      "role": "Virtual ASsistant",
+      "company_size": "2-10 employees",
+      "source_url": "https://www.capterra.com/p/79104/Smartsheet/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "I like that Smartsheet supports different ways of managing work, including task tracking, automated alerts, shared sheets, dashboards, and project timelines."
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "July 12, 2026",
+      "rating": null,
+      "title": null,
+      "text": "The free version is incredibly limited, and once you start needing better reporting or want to add collaborators who can actually edit things, the subscription costs add up fast.",
+      "role": "HUMAN RELATIONSAlternative Dispute Resolution, 11 - 50 employees",
+      "company_size": "11-50 employees",
+      "source_url": "https://www.capterra.com/p/79104/Smartsheet/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "The free version is incredibly limited, and once you start needing better reporting or want to add collaborators who can actually edit things, the subscription costs add up fast."
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "May 9, 2026",
+      "rating": null,
+      "title": null,
+      "text": "Features like automatic requests, updates, alerts, and moving information between sheets help cut down on a lot of manual administrative work and save time.",
+      "role": "Advocate",
+      "company_size": "2-10 employees",
+      "source_url": "https://www.capterra.com/p/79104/Smartsheet/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "help cut down on a lot of manual administrative work and save time",
+        "resonance_evidence": "Features like automatic requests, updates, alerts, and moving information between sheets help cut down on a lot of manual administrative work and save time."
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "May 1, 2026",
+      "rating": null,
+      "title": null,
+      "text": "The biggest downside of Smartsheet is that it can feel complex and not very intuitive, especially when building advanced workflows or dashboards.",
+      "role": "Permit Technician",
+      "company_size": "2-10 employees",
+      "source_url": "https://www.capterra.com/p/79104/Smartsheet/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "The biggest downside of Smartsheet is that it can feel complex and not very intuitive, especially when building advanced workflows or dashboards."
+      }
+    },
+    {
+      "portal": "Gartner Peer Insights",
+      "review_id": null,
+      "date": "Mar 11, 2026",
+      "rating": 5.0,
+      "title": "Amazing product that makes processes more efficient with automation replacing manual work. Excited to see future improvements.",
+      "text": null,
+      "body_gated": true,
+      "role": "Manager, Project Management",
+      "company_size": "250M - 500M USD, Real Estate",
+      "sentiment_label": "FAVORABLE",
+      "source_url": "https://www.gartner.com/reviews/product/smartsheet",
+      "sample_order": "page"
+    },
+    {
+      "portal": "Gartner Peer Insights",
+      "review_id": null,
+      "date": "Jun 2, 2026",
+      "rating": 3.0,
+      "title": "Spreadsheet Layout Facilitates Project Outlining But Limits Task Execution Capabilities",
+      "text": null,
+      "body_gated": true,
+      "role": "It Associate",
+      "company_size": "3B - 10B USD, Consumer Goods",
+      "sentiment_label": "CRITICAL",
+      "source_url": "https://www.gartner.com/reviews/product/smartsheet",
+      "sample_order": "page"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-27",
+      "rating": 2,
+      "title": "I wish I could give a better review as\u2026",
+      "text": "I wish I could give a better review as the software itself is a blessing but their support is truly some of the worst and least professionally managed one's I've every experienced at their level. As a long-term paying customer, I've had support requesting sitting unassigned for about two months and going. I've been \"redirected to the chat queue\" and nothing. Software I really like but their responsiveness is awful and features requested go untouched while paid apps get popped out.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I wish I could give a better review as the software itself is a blessing but their support is truly some of the worst and least professionally managed one's I've every experienced at their level."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-29",
+      "rating": 2,
+      "title": "Terrible tech/customer support",
+      "text": "It's unbelievable how terrible their tech/customer support is. The system has been good for our business when it works, but god forbid something goes wrong because you'll be waiting at least a month to try and get support and even then they hardly fix the problem.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "It's unbelievable how terrible their tech/customer support is."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-26",
+      "rating": 1,
+      "title": "Customer Service? Nope!",
+      "text": "Customer Service? Nope! I have been trying for months to get their help to switch over to my new email address, switched companies but I brought SmartSheet with me as I used it daily and have been for close to a decade. For months I have just been asking for their help to get the emails switched over. There are only two of us here and neither of us can get it to work, but they are charging me for 3 people. There used to be a phone number and an email address for help, now it's an ordeal to find the email address and it's impossible to find a phone number. Well, you can call 844-324-2360 but it will tell you not to leave a message about service as they don't monitor the voicemail there.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Customer Service? Nope!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-20",
+      "rating": 1,
+      "title": "Hands down the worst company in the\u2026",
+      "text": "Hands down the worst company in the world for tech support. They will literally charge you $78 a month and then tell you if you are having a technical issue (system glitch) you have to pay an additional $12 per month just to get someone on the phone. All other support options are trash. Its so bad I am going out of my way just write a review on here to warn people that if you expect any kind of support at all from them to look elsewhere for better options. I will never recommend this company to anyone ever again and in fact I am going to go above and beyond to steer people away from this horrible company.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "They will literally charge you $78 a month and then tell you if you are having a technical issue (system glitch) you have to pay an additional $12 per month",
+        "resonance_evidence": "I will never recommend this company to anyone ever again and in fact I am going to go above and beyond to steer people away from this horrible company."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-02",
+      "rating": 1,
+      "title": "Very poor",
+      "text": "I set up smart sheet. Contacted and received a call from a sales team. They said I could upgrade on line or an account manager would do it. He did but didn't set up in Europe on my email address but in USA!!! I have been trying to sort this for weeks. They have admitted their fault but still not put it right! They have \u00a3600 of my money and I can't use it!!!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "They have \u00a3600 of my money and I can't use it!!!",
+        "resonance_evidence": "I have been trying to sort this for weeks. They have admitted their fault but still not put it right!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-02",
+      "rating": 1,
+      "title": "Poor product and customer service",
+      "text": "I am using the Smartsheet for one of my large program (3k+ lines). The product lacks basic features like version recovery and support is pretty much non-existent. Their chat does not work (goes blank) and they ask you to log a Support ticket from a page where there is no way to open an incident. When you call the helpline, you are expected to talk to a bot which tell you about features that does not exist in the product. I was asked to click a 'restore version' button that does not exist. Finally I had to do a manual line by line restore to fix my Smartsheet which took hours on top of the time I spent chasing their support. I highly recommend that you avoid this company.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "I had to do a manual line by line restore to fix my Smartsheet which took hours",
+        "resonance_evidence": "I highly recommend that you avoid this company."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-16",
+      "rating": 1,
+      "title": "Cumbersome",
+      "text": "Cumbersome, not user-friendly, and just messy way to manage cross-functional, multi-campaign projects. I wish my team stayed with Asana. I'd have better Project Management on Microsoft Word. At least I can search.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I wish my team stayed with Asana. I'd have better Project Management on Microsoft Word."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-15",
+      "rating": 1,
+      "title": "Avoid this company like the plague",
+      "text": "Avoid this company like the plague. There are way more simple and cost efficient collaboration tools available and their customer serivce is dreadful - slow, inefficient, do not listen you, read from a script and anything you require outside of a straighline is not possible.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Avoid this company like the plague."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-10",
+      "rating": 1,
+      "title": "Poor Support for a Business-Critical Platform",
+      "text": "Smartsheet support has been an absolute failure. I opened a support case on April 10, 2026 for a basic account/admin issue: releasing or changing my primary email address after Smartsheet\u2019s own UI change removed the ability to handle this properly through the Admin Center. As of April 28, 2026, that case still shows as Unassigned. Not delayed. Not escalated. Not being worked on. Unassigned. Nearly three weeks later, nobody has even taken ownership of the ticket. We are paying over $500 per month for this platform, and this is the level of service? A business-critical account issue sits untouched for almost three weeks? The platform itself can be useful, but that means very little when the support structure behind it is this broken. If you run into anything involving account ownership, email conflicts, permissions, admin access, billing, or login issues, you may find yourself completely stuck with no practical way to get help from an actual human being. The support portal is frustrating, the chatbot is useless for anything beyond canned responses, and escalation appears to be nonexistent unless you somehow find another way around their normal support process. This is not a minor inconvenience. Smartsheet sells itself as business software for teams and operations. Businesses depend on these systems to run active workflows, reporting, and administrative processes. Leaving a paying customer\u2019s support case untouched and unassigned for nearly three weeks is unacceptable. All I needed was for my email/account issue to be resolved after Smartsheet changed the UI and took away the ability to manage it ourselves. Instead, I am left staring at an open case that nobody at Smartsheet has even bothered to assign. For the cost of this software, the lack of support is honestly shocking. Until Smartsheet provides real human support, clear escalation paths, and timely handling of account/admin issues, I cannot recommend this platform to any business that expects dependable service af",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "Nearly three weeks later, nobody has even taken ownership of the ticket.",
+        "resonance_evidence": "Smartsheet support has been an absolute failure."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-07",
+      "rating": 1,
+      "title": "Buyer Beware. Make sure the integration occurs and is useable before you pay.",
+      "text": "We had several calls/meetings to discuss our needs and shared the Excel spreadsheet we were using to track all of our projects. We were told by our initial contact that we would be able to integrate our spreadsheet data with Smartsheet. Once we paid for the year and had access to Smartsheet, the integration was not seamless and essentially did not work. What we were sold we did not receive. We contacted customer service and expressed our dissatisfaction. They first wanted to make sure that we paid, which we had, and then they let us know that they would cancel the renewal a year from now. How nice. Once they got their money (for the year) they could truly care less (as evidenced by the correspondence over this issue) if we were able to use Smartsheet or that what we were told of its capabilities and ability to integrate our data, were actually true. One of the worst customer service experiences in a long time.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "Once we paid for the year and had access to Smartsheet, the integration was not seamless and essentially did not work.",
+        "resonance_evidence": "One of the worst customer service experiences in a long time."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-04",
+      "rating": 1,
+      "title": "Smartsheet refuse to cancel my account\u2026",
+      "text": "Smartsheet refuse to cancel my account and have for the last three months taken unauthorised payments from my bank account Please read online reviews on how poor they value their reputation over finance",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "for the last three months taken unauthorised payments from my bank account",
+        "resonance_evidence": "Smartsheet refuse to cancel my account"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-03-03",
+      "rating": 1,
+      "title": "Smartsheet now a poor platform for serious developers",
+      "text": "I created some advanced applications in Smartsheet a couple of years ago. SS has great functionality (plus some glaring weaknesses) but at least it had good support back then. Having recently resubscribed I am unable to access my old sheets and reports etc and Support simply ignores my many requests for assistance. Plus, they recently changed the billing method so that every user pays which makes it very expensive. Plus, they require a minimum of 3 seats on the Business plan which means that I would have to pay $1000 per year when I am the only developer. In short, do not buy Smartsheet. It's now an unreliable platform and too expensive.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "I would have to pay $1000 per year when I am the only developer.",
+        "resonance_evidence": "do not buy Smartsheet. It's now an unreliable platform and too expensive."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-02-27",
+      "rating": 1,
+      "title": "AVOID AT ALL COSTS",
+      "text": "If you know what is good for you and your business/the company you work for, you would stay far, FAR away from Smartsheet's. It has taken 6 weeks now....yes, 6 WEEKS, to attempt to accomplish a VERY simple task - switching from an annual plan to a monthly paid plan with them. Minimum 1+ weeks in between responses from them. They will continue to resend you the same transition instructions and not read your emails listing details and screenshots showing why those instructions are not working for us. They will bounce you around to various support 'specialists', all while none of them understand a single thing about the company they work for. And apparently, helping a customer switch from an annual paid plan to a monthly paid plan is the hardest task ever, and so far, 5 people have not been able to help us resolve the problems that THEIR SYSTEM keeps blocking us on.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "It has taken 6 weeks now....yes, 6 WEEKS, to attempt to accomplish a VERY simple task - switching from an annual plan to a monthly paid plan",
+        "resonance_evidence": "If you know what is good for you and your business/the company you work for, you would stay far, FAR away from Smartsheet's."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-02-25",
+      "rating": 1,
+      "title": "It's good but expensive for what it is",
+      "text": "It's good but expensive for what it is. Google Docs comes close for free. I pay \u00a3650 a year, and for that I would expect some support. Phone support is extra, and hundreds more. I only need support once a year, if that. The only support apart from AI and community, which never works, is a ticket system, and they get back to you in a week with an article that doesn't fix the issue. The current issue is that the backups have stopped working",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "It's good but expensive for what it is"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-02-12",
+      "rating": 1,
+      "title": "Nul, z\u00e9ro, impossible de les contacter en cas de probl\u00e8me",
+      "text": "Nul, z\u00e9ro rien \u00e0 dire de plus. Apr\u00e8s renouvellement de mon abonnement Pro, mes fichiers ne sont plus accessibles et il est impossible de contacter Smartsheet pour r\u00e9gler le probleme. Tout est fait pour que vous ne puissiez pas les contacter. Une honte.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Nul, z\u00e9ro rien \u00e0 dire de plus"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-02-06",
+      "rating": 1,
+      "title": "Stay away from Smartsheet",
+      "text": "Be extremely cautious before committing to Smartsheet. Their current pricing model is inflexible and punitive, designed to lock customers in and discourage change. Discounts disappear the moment anything is adjusted. Support staff were dismissive and arrogant, showing little care for customer impact. There are plenty of competing tools that don\u2019t operate like this. Do yourself a favour and stay away.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Be extremely cautious before committing to Smartsheet"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-02-06",
+      "rating": 1,
+      "title": "Not Worth the Cost or the Attitude",
+      "text": "Smartsheet changed their subscription model and turned pricing into a penalty system. You\u2019re forced to pay for users you don\u2019t need, and the moment you make even a minor change to your subscription they strip away discounts. Normal business flexibility is treated like a breach of contract. This doesn\u2019t feel like a customer-first SaaS company anymore \u2014 it feels deliberately designed to lock customers in and extract more money. For a product that\u2019s already fairly average, this pricing approach is the final straw. I\u2019d strongly suggest looking at alternatives.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-01-23",
+      "rating": 1,
+      "title": "They would not let a Not for Profit organisation cancel their subscription of $5,000!",
+      "text": "We have been using Smartsheet for 3 years and it was funded through a grant we had, as we are a Not for Profit organisation. The grant finished and I went to cancel our Smartsheet subscription, but they told me I couldn't and that we had to pay the next yearly fee which is about $5,000.... as I was meant to notify them 30 day prior to the cancellation date. I only received one email about this, reminding me. But as I receive a lot of emails from them with other sales information, I don't read their emails all the time. To not show any remorse or courtesy for a Not for Profit is sad and now this will be impacting our orgnisation moving forward. I would not recommend this service.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "we had to pay the next yearly fee which is about $5,000",
+        "resonance_evidence": "I would not recommend this service"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-01-15",
+      "rating": 1,
+      "title": "Worst experience ever",
+      "text": "I was a pro business account! This company was one of the best I ever used, but WOW the support is horrendous as in no support unless your paying 1000.00 a month. Do not use this software",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Do not use this software"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-01-08",
+      "rating": 1,
+      "title": "Save a step and choose a different platform.",
+      "text": "The first time I used Smartsheet it was with an external vendor and the collaboration was fantastic! That was before the licensing model changes that happened in 2025. Now collaboration is more difficult and more expensive. Customer support is not great, as everything starts with an AI agent. Unable to get around it, multiple tickets were incorrect and needed to be recreated. On hold times of more than an hour the last 3 times I have called before I gave up and requested a call back. I have yet to get a call back from support. The worst part of the platform is the behind the scene changes that broke our instance. We spent months tracking and troubleshooting internally only to find that Smartsheet had changed something that they won't disclose. We got that issue resolved, but more have happened since then. We are presently looking to migrate to a new system before contract renewal.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "We spent months tracking and troubleshooting internally",
+        "resonance_evidence": "We are presently looking to migrate to a new system before contract renewal"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-12-16",
+      "rating": 1,
+      "title": "I have reported spam emails from this\u2026",
+      "text": "I have reported spam emails from this scam company for months. I have repeatedly asked to be taken off their mailing list, but I still get weekly emails.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I have reported spam emails from this scam company"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-11-11",
+      "rating": 1,
+      "title": "I'd agree with other reviewers",
+      "text": "I'd agree with other reviewers. Interface is great for simple pm and easy comms with stakeholders but basics such as account set up, inviting partners to join / administrate and the simple day to day thinks are horrendous - massive saving lags means never being certain if / when updates are saved. Invited team members don't receive invites. Added members dont show in dashboard... and on and on and on. AVOID",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "AVOID"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-10-14",
+      "rating": 1,
+      "title": "Smartsheet is worthless, prone to errors that not even their own techs can fix.",
+      "text": "Smartsheet is, without a doubt, THE worst company we have ever worked with. The only reason I didn't give this a zero is that the review made me choose one or more stars. The customer service is worthless. They insist they have solved a problem and close the case without ever truly listening to the problem and solving it effectively. You can't ever get a hold of an actual person who will take accountability of the service request. We cannot even reach our salesperson without a week+ wait. Save your time, money, and sanity by avoiding this company at all costs!!!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Smartsheet is, without a doubt, THE worst company we have ever worked with"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-10-06",
+      "rating": 2,
+      "title": "Task management",
+      "text": "I've been using Smartsheet a long time for project management tasks. I like the UI but the product needs serious improvement on task management on how it manages predecessors, durations and start and finish times. I've provided feedback in the past but never seen any improvement. The big obstacle now is that it lets you use enter hour durations but then rounds it up to a whole day! So on a Tech project that's fine until you get to the cutover when you need to work in hours",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "it lets you use enter hour durations but then rounds it up to a whole day",
+        "resonance_evidence": "The big obstacle now is that it lets you use enter hour durations but then rounds it up to a whole day!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-10-01",
+      "rating": 1,
+      "title": "Horrible customer service.",
+      "text": "Horrible customer service.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-09-24",
+      "rating": 1,
+      "title": "Worst CS in the industry.",
+      "text": "Worst CS in the industry. Smartsheet can decide if they want more money from you whenever they feel like it, giving zero to minimal heads up, and you will find out about it after they charged you, holding your money with no refund policy, basically holding you (your money) hostage, with nobody to talk too, ignoring you completely. Borderline criminal. Stay away, it's not like the product if best in class or anything.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Borderline criminal. Stay away"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-08-28",
+      "rating": 1,
+      "title": "Pricing and Permissions",
+      "text": "Pricing and Permissions. Smartsheet is a great product, but the new pricing tied to changing permissions levels is damaging how teams use it. I use Smartsheet myself, introduce it to businesses, and train teams to get value from it. Now I see clients rationing access, cutting back edit rights, and becoming more limited in how they share\u2014all to avoid costs ... and unexpected costs. Not good for a collaborative tool!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "lukewarm",
+        "results_evidence": "I see clients rationing access, cutting back edit rights, and becoming more limited in how they share\u2014all to avoid costs",
+        "resonance_evidence": "Smartsheet is a great product, but the new pricing tied to changing permissions levels is damaging how teams use it"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-08-23",
+      "rating": 1,
+      "title": "If you click \"Unsubscribe\" it gives you\u2026",
+      "text": "If you click \"Unsubscribe\" it gives you a message stating that it may take 10 days to take effect ..... 3 months later, and still near-daily spam to people who don't want the emails. If you want to annoy (and ultimately lose) customers, then sign up for this company! The 1.4 star rating makes sense now.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "it may take 10 days to take effect ..... 3 months later, and still near-daily spam",
+        "resonance_evidence": "If you want to annoy (and ultimately lose) customers, then sign up for this company!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-07-07",
+      "rating": 1,
+      "title": "This company scammed me",
+      "text": "This company scammed me. Beware. I got a \"free photoshoot\" email from Uber, clicked on the link, which brought me to Smartshoot's website. I typed in my CC details (I assumed in case I wanted extra editing on the photos or something) and then they ended up charging me $125 after the shoot for no reason. Hours on the phone with the company, and they won't do anything about it. They offer no explanation. So bizarre. Hopefully you've done your research if you're looking on here. Do not use them. Happy to answer more questions about this. You can find me by searching my name.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "they ended up charging me $125 after the shoot for no reason",
+        "resonance_evidence": "This company scammed me. Beware."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-07-04",
+      "rating": 1,
+      "title": "Would rate it 0/5 if I could",
+      "text": "Would rate it 0/5 if I could. 0 support. Our account executive changed 3 times in the span of 6 months without us being told, we had to discover it everytime by emailing our old account executive, getting no answer, reaching out to other contacts in SmartSheet and then we would learn about the change. We were promised some rebates when they changed the billing model, never got them. Renewal management is a pain in the ass to deal with. They just seem very dishonest. As soon as you sign with them do not expect any type of support except for being sold more product.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "Our account executive changed 3 times in the span of 6 months without us being told",
+        "resonance_evidence": "Would rate it 0/5 if I could. 0 support."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-06-20",
+      "rating": 1,
+      "title": "worst company on the planet",
+      "text": "worst company on the planet - no actual sheet that works properly and no support whatsoever. article that talk about sheets and have no actual use.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "worst company on the planet"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-06-19",
+      "rating": 1,
+      "title": "worst support in the universe !",
+      "text": "A great tool, totally let down by zero support ! long term 10 year+ customer, nearly 2 x weeks with no resolution. don't recommend at all if you ever need support, look elsewhere !",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "nearly 2 x weeks with no resolution",
+        "resonance_evidence": "don't recommend at all"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-06-06",
+      "rating": 1,
+      "title": "Say they close your account but charge you again",
+      "text": "I have written to shut down my account twice, and they say it is solved, but then I am charged again. This is a scam company.-",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "This is a scam company"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-06-02",
+      "rating": 1,
+      "title": "Started well, but locks you in and gives you a worse product",
+      "text": "Initially enjoyed Smartsheet for its automation features and ability to collaborate easier with external contractors and new vendors. Over time, they made these features more expensive and barely improved their software. This year, when asked to reduce the number of users on contract due to redundancies in my team, they locked us into the previous year's contract, citing a \"Negative Option\" rule already outlawed by the FCC in the USA. This is unethical and not only that, they tried to INCREASE the number of users secretly whilst also charging more per user. This cost us 5K but I have learned and we will never be going back.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "This cost us 5K",
+        "resonance_evidence": "we will never be going back"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-29",
+      "rating": 1,
+      "title": "This is the most unethical company I\u2026",
+      "text": "This is the worst experince with any company I have ever encountered . - sold a package costing over 75000 dollars Was assured of sheer security for the business plan - says on the website that deleted sheets can be restored in less than 30 days - in the past when a sheet was accidentally deleted it was retrieved - we had a hack and data and templates worth hundreds of thousands of not millions in terms of hours to replace and work lost was deleted . - out account manager told us to retrieve the sheets we need to be in the ' enterprise plan ' - the front desk did confirm that the sheets were retrievable ans connected us to tech support who retrieved one of the sheets for us - however it would take us a long time to retrieve all the sheets - we were told that the sheets were not retrievable which is obviously not true - account manager is not calling us back - despite paying 20000 per year and the severity of the hack , this has been the service - the website says you can retrieve them for thirty days - tech support says the same thing - the database where they are stored is listed online - we still haven't heard back from our account manager - we would like some herp - the devastation that your company has caused after we have put our trust in you is unimaginable - our reasons for using smartsheets was for the ability to retrieve data if there is a hack - am seeing if the data can be retrieved through legal means at this point but I am assuming smart sheets just plans to wait for the 30 day period to pass -The account manager appears to be avoiding us instead of answering questions and helping us find solutions . For example we can retrieve the important sheets manually through tech support .",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "sold a package costing over 75000 dollars",
+        "resonance_evidence": "This is the worst experince with any company I have ever encountered"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-04-25",
+      "rating": 1,
+      "title": "Disappointed by Poor Service and Pricing Practices",
+      "text": "I\u2019m genuinely disappointed by my experience with Smartsheet. The main issue? Their pricing structure and upselling tactics feel more like a cash grab than customer care. Their website clearly advertises the Business plan as $19 per member/month for 3+ members, yet somehow we\u2019re being pushed to pay for four seats \u2014 even though we only need one (maybe two at most). When I questioned this, I was told they were \u201cincluding additional Members to keep your overall cost in line with what you previously paid.\u201d That logic doesn\u2019t hold up. Why shouldn\u2019t a small business like mine benefit from lower rates when our needs are smaller? To make matters worse, the solution offered was a \u201cone-time courtesy refund\u201d for these extra seats (that I have to request after our renewal date) \u2014 as if we should be grateful for having to chase down a refund for something we didn\u2019t ask for. This experience has been frustrating, disappointing, and frankly, not acceptable. All we\u2019re asking is to be charged the published rate for three users \u2014 nothing more, nothing less. Smartsheet, do better.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-04-12",
+      "rating": 1,
+      "title": "Impossible to cancel they just keep\u2026",
+      "text": "Impossible to cancel they just keep taking your money",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Impossible to cancel they just keep taking your money"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-04-03",
+      "rating": 1,
+      "title": "DO NOT USE this Companies Products",
+      "text": "DO NOT USE this Companies Products! I work in a small company. We had a sales person call us and convince us to give their product a try for a year. We used the product and it worked. We did feel it was over priced for what it did though. The software was set to renew and at 9:00 pm the last night of renewal we received an email from a different sales rep stating that our price was to increase 65% for the year. Within 3 minutes we responded back and said this will not work for us. Way too expensive. Over the next month we sent multiple emails to the new rep stating that the price was too expensive for us. Finally after the month we had a phone call with them. Again, said it would not work and we wanted to cancel. Because of HIS delay in responding back we were past the 30 day cancellation window. To make a long story short over the next six months we filled out multiple forms with accounting, customer service and spent hours on the phone explaining and sending email trails showing the process we had gone through to cancel. Each phone call we were told it \"shouldn't\" be a problem. I thought is was finally complete when we received a statement from the accounting department with a \"0\" balance. Whew. Almost immediately we found out they had turned us over to a brutal collection agency. After discussing with our legal counsel we paid for a full year of service which we did not use and had no plans to use it. He said we would spend more fighting in court. They are a fraudulent and dishonest company. I feel they work in conjunction with the legal team to take advantage of customer. RUN AWAY QUICK and spread the word to avoid this company.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "our price was to increase 65% for the year",
+        "resonance_evidence": "DO NOT USE this Companies Products!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-03-21",
+      "rating": 1,
+      "title": "Don\u2019t use them",
+      "text": "Don\u2019t use them. I\u2019ve been a loyal customer for many years and previously chose the platform over others that are in fact much better. Writing this review specifically because they changed the settings without properly notifying their customers and even though I\u2019m a month to month subscriber they are trying to charge me an absorbent and accumulative amount after 1 year for people to simply view the sheets shared without my knowledge or approval whatsoever. The support is pathetic, waited a week for any response to basically be given a AI generated response. SCAM! Cancelling my account and moving to the better alternative!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-03-06",
+      "rating": 1,
+      "title": "Lost a lot of money when not even using\u2026",
+      "text": "Lost a lot of money when not even using their service due to a wierd login quirk. They put me down as an EU user, but they didn't tell me i then have to manually change my region when logging in to see my subscription. So when i went to cancel, it said i already was on the free plan (because i logged in as the default region). But they kept charging me because apparently if i log in as EU, it shows my subcription, and if i log in normally (i.e. put in my email and password like any other 'normal' site) it shows that i'm on a free subscription (which i'm not, so that's VERY deceitful!)",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "Lost a lot of money when not even using their service",
+        "resonance_evidence": "that's VERY deceitful!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-03-03",
+      "rating": 1,
+      "title": "Poor customer service and lack of clarity on new license charges and conditions",
+      "text": "Smartsheet was one of the few software options available at my company, and at first, it seemed like an ideal choice due to its many great features. When speaking with Smartsheet representatives, I was assured that users who only needed to view content in the workspaces I created would not be charged. However, just two months later, I was informed that all users would now require paid access for both \u201cview\u201d and \u201cedit\u201d permissions starting this year. I\u2019ve requested an estimated price four times and am still waiting for a response. Additionally, it was never made clear that many essential features and add-ons come at an extra cost\u2014even with a business license. Features like data offloading, uploading, Dynamic View, resource management, and various apps all require additional payments, and the costs are steep. For instance, Dynamic View alone costs nearly GBP6,000, making it unaffordable for small businesses. While Smartsheet itself is a powerful tool, its pricing structure lacks transparency, and customer support has been disappointing. The lack of upfront clarity around costs feels misleading, and I\u2019m particularly frustrated by the poor communication regarding pricing. I\u2019m still waiting for more details, but given the unexpected costs and lackluster support, we will likely need to explore alternative software with more competitive pricing and better customer service.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "Dynamic View alone costs nearly GBP6,000",
+        "resonance_evidence": "we will likely need to explore alternative software"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-02-28",
+      "rating": 1,
+      "title": "Support is awful",
+      "text": "Product is great, but support is AWFUL...literally non existent",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "support is AWFUL...literally non existent"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-01-21",
+      "rating": 1,
+      "title": "Not Recommended",
+      "text": "I'm upset- I cancelled my account two years ago but the Smartsheet said there is no record of that. Unbeknownst to me, my SS account auto renewed annually. Unfortunately, we did not catch the annual charge. Then we called in to cancel the account and ask for a refund but they denied the refund (even though there was no record of us using the account for two years). So we canceled it again over the phone. However, I found out a couple of months later that they didn't cancel it even after that request. So we called again. They said I had to cancel it and that they couldn't cancel it. So, I deleted my account- hopefully that will stop them from charging my account again. Seems like a poopy move from a poopy company and I don't recommend them at all. Also, the program, when I was using was very complex and time consuming to maintain. Don't recommend it for that also.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "cancelled my account two years ago but the Smartsheet said there is no record of that. Unbeknownst to me, my SS account auto renewed annually",
+        "resonance_evidence": "I don't recommend them at all"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-01-16",
+      "rating": 5,
+      "title": "Hi my name's Erica Salazar",
+      "text": "Hi my name's Erica Salazar Just want to thank all you lovely ,nice people who toke the time for my training and Great attention for my important training . . I am very happy for a new start. .",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "I am very happy for a new start"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2024-12-10",
+      "rating": 1,
+      "title": "I was an early adopter of Smartsheet but...",
+      "text": "I was an early adopter of Smartsheet and used it extensively in my business. It worked really well. Then the price increased, and it was dumbed down and features taken away. Now it is just a shell of what it used to be. Time for new leadership.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Now it is just a shell of what it used to be"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2024-11-19",
+      "rating": 1,
+      "title": "This shower keep helping yourself to\u2026",
+      "text": "This shower keep helping yourself to your money, I cancelled my plan and then you find the account is still open and somehow they get access to your new credit card ! Avoid do not give them your credit card details total scam.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "total scam"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2024-10-29",
+      "rating": 1,
+      "title": "Pro Smartsheet not recommended",
+      "text": "In short - As a paid smarsheets user, they have a non-existing support. It is near impossible to get hold of them for support. Their services (actual project management tool) is mediocre. Nothing worth awarding.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Nothing worth awarding"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2024-10-16",
+      "rating": 1,
+      "title": "Morally disgraceful company",
+      "text": "Morally disgraceful company. Openly make it as physically difficult as possible to reduce your account in any way. Please please avoid unless you want to end up in a contractual trap. Absolutely disgusting.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Morally disgraceful company"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2024-09-09",
+      "rating": 1,
+      "title": "too many pop ups with paid account",
+      "text": "egads. can't even log in without liberal popups hogging the screen. been using it for 6 years on a work account and not a fan. too many ads and popups even with paid accounts.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "not a fan"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2024-08-28",
+      "rating": 1,
+      "title": "Good software, poor staff",
+      "text": "Love the software, but was miss sold features that are included in the business plan, but not the pro. The business plan works out 10 times more expensive as you need minimum 3 users. All I wanted to do was link multiple sheets to a summary sheet, but this is a business feature. Whats the point of having a summary if you can't link multiple sheets??? Explained this to sales as support were UNCONTACTABLE and unfortunately they refused to acknowledge or do anything about it.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "The business plan works out 10 times more expensive as you need minimum 3 users",
+        "resonance_evidence": "Love the software, but was miss sold features"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2024-06-17",
+      "rating": 1,
+      "title": "Support is terrible / non-existent",
+      "text": "Sadly this is a great tool, but completely unusable if you have a problem as you can\u2019t speak to anyone except sales (and even that is hit or miss), and they don\u2019t bother to even acknowledge let alone action support cases. Once a fan, now sadly looking to go elsewhere.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "now sadly looking to go elsewhere"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2024-06-07",
+      "rating": 2,
+      "title": "Beware the rising costs",
+      "text": "Had 25 paid licenses for full connected users and all other users were free. When we upgraded to Silver in order to utilize additional tools, all the free users became paid users. We were not warned about this. 1000's of people who viewed a sheet were now being counted in the connected user count. Our bill went from $65K to $165K overnight. Shady AF",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "Our bill went from $65K to $165K overnight",
+        "resonance_evidence": "Shady AF"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2024-04-17",
+      "rating": 1,
+      "title": "I GOT BILLED 28,5 POUNDS WITHOUT EVEN\u2026",
+      "text": "I GOT BILLED 28,5 POUNDS WITHOUT EVEN HAVING AN ACCOUNT. THEY DON'T ANSWER TO MY EMAILS AND I CANNOT RECEIVE ANY FEEDBACK AND/OR REFUND.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "I GOT BILLED 28,5 POUNDS WITHOUT EVEN HAVING AN ACCOUNT",
+        "resonance_evidence": "THEY DON'T ANSWER TO MY EMAILS"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2024-02-27",
+      "rating": 1,
+      "title": "Renewal Trap!",
+      "text": "I initially used the free version of smartsheet and thought it was fantastic! We wanted to add another user so took on an additional license with the paid version which unfortunately believe it of not gave us less functionality unless we paid for another license. We therefore didn't use and switched to Monday which has been amazing! This year Smartsheet automatically renewed with no notice or warning and they refused to refund even of day of renewal. Its a real trap so be warned. I would never recommend based on their service and lack of flexibility unless you stick to the free version.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "switched to Monday which has been amazing",
+        "resonance_evidence": "I would never recommend"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2024-02-24",
+      "rating": 2,
+      "title": "If you choose Smartsheet, prepare to pay forever!!!",
+      "text": "If you choose Smartsheet, prepare to pay for it forever. I continue to be inappropriately billed for Smartsheet access despite having confirmation that my account was cancelled over a month ago.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "If you choose Smartsheet, prepare to pay for it forever"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2024-02-02",
+      "rating": 1,
+      "title": "They didn't have template they promised",
+      "text": "gave them my email as they said they have free template for process map but they did not have any,",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "they did not have any"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2024-01-14",
+      "rating": 5,
+      "title": "I have been using SmartSheet for a\u2026",
+      "text": "I have been using SmartSheet for a while now, and I must say that it has become an indispensable tool in my daily work routine. What I like most about SmartSheet is its remarkable versatility. It's not just a project management tool, it's an all-in-one solution that can adapt to various tasks and projects, making it highly efficient for both individuals and teams.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "it has become an indispensable tool in my daily work routine"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2023-08-10",
+      "rating": 1,
+      "title": "Just use another project management software",
+      "text": "Clunky user interface, un-appealing design, dependencies don't always connect, internal communication is awful, and the gantt charts are horrid. Just use Monday or Asana, they're both easier and better.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Just use Monday or Asana, they're both easier and better"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2023-07-26",
+      "rating": 1,
+      "title": "10 spamming emails IN A WEEK",
+      "text": "I signed up for a week just to try a Gantt chart. I received TEN emails, that\u2019s more than an email per day in the space of 7 days. Absolutely disgraceful. I couldn\u2019t even try the product itself as it was extremely complicated/did not have access to all the charts. I don\u2019t understand how you still believe that spamming your clients with emails is a good marketing strategy! I had to unsubscribe + block the senders because it was just too much. Maybe the product is good, but after this experience, won\u2019t be bothered again.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2023-07-15",
+      "rating": 3,
+      "title": "Smartsheet \u2026",
+      "text": "Smartsheet This company has good technology. In reality this company know how handle people and how to help them. During my work I not though too much. I work freely and bult my confidence. This company is good pricing and good in delivery. This company has good internet. Thanks.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "This company is good pricing and good in delivery"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2023-05-22",
+      "rating": 1,
+      "title": "Tr\u00e8s mauvais logiciel de gestion de projet",
+      "text": "Tr\u00e8s mauvais logiciel de gestion de projet, passez votre route... Peut \u00eatre que c'\u00e9tait bien il y a 20 ans, mais maintenant il existe beaucoup mieux. :) Des bugs dans le logiciels, jamais corrig\u00e9s malgr\u00e9 plusieurs rdv faits avec le service client pour les expliquer.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Tr\u00e8s mauvais logiciel de gestion de projet, passez votre route"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2023-05-20",
+      "rating": 5,
+      "title": "I love Smartsheet for collaborating\u2026",
+      "text": "I love Smartsheet for collaborating with my team and automating our business processes! Really useful tool to manage business from project management with real time reporting to robust workflows such as ticketing systems. Big congrats to Smartsheet team for adding new features and making the products better and better!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "I love Smartsheet for collaborating with my team and automating our business processes!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2023-05-02",
+      "rating": 1,
+      "title": "Nobody ever responds",
+      "text": "Nobody ever responds - worst customer experience ever.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Nobody ever responds - worst customer experience ever."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2023-05-01",
+      "rating": 1,
+      "title": "Can't edit a sheet I was given access\u2026",
+      "text": "Can't edit a sheet I was given access to even after signing up and personally paying for 2 seats for me and my admin. Called the contact number and had to leave a message. Left 4 different chat bot questions for cases with no response to any of them. Will reach out to the bank and have them go after the money I've spent with these scamming people.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "personally paying for 2 seats",
+        "resonance_evidence": "Will reach out to the bank and have them go after the money I've spent with these scamming people."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2023-03-29",
+      "rating": 1,
+      "title": "No response from customer service",
+      "text": "No response from customer service. We are paying customers, thousands of pounds a year and they can't be bothered to respond to emails.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "thousands of pounds a year",
+        "resonance_evidence": "they can't be bothered to respond to emails"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2023-03-21",
+      "rating": 1,
+      "title": "worst customer service",
+      "text": "worst customer service - they simply do not care about their customers",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "worst customer service - they simply do not care about their customers"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2023-03-14",
+      "rating": 2,
+      "title": "Non-existent customer support lets down\u2026",
+      "text": "Non-existent customer support lets down this otherwise good product.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Non-existent customer support lets down this otherwise good product."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2023-01-20",
+      "rating": 5,
+      "title": "No Strings Attached Freebies!!!",
+      "text": "Any company that gives away some of their resources for free is a rare thing these days. No email, no payment details, no free trial. Just let me download the sheets I needed straight away, no strings attached. If I ever need this service on a more permanent basis I will definitely sign up. Any company this transparent gets my vote!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "If I ever need this service on a more permanent basis I will definitely sign up. Any company this transparent gets my vote!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2022-11-29",
+      "rating": 1,
+      "title": "Customer support are slippery",
+      "text": "Customer support are vague, unhelpful, and slippery. Product is clunky. Stay away.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Stay away."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2022-10-13",
+      "rating": 1,
+      "title": "Support Sucks and SmartSheets is No Longer What It Once Was or Useful",
+      "text": "Honestly - SmartSheets truly is THE WORST. Their Support is non-existent. As a subcontractor to a company that uses it, when I went to access a file through the link the company gave me I received a notice saying I didn't have permission for this folder. A button comes up saying REQUEST PERMISSION - We click on it (there are 3 of us with this issue) and the company never gets the request. I sent a message to support - on the site it says if you need support to send email to support at smartsheets dot com...However, then you get a message back saying that this address now longer is being used and please enter support question online. You do...And you get a canned response sending you instructions on how to give someone permission. That wasn't the issue. So, 3 times and going in circles I Tweeted Support. No response. I get an email back with the same canned response, even after saying 3 times that the issue is something broken on their side...And I am sent back to the same link to online Contact form...Which doesn;t ask me for a case#, but starts fresh - and once more I have to type all of this in again. Hey...It worked great in 2018...but now - Frankly not worth even bothering with!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "SmartSheets truly is THE WORST."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2022-10-05",
+      "rating": 1,
+      "title": "Fraudulent charges: They show one amount, bill twice that",
+      "text": "I didn't use this service for over a month. When I started to use it again, they presented me with a $9.00 charge. Fair enough as it's the price for a month. When I actually put in the credit card information, it charged me $18.00. So disingenuous and fraudulent to show one amount and charge another. Worse, to charge me for a service I didn't use for more than a month. I'll be moving to something else. I'm reading other reviews and this company is slippery AF, looking to rip you off.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2022-09-01",
+      "rating": 1,
+      "title": "Sales Team is Sneaky",
+      "text": "Their sales team is sneaky, slipping you a docusign contract into an email around your annual renewal. The wording is slimy and dishonest and alludes to the fact that this person has talked to you previously and is now providing the contract \"we spoke about\". This is their way of roping unsuspecting customers into a contract for an unwanted plan upgrade at double the cost. I have spent 4 hours so far trying to get the sales manager, Derek Krause to email me back. He ignores my emails. I called and made an appointment for 4 pm today, and he never called. I called the number again and was told he was in a meeting with someone else. I asked to speak with his boss. The stonewalling is impenetrable. Forget any transparency, accountability or customer service with this company.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2022-01-26",
+      "rating": 1,
+      "title": "Awful customer service",
+      "text": "Customer service team are really unhelpful. Tool is not what was promised. Not worth the money. Avoid at all costs.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Not worth the money. Avoid at all costs."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2021-11-29",
+      "rating": 2,
+      "title": "Worst Customer Service in UK.",
+      "text": "Worst Customer Service in UK. First up the product, Smartsheet is fantastic, I have no issue with the product at all (except not handling time as a data type) so my gripe is not the product. My issue lies with the UK customer service which is ATROCIOUS truly the worst I have come across. We spent >5k to get the enterprise license and once they got the order they disappeared completely, trust me just use either the free or basic business plan DO NOT engage with UK sales or service",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2021-11-01",
+      "rating": 1,
+      "title": "Customer support is HORRIBLE or maybe a\u2026",
+      "text": "Customer support is HORRIBLE or maybe a better term is NON-EXISTENT. If you select \"Contact Us\" you get an automated email telling you to look at the articles! I've waited a week to get another automated response telling me they understand I have an outstanding support ticket. I'm on a deadline and ended up going to Google Sheets!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2021-03-31",
+      "rating": 1,
+      "title": "The worst experience of my life",
+      "text": "The worst experience of my life. Undo buttons for text editing are disabled and the undo button in the application does not undo text edits while typing a long formula. The documentation is purely anecdotal with no explanation of how things actually work. Vlookup is fundamentally broken and lacks any serious documentation. Using the gui to perform vlookup should create a working formula (one would hope) but it doesn\u2019t. The simplest functionality is missing, way better off using excel.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2021-03-24",
+      "rating": 5,
+      "title": "Ignore the bad reviews - Their just not smart enough to figure out stuff themselves",
+      "text": "Ignore the bad reviews. You have to be somewhat intelligent to build an effective workflow with smartsheet, or pay for consulting. I respect a company that doesn't want to deal with unintelligent people, and avoids spending millions on a customer service team to answer stupid questions. They're spending their money in development (new features constantly). I searched high and low back in 2017 for an effective platform that would grow with any type of business. I'm a small business owner, under 10 million. I was under 1 million back in 2017. AGAIN, building an effective workflow will require purchasing consulting services but longterm it will be worth it. Enterprise version, dynamic view add on, pivot, data mesh, calendar app. All worth it, I have them. If you aren't evolving with tech you'll end up in your competitors dust. I didn't purchase consulting services and learned everything myself. Utilize Zapier for web hooks / connections. Fillable forms, outlook connect, + 1,000s more. Spend the time on tech and less time finding lazy office people who sit on social media and ignore important business matters. Less talk more action is smart sheets slogan. Thankfully they don't answer unintelligent questions, and work on their company. Alex Kahn has been a super helpful rep, I think he's the 3rd one I've been on and he's the absolute best, and I plan on utilizing smartsheet for life. Tech evolves by the minute these days. Don't kid yourself into believing the money isn't worth spending to be come more efficient.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2020-12-23",
+      "rating": 4,
+      "title": "I inherited Smartsheet and found it\u2026",
+      "text": "I inherited Smartsheet and found it easy, intuitive, and reliable. I found the overall experience better than using Google Sheets that I had been used to using in previous roles (and Asana). It's flexible and after putting in just a little training/research I picked it up well. I recommend.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2020-11-06",
+      "rating": 2,
+      "title": "Previously a Fan",
+      "text": "Previously a Fan - Not Anymore I have used SmartSheet for years and been a huge advocate. Recently they have fallen behind their competitors on user interface and started pushing extremely overpriced add-on software that is practically worthless. Their launch packages have turned into sales pitches for $2,500-$10,000 add-ons for the software we normally pay $1,000 per year. I spent $5,404 for an upgrade and launch package and they never finished the project nor will they respond to my call or emails. Months later I asked for a refund and they responded favorably and then stopped responding - never received that refund. I will no longer suggest clients and friends use their software.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "I spent $5,404 for an upgrade and launch package",
+        "resonance_evidence": "I will no longer suggest clients and friends use their software."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2020-07-16",
+      "rating": 5,
+      "title": "Effective with time tracking.",
+      "text": "Effective with time tracking. Reliable with documents storage. User friendly customer support",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Effective with time tracking. Reliable with documents storage. User friendly customer support"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2020-06-24",
+      "rating": 2,
+      "title": "beware of renewal policy- they string\u2026",
+      "text": "beware of renewal policy- they string you around and then say you are stuck with current users",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "beware of renewal policy- they string you around and then say you are stuck with current users"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2020-06-16",
+      "rating": 1,
+      "title": "unproductive",
+      "text": "formatting, data link errors, unproductive, frustrating...avoid it !",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "avoid it !"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2020-01-08",
+      "rating": 1,
+      "title": "Keeps losing data... DON'T USE!",
+      "text": "I quite like the functionality and usability, I keep my to do list on my phone, and two PCs (Office and home)... Should be great... But it isn't: it keeps deleting cells! Deleting entries on my to do list\u2026 things that I need to do\u2026 It makes it completely useless (and that\u2019s when I notice, goodness knows how many times I have lost stuff) (I\u2019ve had to restore from a point in time twice now and looks like I need to do again!) Forget feature, usability\u2019s etc, unless it actually keeps the data in my spreadsheet: it is COMPLETELY USELESS! Come on Google\u2026 get the basics working!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2019-10-08",
+      "rating": 1,
+      "title": "Shocking online chat support, Smartsheet don't want your business",
+      "text": "I've been using Smartsheets as a free trial user. I was thinking of whether it was worth converting to a paying customer when the trial run out but I had a few questions about the pricing model and services that are available to individual users (the information on the website is very limited). I used the online chat with 'Tom' but all I received were a few, terse, irrelevant or ambiguous one line responses. There was a complete lack of care in answering my questions and a total ambivalence about whether I converted to a paying customer. Being in a different country, I asked if he would phone me, he refused saying that they don't provide support to individual customers! Wonderful, they'll take your money but won't give you support. A far as the product goes, it's pretty clunky and very limited customisation features. I didn't get my questions answered about collaborators so I couldn't fully evaluate it however as for customer support, well, that's non-existent! There are plenty of other cheap project management tools out there, I'd avoid this one.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I'd avoid this one."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2018-08-29",
+      "rating": 1,
+      "title": "does not accept gmail",
+      "text": "does not accept gmail, never really came into the 2100'st century i guess",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "does not accept gmail, never really came into the 2100'st century i guess"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2017-03-28",
+      "rating": 2,
+      "title": "Not evolving properly",
+      "text": "Used this since its beginning, hoping for it to be much more than a collaborative spreadsheet with text and document entries... But it has greatly dissapointed. Cumbersome to use interface (search, browsing, filtering, labeling) Nothing about it is snappy, modern, interactive, corporate. The device app is terrible. It was a great solution in 2011, not so much today.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "it has greatly dissapointed"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2015-03-26",
+      "rating": 5,
+      "title": "Smartsheet",
+      "text": "Having used a number of different systems in the past on projects, I am very happy to say I made the switch to Smartsheet and have not looked back since. Apart from using it for projects, it seems to have automatically become my preferred system to do just about everything from budgeting to resource management and even just sharing data. Thanks guys, keep up the good work (love all the updates)",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "I am very happy to say I made the switch to Smartsheet and have not looked back since"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2015-03-12",
+      "rating": 5,
+      "title": "Easy to use, versatile tool for collaboration, project management and more!",
+      "text": "The great thing about Smartsheet is that it has the robust features and abilities of spreadsheet software that most professionals are familiar with, plus it has great collaboration features that keep people updated, in the loop, and with access to files they need. It also has a great library of templates that others have developed, so it's easy to find something to start with and customize to your needs. Smartsheet has been the go-to collaboration tool for my team for the past 8 years!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Smartsheet has been the go-to collaboration tool for my team for the past 8 years!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2015-03-02",
+      "rating": 5,
+      "title": "Best collaborative project management software on the market (and more)",
+      "text": "I have been a SmartSheet user since 2011. Over that time I have used the this tool for a variety of functions, including project management, document sharing and management, spreadsheet tool, survey tool. It has helped to organize my life at home and work, and I get satisfaction when I can introduce this great affordable tool to others.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "I get satisfaction when I can introduce this great affordable tool to others"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2015-03-01",
+      "rating": 4,
+      "title": "Smart sheet review",
+      "text": "Great package, we are now running our company on smart sheets. Would love to have images showing on the project sheets as we use them as skew lines in our order management.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Great package, we are now running our company on smart sheets"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2015-03-01",
+      "rating": 5,
+      "title": "Using this product since the beginning!",
+      "text": "Task lists don't work unless they have a communication factor built in. That's what this product is - a spreadsheet (and a lot more) with communication.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "That's what this product is - a spreadsheet (and a lot more) with communication"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2015-02-28",
+      "rating": 5,
+      "title": "Great Project Management Software",
+      "text": "If you like MS Project, you will like this and get the benefits of being able to share with others. All they need is a GAPPS account",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "If you like MS Project, you will like this and get the benefits of being able to share with others"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2015-02-28",
+      "rating": 4,
+      "title": "Much easier to use than Microsoft Project",
+      "text": "Have used Smartsheet in a number of different applications and it has proved to be a very handy tool.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "it has proved to be a very handy tool"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2015-02-28",
+      "rating": 5,
+      "title": "You guys are awesome!",
+      "text": "we use Smart sheet as a live order tracker for our clients. Gives them real time information.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "Gives them real time information",
+        "resonance_evidence": "we use Smart sheet as a live order tracker for our clients"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2015-02-28",
+      "rating": 5,
+      "title": "Online collaboration for spreadsheets...that's just Smart!",
+      "text": "At first, Smartsheet was attractive by just how much better it was than Google...MUCH BETTER! However, when I learned we could incorporate collaboration, and the ability to isolate specific rows for sharing, it immediately became a powerful solution to workflow challenges we really had yet been unable to solve. Especially once I realized we can easily integrate Box.com and share links to new video previews with clients on the same Smartsheet row we asked them to review for confirming the metadata we would use when we syndicate that video...THAT'S HUGE! Previously, this took emails, phone calls, this platform and another...now we send them ONE Update Request and they've GOT IT! Which means we get what we often could not get done effectively before. It's really amazing. It's not just Smart, it's Brilliant! BRAVO! (and thank you:)",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "Previously, this took emails, phone calls, this platform and another...now we send them ONE Update Request",
+        "resonance_evidence": "It's really amazing. It's not just Smart, it's Brilliant! BRAVO!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2015-02-27",
+      "rating": 5,
+      "title": "Our business is better by having SmartSheet as one of the team.",
+      "text": "It is the glue that binds of resources, yet allows flexibility and remains attached to our core business activity. Simply would not look at anything else.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Simply would not look at anything else."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2015-02-27",
+      "rating": 5,
+      "title": "Smartsheet is an asset to our business.",
+      "text": "We have been a Smartsheet user for 3-4 years. It is a valuable part of the daily operation of our company. Smartsheet is utilized by our entire organization. One of the most important attributes of Smartsheet is that it constantly evolves, and the users benefit. I would highly recommend to users that want to have a tool to communicate throughout their company, a place to manage the flow of projects, with documented communication, or a place where project information can be kept and utilized in one area.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "I would highly recommend to users that want to have a tool to communicate throughout their company"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2015-02-26",
+      "rating": 5,
+      "title": "Value in Education",
+      "text": "In a time pressed environment, where data needs to be collaboratively gathered, analysed and reported, you can not go past Smartsheet.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "you can not go past Smartsheet"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2015-02-26",
+      "rating": 5,
+      "title": "Smartsheet is integrated into all our Major Events",
+      "text": "We use Smartsheet to coordinate hundreds of schedules, event plans, contact lists, project plans and almost every other piece of materials in delivering Major Sporting Events!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "We use Smartsheet to coordinate hundreds of schedules, event plans, contact lists, project plans",
+        "resonance_evidence": "We use Smartsheet to coordinate hundreds of schedules, event plans, contact lists, project plans and almost every other piece of materials in delivering Major Sporting Events!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2015-02-26",
+      "rating": 5,
+      "title": "Love smartsheet",
+      "text": "I have been using Smartsheet for about 3 years and have had great success with it.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "I have been using Smartsheet for about 3 years and have had great success with it."
+      }
+    }
+  ]
+}

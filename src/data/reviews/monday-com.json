@@ -1,0 +1,2554 @@
+{
+  "slug": "monday-com",
+  "captured_at": "2026-08-12T20:48:37.032020+00:00",
+  "reviews": [
+    {
+      "portal": "G2",
+      "review_id": "13254013",
+      "date": "8/12/2026",
+      "rating": 4.0,
+      "title": "Amazing Automations and Powerful Integrations",
+      "text": "The automations are amazing. The integration capabilities are also really cool, since we can connect to our native work systems and pull information directly. The UI can feel a bit complex for beginners, but it\u2019s still decent overall. The UI can feel a bit complex for beginners, and it requires setting up a lot of permissions.",
+      "role": "Director, Retail Media",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/monday-com/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "The automations are amazing. The integration capabilities are also really cool"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13253076",
+      "date": "8/12/2026",
+      "rating": 4.0,
+      "title": "Client Updates and Time Management is Streamlined with monday AI Work Platform",
+      "text": "monday AI Work Platform has improved my time management as AI cuts down on the time I use to handle various clients updates, renewal and reviews as spreadsheet are managed on a single dashboard. It\u2019s mobile application feature is lacking and makes me it difficult to manipulate complex board. I\u2019m therefore required to build automation to ensure a smooth running of the system.",
+      "role": "HR Manager",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/monday-com/reviews",
+      "sample_order": "most_recent"
+    },
+    {
+      "portal": "G2",
+      "review_id": "13253105",
+      "date": "8/12/2026",
+      "rating": 5.0,
+      "title": "Centralizes Deals and Fundraising with helpful AI Automation",
+      "text": "Centralizes deals, portfolio, and fundraising.AI drafts updates and creates tasks automatically Takes time to setup complex tracking. AI output needs editing for PE/ VC terms",
+      "role": "Senior Investment Associate",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/monday-com/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Takes time to setup complex tracking. AI output needs editing for PE/ VC terms"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13252977",
+      "date": "8/12/2026",
+      "rating": 4.5,
+      "title": "Turning Complex Telecom Initiatives Into One Executive View.",
+      "text": "For me, monday AI has become an effective executive visibility tool. It reduces the time I spend collecting updates and gives me more time to focus on strategic decision, resource allocation and business growth. I can review milestones and ownership from an executive dashboard while department leaders continue managing the operational details. AI- generated summaries are particularly useful when I need a quick understanding of project status before an executive meeting. There is a learning curve when introducing the platform to teams that have previously managed projects using spreadsheets or disconnected systems.",
+      "role": "Executive Vice President",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/monday-com/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "reduces the time I spend collecting updates and gives me more time to focus on strategic decision, resource allocation and business growth",
+        "resonance_evidence": "For me, monday AI has become an effective executive visibility tool"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13253108",
+      "date": "8/12/2026",
+      "rating": 4.5,
+      "title": "Flexible and Easy to Configure\u2014A Major Time-Saver for Client Management",
+      "text": "What i value most about Monday AI Work Platform is its flexibility.I like how i can configure it for each client to match their specific needs whether thats different training programs or class volumes.This saves me time and improves record accuracy.I also like its setup since was simple and while there was a learning curve it performs much better than other tools i\u2019ve tried.I\u2019d give it an 8 to 9 out of 10. No cons!Its was simply the best to work with!!",
+      "role": "Human Resource Manager",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/monday-com/reviews",
+      "sample_order": "most_recent"
+    },
+    {
+      "portal": "G2",
+      "review_id": "13252545",
+      "date": "8/12/2026",
+      "rating": 4.5,
+      "title": "All-in-One Sales & Events Management with monday AI Work Platform",
+      "text": "monday AI Work Platform is the first tool that let me manage all of that in one software. After hospital demos and distributor meetings, I use monday AI Work Platform to draft follow-up emails and turn my meeting notes into tasks. I can also see deal stage, decision makers, budget cycles, and required documents all linked. We run hospital CMEs and exhibitions, because are linked to accounts, I can see which event led to which hospital entering negotiation. I would recommend this software to Capital Equipment Sales or Medical Practice For its efficiency ,ease of use and user friendly. We spent 2 weeks mapping our sales process; distributors by region, tender stage but once it is done it runs itself. When I'm in a hospital doing a demo, uploading large product catalogs or certificates is a bit slow.",
+      "role": "Business Developer Manager",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/monday-com/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "We spent 2 weeks mapping our sales process; distributors by region, tender stage but once it is done it runs itself",
+        "resonance_evidence": "I would recommend this software to Capital Equipment Sales or Medical Practice For its efficiency ,ease of use and user friendly"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13251806",
+      "date": "8/12/2026",
+      "rating": 4.5,
+      "title": "Best Software For Marketing Teams That Need Structured Campaign Management",
+      "text": "What I appreciate as a Brand & Trade Marketing Manager is the flexibility to structure boards around the way our marketing team actually operates. The timeline and dashboards views makes it much easier to identify delayed activities and keep stakeholders informed without constantly requesting status updates and the AI capabilities are strong. The Software offers a lot of customization, so getting the initial structure right takes some experimentation.",
+      "role": "Brand &amp; Trade Marketing Manager",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/monday-com/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "makes it much easier to identify delayed activities and keep stakeholders informed without constantly requesting status updates and the AI capabilities are strong"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13251586",
+      "date": "8/12/2026",
+      "rating": 4.5,
+      "title": "Monday AI Work Platform: Faster, More Organized Work with Smart Automation",
+      "text": "I like Monday AI Work platform because it makes work faster and more organized.Its AI automates repetitive tasks and provides clear insights while the customizable interface is easy for any team to use.I also like how it centralizes projects and data in one place which improves visibility and productivity. I have not experienced any major flaws while working with this amazing platform",
+      "role": "Managing Director",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/monday-com/reviews",
+      "sample_order": "most_recent"
+    },
+    {
+      "portal": "G2",
+      "review_id": "13249203",
+      "date": "8/12/2026",
+      "rating": 5.0,
+      "title": "A great planner for your workflow",
+      "text": "It helps me track my workflow more easily and prioritize tasks based on time, which makes it simpler to stay organized and focused. Previously, when I clicked on a row, its content would open immediately. Now it prompts me to edit the row\u2019s name instead, and I have to click on the far right side of the row to open it.",
+      "role": "Senior Specialist- Research And Development Engineer",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/monday-com/reviews",
+      "sample_order": "most_recent"
+    },
+    {
+      "portal": "G2",
+      "review_id": "13245300",
+      "date": "8/11/2026",
+      "rating": 4.5,
+      "title": "Highly Configurable and Efficient for Training Management",
+      "text": "I like how I can configure monday Work Management to suit my business needs, making it adaptable for each client's unique requirements. It's great that I can make it special for each client, whether they have different training needs or a varied number of classes. This configurability saves me time and keeps records more accurate. The setup was easy, and although learning the system took some time, it has been much better compared to other systems I've tried. I've been very happy with it, and I'd rate it eight or nine out of 10 for recommending to others. Well, I don't know if it could be improved, but I'll create something, and then there will be a change or AI will make it so you could do it easier and faster. Sometimes by the time you complete a project, it's kind of outdated. So that's a good thing and a bad thing.",
+      "role": "Damon P.",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/monday-com/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "saves me time and keeps records more accurate",
+        "resonance_evidence": "I've been very happy with it, and I'd rate it eight or nine out of 10 for recommending to others"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "607983",
+      "date": "2/1/2018",
+      "rating": 4.5,
+      "title": "Customize everything that you need in the really fast way",
+      "text": "I like the fast way to add records in this system. Also I can allow myself to keep all connection in one place, reducing the need for the sessions and badly long email threads. Monday.com is better to control people or whole teams. I like to receive notifications from my workflow on desktop or mobile in real-time. At this moment I don't have any bad issues which can direct my working process to the wrong point. It is a wonderful platform which has everything that we need.",
+      "role": "Marketing and Advertising",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/monday-com/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "reducing the need for the sessions and badly long email threads",
+        "resonance_evidence": "It is a wonderful platform which has everything that we need"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "10391266",
+      "date": "10/25/2024",
+      "rating": 5.0,
+      "title": "A project manager's thoughts on Monday.com",
+      "text": "1\\. I have extensively used Monday for my day to day job as a project manager as well as helped several brands and business adopt to Monday or migrate to Monday.com from their existing softwares. When I say different brands and different businesses they typically range from online retail stores, ecommerce shops, dropshipping businesses, elearning businesses and many more. 2\\. I truly recommend using Monday to small to medium scale enterprises because of its ease of use in different ways such as maintaining a kanban board for daily activities in the business or be it managing huge chunk of data from different places and accomodate them in daily workflows. 3\\. I do like its integration capabilities as well, besides offering tons of no-code integration with platforms like CognitoForms, Gmail, Slack, and Twilio etc. 1\\. Their customer support is not super great but helpful eventually after a decent waiting time which I think should be improved in certain areas. 2.Users should be able to see all notes linked to a task without needing to open each one individually, but Monday.com currently lacks this capability, which can impact workflow efficiency. For instance, a project manager noted that the need to open each task to access notes caused missed details and slowed productivity.",
+      "role": "Senior Project Manager",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/monday-com/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "helped several brands and business adopt to Monday or migrate to Monday.com from their existing softwares",
+        "resonance_evidence": "I truly recommend using Monday to small to medium scale enterprises"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "532170",
+      "date": "12/30/2017",
+      "rating": 4.5,
+      "title": "Perfect to cooperate and organize.",
+      "text": "I like that I can use a project visualization tool. They really work well. Good at dragging and drop they are readable. The program is very comfortable for customers. Great way of sharing the schedule with users or etc. Doing a clear working plan and making a priority to things which should be done at first. Generally, the program is good and fast. As for me, I would like to use a tracking system which will allow me to see a product on which we are working. Serious issue with this software I don't have. I like that platform and I see that my working team are ok with it too.",
+      "role": "Education Coordinator",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/monday-com/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "I like that platform and I see that my working team are ok with it too"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "564002",
+      "date": "1/15/2018",
+      "rating": 4.5,
+      "title": "The perfect way to work easy and effective.",
+      "text": "I have the ability to control our workload, communicate with my team. Actually, I have a place where I can track anything our team is working on. I can appoint teammates to particular tasks or projects. The ability to see an accurate status of where things stand. Till now I don't have bad moments on this platform. But what I would like to change it is a look of the interface. And it is easy to use for all of my team. But all functions works well so I really don't have any negative cons about it.",
+      "role": "Sales Manager",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/monday-com/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "I really don't have any negative cons about it"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "10881411",
+      "date": "2/24/2025",
+      "rating": 5.0,
+      "title": "monday.com for Project Planning",
+      "text": "monday.com automations and integrations are extremely useful and is probably the features we use most. Implementing and integrating it business wide was a breeze. The system takes a little getting used to, but once everyone is onboard, they can't work without it and use it daily. We've rarely needed to use customer support, but on the odd occasions we were basically helped instantly, and our issue resolved within an hour. monday.com is extremely bandwidth intensive, especially when updating statuses and using a lot of different colors. Other than that, there's not much to dislike.",
+      "role": "Logistics and Supply Chain",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/monday-com/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "our issue resolved within an hour",
+        "resonance_evidence": "they can't work without it and use it daily"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "10783599",
+      "date": "1/30/2025",
+      "rating": 5.0,
+      "title": "Streamlining workflows with Monday.com",
+      "text": "Monday.com provides visual dashboards that provide a clear overview of tasks, deadlines, and progress, ensuring everyone stays aligned. I can easily check on progress on a project without having to wait for an update from the Project Manager. I can quickly view our accounts payable, pull up invoices and problem solve with our customers, again without having to wait for input from acccounting. Monday.com tools make project management and working between sales and operations a more efficient and smoother process. I use Monday.com every day I do not have any real dislikes about Monday.com. Perhaps the only downside is there is a bit of a learning curve to set up project workflows. It is not 100% intuitive but to be fair the learning curve on other platforms is equal or a higher bar.",
+      "role": "VP Strategic Account Management &amp; Validations",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/monday-com/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "I can easily check on progress on a project without having to wait for an update from the Project Manager",
+        "resonance_evidence": "I use Monday.com every day I do not have any real dislikes about Monday.com"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "558507",
+      "date": "1/11/2018",
+      "rating": 5.0,
+      "title": "Monday.com (formerly dapalus.com) Software Review",
+      "text": "Monday.com simplifies the way our office team works. It allows us to manage workloads, communicate, create custom boards for dance and competition events and update during events during the busy season January through September. I can manage and update everything in a single board and create different boards for certain annual tasks. This is great because i can see who's working what event, any notes regarding the broadcast shoot, what is the status of production and even color code each of the above. It can easily assign teammates to tasks, and get an update when it is done. Overall it is a big visualization of everything your team is working on a single window. If you have a small phone big boards are hard to navigate despite a zoom feature. If there is too much data on a board it takes longs to load.",
+      "role": "Broadcast Media",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/monday-com/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "I can manage and update everything in a single board",
+        "resonance_evidence": "Overall it is a big visualization of everything your team is working on a single window"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "641812",
+      "date": "3/9/2018",
+      "rating": 4.5,
+      "title": "A new kind of management tool",
+      "text": "It's simple to use and everyone has been able to start using it within a few minutes. The ability to customize is quite nice. Customer service is MIND-BLOWINGLY, it is fast and personal. The learning curve is really small. Most of my clients have adopted the product in a matter of hours. Also, it has GREAT customer support! For Bigger teams, it gets difficult to manage tasks. As the number of projects increase, it gets difficult to separate the tasks and manage them. iOS app is a bit clunky and doesn't have the same feel as the website.",
+      "role": "Gambling & Casinos",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/monday-com/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "Most of my clients have adopted the product in a matter of hours.",
+        "resonance_evidence": "Customer service is MIND-BLOWINGLY, it is fast and personal."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "4367869",
+      "date": "8/31/2020",
+      "rating": 4.5,
+      "title": "Monday: Planning for planners",
+      "text": "I love the board templates! Sometimes I have an idea for a project that needs organizing, but I'm not sure of the best way to set it up. But Monday has lots of pre-made board templates that you can customize for your business or personal needs. Another thing I really like are the automations. The automations save me and my coworkers a lot of time. There are a lot of items shared among teams, and thus among boards, and automations make these things easy to manage. I'm a big fan of the ability to add color to all of the status labels, so my boards are visually appealing. A visually appealing board makes me want to work on it! Last but not least, I like it when I reach the end of my inbox and get that coveted yellow balloon :) I actually don't actively dislike anything about Monday - I just hope they continue to come up with new and helpful automations. Because automations are one of my favorite features, I would love to learn new ways of using them to improve my workflow. Although I'm generally satisfied with the automations that exist, there have been one or two times when there was an automation that I had to do in a couple of steps rather than one, but I know that the team is working on new ones all the time, so I'll keep checking in for more.",
+      "role": "Carrie S.",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/monday-com/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "The automations save me and my coworkers a lot of time.",
+        "resonance_evidence": "I love the board templates!"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "4676706",
+      "date": "4/7/2021",
+      "rating": 5.0,
+      "title": "good management platform for projects, useful, simple software for businesses",
+      "text": "Easy to use, speedy and not laggy. the user interface is user friendly and easy to use. good for communication amongst team for project basis. automation processes integration with other useful apps as well like twilio, gmail. calendar etc, still trying to learn more on how i can make it much more useful there is nothing much that i dislike, i think overall it is ok, just that it can be cheaper :)",
+      "role": "Dir",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/monday-com/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "overall it is ok"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "130200",
+      "date": "5/13/2016",
+      "rating": 5.0,
+      "title": "Arvixe lets me work in more organized way",
+      "text": "What I like the best is that the interface has a good balance in design terms. It looks pretty good and simple but at the same time you can organise complex tasks. I like how the colors are used, I would like to be able to create a tag for each color and see it somewhere. Maybe at first you need a couple of minutes to really understand how it works. I think that any planning app needs a learning curve anyway. I would like to create subtasks more easily, instead of comments I would use subtasks, or maybe add the comments below. Asana is a good example of how easy it could be to create subtasks. I would like to be able to use it for my personal projects apart from the company account, maybe it would be great to add both under one interface (without my boss seeing my tasks of course) and if I have a paid account then only have the paid features on the one that is paid and the free on the other one. Maybe that's too hard.",
+      "role": "Verified User in Graphic Design",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/monday-com/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Maybe at first you need a couple of minutes to really understand how it works."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "1245192",
+      "date": "11/27/2018",
+      "rating": 5.0,
+      "title": "Best project management tool ever",
+      "text": "Every board can be set as we want, it loads fast and the automations are amazing. I have built dashboards, projects follow -up boards, task lists, and many other use cases. New users quickly master the tool as it is very intuitive. The only missing feature is the ability to show or hide columns or rows to specific board members.",
+      "role": "Co-Fondateur",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/monday-com/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "the automations are amazing"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "1686923",
+      "date": "1/31/2019",
+      "rating": 5.0,
+      "title": "A very good experience, monday.com the best",
+      "text": "In the world of marketing and design, you have to be able to track and adjust your focus on a dime. The ability to easily adjust my priorities without losing sight of my workload for the week/month/year is easy with monday.com I think the iPhone app is a bit clumsy at times. Especially when it comes to editing or adding notes quickly.",
+      "role": "Senior Marketing Communications Manager",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/monday-com/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "The ability to easily adjust my priorities without losing sight of my workload for the week/month/year is easy with monday.com"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "1305511",
+      "date": "12/6/2018",
+      "rating": 5.0,
+      "title": "The workflow is now continuous and we reduce communication problems",
+      "text": "The level of organization that provides at all levels to meet the planned objectives So far satisfied, I've done a good job just a few details that are improving, I hope they improve the interaction with the Android operating system since I can not see the board when I alert a pulse that is inside that board.",
+      "role": "Verified User in Automotive",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/monday-com/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "So far satisfied, I've done a good job just a few details that are improving"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "1210323",
+      "date": "11/20/2018",
+      "rating": 5.0,
+      "title": "Monday has made our team communication \\*so\\* much better!",
+      "text": "I love the fact that we can post things on the boards, and simply tag the people who need to know about it. Everyone has the app installed on their phones, so they get an instant notification that someone has tagged them. We no longer have to worry about whether or not someone got included in an email chain or not -- everything is all in one place. And everyone knows to go check that place, and is reminded to check that place when they receive a notification about it on their phone. The one thing I wish you could do is, say, forward a calendar invite to a particular email address and have Monday.com create an entry on a board and put a deadline date on that entry. That's the one thing I still have to do manually when I get a calendar invite for a project with a deadline. It'd be nice to automate that process somehow.",
+      "role": "Events Services",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/monday-com/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "We no longer have to worry about whether or not someone got included in an email chain or not -- everything is all in one place.",
+        "resonance_evidence": "I love the fact that we can post things on the boards"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "1217738",
+      "date": "11/21/2018",
+      "rating": 5.0,
+      "title": "Clear and Concise",
+      "text": "For me the ability to set it and plan out team tasks leaves no ambiguity. You can customize colors and create groups. We actually speak more using the platform which allows folks to know who is responsible. I hate using programs so the only dislike was using a program. but can't deny how much it cleared up for our communication and execution.",
+      "role": "CEO",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/monday-com/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "how much it cleared up for our communication and execution"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "1216406",
+      "date": "11/21/2018",
+      "rating": 5.0,
+      "title": "A great tool that has transformed the way we work as a team",
+      "text": "It's simplicity, and its visual performance. We are able to work with our team on the other side of the world and can also work with our customers using the same streamlined system. A reduction of emails and wasted time on calls asking and repeating the same information several times. There is a lot available to use, and I'm sure we don't use enough of it. Perhaps a dded benefit would be some on boarding training.",
+      "role": "Verified User in Food & Beverages",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/monday-com/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "A reduction of emails and wasted time on calls asking and repeating the same information several times",
+        "resonance_evidence": "We are able to work with our team on the other side of the world and can also work with our customers using the same streamlined system"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "1212460",
+      "date": "11/21/2018",
+      "rating": 5.0,
+      "title": "Simple and fast work management",
+      "text": "What I like the most is its easy and quick accessibility to manage projects with complete ease. It is so easy to access from the mobile application without any inconvenience where I can post some things on the boards and even tag work colleagues to make the information reach them much faster; in this way it is clearer to send any message. It is an ideal support for project management, it is extremely simple to manage tasks and activities. The organization is incredible and besides everything is simple and fast. So far I have not had any negative experiences, I do not have much to complain about. I only have a small disagreement with the price, we are a very large work team and it has cost us a bit to pay for the price of the affiliation of each one of us. The support to the client is of fast assistance so I have been able to solve any problem that presents at the moment.",
+      "role": "Venture Capital & Private Equity",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/monday-com/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "I only have a small disagreement with the price"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "1212040",
+      "date": "11/20/2018",
+      "rating": 5.0,
+      "title": "Easy Adoption",
+      "text": "The flexibility was key for us in selecting this tool. Not to mention the usability facilitated easy adoption to a group with little to no project management exposure. Customer support replies within minutes vs hours and works with you to solve the problem or challenge. Great library of tutorials. It would be great if the recorded webinars and tutorials came up as an option with the help files.",
+      "role": "Verified User in Marketing and Advertising",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/monday-com/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Customer support replies within minutes vs hours and works with you to solve the problem or challenge"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "1760351",
+      "date": "2/13/2019",
+      "rating": 5.0,
+      "title": "Monday.com is a great tool for collaboration",
+      "text": "I like that it's very customizable, and that we can configure it for any number of projects. I like that everyone can easily see who has already seen each update/response to a task, it helps so we know who we need to tag in for final review. The in-platform search is great! It's so much better than using Google Drive for example. It seems like the company really cares about improvement and innovation, since they are constantly improving/adding to it/adding new integrations. Solid email notifications keep me up to date even when I haven't logged in for the day. I don't necessarily dislike it but... it's slightly confusing that there are two different notification centers (inbox vs notifications). I just formed my own way of handling organization of both notification sections & that solved the initial confusion.",
+      "role": "Growth Marketing Manager",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/monday-com/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "It seems like the company really cares about improvement and innovation, since they are constantly improving/adding to it/adding new integrations"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "1177210",
+      "date": "11/15/2018",
+      "rating": 0.0,
+      "title": "Quality Management System with the best support",
+      "text": "The system is so easy to use and help manage my teams work load. What I find unbelievable is the customer support. So fast, friendly and informative. The people are extremely friendly and the information they give you is more then what you expect. The new features notification is great, because it tells you of new features and it clearly shows you how to apply the new feature. Monday are constantly making updates which is amazing! It's hard to find what to dislike. Maybe simpler pricing tier, bit like basecamp. The mobile application could improve more. I would like to customise frontend elements, mainly elements that is unused. It would be nice to disable elements that are invasive. I am been picky with my dislikes. Overall the application works really well.",
+      "role": "Director",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/monday-com/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Overall the application works really well"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "4579461",
+      "date": "2/1/2021",
+      "rating": 0.0,
+      "title": "Over Billing / Poor customer service",
+      "text": "Quick to setup and no software required as this is all online. Poor customer services and they overcharge automatically. Our account increased by 1 user so instead of upgrading us within the current plan from 25 to 30 users they automatically move you to a new plan on 50 users licenses which doubled our monthly payment from \u00a3250 - \u00a3470 over night. We did get a 4 day warning however I had contacted support every day for 4 days telling them not to upgrade and switch to 30 users but guess what !! they didn't. Day 5 I raise this again to be told to email support and get this downgraded? Been doing this for 7 days now without any look and no telephone support. Currently downloading boards in preparation to switch",
+      "role": null,
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/monday-com/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "doubled our monthly payment from \u00a3250 - \u00a3470 over night",
+        "resonance_evidence": "Currently downloading boards in preparation to switch"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "4735901",
+      "date": "5/12/2021",
+      "rating": 0.0,
+      "title": "I love(d) monday.com until just recently",
+      "text": "My Work is the ultimate feature and I will be lost without it. I now have to find an alternative to monday.com becuase despite being an early adopter (when it was called DaPulse) and paying two-years at a time for the subscription. My new subscription has increased by over 30%. I cannot justify the cost and need to find an alternative.",
+      "role": "Project Director",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/monday-com/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "My new subscription has increased by over 30%",
+        "resonance_evidence": "I now have to find an alternative to monday.com becuase despite being an early adopter"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "5116726",
+      "date": "11/11/2021",
+      "rating": 0.0,
+      "title": "Very bad customer support - they cannot solve issues with the product for a month",
+      "text": "UX, UI, speed, easy to use, excel like management Customer Support, Gmail synchronization, Emails and Activities",
+      "role": "Verified User in Computer Software",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/monday-com/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "easy to use"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "5195977",
+      "date": "12/12/2021",
+      "rating": 0.0,
+      "title": "Flawed program",
+      "text": "Minimalist look of the site. Clean features without looking too busy or confusing. You cannot amend the fiscal year if your company starts differently from a calendar year. Instead, you are forced to look at the view from January to December.",
+      "role": "Verified User in Program Development",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/monday-com/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Clean features without looking too busy or confusing"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "5282942",
+      "date": "1/19/2022",
+      "rating": 0.0,
+      "title": "Needs more bake in time on the CX to be useful to sizable companies.",
+      "text": "Looks easy to use and share with teams and clients, and easy to sign up, but that's where things go off the rails. Admin features aren't intuitive and control of members is lax, resulting in quick \"auto upgrades\" without onscreen controls.",
+      "role": "Verified User in Information Technology and Services",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/monday-com/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "that's where things go off the rails"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "8189394",
+      "date": "6/7/2023",
+      "rating": 0.0,
+      "title": "Project and Grant Management for Non-Profit",
+      "text": "With monday.com, the ability to design, create, and implement specific workflows seamlessly with one platform has been most beneficial for my organization. While using monday.com, leadership has a centralized location for information and data. The features and capabilities of monday.com can be overwhelming with all of the templates, apps, and information to make the platform fit your established workflows.",
+      "role": "Derek H.",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/monday-com/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "has been most beneficial for my organization"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "8227898",
+      "date": "6/17/2023",
+      "rating": 0.0,
+      "title": "Misleading product & pricing strategy. Woeful product.",
+      "text": "It has the potential to be very powerful. You can customise it to work for any company and my dealings with their support have been very positive. I can't think of anything else I like about monday.com Their pricing & marketing is misleading. It's advertised as a project management tool but you only get their basic 'work OS' included and have to pay extra for their Projects app, which isn't mentioned anywhere on the site. On their site, they advertise it as a complete project management tool but when I queried this with their support team, they said you get a basic project management template for Work OS but that's not how they advertise the platform. When you look at their pricing, it sounds like you get everything for one decent price but then you have to pay extra for CRM & Projects (there are more). For just these 2 products (+ the work OS, which is like a to-do list) it cost \u00a390 a month for just 3 seats. This isn't mentioned ANYWHERE on their pricing table. We would gladly pay that amount if it meant having everything on one platform and having all tools talking to each other but you have to manually implement a load of automations in order to get this to work. This sounds fine on the surface but what happens if one of the automations breaks down? You might have 10-30 live projects. There's a really good review on Reddit by an agency owner who almost lost his entire business thanks to all the automations failing and a whole host of issues https://www.reddit.com/r/productivity/comments/t2n12k/mondaycom\\_review\\_its\\_almost\\_ruined\\_my\\_business/ We've gone back to Asana because it's simple, yet powerful. Monday.com just feels like such a lot of hard work and needless complexity just to get it to work.",
+      "role": null,
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/monday-com/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Their pricing & marketing is misleading"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "8492824",
+      "date": "8/17/2023",
+      "rating": 0.0,
+      "title": "Do not use if you are a growing business",
+      "text": "Nothing. It makes easy to do lists very complicated. Monday is very difficult to use compared to other platforms. We are a growing agency and a simple recurring task is made extremely complex on Monday. As an example - create invoice monthly needs an automation. If you have 20 recurring tasks you need 20 different automations. It is a nightmare and we used the platform for 45 days and they refused to provide a pro rata refund for us given the platform didn't meet our needs as we grew. Initially Monday seemed okay but as soon as our business started to grow quickly we saw way too many limitations with Monday. Do not use and use Asana instead.",
+      "role": "Jenn Y.",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/monday-com/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "used the platform for 45 days",
+        "resonance_evidence": "Do not use and use Asana instead"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "8777027",
+      "date": "10/27/2023",
+      "rating": 0.0,
+      "title": "Missing so many features",
+      "text": "It is very basic and user friendly for the simple users. It is terrible for complicated processes. Automation is severaly lacking. Every time I think I have figured out a solution to work around their lack of ability, I run into a different missing feature.",
+      "role": "Anna B.",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/monday-com/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "It is terrible for complicated processes"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "April 30, 2026",
+      "rating": null,
+      "title": null,
+      "text": "The AI integrations have been a game-changer for me, specifically for summarizing complex technical documentation and generating SEO-ready marketing content, which has significantly compressed our project lifecycles.",
+      "role": "Application Developer",
+      "company_size": "201-500 employees",
+      "source_url": "https://www.capterra.com/p/147657/monday-com/reviews/",
+      "sample_order": "page"
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "June 29, 2026",
+      "rating": null,
+      "title": null,
+      "text": "Monday.com lacks a native functionality for tracking overhead allocation, depreciation schedules, complex billing and earned value management .",
+      "role": "Director of Project Controls and Finance",
+      "company_size": "11-50 employees",
+      "source_url": "https://www.capterra.com/p/147657/monday-com/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "lacks a native functionality for tracking overhead allocation, depreciation schedules, complex billing and earned value management"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "April 28, 2026",
+      "rating": null,
+      "title": null,
+      "text": "Boards, columns, automations, and views can be tailored to suit different teams and workflows, allowing us to manage everything from day\u2011to\u2011day tasks to more complex operational processes in one platform.",
+      "role": "Senior Manager",
+      "company_size": "501-1,000 employees",
+      "source_url": "https://www.capterra.com/p/147657/monday-com/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "can be tailored to suit different teams and workflows, allowing us to manage everything from day\u2011to\u2011day tasks to more complex operational processes in one platform"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "April 30, 2026",
+      "rating": null,
+      "title": null,
+      "text": "Additionally, certain views and reporting tools lack depth compared to more specialised project management software, making it harder to extract detailed insights without extra setup or external tools.",
+      "role": "Operations Manager",
+      "company_size": "11-50 employees",
+      "source_url": "https://www.capterra.com/p/147657/monday-com/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "certain views and reporting tools lack depth compared to more specialised project management software, making it harder to extract detailed insights without extra setup or external tools"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "April 27, 2026",
+      "rating": null,
+      "title": null,
+      "text": "The ability to connect board - track multiple projects in one dashboard and the portfolio solution in enterprise are all amazing additions to company project tracking and workflow management.",
+      "role": "Commercialization Sr. Associate",
+      "company_size": "201-500 employees",
+      "source_url": "https://www.capterra.com/p/147657/monday-com/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "all amazing additions to company project tracking and workflow management"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "June 9, 2026",
+      "rating": null,
+      "title": null,
+      "text": "At first, I spent way too much time tweaking colors and columns instead of actually working. Plus, their \"seat-package\" pricing system (where you must pay for a minimum of 3, 5, or 10 users) deeply annoys me when I only need to add a single person.",
+      "role": "Senior Platform Engineer",
+      "company_size": "501-1,000 employees",
+      "source_url": "https://www.capterra.com/p/147657/monday-com/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "I spent way too much time tweaking colors and columns instead of actually working",
+        "resonance_evidence": "their \"seat-package\" pricing system (where you must pay for a minimum of 3, 5, or 10 users) deeply annoys me"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "May 13, 2026",
+      "rating": null,
+      "title": null,
+      "text": "As someone who builds automated operational systems for various service trades, I find the ability to customize boards for everything from high-level project management to granular lead tracking essential.",
+      "role": "CEO Owner",
+      "company_size": "2-10 employees",
+      "source_url": "https://www.capterra.com/p/147657/monday-com/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "I find the ability to customize boards for everything from high-level project management to granular lead tracking essential"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "April 29, 2026",
+      "rating": null,
+      "title": null,
+      "text": "In Asana, you can link multiple boards (or projects) quite easily, whereas in Monday, the process feels more complicated than it needs to be. While I understand that it is possible to connect boards, it requires setting things up in a very specific way, which can be confusing and less user-friendly.",
+      "role": "Brand Manager",
+      "company_size": "11-50 employees",
+      "source_url": "https://www.capterra.com/p/147657/monday-com/reviews/",
+      "sample_order": "page"
+    },
+    {
+      "portal": "Gartner Peer Insights",
+      "review_id": null,
+      "date": "Apr 22, 2026",
+      "rating": 4.0,
+      "title": "solid and flexible, but pricing tiers and mobile experience hold it back",
+      "text": null,
+      "body_gated": true,
+      "role": "Operations Associate",
+      "company_size": "250M - 500M USD, Energy and Utilities",
+      "sentiment_label": "FAVORABLE",
+      "source_url": "https://www.gartner.com/reviews/product/monday",
+      "sample_order": "page"
+    },
+    {
+      "portal": "Gartner Peer Insights",
+      "review_id": null,
+      "date": "Jul 15, 2026",
+      "rating": 3.0,
+      "title": "Clear visual layout and strong integrations, but navigation feels clunky",
+      "text": null,
+      "body_gated": true,
+      "role": "Digital Solutions",
+      "company_size": "50M - 250M USD, Manufacturing",
+      "sentiment_label": "CRITICAL",
+      "source_url": "https://www.gartner.com/reviews/product/monday",
+      "sample_order": "page"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-08-12",
+      "rating": 1,
+      "title": "We've been using Monday for a few years\u2026",
+      "text": "We've been using Monday for a few years now. Since they decided to push Ai, the app is getting worse with every update. I can't make a single move without some popup asking if I want an Ai agent to follow up or if I want to \"create a vibe board\" or whatever other stupid buzzwords they're trying to use. Because of this, things move significantly slower. I can't even upload a PDF without two popups and a wait. I used to love this app. Now I hate it. If they could give us an option to just use Monday how we were, we'd happily pay extra for that. Instead no, I can't even adjust the sidebar because their Ai options cannot be removed. It's to the point half of our sales team has abandoned using Monday and switched to teams.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-08-11",
+      "rating": 1,
+      "title": "Compares poorly against Jira",
+      "text": "As a frequent user of Jira, Monday compares very poorly against it. The logic is flawed and makes the interaction clunky and counter-intuitive. Worst element is the AI agents, which is laughable at best. Unfortunately my company made the switch purely focusing on cost-saving, which makes sense since Monday is an inferior product.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Monday compares very poorly against it"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-08-01",
+      "rating": 1,
+      "title": "ONLY GOAL IS THEIR REVENUE",
+      "text": "ONLY GOAL IS THEIR REVENUE Basic features are locked behind paywall, for example teams for guests are in enterprise plan xDDDDD Didn't know that I need a corporation to not tag every client team member separately.. Useless support. It could be AI - no difference. 0,5h to implement feature request waiting for years. Lack of basics needed to create client facing boards - you need 235209 marketplace apps which of course are in subscription model.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "0,5h to implement feature request waiting for years",
+        "resonance_evidence": "ONLY GOAL IS THEIR REVENUE"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-08-01",
+      "rating": 1,
+      "title": "monday.com zockt ab mit Dark Patterns im Userinterface",
+      "text": "monday.com biete Testabo an. Der eigene KI Support f\u00fchrt in die Irre, wo man die K\u00fcndigungsoptionen finden kann, hier das Zitat, als Beweis: Um zuk\u00fcnftige Verl\u00e4ngerungen zu stoppen, m\u00fcssen Sie den Plan k\u00fcndigen: \u00d6ffnen Sie monday.com Gehen Sie zu Admin Billing W\u00e4hlen Sie Ihren aktuellen Plan Klicken Sie auf Cancel plan / Abo k\u00fcndigen und folgen Sie den Schritten Es gibt keinen Punkt \"Cancel plan/Abo k\u00fcndigen\" - es gibt ganz weit auf der rechten Seite ein winzig kleines \"...\" Icon, ohne Tooltip, erst wenn man dieses gefunden hat, kommt man in den Genuss \u00fcberhaupt nur etwas \u00fcber K\u00fcndigung zu lesen. An vielen anderen Stellen, wird man aber sehr pr\u00e4sent auf Upgrades hingewiesen. Typische sogenannte \"Dark Patterns\" die eigentlich nur unseri\u00f6se Unternehmen n\u00f6tig haben.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Typische sogenannte \"Dark Patterns\" die eigentlich nur unseri\u00f6se Unternehmen n\u00f6tig haben"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-31",
+      "rating": 1,
+      "title": "Had an interview at this company about\u2026",
+      "text": "Had an interview at this company about a month ago for a CSM role with Claude Springer \u2014 a very unprofessional interview, given how \"senior\" he was on \"paper.\" The process itself was well structured up to the final round: an initial conversation with the recruiter, followed by interviews with the hiring team, which were professional, engaging, and genuinely positive. I went into the final stage with high expectations. The final round was with Claude (he had been at the company for less than 8 weeks) for a so called personality-based interview. The experience was very off-putting and intense. He mentioned within the first few minutes that he had been at Monday.com for less than two months \u2014 which, for a final-stage interview, raised immediate questions about why he had been chosen for it and why no one else was present. He also implied he was really good at reading people\u2019s personalities, which I found quite judgmental and impulsive. The tone throughout was casual to the point of being unprofessional; it felt more like an informal chat than a structured interview. Rather than focusing on the role or my experience, he spent considerable time on personal questions under the pretext of \u201cgetting to know someone\u201d \u2014 including questions about my family, despite the role not reporting to him directly. For example, I was asked to describe a negative trait my wife would use to describe me, to which I answered, \u201cI\u2019m too organized.\u201d He replied, \u201cThat\u2019s an interview answer \u2014 would you say you\u2019re impulsive?\u201d I honestly felt like he was finding ways not to hire me just to make a point, even referencing how they had recently hired two females. He also mentioned he used to work at a certain company, and when I said I\u2019d seen they were hiring, he replied, \u201cAre you applying to them?\u201d \u2014 which I found very odd and \u201cweird.\u201d Would suggest they take a look at who they hire",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "The experience was very off-putting and intense"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-29",
+      "rating": 2,
+      "title": "Decent app, poor customer service",
+      "text": "The app was helpful for a specific purpose but it is not worth the upcoming price increase. Our invoice history showed incorrect amounts - every year showing hundreds of dollars more than we ever paid them, which was weird and in no way matched the pricing we were given in our email. There is no way in our account or online with them to mark the subscription to non-renew nor to cancel outright. The chat process took nearly an hour and eventually they said they would send me information I must complete and return to them before they could cancel our account, but if I wanted to cancel 'right now' I just needed to agree to 'waive any and all claims' against them . . . say what??? No legitimate business says that for a simple subscription non-renewal. The whole process was ridiculous and became suspicious. When I insisted the agent fulfil his original offer to email me what he wanted me to complete and return, he said he would and immediately disconnected. Terrible customer service.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "every year showing hundreds of dollars more than we ever paid them",
+        "resonance_evidence": "Terrible customer service"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-27",
+      "rating": 2,
+      "title": "Disappointed With Support",
+      "text": "I expected better from monday.com but ran into some serious issues with customer support. My questions went unanswered for days, which really slowed down our project. The platform itself has potential, but without adequate support, it feels like a gamble. Not ideal!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "My questions went unanswered for days, which really slowed down our project",
+        "resonance_evidence": "Not ideal!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-21",
+      "rating": 1,
+      "title": "We canceled our account months ago yet\u2026",
+      "text": "We canceled our account months ago yet we can not get their AI call listener to not join our calls. We've reached out to support countless times. We reached out to our sales rep, yet the call listener still tries to join all of our calls.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "We canceled our account months ago yet we can not get their AI call listener to not join our calls"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-21",
+      "rating": 1,
+      "title": "Monday was misleading and a waste of time",
+      "text": "Working with Monday was a terrible experience that felt misleading at every turn. It is a decent project management tool, but if you're looking for CRM, look elsewhere. The CRM portion is heavily underdeveloped and not thought out well. Hubspot, Salesforce, Zoho or even Attio are all much better. Worst part of my experience was that when I cancelled my subscription, the Monday notetaker will not leave my calls. I've fully disabled and deleted the extension and integration with my calendar and email but the notetaker still gets on some of my calls. I've contacted Monday support close to 10 times about this issue and they will not fix it. This is an invasion of my privacy and I've requested multiple times for the notetaker to be reviewed but Monday will not help. Terrible product with worse customer service.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Working with Monday was a terrible experience that felt misleading at every turn"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-01",
+      "rating": 1,
+      "title": "So turned off of this program because\u2026",
+      "text": "So turned off of this program because it's constantly asking me to upgrade and pay more. Like so many other reviews I've seen... I keep hitting a limit with my current plan and need to upgrade. Already bought the standard plan for a full year. Wish I hadn't jumped in and done that right away. Will NOT be renewing. Don't waste your time setting up all your projects unless you plan to purchase the highest level (Enterprise) right away. I've wasted so much time.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Will NOT be renewing. Don't waste your time"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-29",
+      "rating": 1,
+      "title": "Lack of support",
+      "text": "Despite persistent issues, there is no resolution forthcoming. Only promises. This is nearly ongoing for 2 months. Happy to take your money upfront, but when it comes to actual needed, urgent support, you are lucky if they bother to do anything of substance. The level of urgency does not register. Instead you as a customer sit with broken workflows, persistent bugs (without any reason) that no one can figure out or explain, except monday.com. There are other options out there. Do not use monday.com if you are hoping for active support that actually resolves issues timeously. Bad bad choice.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Do not use monday.com if you are hoping for active support that actually resolves issues timeously. Bad bad choice."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-29",
+      "rating": 1,
+      "title": "The support is awful",
+      "text": "The support is awful, we have been trying to fix an issue for months. It works for a week and then will randomly break. No notifications that it isn't working. Just silence. I will then contact support, get given a ticket, speak to the same support guy over and over again. It is like they only have one person who can do it? I then solve the problem myself as support do not help, integration breaks again. Repeat.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "The support is awful"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-25",
+      "rating": 1,
+      "title": "Unbelievable support",
+      "text": "Unbelievable support , as CEO of company I am asking resetting of admin access and it\u2019s almost 72 hours and they can\u2019t change a username and password\u2026. T250k\u20ac worth of data in hands of admin who locked me out !!!!!1 Amazing one - monday.com, never again !!!!!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-25",
+      "rating": 2,
+      "title": "Platform bug locked me out of my own board \u2014 weeks without resolution",
+      "text": "I want to start by saying that monday.com is genuinely a powerful platform, and for day-to-day work management it has served our nonprofit organization well. That is why this experience has been so frustrating. The beginning of this week, I was completely locked out of a board that I created, own, and administer. Following a routine workspace move, the system flagged me as \"Not Eligible\" at the board level \u2014 overriding my board ownership and my account admin status entirely. I can view the board but cannot edit it, despite being its creator. This is not a configuration issue. It is a platform bug. What makes this worse is the support experience that followed. I contacted monday.com through: Live chat support \u2014 no resolution A formal support ticket \u2014 no resolution Our sales representative \u2014 no resolution As of today, the issue remains open. I rely on this platform for critical HR workflows and have been left without access to an essential board, with no timeline for a fix. I understand that bugs happen. What is not acceptable is the inability of multiple support channels to escalate a clear, straightforward technical issue to the engineering team for a backend fix. This should have been resolved quickly. I hope monday.com takes customer escalations more seriously. For organizations that depend on this platform for mission-critical work, an unresolved bug of this nature is simply not acceptable. David Stahl",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "I was completely locked out of a board that I created, own, and administer",
+        "resonance_evidence": "an unresolved bug of this nature is simply not acceptable"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-25",
+      "rating": 1,
+      "title": "Only communicate when they want more money",
+      "text": "After many attempts for help, support and to communicate how the platform is working , especially the new AI feature, we are repeatedly asked to provide the same details. Very poor support model, cant speak to anyone, everything is done via chats and emails when the matter can be resolved quickly with a call. Considering we want to use the enterprise, I feel this is all about making money and not making partners happy.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Very poor support model"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-20",
+      "rating": 2,
+      "title": "No Follow-up",
+      "text": "To Whom It May Concern, I wanted to take a moment to share some constructive feedback in the hope that it may help your organization improve its customer experience. As a company, we receive countless sales pitches and service offerings. Most are not a fit for our needs, but occasionally we come across a company or product that appears to offer genuine value. When that happens, we expect the level of service and follow-through to match the quality of the offering being presented. Unfortunately, that has not been our experience with your organization. Your sales representative was very responsive in reaching out and scheduling an initial meeting. That meeting was productive and left us encouraged about the potential opportunity to work together. During the discussion, we provided several pieces of information via email that were requested for further evaluation. We were told your team would review the information and follow up to schedule a second conversation. To date, however, we have received no response. Despite multiple follow-up emails and a voicemail message on our part, we have experienced complete silence. This has been particularly disappointing because we were genuinely interested in your product and were looking forward to exploring a partnership with your team. The lack of communication has left us questioning whether your organization values prospective customers once the initial sales conversation has taken place. I share this feedback not out of frustration alone, but because there appears to be a disconnect between the positive first impression created by your sales process and the follow-through required to build confidence and trust with potential clients. We hope this feedback is helpful and that it can be used to improve the experience for future prospects.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "we have experienced complete silence"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-16",
+      "rating": 3,
+      "title": "The company hides paywalls for services\u2026",
+      "text": "The company does cleverly hide certain paywalls for services you would assume to be inclusive, for example you can \"Alter your permissions\" but once you have everything setup, you will find that *certain* aspects the permissions actually require Enterprise Plans, it is worth, for new customers, to be very sure of what the product offers before jumping in too deep. Without these permissions settings it is very difficult to collaborate with internal teams and external clients effectively. They are now requiring clients to buy expensive AI bundles, there's no option not to have them. After speaking to their sales team, it is noted that portions of their client base don't want it but have to pay for it anyway. For example, I was using the Pro plan (stage 3 out of 4) and paying \u00a31,200/y. I then spoke to someone in web chat and he quoted me \u00a32,200/y for Enterprise, then when I spoke to a sales person, it then went up to \u00a33,800/y. So it is worth getting 100% clarity on pricing structures, as the process doesn't feel seamless.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "I was using the Pro plan (stage 3 out of 4) and paying \u00a31,200/y. I then spoke to someone in web chat and he quoted me \u00a32,200/y for Enterprise, then when I spoke to a sales person, it then went up to \u00a33,800/y",
+        "resonance_evidence": "the process doesn't feel seamless"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-16",
+      "rating": 1,
+      "title": "No support any more",
+      "text": "No support any more. They send you to their chat bot who does not send you to a customer rep. I lost access to my account and it kept sending me to the support page where it sends you back to the bot. This is an expensive program - it should have support. I'm more than frustrated! These companies think AI replaces real people and it does not!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I'm more than frustrated!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-08",
+      "rating": 1,
+      "title": "M\u2019a vol\u00e9 toutes mes donn\u00e9es.",
+      "text": "M\u2019a vol\u00e9 toutes mes donn\u00e9es.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-06",
+      "rating": 1,
+      "title": "Absolute rubbish software",
+      "text": "Absolute rubbish software, would give it zero stars if I could. Slick advertising, but when you get it, it delivers nothing, just empty promises.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Absolute rubbish software, would give it zero stars if I could"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-03",
+      "rating": 5,
+      "title": "Great Project Management Tool",
+      "text": "very useful tool for organizing work and improving team productivity.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "very useful tool for organizing work and improving team productivity"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-01",
+      "rating": 1,
+      "title": "Monday.com is distasteful in how they try to force upgrade their customers to pay more",
+      "text": "Monday.com meets 60% of our needs, but over the years it did not seem to meaningfully improve for our needs. Which also means it does not help to boost our productivity. What disappointed me the most is when the staff contacted us and tried to forcefully upgrade our plan. The staff was \u201cconfident that Monday.com was delivering value\u201d. Asked if there\u2019s any challenge I was facing, so he could resolve for me and proceed to upgrade me. After I described my challenge to him. Poof, he disappeared. Says a lot about the team working behind Monday.com. Trying to extract as much as possible from existing clients without putting in the effort to deliver value. I understand many businesses do that but unfortunately Monday.com way of doing it is distasteful. Overall, I advise new businesses who are going into Monday.com to be weary of the longer term costs, for what is essentially an advanced spreadsheet.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "Monday.com meets 60% of our needs",
+        "resonance_evidence": "it did not seem to meaningfully improve for our needs"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-22",
+      "rating": 1,
+      "title": "Unsubscribe link does not work",
+      "text": "Unsubscribe link does not work, which is illegal",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Unsubscribe link does not work, which is illegal"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-21",
+      "rating": 1,
+      "title": "Purtroppo monday ha cambiato il\u2026",
+      "text": "Purtroppo monday ha cambiato il servizio poco dopo il nostro rinnovo. CI serviva per mandare email e dopopoco, un servizio che abbiamo pagato 1000 euro l'anno per funzionare tramite nuovo software ci ha chiesto altri 50 euro al mese. ovviamente senza rimborso, decisamente una truffa",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "abbiamo pagato 1000 euro l'anno per funzionare tramite nuovo software ci ha chiesto altri 50 euro al mese",
+        "resonance_evidence": "decisamente una truffa"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-13",
+      "rating": 1,
+      "title": "have a platform for my business",
+      "text": "I signed up for Monday.com hoping to build an operational system for my real estate business, but unfortunately the onboarding and support experience was extremely disappointing. The platform itself may work for some businesses, but setting it up properly for a more complex operation requires real onboarding assistance. Unfortunately, Monday.com relies heavily on AI customer support. Everywhere you go for help, you are first forced through AI bots, and it is very difficult to reach an actual human being. Eventually, after lengthy chats and constant back and forth with bots, I was able to reach a \u201chuman agent\u201d through chat. However, for something as technical as setting up a CRM and workflow system for a business, chat support alone is simply not enough. There is no easily accessible phone support or direct human assistance available. I finally scheduled a Zoom onboarding meeting with an agent, but halfway through the call the meeting disconnected without explanation and I could not reconnect with the same person. I then had to restart the entire support process all over again through the AI system, only to be told that I could only speak with that same agent the next day. Another Zoom meeting was scheduled for 11 AM the following day, but the agent never joined the meeting. Emails went unanswered and once again I had to repeat the entire bot/chat process just to get another human to send a message to the agent. The entire support system feels disorganized, overly dependent on AI, and extremely frustrating for businesses that need real onboarding and technical guidance. Unfortunately, because of this experience, I will be ending my business with Monday.com.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "the onboarding and support experience was extremely disappointing"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-21",
+      "rating": 2,
+      "title": "Impossible to close account",
+      "text": "I did the free trial and decided the product wasn't for me, but it's absolutely horrible trying to close the account or even unsubscribe from emails. This is not a company that respects GDPR.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "it's absolutely horrible trying to close the account or even unsubscribe from emails"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-17",
+      "rating": 1,
+      "title": "Buggy",
+      "text": "Buggy, takes up a ton of our time trying to get it to work. Expensive. Cludgy. Seriously, don\u2019t do this to yourselves, the white papers and marketing bs isn\u2019t what your experience will be.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-16",
+      "rating": 1,
+      "title": "Great until you need support.",
+      "text": "Great until you need support. If you need any support with your Monday.com boards expect simple questions to take considerable time or AI bot to divert you to unhelpful/unrelated links. On average 2 hours per issue has been incurred by our team for 'live' chat support for simple linking board questions. Also expect questions unrelated to your question to be repeatedly asked over long delays, and where you present using there screen record feature to demonstrate your issue, there 'awesome team' will spend considerable time carefully find alternative unrelated matters to focus their attention and never get round to answering your support question. A formal complaint has been attempted but this appears to have been redirected back to their 'awesome team' so we will see how that goes. It seems to be encouraged to find a Certified Partner', who will charge you thousands for a full refresh/consolidation of your system when all you need is basic support. We will be reconsidering our company subscription.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "On average 2 hours per issue has been incurred by our team for 'live' chat support for simple linking board questions",
+        "resonance_evidence": "We will be reconsidering our company subscription"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-14",
+      "rating": 1,
+      "title": "Little companies NOT welcomed!!",
+      "text": "Inquired about their products but apparently their sales team can't be bothered unless you want 25+ licenses. With service like that up front to get your business, I can only imagine how bad it is after they get you. And based on the reviews, we dodged a bullet. Better options out there, seems Monday.com has become elitist.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "we dodged a bullet. Better options out there"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-13",
+      "rating": 3,
+      "title": "It\u2019s great if you love tech",
+      "text": "Our real estate office moved to this recently. It\u2019s very colorful, and I love seeing the boxes turn green when I finish a task. However, it feels like I spend more time updating the app than actually talking to clients. It\u2019s great if you love tech, but it\u2019s a bit over-complicated for simple daily work.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-10",
+      "rating": 1,
+      "title": "This company is a scam\u2026",
+      "text": "This company is basically a subscription scam. Once they have your credit card information, they will continue charging you even after sending written cancellation requests. I am on year number two after involving my credit card fraud department and they are still charging my card.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "This company is basically a subscription scam. Once they have your credit card information, they will continue charging you even after sending written cancellation requests"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-09",
+      "rating": 1,
+      "title": "It is one of the worst/hard product we\u2026",
+      "text": "It is one of the worst/hard product we have used in our team",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "It is one of the worst/hard product we have used in our team"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-03-31",
+      "rating": 2,
+      "title": "Their Own Worst Enemy",
+      "text": "Edit: One of their staff, Jazlyn, did contact me afterwards and was very pleasant. She made me a counter-offer, but it still fell significantly short of what I was after. I was looking for something to fulfil the needs of Microsoft Planner for my own self organisation, so I thought I'd give Monday.com a go. I was getting the hang of it. I found the automations a little odd, but I soon got used to them. Then my trial came to an end. I was keen to continue with them, to spend money on their service, but you have to buy a minimum of 3 licences to get the automation feature! I tried working something else out with the AI agent, no joy. I requested a human agent, I waited, but nobody showed up. Okay, so you're more geared towards teams, that's fine. But if an individual wants to utilise your service, surely you want to accommodate them and not turn away their business? These are the hallmarks of an inflexible and unprofessional business. I'm going to use Google Tasks instead now. Congratulations Monday.com, you lost a potential sale.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "you have to buy a minimum of 3 licences to get the automation feature",
+        "resonance_evidence": "I'm going to use Google Tasks instead now. Congratulations Monday.com, you lost a potential sale"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-03-29",
+      "rating": 1,
+      "title": "Don't even visit they're site!",
+      "text": "I used Monday few years ago, it was helpful but a little to expensive. Few days ago I visited monday.com to take a look as I am looking for similar app. I did not subscribe or give my email but still I'm getting sales emails that I can't unsubscribe from. Tried going to the site again and talked to a robot who could not help me and if I wanted to talk to a human I needed to start a 14day free trial. Needless to say I will never use they're service, and will never stop recommend to stay away from this company.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I will never use they're service, and will never stop recommend to stay away from this company"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-03-26",
+      "rating": 1,
+      "title": "Monday.com promised a lot",
+      "text": "Monday.com promised a lot, yet barely kept any of their promises. A migration from a US server to a European server was performed extremely unprofessionally, by doing it manually by them, destroying any history of the notes and tasks, as all comments were suddenly by them and the created/modified times were all refering the week of migration. During the migration they also didn't bother to update the permissions and thereby leaking boards to other departments. Finally, due to not assigning the correct persons, my personal board with sensible notes could not be deleted by myself and the support refused to delete my board, despite proof being there, that it was my board to begin with. Since they AI boom they keep adding more and more disgusting AI slops, forcing them everywhere. The worst part is that they keep breaking their CI/CD, as it's obvious that their AI slop tools is always extremely colorful with annoying animations, whereas everything else looks profesionally designed. My company forces me to use the tool, but I would 100% not recommend even just considering using that AI-slop infected notes app",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "destroying any history of the notes and tasks, as all comments were suddenly by them and the created/modified times were all refering the week of migration",
+        "resonance_evidence": "I would 100% not recommend even just considering using that AI-slop infected notes app"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-03-21",
+      "rating": 1,
+      "title": "It's awful",
+      "text": "It's awful. It's basically like Excel, except you can't ever get a hold of anyone at the company. Everything is only AI support and they just continue to bill you for stuff you didn't ask for.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "It's awful."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-03-17",
+      "rating": 1,
+      "title": "Charged After Cancellation and No Notice on Feature Removal",
+      "text": "I had been happily using Monday.com\u2019s CRM product last year when, without any prior communication, their quotes feature was suddenly retired. This created significant disruption for my business and resulted in weeks of additional manual work. After a prolonged back-and-forth with the CEO\u2019s team, I eventually secured a refund for the remaining time on my subscription. However, despite cancelling last year and clearly explaining that the product no longer worked for my needs, I was charged again in full for this year. Dealing with customer support has been equally frustrating. Mary Joyce Pasquale insisted that I was outside the terms of the agreement and that only a pro-rated refund could be offered, which feels unreasonable given the circumstances. Overall, this has been a very disappointing experience \u2014 both in terms of the product and the level of customer service. I would not recommend Monday.com. There are far better alternatives available, such as Asana or Trello.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "resulted in weeks of additional manual work",
+        "resonance_evidence": "I would not recommend Monday.com. There are far better alternatives available, such as Asana or Trello."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-02-28",
+      "rating": 1,
+      "title": "Stop harcelement pub",
+      "text": "Stop harcelement pub",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-02-28",
+      "rating": 2,
+      "title": "if youre a solo business person dont bother",
+      "text": "Monday.com is usefull as a tool and absolutley brilliant for business. In saying that I have maxed out my free plan and will have to delete business records or pay for 12 months for 3 people. Im a single business and I have no employees and will never have an employee. I approached monday.com to see if they could offer a single person plan and was essentially told to bad, so sad pay $60 AUD a month or stay on free and delete business records as you need room. the issue is monday.com has the most user friendly interface, other platforms will create a single user subscription but monday.com just don't care about small business. I'm off to try another platform.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I'm off to try another platform."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-02-19",
+      "rating": 5,
+      "title": "Before Monday.com, it wasn't smooth sailing...",
+      "text": "Before Monday.com, my team\u2019s workflow felt like herding cats. Tasks got lost, deadlines blurred, and updates were scattered across emails and chat threads. Monday.com changed that. I can assign tasks, track progress, and see who\u2019s doing what in one glance. The notifications keep me in the loop without feeling spammed. Color coding and boards make it easy to spot urgent items. The team collaborates smoothly, sharing files and updates without endless back-and-forth. It turned chaos into order and actually made managing projects enjoyable. I can finally breathe knowing everything is organized and visible. Monday.com didn\u2019t just streamline work; it made the team feel connected and on the same page.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-02-17",
+      "rating": 4,
+      "title": "Need better API but overall good",
+      "text": "Need better API but overall good They race to create an app for everyhing but end up lacking in all the offerings except for the core offer (monday work management) Great bare bone though and autopilot hub been a great addition - wish there's an API way of setting up automations & integrations",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Need better API but overall good"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-02-17",
+      "rating": 1,
+      "title": "I would not recommend this service.",
+      "text": "I would not recommend this service.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-02-10",
+      "rating": 1,
+      "title": "Your typical AI slop company with fake\u2026",
+      "text": "Your typical AI slop company with fake ai adverts",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Your typical AI slop company with fake ai adverts"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-02-08",
+      "rating": 1,
+      "title": "Frustrating for top salespeople.",
+      "text": "Frustrating for top salespeople. A good way of increasing admin costs.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "A good way of increasing admin costs",
+        "resonance_evidence": "Frustrating for top salespeople."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-01-29",
+      "rating": 1,
+      "title": "Absolutely unusable app",
+      "text": "Absolutely unusable app, extremely inconvenient. Some kind of perversion. Should only suit the most desperate masochists.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Absolutely unusable app, extremely inconvenient. Some kind of perversion. Should only suit the most desperate masochists."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-01-28",
+      "rating": 2,
+      "title": "Sign up / Pricing is VERY misleading...",
+      "text": "I really like the product but the pricing structure is VERY misleading. Signed up for a trial - liked it so decided to purchase a membership. You can only purchase 3 seats as a minimum, which for a solo business is pointless. Why price quoted is PER SEAT, not the total price. This feels like what it is, ie a sharp tactics to get you to sign up for a trial, then purchase a subscription once you are far enough in for it to feel inconvenient to cancel. \"Stuff it\" I thought and paid for 3 seats. Within zero time at all I receive multiple alerts that I was up to every limit under the sun - and would need to upgrade. i have barely started using the software. I then checked out the TrustPilot reviews and obviously, their page is rife with this kind of BS. Have cancelled (which by the way takes a LOT of hunting around to find out how to do this. It is however VERY easy to upgrade - funny that). Monday.com looked to me like it was going to be a good product and serve the business well. However, I don't like the feeling I'm being played which is exactly what Monday.com are doing. If they weren't so greedy and underhanded with their sign up I'd have happily subscribed to their product.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I don't like the feeling I'm being played which is exactly what Monday.com are doing."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-01-21",
+      "rating": 1,
+      "title": "This program is not built for project management or enterprise use",
+      "text": "This program is not built for enterprise or complex use. The program is so flawed and I may not be able to stop where it has been adopted in a few areas, but glad I can list and show why to other departments this is a continued disaster and not usable for broader use. Reaching out to development was pointless. So all efforts going to prevention and showing other departments the issues and responses back from Monday to show why this is more difficult to use than Salesforce for anything that has any hint of complexity or is enterprise level. You have to create backward uses for the smallest things and it's simply horrible.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "This program is not built for enterprise or complex use. The program is so flawed and I may not be able to stop where it has been adopted in a few areas, but glad I can list and show why to other departments this is a continued disaster and not usable for broader use."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-01-21",
+      "rating": 1,
+      "title": "UX/UI is BAD",
+      "text": "i cannot use everything on my laptop because the popups and items gets cut - you are not adapted to a 15 inch screen? really? how am i supposed to work? very disappointing, and it explains why they don't show you a demo with an AE and they barely let you use the platform before buying - they know it will hurt their closing rates. Also, I don't know what type of campaign is in the \"done\" section, because they don't add the title to the ticket. so everything that's done, looks the same. I add unique names myself as a comment, so I know what is what. I'm paying you for this service and at the end I'm doing it myself.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "very disappointing, and it explains why they don't show you a demo with an AE and they barely let you use the platform before buying - they know it will hurt their closing rates."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-01-19",
+      "rating": 2,
+      "title": "Honestly, had enough.",
+      "text": "Honestly, just so sick and tired of paying for this and that at every turn. If you really want to use the platform in any meaningful way you have to use the pro version. And even then they'll ask you to pay to use AI, to pay for every little marketplace tool, paying for more modules, paying for additional automations. Really? You need to pay more for the exact reason they pull you in to sign up.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Honestly, just so sick and tired of paying for this and that at every turn."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-01-08",
+      "rating": 2,
+      "title": "Wouldn't recommend to anyone",
+      "text": "Wouldn't recommend to anyone. I'm working with someone who uses Monday.com. We're a startup so I was interested in potentially using it for our business (currently everything's in Notion). So far I've made a very basic Kanban board that immediately started glitching out in Chrome and became unusable. Live chat couldn't help, passed me to tech support who are still dealing with it. Then I made a board with a form (to allow users to submit tickets) and wanted to create an automation sending tickets from the form's board to other boards based on criteria (like bugs to a dev board) - all of this would take place within Monday.com (board to board), something I'm currently able to do in Notion easily. This costs automation \"credits\" and despite my account showing we've only used 111/250 in the month, I am unable to make new automations because I've hit the account limit. Again: live chat to tech support because live chat had no idea. Now tech support are telling me we'e used 1800 runs this month, yet I can't see that anywhere (as an admin) in their usage reporting. I'm wasting precious time not revamping our dev process because I'm waiting for Monday.com to become usable. Live chat is awful because it's an AI bot that you have to try to get past to get to a human. The interface isn't great. The feature set isn't great. Layout options are limited. All in all, I'm unimpressed.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "despite my account showing we've only used 111/250 in the month, I am unable to make new automations because I've hit the account limit. Again: live chat to tech support because live chat had no idea. Now tech support are telling me we'e used 1800 runs this month",
+        "resonance_evidence": "Wouldn't recommend to anyone."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-01-07",
+      "rating": 1,
+      "title": "Not useful for project management",
+      "text": "Not useful for project management. Lack of features and lack of usability.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Not useful for project management. Lack of features and lack of usability."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-01-07",
+      "rating": 1,
+      "title": "Useless for project management",
+      "text": "Imposed by my company and for my work, Project management, is completely useless. You can do nothing and the simplest functions are not available because they are not implemented. Don\u2019t waste money on this software. I just use a common spreadsheet (we all know the name) and works much faster and easier.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "I just use a common spreadsheet (we all know the name) and works much faster and easier.",
+        "resonance_evidence": "Imposed by my company and for my work, Project management, is completely useless."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-12-22",
+      "rating": 1,
+      "title": "\"you will be blocked\" - Every Employee. Every Day. For 6 Month.",
+      "text": "We used Monday.com at the heart of our Project management. Until we decided to switch to another tool due to to many limitations we bumped into on Monday.com. Therefore we canceled the yearly subscription, with the resulting message EVERY single Employee of the company has to see not EVERY sindgle Day for the rest of our usage period showing: \"Your plan's renewal has been cancelled and you will be blocked on May 8, 2026. Customer support said the only solution for me would be to undo the cancelation. Just confirms our decision to move away from Monday.com.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "we decided to switch to another tool due to to many limitations we bumped into on Monday.com"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-12-16",
+      "rating": 1,
+      "title": "Watch for auto-renew scam....",
+      "text": "Service auto-renews with no email notification. By the time I noticed the payment had gone through, I was not able to get a refund because I was out of the 30-day window. Scam.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Scam."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-12-16",
+      "rating": 1,
+      "title": "Don\u2019t make our mistake",
+      "text": "Passed us onto a 3rd party on their approved list to build a custom planner in their platform. Failed to deliver the build as per the brief, prior to testing it Monday threatened to close the platform if we didn\u2019t pay the \u00a37,000 subscription fee which would then lose all our of data so we would have paid the 3rd party approx \u00a37,000 for nothing. Mis-selling and sharp practice to the extreme. Our dedicated Monday advisor hasn\u2019t even been in touch to sort any issues out. Having to go down the legal route to recover the \u00a314,000. Please don\u2019t put yourself through the same experience we did.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "Having to go down the legal route to recover the \u00a314,000",
+        "resonance_evidence": "Mis-selling and sharp practice to the extreme"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-12-16",
+      "rating": 5,
+      "title": "Best for Teams",
+      "text": "I have been using Monday for couple of months now. I started with the free trial and I have been happy with it ever since. The tools are super easy to use and mostly how smoothly me and my team integrate and work together. It is a bit expensive but hey, nothing comes close to Monday when it comes to managing projects. And they always keep on updating the features.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "nothing comes close to Monday when it comes to managing projects"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-12-15",
+      "rating": 1,
+      "title": "Bait and switch",
+      "text": "After a two-week trial, I subscribed to monday.com\u2019s Basic Plan expecting the same functionality I tested. Immediately after payment, key features were removed and I was prompted to upgrade to the much more expensive Pro Plan to regain them. Since the Pro Plan was not affordable for my business, I requested a cancellation right away. Despite not using the service, customer support refused a full refund and kept part of the first month\u2019s payment, citing company policy. This experience felt misleading and disappointing. I would not recommend monday.com to small or budget-conscious businesses.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I would not recommend monday.com to small or budget-conscious businesses"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-12-11",
+      "rating": 1,
+      "title": "signed up as it says \"free forever",
+      "text": "signed up as it says \"free forever, no card required\" after a week i have been locked out unless i pay for it. total lies",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "after a week i have been locked out unless i pay for it",
+        "resonance_evidence": "total lies"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-12-04",
+      "rating": 1,
+      "title": "Be careful!! They have a sneaky \u00a31k auto upgrade\u2026",
+      "text": "They have a very sneaky auto upgrade feature, if you invite an extra person and don\u2019t get the guest or member notification correct, they auto upgrade and bill you \u00a31000 a time. It\u2019s caught me out and if it\u2019s over 30days before you notice the bill they won\u2019t refund. In response to the below, I didn't get any notification, they just bill. I had a lengthy discussion with the team. They do not seem to understand the term pro rata - I was charged around \u00a31k / I had around half the time unused and they offered me \u00a346 - as I said at the time that is not how pro rata works! There was no time/cost division applied.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "they auto upgrade and bill you \u00a31000 a time",
+        "resonance_evidence": "They have a very sneaky auto upgrade feature"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-12-01",
+      "rating": 1,
+      "title": "Shit",
+      "text": "Really poor experience, do not recommend EVER",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Really poor experience, do not recommend EVER"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-11-30",
+      "rating": 1,
+      "title": "Waste of money.",
+      "text": "Waste of money.. Israeli owners and the head office in Israel never deals with any problems",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Waste of money"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-11-27",
+      "rating": 1,
+      "title": "Overpriced and Poor Development (THERES A THIRD PARTY APP FOR THAT!)",
+      "text": "Absolutely appalling communication from the team. Lack of development in key areas (seriously, check their forum, basic requests from 2019 still outstanding) and just overall a bit of a letdown in terms of service! Pricing is horrific, because you WILL have to pay additional for 3rd Party Apps to achieve something very basic. If a feature request can be achieved by a third party app, they simply won't develop Monday, you will be told to buy apps constantly. Focus seems to be entirely on AI and poor implementation of apps. They have software called Vibe which is supposed to build apps, but it can't be relied upon as the data is inconsistent. You can see a pattern with the reviews on this website, too. Very, very disappointed.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Absolutely appalling communication from the team"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-11-19",
+      "rating": 3,
+      "title": "Super expensive.",
+      "text": "The tools works well and easy to manage, but the pricing becomes tough to justify. A lot of essential admin control and deeper features are locked behind higher plans. which makes it feel limiting.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "The tools works well and easy to manage, but the pricing becomes tough to justify"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-11-18",
+      "rating": 3,
+      "title": "keeps on bugging......",
+      "text": "poor customer service, and it keeps on bugging. i only have small team yet it can't handle our basic workflow properly...",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "poor customer service, and it keeps on bugging"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-11-12",
+      "rating": 1,
+      "title": "We have a small business and still the\u2026",
+      "text": "We have a small business and still the platform can not handle our workload. The platform constantly freezes, bugs out and incorrectly loads our data. After a long attempt transfer to this CRM we will have to transfer everything back to our old platform.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "transfer to this CRM we will have to transfer everything back to our old platform",
+        "resonance_evidence": "The platform constantly freezes, bugs out and incorrectly loads our data"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-11-07",
+      "rating": 1,
+      "title": "Horrible Customer Service",
+      "text": "If i could give it a -5 review I would. Horrible customer service, their time to reply is weeks, I've had a payment issue for over a month and have spoken to multiple customer service representatives to which they all say \"I've raised it to the team, it will take some time to review\". Their resolution systems are appalling, getting passed around from person to person and no one has a clue how to solve anything.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "I've had a payment issue for over a month",
+        "resonance_evidence": "If i could give it a -5 review I would"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-11-05",
+      "rating": 2,
+      "title": "OK system, really bad customer service.",
+      "text": "I\u2019ve been using Monday.com for quite some time, both in my current company and in my previous one. The platform is generally fine, but it still lacks some essential core features \u2014 for example, automatic updates to linked items across main boards. Interestingly, several third-party apps in the marketplace already offer these functions and are among the most popular ones, which says a lot about the product\u2019s current limitations. What has made Monday.com acceptable up to this point is its pricing. However, as your needs grow, you\u2019ll likely end up paying extra for third-party tools to make the system work the way you want. We\u2019re currently on the Enterprise Plan and have continuously expanded our number of seats. Unfortunately, their SLA and support experience have been disappointing \u2014 slow responses and little genuine engagement when you reach out. The only time they proactively contact us is during contract renewals, usually to increase the price. During my recent renewal meeting, I asked for a clear justification for the price hike. The only response I received was that it\u2019s my responsibility to check their website for new features \u2014 a weak argument, especially considering that our operations haven\u2019t benefited from any significant improvements since we first joined. To make matters worse, when we wanted to add the Monday Service app for basic needs, we were told that \u2014 since we\u2019re on the Enterprise Plan \u2014 the only available option is a license costing \u20ac65 per month, even though our use case clearly fits within the standard plan. Overall, this gives a poor customer experience and a clear impression that the focus is not on the customer\u2019s needs, but rather on maximizing revenue. After this renewal year, we\u2019ll begin working towards integrating our operations into another system.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-11-01",
+      "rating": 1,
+      "title": "Tr\u00e8s mauvaise exp\u00e9rience",
+      "text": "Je suis entrepreneur (conseil, innovation, formation\u2026) depuis 20 ans, c\u2019est le pire rapport qualit\u00e9 / prix que j\u2019ai exp\u00e9riment\u00e9 sur un outil. Nous l\u2019avons impl\u00e9ment\u00e9 dans une entreprise de 50, c\u2019est une catastrophe (\u00e0 part la profondeur des fonctionnalit\u00e9s et la modularit\u00e9) : je trouve que cet outil n\u2019est pas moderne (ergonomie, design, technique\u2026), pas fonctionnel (une vraie usine \u00e0 gaz, avec des basiques pas au niveau - m\u00eame un export Excel propre est compliqu\u00e9), les prix augmentent chaque ann\u00e9e dans des proportions d\u00e9raisonnables\u2026 bref, je ne recommande pas du tout \u00e0 tous les entrepreneurs de France et d\u2019ailleurs. Impact n\u00e9gatif \u00e9norme chez nous, bien au-del\u00e0 des 150 k\u20ac que \u00e7a nous a cout\u00e9 de le mettre en place\u2026 et ce que \u00e7a va nous co\u00fbter d\u2019en partir. On a bien s\u00fbr une part de responsabilit\u00e9 : dans le choix, dans les process, dans l\u2019impl\u00e9mentation\u2026 mais vraiment, le CRM, comme l\u2019outil de pilotage de la production, sont quand m\u00eame d\u2019un mauvais rapport qualit\u00e9-prix. En esp\u00e9rant que cet avis aide d\u2019autres CEO \u00e0 ne pas faire la m\u00eame erreur que nous.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-10-23",
+      "rating": 2,
+      "title": "Really like Monday platform but the\u2026",
+      "text": "Really like Monday platform but the customer service has been very poor. Our company currently subscribe to Monday workspace but are trying to migrate over to Dev which we need some help with. We reported an issue on the 3rd of September and were connected with a customer service representative who has either ignored our emails, or stated that they're 'looking into it'. Very frustrating indeed, so we're now looking to move to a better supported platform. Monday isn't cheap so you expect good customer service.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Very frustrating indeed, so we're now looking to move to a better supported platform"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-10-09",
+      "rating": 5,
+      "title": "Monday.com is hands-down my favorite\u2026",
+      "text": "Monday.com is hands-down my favorite productivity platform! It simplifies collabration, tracks progress beautifully, and gives me peace of mind knowing nothing slips through the cracks. Managing multiple projects is easier now!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Monday.com is hands-down my favorite productivity platform!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-10-07",
+      "rating": 1,
+      "title": "Customer support is terrible",
+      "text": "Customer support is terrible. The platform suddenly stopped saving street addresses in both the main dashboard and on the calendar. Support person wanted me to try all manner of things to figure out if there was a \u201cbug\u201d on the platform. As a paying customer, I should be shelling out money for a fully operational product that is not in beta and not experiencing \u201cbugs\u201d. Shameful.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Shameful"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-10-07",
+      "rating": 1,
+      "title": "No demo for prospective customers.",
+      "text": "No demo for prospective customers. I took a free trial of the platform and, wanting to move forward, requested a demo with one of their team. They signposted me to their 'training videos' instead. What kind of platform doesn't do demos for prospective clients? Why should I have to trawl through their training videos. What an awful UX. Went with an emerging AI solution instead. Monday - get it together, or lose business!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "What an awful UX. Went with an emerging AI solution instead. Monday - get it together, or lose business!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-10-06",
+      "rating": 1,
+      "title": "AVOID!",
+      "text": "AVOID!! Over the past year, our account has been consistently overcharged. Although our team has only had 5 active members, we were billed for 10, and this discrepancy persisted for an extended period. We have been overcharged by AT LEAST \u00a31200, and Monday is refusing to refund or credit.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "We have been overcharged by AT LEAST \u00a31200",
+        "resonance_evidence": "AVOID!!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-09-25",
+      "rating": 1,
+      "title": "Take a look at the billing",
+      "text": "Take a look at the billing! They say $12 / seat, but you'll be purchasing 5 seats at a time. When we had 5 users and added a 6th one, we got billed for 10 onwards ($120 per month). Disgusting company, leaving it right now.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "When we had 5 users and added a 6th one, we got billed for 10 onwards ($120 per month)",
+        "resonance_evidence": "Disgusting company, leaving it right now"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-09-25",
+      "rating": 1,
+      "title": "They keep billing you even when you are\u2026",
+      "text": "They keep billing you even when you are not using the service. To try and cancel and you are fobbed off and billed again. Tried legal/disputes. Ignored. Unbelievable. Don't even go there.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Unbelievable. Don't even go there."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-09-24",
+      "rating": 2,
+      "title": "This is an easy-to-use task management\u2026",
+      "text": "This is an easy to use task management application. It is not an out-of-the-box Project Portfolio Management (PPM) application. Requires using their propriety code for each field to be effective, but there are limitations. I tried to use as a PPM and quickly learned this was not sustainable for an enterprise environment. The costs also did not justify the amount of effort to setup and maintain. I recommend for small organizations where best-in-class project management is not the main objective. Sales and other teams love using this as you can add pretty fields and make some nice lists. If this is what is needed, then you will love Monday,com",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "I recommend for small organizations where best-in-class project management is not the main objective"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-09-21",
+      "rating": 2,
+      "title": "Pricey",
+      "text": "Monday.com is simple and robust, making it great for our company\u2014but pricing, add-ons, and mandatory Enterprise features hold it back. Even basic admin access to all boards (cannot do in Pro or Growth), user membership audits (need enterprise plan), and automations (credit system) come at a premium.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "simple and robust, making it great for our company\u2014but pricing, add-ons, and mandatory Enterprise features hold it back"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-09-03",
+      "rating": 1,
+      "title": "platform doesn't work well at all",
+      "text": "platform doesn't work well at all. struggles all the way along",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "platform doesn't work well at all. struggles all the way along"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-09-03",
+      "rating": 1,
+      "title": "MONDAY = Frustration",
+      "text": "Monday est pratique pour g\u00e9rer ses projets, mais alors niveau ergonomie\u2026 c\u2019est un cauchemar. Pas fluide, des chargements interminables. Les automatisations plantent sans logique, ce qui est tr\u00e8s frustrant. Autre point aga\u00e7ant : on peut importer des donn\u00e9es, mais pas de sous-\u00e9l\u00e9ments (subitems). L\u2019import en lui-m\u00eame est mal pens\u00e9 et lourd \u00e0 g\u00e9rer. Si je veux travailler avec ChatGPT, c\u2019est pareil : impossible d\u2019importer correctement, je me retrouve \u00e0 devoir faire des copier-coller \u00e0 la main. On sent bien que le but est de pousser \u00e0 acheter des cr\u00e9dits IA. R\u00e9sultat : un outil int\u00e9ressant sur le papier, mais limit\u00e9, frustrant \u00e0 utiliser, et surtout incapable de lier correctement des sous-t\u00e2ches entre plusieurs tableaux. et je parle pas des SPAM MAIL",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-08-28",
+      "rating": 2,
+      "title": "Lack of cost transparency",
+      "text": "Lack of cost transparency. They charge per seat but only allow a minimum of 3 seats. This model and price point for the services the basic package gives you is useless. Great for mid level companies but not a for for sbo's",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "This model and price point for the services the basic package gives you is useless"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-08-25",
+      "rating": 5,
+      "title": "Ho creato da poco un account",
+      "text": "Ho creato da poco un account, dopo aver provato diversi siti. Questo \u00e8 di gran lunga il pi\u00f9 intuitivo e completo. Cercavo un qualcosa con i Gantt, che ha e perdendo solo qualche minuto ho visto come impostarli con sotto attivit\u00e0 etc. Per adesso esperienza molto soddisfacente. Non ho notato nemmeno grossi limiti nella versione free",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-08-25",
+      "rating": 1,
+      "title": "Terrible company",
+      "text": "Terrible company. Never use this. Use better alternatives that work better and are cheaper.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Terrible company. Never use this."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-08-18",
+      "rating": 5,
+      "title": "Top thriller !",
+      "text": "Top thriller !! Je recommande vraiment.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-08-13",
+      "rating": 2,
+      "title": "I'll start by saying Monday is a\u2026",
+      "text": "I'll start by saying Monday is a brilliant concept and it has the power to be a one stop app to run any business. I've tried it several times for months/weeks at a time but it fails me every time. Unfortunately, it takes far too much time and effort to sort out integrations and the templates are to basic to have any impact. They also have so many paid add ons that it becomes more expensive than its competitors if you want it to do the same. The worse thing for me is the customer service. I've tried to upgrade to enterprise a other things and requested call back many times only to be let down. I once spent 40hrs building integrations and required tech support numerous times and the lack of help has been so frustrating I have cancelled and felt compelled to write this.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "I once spent 40hrs building integrations",
+        "resonance_evidence": "it fails me every time. Unfortunately, it takes far too much time and effort to sort out integrations"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-08-12",
+      "rating": 5,
+      "title": "A marketer's best friend",
+      "text": "Monday.com is a versatile platform that I use for many different reasons: a catalogue of advert artwork, internal comms planning, staff movement actions (training and platform set-up etc.), stats tracking, even my job hunt and handover notes. It's quick and easy to assign tasks to colleagues and drop each other notes. It's one of my favourite marketing tools to improve collaboration, efficiency (and sanity!).",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "It's one of my favourite marketing tools to improve collaboration, efficiency (and sanity!)"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-08-12",
+      "rating": 5,
+      "title": "We have been clients of Monday CRM\u2026",
+      "text": "We have been clients of Monday CRM since December 2024. We at first were a bit disappointed that many SaaS companies did not support a native Monday CRM integration, but after a few short talks with GPT we understood we could do anything through Zapier and that Monday has great API support.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Monday has great API support"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-08-12",
+      "rating": 2,
+      "title": "Monday.com features are very lousy",
+      "text": "Monday.com features are very lousy. You cannot increase the seats one by one. It has to buy 5, 7, 10, 12, etc. Another security issue is \"Authorised Domain\", which is enabled by default. The issue is that you have auto-joined your team and used up a free seat even if you are not in the same team without the Owner/Admin's permission and acknowledgement. It won't notify you either unless you check the user list yourself. The owner/admin is only adding the card and paying for the billing, without any other functionality. We have used it for almost two years and it shocked me. Decided that we're not going to renew after this year unless they change these stupid flows and features.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Decided that we're not going to renew after this year unless they change these stupid flows and features"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-08-08",
+      "rating": 3,
+      "title": "Love/hate",
+      "text": "Honest Review: A Love-Hate Relationship with Monday.com Monday is a visually appealing, easy-to-use, and powerful tool for teams. It offers great integrations and allows you to build robust workflows and dashboards with relative ease. In the early stages, the value is obvious. But once you\u2019ve set everything up and your system is running smoothly, the relationship starts to feel strained. The platform stops adding meaningful value\u2014but the billing doesn\u2019t stop. In fact, it often feels like they\u2019re trying to squeeze every last penny out of you. We\u2019ve invested a lot into building our processes around Monday, which makes it hard to leave. And they seem to know that. Pricing increases feel disconnected from the value delivered, and the focus appears to have shifted from creating value to milking existing customers\u2014likely to show growth to shareholders as new customer acquisition slows. It\u2019s a classic love-hate relationship: we like the product, but feel trapped by the pricing model.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "we like the product, but feel trapped by the pricing model"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-08-06",
+      "rating": 1,
+      "title": "WORST CUSTOMER SUPPORT ever!",
+      "text": "WORST CUSTOMER SUPPORT ever! You only get tons of autoresponder \"AI\" answers \u2014 no real support! Don't spend your money on this app. Totally horrible!! BEWARE!! I can prove everything with screenshots!!!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-08-05",
+      "rating": 1,
+      "title": "If I could give a minus star I would",
+      "text": "If I could give a minus star I would. No telephone number to talk to anyone. They have taken in excess of 40000.00 from our bank. We don't have an account with them never heard of them before and will not discuss anything with you without an account number So to put it into facts - another 14000 has gone from our bank since 3 July - reach out to us they say - but they will not talk to you without an account number - WE DO NOT HAVE AN ACCOUNT how many times do I have tell tell you this Thanks for the response, but I have already done this over 3 weeks ago and you reached out asked for all the information and which I provided and you advised, nope cannot do anything without an account number. Furthermore, it is not just. one account you you have taken monies from it is 2 bank accounts and our credit card.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "They have taken in excess of 40000.00 from our bank",
+        "resonance_evidence": "If I could give a minus star I would"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-07-31",
+      "rating": 1,
+      "title": "Stay away",
+      "text": "Stay away. Horrible customer service.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-07-30",
+      "rating": 3,
+      "title": "Great project management tool, but pricing is a big barrier",
+      "text": "I was introduced to Monday.com in May, and I quickly understood how to use it. It\u2019s been great for organizing my projects step by step, tracking progress, and visualizing my plans. I\u2019ve created documents, Gantt charts, and project overviews with multiple milestones, and I really like the templates and integrations available. The platform is intuitive, flexible, and has helped me keep a clear overview of my work. For someone like me who enjoys planning and structure, it\u2019s a very useful tool. However, the pricing was a big disappointment. After my free trial, it looked like it would cost around 200\u2013300 USD per month. But when I went to check out, the price jumped to around 700 USD. I\u2019m just one person, not a team, and as someone in the early stages of starting my own business, that cost felt way too high. I really wish there was a startup or solo plan at a much lower price, or at least more flexible payment options. For now, I\u2019ll stick to Excel and my own to-do lists\u2014they work well enough. Monday is a great \u201cnice to have,\u201d but at this price point, it\u2019s simply not tempting for me right now.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-07-30",
+      "rating": 1,
+      "title": "I hate this company with my guts\u2026",
+      "text": "I hate this company with my guts because of all the spam they've been making on ads on youtube for years. I've also used it for work and can tell from experience, I don't know what all the fuss of their ads is about. I hated using it. I never found it particularly useful, it would have been easily replaced by a whiteboard or Notion, which is free. I'm a millennial and I'm good with computers. Yet I can say it's not worth it spending time trying to learn how to use monday. I hate monday.com",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I hate this company with my guts"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-07-30",
+      "rating": 1,
+      "title": "A fuire",
+      "text": "Mon exp\u00e9rience est n\u00e9gative et les publicit\u00e9s incessantes deviennent insuportables alors je d\u00e9conseille ce service !",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Mon exp\u00e9rience est n\u00e9gative"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-07-28",
+      "rating": 2,
+      "title": "They deprecated an Info Box",
+      "text": "They deprecated an Info Box (a simple textbox which could be added to an item) which is fine. But there is no way to export the contents of the Info boxes (api or otherwise). Now imagine thousands of items with those boxes and no way to migrate or export these. A company that is so indifferent about protecting your data should be avoided at all costs.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "A company that is so indifferent about protecting your data should be avoided at all costs."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-07-20",
+      "rating": 1,
+      "title": "Buggy and damaging to my business",
+      "text": "Buggy, Broken, and a Complete Waste of Time This app is an absolute nightmare to use. The user interface is clunky, confusing, and riddled with bugs. Items don\u2019t update reliably, and when I try to delete more than one thing, I have to force-close and reopen the app, only for the deleted items to magically reappear. Messaging is just as bad: messages don\u2019t display properly, updates don\u2019t come through, and we\u2019re constantly left wondering who\u2019s seen what. It\u2019s impossible to track past communications, which makes teamwork a mess. I\u2019m only using this platform because someone I collaborate with insists on it, if I had a choice, I\u2019d be gone in a second. Once my free trial expires, I\u2019ll never pay for this, and I certainly won\u2019t work with any company that uses Monday.com in the future. Unfortunately I am stuck with one company who does for now. I have asked them to consider changing to a different platform, but sadly they have built their entire system around Monday. Also, who thought naming a product after the most miserable day of the week was a smart branding decision? It feels like an ironic joke at the user\u2019s expense. Go have a look elsewhere on the internet: there are plenty of horror stories about how this software has actually cost businesses time and money. Yet, you won\u2019t even know about other people\u2019s negative experiences, as my previous negative review on Trustpilot was removed without any reason given. I will keep posting reviews until the bugs are fixed and the platform behaves like a professional tool rather than a badly cobbled-together beta. Enough is enough.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "This app is an absolute nightmare to use."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-07-15",
+      "rating": 5,
+      "title": "I love this for project management",
+      "text": "I love this for project management, it is very customizable and reasonably priced. I would prefer HubSpot as a CRM, but it's much more expensive. For a start-up, I think Monday.com is perfect!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-07-08",
+      "rating": 4,
+      "title": "Ich bin sehr zufrieden mit Monday.com",
+      "text": "Ich bin sehr zufrieden mit Monday.com! Seit \u00fcber 8 Jahren hab ich eine Agentur, mit der ich Projekte managen muss. Vorher hatte ich ClickUp, Asana, Notion etc. getestet aber mit Monday.com bin ich am meisten zufrieden. Der Preis ist das Einzige, was schon ziemlich hoch ist, vor Allem so Funktionen, wie z.B. die Zeiterfassung, die man nur in sehr hohen Paketen bekommen kann. Aber grunds\u00e4tzlich ist der Aufbau wirklich sehr gut!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Ich bin sehr zufrieden mit Monday.com!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-07-04",
+      "rating": 1,
+      "title": "Monday CRM is awful",
+      "text": "Monday CRM is awful. I would write a list of what doesn't work but it would take me all day. What works today may not work tomorrow. Non existant support, even when you write to the CEO explaining what is wrong. Dodge this CRM bullet.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-07-01",
+      "rating": 1,
+      "title": "Predatory Company to be avoided at all costs!!!",
+      "text": "At our 1 year renewal Monday notified us ,via online call, that they are breaking out our plan into two (CRM and Workflow), they also substantially increased our per seat price on each side of the platform. This resulted in more than doubling the platform cost after building company work flows around the platform. They then didn't e-mail us through the price increase till after the renewal date, at which point they froze all access to the plat form. They have essentially held our workflows and data hostage. The price increase they sent through after freezing the platform came in higher than the previously discussed rate. The Monday team has proven extremely difficult to get hold of to discuss the matter. We currently have no use of the platform. This is an extremely predatory company and should be avoided at all costs.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "This resulted in more than doubling the platform cost",
+        "resonance_evidence": "This is an extremely predatory company and should be avoided at all costs."
+      }
+    }
+  ]
+}

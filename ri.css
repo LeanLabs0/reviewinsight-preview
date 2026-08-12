@@ -189,3 +189,23 @@ tbody tr:hover { background: var(--paper-sunk); }
 .foot ul { list-style: none; font-size: 14px; }
 .foot li { padding: 3px 0; }
 .foot p { font-size: 13px; color: var(--ink-2); max-width: 380px; }
+
+/* ---------- score panel ---------- */
+.scorebox.big { min-width: 108px; padding: 16px 20px; }
+.scorebox.big .v { font-size: 44px; }
+.scorepanel { border: 1px solid var(--rule); padding: 20px; }
+.scoretop { display: grid; grid-template-columns: auto 1fr; gap: 22px; align-items: start; margin-bottom: 22px; }
+@media (max-width: 640px) { .scoretop { grid-template-columns: 1fr; } }
+.dimrow { padding: 12px 0; border-top: 1px solid var(--rule); }
+.dimhd { display: flex; align-items: baseline; gap: 10px; margin-bottom: 6px; }
+.dimhd .dimval { margin-left: auto; font-size: 17px; font-weight: 600; }
+.barwrap { display: block; height: 6px; background: var(--paper-sunk); border: 1px solid var(--rule); }
+.bar { display: block; height: 100%; background: var(--rule-strong); }
+.dimrow details { margin-top: 10px; }
+.dimrow summary { cursor: pointer; color: var(--ink-2); }
+.dimrow summary:hover { color: var(--ink); }
+.dimparts { list-style: none; font-size: 13px; margin-top: 8px; }
+.dimparts li { display: grid; grid-template-columns: 1fr 1.4fr auto; gap: 12px; padding: 5px 0; border-bottom: 1px solid var(--rule); }
+@media (max-width: 640px) { .dimparts li { grid-template-columns: 1fr auto; } .dimparts li .muted { display: none; } }
+.chip { border: 1px solid var(--rule); padding: 1px 7px; font-size: 12px; color: var(--ink-2); }
+.chip b { color: var(--ink); }

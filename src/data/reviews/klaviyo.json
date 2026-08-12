@@ -1,0 +1,2434 @@
+{
+  "slug": "klaviyo",
+  "captured_at": "2026-08-12T20:48:37.032020+00:00",
+  "reviews": [
+    {
+      "portal": "G2",
+      "review_id": "13223904",
+      "date": "8/6/2026",
+      "rating": 5.0,
+      "title": "Makes Email Marketing Much Easier",
+      "text": "What I like most about Klaviyo is how simple it makes email marketing. I use it mainly to build automated flows like welcome emails and abandoned cart reminders, and the visual Flow Builder makes it easy to update everything without much effort. I also rely on customer segments to send different campaigns based on purchase history or engagement instead of emailing everyone the same message. After each campaign, I usually check the reporting dashboard to see what worked and what needs improvement. It has saved me a lot of time and made managing campaigns much easier. The biggest issue I've run into is the pricing. As our contact list grew, the monthly cost increased pretty quickly, so it's something we have to keep an eye on. I also needed some time to get comfortable with the more advanced automation flows because there are a lot of options. The reporting is useful, but I sometimes have to dig through multiple reports to find the metrics I'm looking for. None of these are deal breakers, but I'd like to see simpler reporting and a pricing model that's a little friendlier for growing teams.",
+      "role": "Junior AI Engineer",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/klaviyo/reviews",
+      "sample_order": "most_recent"
+    },
+    {
+      "portal": "G2",
+      "review_id": "13202646",
+      "date": "8/3/2026",
+      "rating": 4.5,
+      "title": "Best Newsletter Software for Ecommerce, Bar None",
+      "text": "Best newsletter software for ecommerce par none. Pricing - autoupgrade, no autodowngrade.",
+      "role": "Verified User in Information Technology and Services",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/klaviyo/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Best newsletter software for ecommerce par none."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13103830",
+      "date": "7/14/2026",
+      "rating": 4.0,
+      "title": "Klaviyo Keeps Email, SMS, and Customer Data Perfectly Connected",
+      "text": "I love how Klaviyo connects everything\u2014email, SMS, and customer data\u2014all in one place. Honestly, it can get pretty pricey as your contact list grows, and some of the more advanced features take a bit of time to figure out if you don\u2019t have a tutorial to guide you.",
+      "role": "Information Technology and Services",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/klaviyo/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "I love how Klaviyo connects everything"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13075402",
+      "date": "7/7/2026",
+      "rating": 3.5,
+      "title": "Simplicity in Newsletter Automation with Klaviyo",
+      "text": "I like Klaviyo's simplicity. It's easy to set up, and I find the templates for mail modules really helpful. Pricing and integrations",
+      "role": "Verified User",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/klaviyo/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "I like Klaviyo's simplicity"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "12959044",
+      "date": "6/15/2026",
+      "rating": 4.0,
+      "title": "Easy-to-Use Platform for Email Marketing Automation",
+      "text": "What I like most about Klaviyo is how easy it makes it to build targeted email campaigns and automate customer communication. I also find the reporting helpful for seeing what\u2019s working, identifying what isn\u2019t, and making adjustments to improve overall campaign performance. One challenge I\u2019ve noticed is that some of the more advanced features can take a while to learn, especially for new users. Also, as my contact lists grow, pricing can become more of a consideration.",
+      "role": "Marketing and Advertising",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/klaviyo/reviews",
+      "sample_order": "most_recent"
+    },
+    {
+      "portal": "G2",
+      "review_id": "12896215",
+      "date": "5/31/2026",
+      "rating": 5.0,
+      "title": "User-Friendly Functionality with a Strong Integrations Portfolio",
+      "text": "User friendly functionality and integrations portfolio There is very little I dislike, aside from some specific regulations related to my industry",
+      "role": "Senior CRM Manager",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/klaviyo/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "User friendly functionality and integrations portfolio There is very little I dislike"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "12893210",
+      "date": "5/29/2026",
+      "rating": 4.5,
+      "title": "Advanced Automations, But Comes at a Cost",
+      "text": "I really like Klaviyo's advanced automations, which include features like abandoned and checkout emails, product recommendation emails, and SMS marketing campaigns. I also appreciate its ability to integrate with almost all of the software available in the market, especially for an ecommerce company. Additionally, the initial setup was very easy. Their pricing is higher. It should be they can lower the price.",
+      "role": "Head of Operations &amp; Supply Chain \\| Founding Team",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/klaviyo/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "I really like Klaviyo's advanced automations"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "12888076",
+      "date": "5/28/2026",
+      "rating": 4.5,
+      "title": "Easy Email Campaigns with Powerful Shopify Segmentation",
+      "text": "Klaviyo makes it easy for me to run email marketing campaigns, and it integrates well with my Shopify store. I especially like being able to segment my audience and target different groups based on their actions. Klaviyo doesn\u2019t have the best selection of email templates, which makes creating emails more difficult. I often end up importing templates from other providers, and that extra step takes time.",
+      "role": "Verified User in Apparel & Fashion",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/klaviyo/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "that extra step takes time",
+        "resonance_evidence": "Klaviyo makes it easy for me to run email marketing campaigns"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "12850243",
+      "date": "5/20/2026",
+      "rating": 4.0,
+      "title": "Flows and Segments Make Campaigns & Reporting Easy",
+      "text": "the Flows and the Segments so you can see audience growth The email logic can sometimes be challenging to set up when running multiple flows.",
+      "role": "Verified User in Information Technology and Services",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/klaviyo/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "The email logic can sometimes be challenging to set up when running multiple flows"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "6956622",
+      "date": "8/8/2022",
+      "rating": 0.0,
+      "title": "We Signed up For Klaviyo, Account Security Issues and Hacking Started Within 1 week",
+      "text": "This is a good email software platform and has some great personalization features for the building of the actual email (they have a good software builder that is easy to use). It is unfortunate that we have to share our so far terrible experience with Klaviyo. We literally created this account to make this review and let people know about our terrible experience. We signed up for Klaviyo at the beginning of August. August 3rd, 2022 we found out sensistive account information was accessed and Klaviyo was hacked. Their CEO put out a message, but instead of actually responding to customers, they just have a customer service representative say \"We are sorry.\" Just like the BP oil spill, they are just sorry that they got into trouble and caught. A true CEO and a real business would actually care about their customers rather than just say \"we are sorry.\" Businesses be aware of Klaviyo, if they are able to be so susceptible to hacking, how secure is your email marketing and private information. As a software company, Klaviyo should be held to a higher standard and they have hilariously failed in this regard.",
+      "role": "Management / Executive with company.",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/klaviyo/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "We literally created this account to make this review and let people know about our terrible experience"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "224616",
+      "date": "1/17/2017",
+      "rating": 4.0,
+      "title": "Good but missing a few features",
+      "text": "I like how you can set up the automated emails with such detailed triggers. You can do a lot with the flows. 1 - Mailchimp has a feature called Social Profiles where it gets information from all over social media and google about the user, such as age, gender, etc. With this you can target certain demographics really easily. I tried to figure out a way to get at least the customer's age from sign up forms on my website, but even that cannot be integrated with Klaviyo. With the segmenting features Klaviyo has this feature would blow them out of the water. 2 - Customer service is slow and i hate that there is no chat or phone number.",
+      "role": "Biotechnology",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/klaviyo/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "I like how you can set up the automated emails with such detailed triggers"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "248707",
+      "date": "3/13/2017",
+      "rating": 5.0,
+      "title": "So happy we switched to Klaviyo",
+      "text": "I love that it integrates with our Big Commerce store and gives us transactional information, which we didn't get from Mailchimp. I also appreciate how easy it is to set up the different flows, and that they have out of the box templates to build off of. I wish they had a chat feature for customer service. It's a bit delayed having to wait for email responses. Having a phone option would be great too. I realize that a dedicated account manager is available once our account hits a certain number, but options other than email would be great until that time. I also wish they had emojis for subject lines on campaigns.",
+      "role": "Sporting Goods",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/klaviyo/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "I love that it integrates with our Big Commerce store and gives us transactional information, which we didn't get from Mailchimp. I also appreciate how easy it is to set up the different flows"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "204456",
+      "date": "12/6/2016",
+      "rating": 4.5,
+      "title": "It's as if I had the budget to hire a person to manage my email marketing strategy + implementation",
+      "text": "It's as if I had the budget to hire a person to manage my entire non-transactional email marketing strategy and implementation. I'd say so far I like the rules setup the best, segmenting my flows and campaigns to make sure I'm only hitting up people who 1) are interested in what I have to say right now, 2) Are the right audience for my current message/in-store sale announcement, etc and/or 3) Have not heard a similar message anytime recently. My other favorite is the easy integrations with other apps I'm using to manage my eCommerce and Digital marketing systems. I've been using it for about two months now, and I have a few blindspots that I cannot intuit from the interface, which is a problem for me. I do not like that there are no training calls. I do wish they could take over transactional emails from BigCommerce - who butchers the process, but the sales rep said they cannot do that right now.",
+      "role": "Building Materials",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/klaviyo/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "It's as if I had the budget to hire a person to manage my entire non-transactional email marketing strategy and implementation. I'd say so far I like the rules setup the best"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "205805",
+      "date": "12/8/2016",
+      "rating": 5.0,
+      "title": "Very precise and robust transactional email platform",
+      "text": "The versatility of Klaviyo is awesome. There is nothing Klaviyo cannot do for your business as it relates to email campaigns and daily, transactional emails that are needed. I think one of the values of Klaviyo that is understated is the UI. The user interface is quote easy once you get your head wrapped around the buttons and clicks. I wish more freelancers learned Klaviyo more so I can have Klaviyo working for us in ways we haven't imagined yet They need to certify independent service companies so they can provide managed services to business owners",
+      "role": "Information Technology and Services",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/klaviyo/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "The versatility of Klaviyo is awesome. There is nothing Klaviyo cannot do for your business as it relates to email campaigns and daily, transactional emails that are needed."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "256827",
+      "date": "3/28/2017",
+      "rating": 4.5,
+      "title": "If you run a Shopify Store, this is THE email marketing service to get",
+      "text": "We used to use Mailchimp for handling all our Shopify store emailing needs. The problem was e commerce data was often inaccurate or updated data severely lagged behind. Klaviyo was built specifically for Shopify owners in mind and syncs with your store in real time. The data is 98% accurate and while the platform is a bit less user friendly, offers much of the same customization and ease of use. To create beautiful emails, although Klaviyo provides some templates, you will need to learn some basic html and how to use their tags. The learning curve is steeper than say Mailchimp, but once you get a hang of it, with the accurate ecommerce data, is totally worth it.",
+      "role": "Management Consulting",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/klaviyo/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "The data is 98% accurate",
+        "resonance_evidence": "with the accurate ecommerce data, is totally worth it"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "206984",
+      "date": "12/12/2016",
+      "rating": 4.5,
+      "title": "So glad we moved to Klaviyo",
+      "text": "The segmenting and filters are awesome. Especially that you can build filters around specific customer engagement points (aka - find all customers that have ordered in the past but have not ordered in the last 60 days) then automatically send emails to that segment of customers on a scheduled basis. \\- Wish it integrated with Drupal Commerce out of the box. Would use Klaviyo for those projects as well. \\- This is more of a Shopify issue, but we save customer information in MetaFields that are filled out during the checkout process. I wish we could (easily) push that data into Klaviyo as well. Really have to stretch to find disappointing things about this system, though. \\- Wish that the auto responder emails went out faster. For instance, if a user signs up for a coupon, I'd like them to receive an email with the coupon code within minutes. Right now it takes an hour (+/-)",
+      "role": "Computer Software",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/klaviyo/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "find all customers that have ordered in the past but have not ordered in the last 60 days",
+        "resonance_evidence": "Really have to stretch to find disappointing things about this system, though."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "207487",
+      "date": "12/13/2016",
+      "rating": 3.5,
+      "title": "Great email marketing software",
+      "text": "The amount of customer data that is available is awesome, You can create very targeted email newsletters and automated campaign. Flows are great for generating income. Once you get the hang of it you can easily setup campaigns and flows in a heartbeat. Their customer support can be flaky at times, slow to respond and slow to figure out the issue. Its an expensive service so you would expect support to be better. Also having no weekend support is terrible. Ecommerce companies aren't mon-fri, 9-5 so support shouldn't be either. Integrations can break from time to time without even knowing and results in losing income. There have been deliverability issues I have heard about but I have not looked into these personally myself.",
+      "role": "Internet",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/klaviyo/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Flows are great for generating income. Once you get the hang of it you can easily setup campaigns and flows in a heartbeat."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "255078",
+      "date": "3/25/2017",
+      "rating": 4.5,
+      "title": "The missing link for my email marketing",
+      "text": "The ability to create automated smart workflows that run based on the activity of my store is pretty impressive. This along with the smart segment features for list building, it's been a great addition to our toolset. It took a little to learn how to navigate and understand the template engine. It's not as intuitive as other systems, but once you learn it you'll be fine",
+      "role": "Information Technology and Services",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/klaviyo/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "it's been a great addition to our toolset"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "242307",
+      "date": "2/16/2017",
+      "rating": 4.0,
+      "title": "Everything you need",
+      "text": "Almost everything is out of the box. The customer segmentation is seamless, it communicates with Magento, pulls customer history and live time data and allows me to be nimble, segment better and better understand my customer. I left my last provider because of a few reasons, but service / support was a big factor. With Klaviyo, during set-up and start-up I was constantly being contacted and then once we kind of rolled out, the support is now limited to email support - unfortunately our several instances installed on Magento have created some overlap and the support has been OK, but not as great as I would like. I'm more of a phone support person, it;s easier when discussing complexities and I feel a little pushed back with their support up to this point.",
+      "role": "Consumer Goods",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/klaviyo/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "the support has been OK, but not as great as I would like"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "221202",
+      "date": "2/1/2017",
+      "rating": 5.0,
+      "title": "User friendly",
+      "text": "It's very easy to customize and make professional without having to write the code. I do not like the way the buttons look - especially on mobile.",
+      "role": "Verified User in Health, Wellness and Fitness",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/klaviyo/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "It's very easy to customize and make professional without having to write the code. I do not like the way the buttons look"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "1774343",
+      "date": "2/15/2019",
+      "rating": 5.0,
+      "title": "User Friendly",
+      "text": "Klaviyo is easy to use, from the templates to customization and integrated easily with our website. The flows have increased sales and their customer service team has been incredibly helpful. When customizing a template the proportions can get lost and more tweaking is needed on my end. I would love to just pop things in when needed without having to worry about sizing issues.",
+      "role": "Verified User in Retail",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/klaviyo/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "The flows have increased sales",
+        "resonance_evidence": "Klaviyo is easy to use, from the templates to customization and integrated easily with our website. The flows have increased sales and their customer service team has been incredibly helpful."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "1402824",
+      "date": "12/19/2018",
+      "rating": 5.0,
+      "title": "Easy to Use eCommerce Email Automation",
+      "text": "I love everything about Klaviyo. It is easy to use and does an amazing job of segmentation and email automation. I feel as though it provides all of the functionality of a really expensive eCommerce email automation service. I honestly don't dislike anything about this.",
+      "role": "Marketing and Advertising",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/klaviyo/reviews",
+      "sample_order": "highest_rated"
+    },
+    {
+      "portal": "G2",
+      "review_id": "1523254",
+      "date": "1/8/2019",
+      "rating": 5.0,
+      "title": "Love Klaviyo!",
+      "text": "Klaviyo is by far the most comprehensive, easy to use marketing/remarketing email software on the market when it comes to ecommerce applications. I recently required my website developers to fully integrate the software as I have no interest in even trying any other app. I have no negative critique of the software at this time.",
+      "role": "Retail",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/klaviyo/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "I recently required my website developers to fully integrate the software as I have no interest in even trying any other app. I have no negative critique of the software at this time."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "2008414",
+      "date": "3/27/2019",
+      "rating": 5.0,
+      "title": "Really easy to use. Data and features are useful.",
+      "text": "Features, customer service, super easy to use Nothing. It\u2019s constantly improving and the new added features maki it easier to use.",
+      "role": "Marketing assistant",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/klaviyo/reviews",
+      "sample_order": "highest_rated"
+    },
+    {
+      "portal": "G2",
+      "review_id": "2007137",
+      "date": "3/27/2019",
+      "rating": 5.0,
+      "title": "I'M OBSESSED WITH KLAVIYO",
+      "text": "We have been using Klaviyo for almost three years now. Their customer support is AMAZING and we have grown so much through them. They are so successful, constantly adding new features, and it's obvious their team works well together to create an amazing product. 10/10 would recommend. nothing is wrong with klaviyo i love it",
+      "role": "Customer Success Manager",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/klaviyo/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "we have grown so much through them",
+        "resonance_evidence": "10/10 would recommend. nothing is wrong with klaviyo i love it"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "1625382",
+      "date": "1/22/2019",
+      "rating": 5.0,
+      "title": "Klaviyo is the way to go",
+      "text": "I think Klaviyo is a great email marketing program that I can depend on for consistency and also quality support. I'd recommend it over the top competition. I still don't know how to pronounce the name of the company. I hear it on training programs and then mess it up!",
+      "role": "Verified User in Marketing and Advertising",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/klaviyo/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "I think Klaviyo is a great email marketing program that I can depend on for consistency and also quality support. I'd recommend it over the top competition."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "327656",
+      "date": "7/10/2017",
+      "rating": 5.0,
+      "title": "High powered ecommerce email service",
+      "text": "Seamlessly integrates with Shopify and allows you to target emails based on specific customer behavior. Intuitive to use. Once, the software had a bug where it deployed a message on the wrong day - although it was scheduled for a date weeks in the future.",
+      "role": "Verified User in Consumer Goods",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/klaviyo/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Seamlessly integrates with Shopify and allows you to target emails based on specific customer behavior. Intuitive to use."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "708986",
+      "date": "5/11/2018",
+      "rating": 0.0,
+      "title": "If you're on WooCommerce DO NOT use klaviyo",
+      "text": "the promising hope of an email platform built for ecommerce. Set up your workflows, migrate your contacts, synch your product data - the dream was real 1) Deliverability tanked 2) Simple things like abandon cart emails didn't even work. Lifetime ( over several months ) emails were 26 delivered abandoncart emails. WOW. I had 1400 abandon cart captures since my time using them. 3) COST - more expensive than alternatives 4) constant issues pulling customer information + data from woocommerce 5) Did i mention the fact that they couldn't even handle abandon cart emails? The amount of money this cost me is making my stomach turn.",
+      "role": "Verified User in Fine Art",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/klaviyo/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "26 delivered abandoncart emails. WOW. I had 1400 abandon cart captures since my time using them.",
+        "resonance_evidence": "The amount of money this cost me is making my stomach turn."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "2823283",
+      "date": "7/23/2019",
+      "rating": 0.0,
+      "title": "Must have for Shopify stores",
+      "text": "What I like the best is that Klaviyo allows us to segment our customers based on purchase behaviour, and then we can get in touch with different groups of customers using targeted e-mail. Klaviyo also covers the basics for anyone who runs an online store - the ability to recover abandoned carts and create unique coupons. I can't think about any real downside of using Klaviyo, it's definitely not the cheapest Shopify app but it has been paying for itself and giving us profits, so we can't complain about the price...",
+      "role": "Founder",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/klaviyo/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "it has been paying for itself and giving us profits",
+        "resonance_evidence": "it's definitely not the cheapest Shopify app but it has been paying for itself and giving us profits, so we can't complain about the price"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "670175",
+      "date": "4/9/2018",
+      "rating": 0.0,
+      "title": "Worst Customer Support",
+      "text": "Their Flow system works really well. The only system they had I was pleased with. Support staff is impossible to reach and not helpful.",
+      "role": "Apparel & Fashion",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/klaviyo/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Their Flow system works really well. The only system they had I was pleased with."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "5364766",
+      "date": "2/21/2022",
+      "rating": 0.0,
+      "title": "Klaviyo is terrible for business, and they're getting worse",
+      "text": "The only benefit is the network effect. There's more agencies, partners, and individuals that have experience with their platform. This makes it easier to hire people and get more resources. But that' sit. Stay away and use someone else! We've been with them for four years and it's gotten ridiculous. We had to spend 1200 for an email that had generated $200 in revenue. A complete ripoff. There's better options. Support is the worst. At some point, they were the only players in the ecommerce game. Things have changed. Stay away because they will steal from you when you have actual volume. There's competitors and people are adopting them fast. Most companies we know are leaving Klaviyo because they are too expensive for what they offer.",
+      "role": "Owner",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/klaviyo/reviews",
+      "sample_order": "lowest_rated"
+    },
+    {
+      "portal": "G2",
+      "review_id": "4315830",
+      "date": "7/26/2020",
+      "rating": 0.0,
+      "title": "Bad customer service",
+      "text": "It\u2019s comparable to others. Nothing much different. The customer service is way below acceptable. Terrible.",
+      "role": "Steve C.",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/klaviyo/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "The customer service is way below acceptable. Terrible."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "6996063",
+      "date": "8/18/2022",
+      "rating": 0.0,
+      "title": "The amount of bugs and system failures in Klaviyo is astonishing.",
+      "text": "Great IP pools, decent analytics. Nothing much actually. Support \u2013 since 9 tickets out of 10 are regarding system failure and bugs, the support is immobile regarding these issues because they're dependent on the product and development tools. A note to C-Levels, fire your development and product departments, I have never experienced so many bugs with any other tools. It's such a terrible experience that I can't even find an example to compare it with.",
+      "role": "Head of Email Marketing",
+      "company_size": null,
+      "source_url": "https://www.g2.com/products/klaviyo/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I have never experienced so many bugs with any other tools. It's such a terrible experience that I can't even find an example to compare it with."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "6987705",
+      "date": "8/16/2022",
+      "rating": 0.0,
+      "title": "Love Klaviyo",
+      "text": "Easy to use and I like that it connects easily with Shopify Wish video could be embedded in emails and play within emails.",
+      "role": "Marketing Analyst",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/klaviyo/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Easy to use and I like that it connects easily with Shopify"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "May 16, 2026",
+      "rating": null,
+      "title": null,
+      "text": "Klaviyo deep data integration allows us to track exact customer behavior and trigger precise email campaigns based on purchase history, which heavily drives our repeat sales and revenue.",
+      "role": "CEORetail, 2 - 10 employees",
+      "company_size": "2-10 employees",
+      "source_url": "https://www.capterra.com/p/156699/Klaviyo/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "heavily drives our repeat sales and revenue",
+        "resonance_evidence": "allows us to track exact customer behavior and trigger precise email campaigns"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "March 19, 2026",
+      "rating": null,
+      "title": null,
+      "text": "They've continued to add features to try and justify the costs, but it gets harder to keep up as a small business.",
+      "role": "Lead Strategist, Designer",
+      "company_size": "2-10 employees",
+      "source_url": "https://www.capterra.com/p/156699/Klaviyo/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "it gets harder to keep up as a small business"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "May 16, 2026",
+      "rating": null,
+      "title": null,
+      "text": "It gives us deep insights into customer behavior and allows us to build complex, high-converting automated flows that consistently generate sales. Despite the premium price, the ROI makes it completely worth it.",
+      "role": "CEORetail, 2 - 10 employees",
+      "company_size": "2-10 employees",
+      "source_url": "https://www.capterra.com/p/156699/Klaviyo/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "consistently generate sales",
+        "resonance_evidence": "the ROI makes it completely worth it"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "June 26, 2026",
+      "rating": null,
+      "title": null,
+      "text": "Customer support is quick, however at the peak time it is sometimes slow which is frustrating for troubleshooting.",
+      "role": "Secretary General",
+      "company_size": "11-50 employees",
+      "source_url": "https://www.capterra.com/p/156699/Klaviyo/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "at the peak time it is sometimes slow which is frustrating"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "March 18, 2026",
+      "rating": null,
+      "title": null,
+      "text": "During my time at Playmaker and Reper International, I\u2019ve utilized Klaviyo to bridge the gap between complex data and personalized customer experiences.",
+      "role": "Digital and Marketing senior specialist",
+      "company_size": "11-50 employees",
+      "source_url": "https://www.capterra.com/p/156699/Klaviyo/reviews/",
+      "sample_order": "page"
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "April 10, 2026",
+      "rating": null,
+      "title": null,
+      "text": "Reporting is clunky and the UI buries things that should be front and center.",
+      "role": "Sr Manager, Digital Marketing",
+      "company_size": "11-50 employees",
+      "source_url": "https://www.capterra.com/p/156699/Klaviyo/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Reporting is clunky and the UI buries things that should be front and center"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "June 26, 2026",
+      "rating": null,
+      "title": null,
+      "text": "It is an excellent solution for an IT related business such as ours where security and organization matter, but may not be worth the investment for smaller groups with minimal marketing needs.",
+      "role": "Secretary General",
+      "company_size": "11-50 employees",
+      "source_url": "https://www.capterra.com/p/156699/Klaviyo/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "may not be worth the investment for smaller groups with minimal marketing needs"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "February 16, 2026",
+      "rating": null,
+      "title": null,
+      "text": "Some features are not available for every account/business.",
+      "role": "Director",
+      "company_size": "2-10 employees",
+      "source_url": "https://www.capterra.com/p/156699/Klaviyo/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Some features are not available for every account/business"
+      }
+    },
+    {
+      "portal": "Gartner Peer Insights",
+      "review_id": null,
+      "date": "Jun 15, 2026",
+      "rating": 5.0,
+      "title": "Quick learning curve and strong support drive greater business growth",
+      "text": null,
+      "body_gated": true,
+      "role": "Director of Marketing",
+      "company_size": "<50M USD, Consumer Goods",
+      "sentiment_label": "FAVORABLE",
+      "source_url": "https://www.gartner.com/reviews/product/klaviyo",
+      "sample_order": "page"
+    },
+    {
+      "portal": "Gartner Peer Insights",
+      "review_id": null,
+      "date": "May 15, 2026",
+      "rating": 3.0,
+      "title": "Smooth setup and workflows, but advanced features increase expenses",
+      "text": null,
+      "body_gated": true,
+      "role": "Director Of Marketing",
+      "company_size": "<50M USD, Media",
+      "sentiment_label": "CRITICAL",
+      "source_url": "https://www.gartner.com/reviews/product/klaviyo",
+      "sample_order": "page"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-08-10",
+      "rating": 1,
+      "title": "Absolutely ridiculous billing\u2026",
+      "text": "Absolutely ridiculous billing practices. I was on a Klaviyo plan and assumed fairly standard business practices would apply, if I turned auto-upgrade off, my account wouldn't suddenly be moved onto a much more expensive plan without my approval. While developing new features for my website and app, I accidentally left live Klaviyo profile syncing enabled during testing. This created thousands of dummy/test profiles in Klaviyo. Despite having auto-upgrade switched off, Klaviyo increased my plan anyway, apparently without any meaningful warning or approval from me. I am now being charged almost three times my normal monthly bill because of profiles that were obviously generated during development/testing. What is the point of an \"auto-upgrade off\" setting if Klaviyo can simply increase your plan and bill you significantly more regardless? At the very least, I would expect the account to hit its profile limit, stop accepting additional active profiles, or require me to explicitly approve a plan increase before charging me hundreds of dollars more. I'm genuinely unsure how a business can justify increasing a customer's subscription cost this dramatically without clear consent. Extremely disappointing experience and a serious warning for anyone using Klaviyo while developing or testing integrations.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "I am now being charged almost three times my normal monthly bill",
+        "resonance_evidence": "Absolutely ridiculous billing practices"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-08-10",
+      "rating": 1,
+      "title": "Tried to get help with template code\u2026",
+      "text": "Tried to get help with template code issues, but Klaviyo locks email/chat support strictly behind paid tiers. To make matters worse, accessing the community forum leads to endless login popup loops. If basic support and community tools don't even function properly, it's hard to trust the platform for long-term operations. Poor user support experience.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Poor user support experience"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-08-08",
+      "rating": 1,
+      "title": "They clearly don't care about poor\u2026",
+      "text": "They clearly don't care about poor reviews, but adding mine anyway. Awful billing policy - charging for dormant profiles that are not even subscribed to receive marketing. Terrible customer support.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Awful billing policy"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-14",
+      "rating": 1,
+      "title": "The worst customer service",
+      "text": "The worst customer service / software support i ever seen in my like",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "The worst customer service / software support i ever seen in my like"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-07",
+      "rating": 1,
+      "title": "Poor in 2026",
+      "text": "We have used this for countless clients of ours... But sadly it has not improved for many years (no good new features of note, or obvious signs of evolution), is buggy, hard to use in places, template editor did not improve, and just generally, feels like a company that isn't really trying any more. Its also really too expensive for what it does. Its probably still the market leader, but generally its a disappointing platform in 2026.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "generally its a disappointing platform in 2026"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-03",
+      "rating": 1,
+      "title": "Severely overpriced to start with",
+      "text": "Severely overpriced to start with. Then customer service non existent. I moved from Klaviyo to Omnisend because Klaviyo kept increasing their prices multiple times in a 12 month period and customer service was not there. When I cancelled my Klaviyo account it kept sending emails to my customers, when I logged in to try to get help for this to stop it said \"email support and chat support no longer available, upgrade plan for support\". This just confirmed the poor level of customer service offered by Klaviyo. Very disappointed with the amount of money I have wasted on this platform. Omnisend has the same capabilities, cost less and has fantastic customer support.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "I moved from Klaviyo to Omnisend because Klaviyo kept increasing their prices multiple times in a 12 month period",
+        "resonance_evidence": "Very disappointed with the amount of money I have wasted on this platform"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-17",
+      "rating": 1,
+      "title": "Spam",
+      "text": "Egal, wie oft ich mich von den Newslettern abmelde, es folgen weitere. Super unangenehm und unprofessionell. Am besten vermeiden, wenn m\u00f6glich",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Super unangenehm und unprofessionell"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-13",
+      "rating": 1,
+      "title": "Ich w\u00fcrde 0 Sterne geben.",
+      "text": "Ich w\u00fcrde 0 Sterne geben. Ich benutze Klaviyo ein paar Monate, und stecke 2 Monate Zeit rein um alles aufzustezen (was wirklich nicht intuitiv ist, es gibt beispielsweise keinen undo button) nur um dann eine Email zu bekommen, dass mein Konto deaktiviert wird, weil ihnen aufgefallen ist, dass man keinen Finanzcontent \u00fcber klaviyo vermarkten darf. Danke f\u00fcr gar nichts. Wirklich die w\u00e4rmste Empfehlung ES NICHT ZU NUTZEN",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "stecke 2 Monate Zeit rein um alles aufzustezen",
+        "resonance_evidence": "Wirklich die w\u00e4rmste Empfehlung ES NICHT ZU NUTZEN"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-04",
+      "rating": 1,
+      "title": "Don't bother with these guys",
+      "text": "Recently tried to work with your business over a couple of weeks but was cut off due to me being a finance broker that worked with several finance companies hence you wouldn't support the SMS function. Very disappointing indeed. If I could give no stars out of five I would. Stay away peeps \ud83d\ude09",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "If I could give no stars out of five I would. Stay away peeps"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-20",
+      "rating": 5,
+      "title": "2 years now. Overall - big fan",
+      "text": "To be fair I haven't had any experience with tech support yet. But have been using it for 2 years now and overall Im a big fan. Now that I compared it to GHL. They are different cos GHL is more of a CRM, but in terms of email campaigns and flow and integrations with Woocommerce Klaviyo has so much better interface and ease of use. Will update my review if things change",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Im a big fan"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-19",
+      "rating": 1,
+      "title": "How did Klaviyo tank this fast?",
+      "text": "A company that used to be amazing and is now absolutely horrific. They launch new features and then dont update any of their documentation, not that it matters because the website is always broken anyways and doesn't load. Can't wait to cancel. We pay $4k a month and only have access to AI chatbots who take you around in circles. You want help with a Klaviyo bug? Good luck! You will have to log a ticket and then they just send you an outdated blog article that doesn't help at all. What used to be an excellent email provider is now just a predatory SaaS company like Shopify.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "A company that used to be amazing and is now absolutely horrific"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-16",
+      "rating": 2,
+      "title": "Terrible",
+      "text": "Klaviyo charges like a high-end platform, yet the website constantly feels unreliable. Pages don\u2019t load properly, changes don\u2019t always update, and simple tasks become unnecessarily time-consuming. For what they charge businesses every month, the platform should be far more polished and dependable than this.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "the website constantly feels unreliable"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-27",
+      "rating": 2,
+      "title": "Overpriced, overcomplicated, and under-supported.",
+      "text": "Don't get lured in by the Shopify integration alone. Klaviyo has become an endless money pit where you pay a premium for 'bloatware'\u2014features that sound good on paper but offer no real utility. Their pricing keeps climbing, yet the customer service remains abysmal. For the price they charge, you\u2019d expect a much higher level of support and care. It\u2019s simply not worth the investment anymore, and we will be moving our business elsewhere.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "we will be moving our business elsewhere"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-25",
+      "rating": 1,
+      "title": "PARTNER email marketing hacked my\u2026",
+      "text": "PARTNER email marketing hacked my Klaviyo accounts, deleted everything. I asked Klaviyo for help. 3 weeks I am emailing with support, they really don't care. I pay 10k USD a month, and they don't give a anything. NEVER use KLAVIYO, there are enough competitors that are now better. I already told support I will dispute all my bills becuase I CAN'T downgrade, and they are not assisting me how to DOWNGRADE",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "I pay 10k USD a month",
+        "resonance_evidence": "NEVER use KLAVIYO"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-23",
+      "rating": 1,
+      "title": "Any company that makes it as difficult\u2026",
+      "text": "Any company that makes it as difficult as it can to stop using them is ethically dubious. Klaviyo (an IT comapny) does its best to make it impossible to stop a Standing Order. Its instructions to close an account are deliberately misleading and inaccurate. Dodgy. I would avoid them.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I would avoid them"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-05",
+      "rating": 1,
+      "title": "The billing structure is a trap.",
+      "text": "Absolutely terrible billing structure that eats straight into your profit margins. They bill based on outdated list sizes so even after you clean your list, you're forced to overpay until their system finally decides to \"catch up.\" On top of that, support is a joke. They claim 24/7 chat but it's just a bot, and when complex flows freeze up with zero warning, you're bleeding revenue waiting hours for a real email reply. The backend sync is also deeply flawed (the media library creates thousands of duplicate images you can't delete). In e-com, a tool needs to scale with you, not penalize your cash flow. Migrating my flows to a competitor ASAP.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "you're bleeding revenue waiting hours for a real email reply",
+        "resonance_evidence": "Migrating my flows to a competitor ASAP"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-04",
+      "rating": 1,
+      "title": "Klaviyo is overcharging and uses predatory pricing",
+      "text": "Klaviyo is overcharging... Klaviyo is currently overcharging me and hiding behind billing timing. My list has already been reduced and auto-downgrade was enabled weeks ago. Despite this, I am still being charged around $400 for a profile volume that no longer exists. Support confirmed that billing is based on a prior snapshot before the cycle resets. In other words, even after fixing your account, you are forced to overpay until their system \u201ccatches up.\u201d That is not acceptable. This is not a user error \u2014 it is a predatory billing structure that knowingly charges customers for outdated data. My account should be billed at the correct tier based on its current state, which is approximately $100, not $400. I expect this to be corrected immediately, not at some future billing cycle. Until this is resolved, this stands as a warning: reducing your list on Klaviyo does not reduce your costs when it should.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-02",
+      "rating": 1,
+      "title": "Is it possible to give a negative\u2026",
+      "text": "Is it possible to give a negative review? Or zero stars? Repeatedly unsubscribing from an unscrupulous vendor\u2019s website have been ignored-the vendor and by extension this platform continue to shove their unwanted emails into my account. I have also contacted vendor directly to tell them to remove me from all their mailings, to no avail.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Is it possible to give a negative review? Or zero stars?"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-03-20",
+      "rating": 1,
+      "title": "Locked out after first campaign due to MFA/2FA error on their end \u2014 support is painfully slow and excessive",
+      "text": "After signing up and paying $70, I was required to enable MFA/2FA \u2014 there's no option to skip it. I set it up with my phone number, received the Viber verification code without issues, and successfully launched my first campaign. The next time I tried to log in, the MFA code simply stopped arriving. I tried resending it over 50 times across multiple devices and browsers \u2014 nothing. I was completely locked out of my account while my campaign was running, unable to see results or manage anything. I reached out to support, and this is where it got worse. They respond roughly every 8 hours, which means a simple back-and-forth takes days. Each time I replied, they asked for something new. The list of things they demanded \"for security\" was absurd: five profile email addresses from my account, the name of my last campaign, last login date, mailing address on file, other user emails, last invoice amount, last 4 digits of my payment method, last charge date, a screenshot of my bank statement showing the Klaviyo charge, a screenshot of my ecommerce admin backend with the URL visible, AND they wanted me to create a page on my website titled \"Klaviyo Test\" and send them the URL. I provided over 10 unique pieces of identifying information across multiple emails. Any reasonable support team would have verified my identity with a fraction of that. Instead, they kept coming back asking for more, one item at a time, with 8-hour gaps between replies. The issue is still not resolved. My business has been suffering for days because I cannot access my own account. I will be canceling permanently. If your MFA system can break after one use and your recovery process takes days of bureaucratic back-and-forth, something is seriously wrong.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-03-17",
+      "rating": 1,
+      "title": "Klaviyo is currently overcharging...",
+      "text": "Klaviyo is currently overcharging me and hiding behind billing timing. My list has already been reduced and auto-downgrade was enabled weeks ago. Despite this, I am still being charged around $100 for a profile volume that no longer exists. Support confirmed that billing is based on a prior snapshot before the cycle resets. In other words, even after fixing your account, you are forced to overpay until their system \u201ccatches up.\u201d That is not acceptable. This is not a user error \u2014 it is a billing structure that knowingly charges customers for outdated data. My account should be billed at the correct tier based on its current state, which is approximately $50, not $100. I expect this to be corrected immediately, not at some future billing cycle. Until this is resolved, this stands as a warning: reducing your list on Klaviyo does not reduce your costs when it should.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-03-15",
+      "rating": 1,
+      "title": "TRUFFATORI",
+      "text": "TRUFFATORI! Sono degli schifosi truffatori.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "TRUFFATORI! Sono degli schifosi truffatori."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-03-13",
+      "rating": 1,
+      "title": "Terrible - Avoid!",
+      "text": "Support is terrible, the system is terrible, and delivery is terrible.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Support is terrible, the system is terrible, and delivery is terrible."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-03-08",
+      "rating": 1,
+      "title": "chat support available 24/7... LIES!",
+      "text": "chat support available 24/7. chat support is an AI bot which is poorly trained. Email support available 24/7. Actually means you can email support 24/7 they will reply during office hours! The con is real with Klaviyo.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "The con is real with Klaviyo."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-03-08",
+      "rating": 1,
+      "title": "Worst customer service",
+      "text": "Worst customer service, will freeze your account and shut down your campaigns even after 5 years of service, expect the worst, or better, just find another provider. Horrid.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-03-08",
+      "rating": 1,
+      "title": "Nightmare",
+      "text": "Nightmare. The Worst Company for Email - Cost me thousands of dollars. After years of my team using Klaviyo, I finally needed help from customer service after my business card got a fraud charge, and I replaced it, but their system suspended me even though we updated it within 2 days of realizing the card was replaced. I emailed, I chatted, I begged their \"product experts\", I entered multiple credit cards and they charged me, but my account remained frozen. After dozens of attempts in 2 days trying to reach customer service, filing requests, begging, I could not get anyone to help and my big campaign couldnt send out to my audience and it cost me thousands. This company has very limited customer service, and will suspend your account for the slightest issue and it is nearly impossible to get it to work. Meanwhile, you will still be charged, not able to send emails, and no one wil help you. Eventually you will have to call your bank and have Klaviyos deductions blocked and get a new email provider. No one from Klaviyo will help you. They have plenty of clients. Klaviyo is huge, and everyone seems to promote them, but they will cost you and are truly a nightmare if you ever need help with anything.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "cost me thousands of dollars",
+        "resonance_evidence": "Nightmare. The Worst Company for Email"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-03-06",
+      "rating": 1,
+      "title": "This platform is horrible",
+      "text": "This platform is horrible. IT IS NEAR IMPOSSIBLE TO CANCEL AND CLOSE YOUR ACCOUNT.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "This platform is horrible. IT IS NEAR IMPOSSIBLE TO CANCEL AND CLOSE YOUR ACCOUNT."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-03-05",
+      "rating": 1,
+      "title": "klaviyo's customer support truly sucks",
+      "text": "klaviyo's customer support truly sucks. It takes hours for each request to be responded to. Their sync system can upload stuff, but cannot delete it. Bad design flaws also in terms of the media library. It will make copies upon copies of every deviation of an image, resulting in thousands of images that all appear to be duplicative. Again, no way of deleting images either. Honestly, idiotic designers with very little foresight.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "thousands of images that all appear to be duplicative",
+        "resonance_evidence": "klaviyo's customer support truly sucks"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-03-04",
+      "rating": 1,
+      "title": "Sehr entt\u00e4uschende Erfahrung mit Klaviyo!",
+      "text": "Vor Vertragsabschluss wurde uns umfassende Unterst\u00fctzung und ein klares Setup zugesichert. Konkret wurde mit uns besprochen, dass ein Parent-Account mit zwei Child-Accounts eingerichtet wird, mit der M\u00f6glichkeit sp\u00e4ter weitere hinzuzuf\u00fcgen. Dies wurde uns von der zust\u00e4ndigen Ansprechpartnerin ausdr\u00fccklich zugesichert. Sobald der Vertrag jedoch unterschrieben war, hat sich der Service abrupt ver\u00e4ndert. Auf mehrere E-Mails erhalten wir keinerlei Antwort mehr von den zust\u00e4ndigen Ansprechpartnerinnen. Stattdessen werden wir an den allgemeinen Support verwiesen, wo haupts\u00e4chlich eine KI antwortet, die unser Anliegen weder richtig versteht noch l\u00f6sen kann. Das Problem: Das zugesicherte Account-Setup wurde nie eingerichtet \u2013 obwohl es ein zentraler Punkt unserer Entscheidung f\u00fcr Klaviyo war. F\u00fcr eine Plattform in dieser Preisklasse ist ein solcher Umgang mit Kunden absolut entt\u00e4uschend. Versprechungen im Verkaufsprozess zu machen und danach nicht mehr erreichbar zu sein, wirkt sehr unprofessionell. Wir bezahlen ein sehr teures Abonnement und erwarten daf\u00fcr auch eine entsprechende Betreuung. Aktuell f\u00fchlen wir uns als Kunde komplett alleingelassen. Sollte sich hier nicht schnell eine L\u00f6sung finden, werden wir den Vertrag ernsthaft \u00fcberdenken. Leider k\u00f6nnen wir Klaviyo nach dieser Erfahrung derzeit nicht weiterempfehlen.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Leider k\u00f6nnen wir Klaviyo nach dieser Erfahrung derzeit nicht weiterempfehlen."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-02-18",
+      "rating": 1,
+      "title": "Basically a scam at this point",
+      "text": "Basically a scam at this point. They are doomed with the rise of people building theirown solutions.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Basically a scam at this point."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-02-11",
+      "rating": 1,
+      "title": "Signed up with them to use their\u2026",
+      "text": "Signed up with them to use their texting campaign feature. Keep on throwing me an error, tried a couple times to work it out with them was not able to get anywhere with them. Finally requested a refund its been 2 plus weeks and not even a response. Would stay away",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "its been 2 plus weeks and not even a response",
+        "resonance_evidence": "Would stay away"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-02-02",
+      "rating": 1,
+      "title": "Very very slow",
+      "text": "The template editor text box is extremely slow - almost disfunctional due to the auto-saving function. It can take hours to edit a template. And it constantly warns The page is not responding ....",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "It can take hours to edit a template.",
+        "resonance_evidence": "extremely slow - almost disfunctional"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-02-01",
+      "rating": 1,
+      "title": "Shockingly bad - be wary of these charlatans",
+      "text": "Shockingly bad. Easily one of the most incompetent and frustrating companies I have dealt with. Klaviyo allows thousands of duplicate customer profiles to be created because it prioritises external IDs over email addresses, then offers no practical way to merge them at scale. Their solution is to expect customers to understand, build and run API calls themselves just to fix a problem caused by Klaviyo\u2019s own system design. Customer support is completely out of their depth. They simply repeat documentation, provide no real assistance, and show little understanding of the impact this has on live businesses. For a platform positioned as enterprise level marketing software, this is unacceptable. If you are running a real business and value data integrity, be very cautious.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "thousands of duplicate customer profiles to be created",
+        "resonance_evidence": "Shockingly bad. Easily one of the most incompetent and frustrating companies I have dealt with."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-01-31",
+      "rating": 1,
+      "title": "Since the day when Klaviyo was rising\u2026",
+      "text": "Since the day when Klaviyo was rising their prices extremely high I decided to cancel it. Now after almost 2 years I activated it suppressed almost all emails I they force me to pay at least $720 monthly. Thats nonsense - Klaviyo will pay for it the hard way.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "force me to pay at least $720 monthly",
+        "resonance_evidence": "I decided to cancel it"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-01-31",
+      "rating": 3,
+      "title": "Decent email service",
+      "text": "Decent email service, has everything you need to set up campaigns. AI feature is buggy.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Decent email service, has everything you need to set up campaigns"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-01-30",
+      "rating": 1,
+      "title": "This JUNK software clobbered my\u2026",
+      "text": "This JUNK software clobbered my WhatsApp app, and then told me I had to contact Meta to solve the problem. The Klaviyo support person was not just clueless, they were down right rude. I would never recommend this software.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I would never recommend this software"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-01-29",
+      "rating": 1,
+      "title": "Incompetence",
+      "text": "It\u2019s been over a year since some site started spamming me through this service. I reported it to the Klaviyo abuse team multiple times - they promised to fix it. Shockingly, they didn\u2019t. I used to think people couldn\u2019t be that useless\u2026 then Klaviyo showed me otherwise.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-01-28",
+      "rating": 1,
+      "title": "Shocking",
+      "text": "Shocking. Absolutely shocking. My account was suspended out of the blue, with no warning, no explanation, and no support. I\u2019ve spent hours crafting newsletters, building campaigns, and hundreds of pounds on social ads to grow my audience... and Klaviyo just nuked it all in a second. I\u2019ve done nothing wrong. No spam, no violations, no shady behaviour. My campaigns were entirely legitimate, yet my account, and my business communication, was halted instantly. Customer service has been near nonexistent. Automated messages, no timelines, no clarity. The entire experience is infuriating and unprofessional. If you run a business and value your time, your work, and your customers, do not trust Klaviyo. One day they\u2019ll just delete everything you\u2019ve built without reason, and there\u2019s nothing you can do about it. One star is far too generous for this.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "hundreds of pounds on social ads to grow my audience... and Klaviyo just nuked it all in a second",
+        "resonance_evidence": "do not trust Klaviyo"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-01-28",
+      "rating": 5,
+      "title": "Appreciated the quick service of Luan!",
+      "text": "Appreciated the quick service of Luan!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-01-21",
+      "rating": 1,
+      "title": "Outdated software that is going to get\u2026",
+      "text": "Outdated software that is going to get buried by newer tools. Just use shopify email marketing. Terrible UI, lost 60 emails that should have gone out to new paying customers. I wouldnt use it even if they paid me.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "lost 60 emails that should have gone out to new paying customers",
+        "resonance_evidence": "I wouldnt use it even if they paid me"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-01-06",
+      "rating": 1,
+      "title": "I had an issue with payments and\u2026",
+      "text": "I had an issue with payments and contacted Klaviyo in a polite and timely manner. I was told the issue would be resolved and that I would be connected with a specialist who would take over the case. After that: complete radio silence. Despite sending multiple follow-up emails, I received no response at all. When I later tried to log into my account, I discovered that it had suddenly been deactivated. Again, I sent several emails asking for an explanation \u2014 once more, no reply. Only after I reached my limit and decided to email all available Klaviyo contact addresses did I finally receive a response \u2014 the very same evening. That alone is already quite strange. And then, suddenly, I was told that my \u201ccontent, industry or practices\u201d were allegedly in conflict with Klaviyo\u2019s policies. This came as a complete surprise. I never received any warning, notice, or prior communication about this. No explanation, no chance to fix anything \u2014 just an account blocked without any due process. This is especially frustrating because I invested a significant amount of time and effort into building my email flows. My entire email marketing setup was effectively wiped out without warning or proper explanation. I have since sent another email requesting a detailed clarification, but I am not optimistic that this will lead to a solution. Overall, I strongly discourage using Klaviyo. Their communication is extremely poor, and it appears that major decisions are made abruptly and without transparency. Based on my experience, I would not recommend signing up with Klaviyo at all.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I strongly discourage using Klaviyo"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-12-31",
+      "rating": 1,
+      "title": "Poor Customer Service",
+      "text": "I recently transferred my Klaviyo account to a new owner, expecting the billing to stop on my end. Unfortunately, I\u2019m still being charged even though I no longer have control over the account. The process for resolving this issue has been unclear and time-consuming, and I haven\u2019t received a satisfactory resolution. This experience makes me question Klaviyo\u2019s account management and billing practices. I would not recommend Klaviyo unless they improve transparency and support for ownership transfers.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I would not recommend Klaviyo"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-12-15",
+      "rating": 1,
+      "title": "Unauthorized charge",
+      "text": "Klaviyo charged my business debit card for $30.00 I never signed up for any free trial or subscription. I tried to reach this company through their site's help center, sales, customer support but got nowhere. Worst part is, how did they acquire my cards credentials!!! STAY AWAY FROM THESE PEOPLE",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "STAY AWAY FROM THESE PEOPLE"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-11-29",
+      "rating": 2,
+      "title": "Shared IP Ban on Gmail Causing Bounces",
+      "text": "During Black Friday, I've had 2 campaigns already where a shared IP ban caused 22.5 and 60% of my emails to bounce. After research, this turned out to be a problem on Klaviyo its end, who have a limited number of IP addresses. When you\u2019re on top of your campaigns and you\u2019re doing a send on a fixed timestamp, you can easily fix this by re-sending to all bounced contacts after you see it's not delivering in a 1 hour window. However, when sending emails in a local time zone and you work out a whole delivery schedule, and 24 hours later you figure out an email has not been properly delivered, you can\u2019t fix it anymore. Support from Klaviyo was about to get back to me on this but I never heard back. Most likely they will get back after the BFCM period. Not happy with this, costing us a lot of money. Not speaking about the cost of using Klaviyo software.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "22.5 and 60% of my emails to bounce",
+        "resonance_evidence": "Not happy with this, costing us a lot of money."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-11-29",
+      "rating": 1,
+      "title": "10 step MFA to log in",
+      "text": "10 step MFA to log in - horrible",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-11-21",
+      "rating": 1,
+      "title": "AWFUL WORST EVER",
+      "text": "Shit, let us use the service all ok then just dumped us off without notice ...and then carried on charging us, and difficult to get refunds due to location Joke Do not use Ever You will end up losing your mind",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Do not use Ever"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-11-09",
+      "rating": 5,
+      "title": "I love this tool",
+      "text": "I love this tool. Shocked others say it\u2019s not great!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "I love this tool."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-11-07",
+      "rating": 1,
+      "title": "They are loosing my time",
+      "text": "If it were possible to attach image, I would attach a screenshot of their invoice. Klaviyo is loosing my time. STOP loosing my time! I paid for klaviyo just yesterday. I realized their app is from the past century: everything is very difficult to execute while their prices are high. Worst UI/UX!!! BFCM is running up. I must launch an ad campaign to make sales, have fans and be ready to enter the BFCM with confidence. But their medieval app is loosing my time!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Worst UI/UX!!!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-11-07",
+      "rating": 3,
+      "title": "Jeg ville aldrig selv v\u00e6lge den her\u2026",
+      "text": "Jeg ville aldrig selv v\u00e6lge den her platform til en virksomhed, der er simpelthen s\u00e5 mange fejl hele tiden. Og der er mange ting man ikke kan, som man kan i fx. Hubspot eller andre email platforme. Den virksomhed jeg er i, har Klaviyo, s\u00e5 jeg bruger det hver dag. Og som sagt, ikke noget jeg vil anbefale.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "ikke noget jeg vil anbefale"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-11-04",
+      "rating": 1,
+      "title": "After spent 6 hours of API setup with\u2026",
+      "text": "After spent 6 hours of API setup with custom project. I was logged out and saying this account is inactive. Totally mess......",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "After spent 6 hours of API setup",
+        "resonance_evidence": "Totally mess"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-11-03",
+      "rating": 2,
+      "title": "I\u2019ve lost revenue and wasted hours\u2026",
+      "text": "I\u2019ve lost revenue and wasted hours dealing with broken automations, confusing dashboards, and slow support. Definitely frustrating.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-11-03",
+      "rating": 5,
+      "title": "Klaviyo support is next level!",
+      "text": "Klaviyo support is next level! I always get put in contact with the most skilled, understanding and patient product experts. Most recently, Luan was extremely helpful and went out of their way to find a solution to my challenge. Thank you again!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Klaviyo support is next level! I always get put in contact with the most skilled, understanding and patient product experts."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-10-25",
+      "rating": 1,
+      "title": "Klaviyo Zero customer service",
+      "text": "Klaviyo Zero customer service, after purchase. I have emailed the success-klaviyo.com email 14 times now with the intention of increasing my usage. HOWEVER, all I get is the same spam reply, log into your account and click ?. Tried sending to all the email addresses sending the same email \"I can't access my account\". 5 days later I stopped the payment, through my bank. Now I get emails asking what is the problem?, how can we help? There are plenty of great products out there, Klaviyo is DEFINITELY not one of them.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Klaviyo Zero customer service, after purchase. I have emailed the success-klaviyo.com email 14 times now with the intention of increasing my usage. HOWEVER, all I get is the same spam reply"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-10-24",
+      "rating": 1,
+      "title": "Un support incroyablement nul",
+      "text": "Un support incroyablement nul. R\u00e9silier l'abonnement ? Une mission proche de l'impossible. R\u00e9cup\u00e9rer des factures , Mission impossible, 2 mois que je bataille pour r\u00e9cup\u00e9rer deux factures. Service \u00e0 fuir",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-10-16",
+      "rating": 5,
+      "title": "Great onboarding experience, feature-rich platform",
+      "text": "\u2713 Great onboarding experience with the experienced Marius - who was thoughtful and helpful in his responses \u2713 Wealth of support documentation \u2713 Wealth of best practice guides \u2713 Feature-rich platform for omnichannel marketing \u2713 First-class integration with Shopify You have to show up prepared to do the work. Nothing is turnkey. But this platform is best-in-class.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Great onboarding experience with the experienced Marius - who was thoughtful and helpful in his responses \u2713 Wealth of support documentation \u2713 Wealth of best practice guides \u2713 Feature-rich platform for omnichannel marketing \u2713 First-class integration with Shopify"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-09-26",
+      "rating": 1,
+      "title": "Klaviyo charges for fake profiles \u2013 terrible handling and zero accountability",
+      "text": "We have barely used Klaviyo for email sending over the past few months, yet our monthly bill suddenly jumped from $150 to $250. The only reason for this increase is thousands of fake profiles that were automatically created via the Shopify integration \u2013 not real customers, not real activity. When I contacted Klaviyo support, they confirmed the profiles came from Shopify and admitted they couldn\u2019t prevent them. However, they completely refused to issue any refund or adjustment, hiding behind their refund policy. It\u2019s absolutely unacceptable to be charged for fake bot profiles that have no value whatsoever, especially when our actual usage of the platform is close to zero. The way this was handled left me with no other choice but to cancel our account entirely.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-09-23",
+      "rating": 1,
+      "title": "Amateurish at best.",
+      "text": "I cannot explain how much I hate this platform. First, whoever is the Lead designer needs to be fired. That person should've been fired 3 years ago, once the Home and Dashboards were changed. Second, the changes that they're implementing are absolute dog****. Of course, just like rest of the AI techidiots, they're jumping on the train as well. While their basic functionality still lacks heavily, they're still pushing the AI garbage in our faces. Third, their other \"products\" that are locked behind the paywall are dog****. The reviews. What? I can just create a review image and feature it in my email. TrustPilot is a thing, and it beats you any day, any time. Their reps reach out to you to convince you how awesome their other \"products\" are, while they're absolute garbage. Then the data platform and what not. Klaviyo claims to be a data platform, but you can't look the stats 6 months back in the Analytics section. Lastly, the platform can be slow. I'm on an M4 Macbook, but it gets so slow. Klaviyo is lucky to be where they're at, because the competition is even worse. But one day it will fall down spectacularly, and I can't wait to see it.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I cannot explain how much I hate this platform. First, whoever is the Lead designer needs to be fired."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-09-22",
+      "rating": 1,
+      "title": "Klaviyo + Impact Radius: How Affiliates Lose Money Under Hidden Rules",
+      "text": "I joined the Klaviyo affiliate program through Impact Radius expecting professionalism and fair treatment, but what I experienced was nothing but scam, cheating, and non-transparency. The published affiliate terms say commissions are earned after 30 days if the customer remains active, but in reality Klaviyo applies hidden rules \u2014 only paying on the second month and calculating commission from the lowest subscription amount. None of this was mentioned in the terms I accepted. They reversed my valid conversions without proof, leaving me unpaid despite my investment in ads and content. Impact Radius does nothing to protect publishers, allowing Klaviyo as a brand and advertiser to steal earnings with no accountability. This program is dishonest, unfair, and should be avoided by any serious affiliate.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-09-20",
+      "rating": 5,
+      "title": "Great for drip campaigns",
+      "text": "Great for drip campaigns. We use Klaviyo for the onboarding of users - it put them in a 5-email sequence drip campaign. Additionally, we're able to use the API to put users in a separate user journey based on conditions within our site. The campaign builder is clean and straightforward. We plan on staying with them for a long time.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "We use Klaviyo for the onboarding of users - it put them in a 5-email sequence drip campaign.",
+        "resonance_evidence": "We plan on staying with them for a long time."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-09-17",
+      "rating": 1,
+      "title": "I never write reviews but...",
+      "text": "I never write reviews, but please do not use Klaviyo! Not only is it a rip-off, but nobody at the company has any idea how their software works. They'll give you the run around and expect you to hire someone to fix the technical issues that their own software has. Absolutely horrible experience!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-09-15",
+      "rating": 5,
+      "title": "Great customer service",
+      "text": "Great customer service. Thank you Danielle M!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Great customer service."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-09-12",
+      "rating": 1,
+      "title": "Je suis d\u00e9sinscrite de cette soci\u00e9t\u00e9 et\u2026",
+      "text": "Je suis d\u00e9sinscrite de cette soci\u00e9t\u00e9 et ils continuent de m'envoyer 3 mails par jour. J'ai signal\u00e9 au registrar comme mails abusifs.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Je suis d\u00e9sinscrite de cette soci\u00e9t\u00e9 et ils continuent de m'envoyer 3 mails par jour. J'ai signal\u00e9 au registrar comme mails abusifs."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-09-08",
+      "rating": 1,
+      "title": "What an absolutely shitty customer\u2026",
+      "text": "What an absolutely shitty customer service! They keep increasing their prices as customers service gets crappier by the day. You have to wait a long time to even get in contact with someone BY F... MAIL! And then they cant really do anything for you except direct you to links where you can try and figure out the problem yourself. Im currently locked out of my own f... account, because I cant receive SMS on the phone that is connected to the account and Klaviyos shitty system does not offer an alternative for me to use. So Im defacto locked out of my own f... account BY KLAVIYO, who IM PAYING MONEY EACH MONTH!!!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-08-28",
+      "rating": 1,
+      "title": "Klaviyo is a scam",
+      "text": "Klaviyo is a scam. They had a rep, a Julie D. from the sales department contact us about setting up emails for our company. We had over $35k emails which cost over $800+ for just one month. I was promised an onboarding, Julie told me someone was going to call me and help me setup and show me exactly how to make the $800+ work out in my favor to a value of a possible 30x ROAS. I never received any call. I never got any reasonable order from the emails sent via Klaviyo. Total orders was less than $100. The flows barely yielded 10% of the ridiculous $800 I paid for one month. I reached out to Julie, she said she will respond but never did. I will never recommend them. We have done way better just using our shopify emails for less than $10 a month. Klaviyo is definitely a scam. They lie about how efficient their flows are but you are better off just using regular emails.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-08-28",
+      "rating": 4,
+      "title": "Great email service provider",
+      "text": "Great email service provider, my recent agency onboarded me with them after moving me from mailchimp",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Great email service provider"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-08-26",
+      "rating": 5,
+      "title": "Best Support",
+      "text": "Best Support",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-08-09",
+      "rating": 1,
+      "title": "From $39 to over $200 a month \u2014 overnight.",
+      "text": "\u2e3b Going from $39/month to over $200/month overnight due to a change in business model is unacceptable. We send maybe two campaigns a month, yet under the new model you get charged simply for storing a profile \u2014 even if you never email them. On top of that, there are persistent bugs with abandoned emails that we\u2019ve tried to resolve multiple times with their so-called \u201csupport,\u201d but without success.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-08-07",
+      "rating": 1,
+      "title": "Shocking support",
+      "text": "Shocking support - long delays as the chat person seems to toggle through multiple support chats. doesn't give fully articulated instructions, comment are piecemeal which makes the whole process ineffective, annoying and overly time consuming. Do not subscribe to Klaviyo - worst tool ever.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-08-05",
+      "rating": 1,
+      "title": "while klaviyo has a good app epxect to pay much more than what you think you will. the billing process is obscure and it is leveraged to always go up",
+      "text": "while klaviyo has a good app it is really difficult to manage costs. They work hard to increase subscriber numbers which is good but then it is really difficult to pare them down in time for the auto subscription charge Charges automatically go up with subscriptoins but do not go down I have yet to figuer out how they go down Also Klaviyo is the one calculating the number of customer so that is perhaps asking your customer how many pancakes did you use. as the subscriptoin fees ratchet up quickly with subscriber counts it gets expensive",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "Charges automatically go up with subscriptoins but do not go down",
+        "resonance_evidence": "really difficult to manage costs"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-08-01",
+      "rating": 1,
+      "title": "Klaviyo is trash",
+      "text": "Klaviyo is trash. They force paying customers to keep spam profiles active because they only allow you to suppress a profile (the allowance to choose to not email a profile) once every 90 days. So bots keep signing up, we keep suppressing those sign ups, only for these bots to re-sign up. When they do that, we can\u2019t re-suppress them for THREE MONTHS. Now mind you, Klaviyo charges a subscription PER ACTIVE PROFILE. I escalated my request to surpass the 90-day restriction, and you know what they said? \u201cwE cAnT dO tHaT!!1 pEOpLe WiLL dEaCtiVaTe pRoFiLeS bEfOrE BiLLinG dATe aNd rEaCTiVaTe tHeM aNd wE\u2019ll LoSe MoNeY!!!111\u201d. Awww someone think of this poor 8 BILLION DOLLAR company! They want YOU, business owner, to lose money by paying them to keep spam profiles active instead! Not them! They will actually MAKE UNDESERVING MONEY because you anre forced to keep paying for SPAM ACCOUNTS! That\u2019s why they won\u2019t solve your problem. They profit off of it! ABSOLUTE GARBAGE COMPANY, stay away!!! P.S: if they respond saying you can add double opt-in, that is a botched solution that DOES NOT SOLVE THE ISSUE, and only adds obstacles for legitimate sign ups, meaning their solution WILL make your business suffer. You\u2019ll get fewer sign ups, add one extra unnecessary hurdle to you getting new customers, AND DOESN\u2019T STOP BOTS. Klaviyo, I hope your competitors read this and crush you out of existence.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "Klaviyo charges a subscription PER ACTIVE PROFILE",
+        "resonance_evidence": "Klaviyo is trash"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-07-26",
+      "rating": 1,
+      "title": "i am 83 and ripped off by klaviyo\u2026",
+      "text": "i am 83 and ripped off by klaviyo install error shut down my site 3 days while i figured out how to fix, klaviyo re fused to help and when i asked for help with complicated installation i was referred to videos. program show 15 steps to install an when i asked support about the steps she asked where i found that. after total failure and losing several thousasnds klaviyo refulsed to make a refund",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "install error shut down my site 3 days",
+        "resonance_evidence": "i am 83 and ripped off by klaviyo"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-07-25",
+      "rating": 5,
+      "title": "Persistence in Dealing with a Sticky\u2026",
+      "text": "Persistence in Dealing with a Sticky Issue, Luan stayed with the case following up with engineering to ensure they resolved the issue. It was a very tricky case which required dev teams to get invovled, and he followed up with them to make sure they finally got it solved.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Persistence in Dealing with a Sticky Issue, Luan stayed with the case following up with engineering to ensure they resolved the issue"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-07-09",
+      "rating": 1,
+      "title": "Absolute pain",
+      "text": "Absolute pain. Hard to use, obscure language. You need to get a degree to be able to use it.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Absolute pain"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-07-08",
+      "rating": 1,
+      "title": "Daily incessant sales team doesn't know\u2026",
+      "text": "Daily incessant sales team doesn't know how to go away despite telling them to go away multiple times and remove me from all communications. Worse company in the WORLD, I cannot stress DO NOT USE THEM. Go to Mailchimp or ANY OTHER PROVIDER.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Worse company in the WORLD, I cannot stress DO NOT USE THEM"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-07-06",
+      "rating": 1,
+      "title": "Worst customer experience",
+      "text": "Worst customer experience. they just want to get your money, zero customer support.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Worst customer experience"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-07-04",
+      "rating": 1,
+      "title": "Klavyio is a small piece of ...",
+      "text": "Klavyio is a small piece of .... they let you make all the set up and when they see that you don't upgrade their plan they block you account. Big loss of time",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Klavyio is a small piece of ...."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-07-01",
+      "rating": 1,
+      "title": "Lists auto expire and bumps you to a higher plan",
+      "text": "Very disappointed. I am actually thinking of cancelling this service because of this. I created a list to suppress profiles so that we can stay in the lower profile account, since their plans are based on how many active profiles you have. The lists will sometimes expire randomly and auto bump you to a much higher plan and charge your card immediately. This is very frustrating and I have to get on with support in order to try and get a refund. They really need to do something about this.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "auto bump you to a much higher plan",
+        "resonance_evidence": "Very disappointed. I am actually thinking of cancelling this service because of this."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-06-25",
+      "rating": 1,
+      "title": "Out of Control Dynamic Pricing Tiers",
+      "text": "Klaviyo\u2019s pricing policy is unethical and exploitative, profiting off bots and spammers by inflating active profiles, leading to outrageous overcharges. Literally, a $20/month subscription can turn into over $500/mo within days thanks to their scammy dynamic pricing tiers. Yes, each bot visiting your site WILL create an active profile in Klaviyo, with or without event tracking from your website and Klaviyo WILL bump you up pricing tiers without your consent. When confronted, they refuse to acknowledge or address customer concerns. They happily treat customers like cattle, milking them for profit without accountability or remorse. Avoid Klaviyo at all costs!!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "a $20/month subscription can turn into over $500/mo within days",
+        "resonance_evidence": "Avoid Klaviyo at all costs!!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-06-24",
+      "rating": 1,
+      "title": "Onboarding en klant worden was geen fijne ervaring",
+      "text": "De afgelopen weken is onze ervaring met jullie sales- en onboardingproces bijzonder frustrerend geweest: Agressieve salesbenadering We werden herhaaldelijk benaderd \u2013 niet alleen ikzelf, maar ook enkele collega\u2019s \u2013 tot op het punt dat het als opdringerig en storend werd ervaren. Hoe jullie aan hun telefoonnummers zijn gekomen, is ons een raadsel. Misleidende beloftes bij onboarding Er werd ons geen gratis maand implementatie-ondersteuning beloofd, dit kon echt niet want het was \u201cplug-and-play\u201d. In werkelijkheid ben ik inmiddels al ruim 2,5 week bezig zonder dat het goed werkt. Niet-beschikbare implementatiecontactpersoon Onze toegewezen contactpersoon is geregeld meerdere dagen onbereikbaar, waardoor we telkens stil komen te staan op cruciale momenten. Onwerkzame supportkanalen De reguliere support verwijst ons steeds naar artikelen en stappenplannen die elkaar tegenspreken. Ondanks meerdere verzoeken om telefonisch contact om dit op te lossen, blijkt bellen ineens niet meer mogelijk. Als dit vandaag niet wordt opgelost, overwegen we serieus om de samenwerking stop te zetten en een alternatief te zoeken.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "al ruim 2,5 week bezig zonder dat het goed werkt",
+        "resonance_evidence": "overwegen we serieus om de samenwerking stop te zetten en een alternatief te zoeken"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-06-18",
+      "rating": 1,
+      "title": "Worst customer experience and service\u2026",
+      "text": "Worst customer experience and service I've ever witnessed.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Worst customer experience and service I've ever witnessed."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-06-03",
+      "rating": 1,
+      "title": "ITS A SCAM",
+      "text": "ITS A SCAM! They keep charging us money while I do not use their service. Tried to contact them many times but just do not reply in a way that helps (only standard answers no solutions) Hereby my last email to them: Hi Klaviyo, I wrote you guys multiple times allready You keep charging us while we not use your services In the attachment you find the transactions We dit not authorize these and we do not use your services. I filed chargebacks allready \u200bAlso I am going to inform financial regulators about your doings. This is not acceptable. Please confirm refund of these payments and please stop charging I do NOT have a login, i do NOT use your services and I do NOT want to use your services. This is an absolute scam Do not ask me for usernames and that kind of stuff. I do not know a username because I do not want to be your client. \u200bMultiple times I informet you about this allready but no action is taken. If I do not get a confirmation within 24 hours that this 'subscription' is ended and the amounts will be refunded I will place reviews everywheren and inform press about your wrong doings \u200bWith the payments attached you have the info you need to end this",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "ITS A SCAM!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-20",
+      "rating": 1,
+      "title": "Trash company",
+      "text": "Trash company, the email flows don't work and there is no support for the free plan. So annoying why can't it just work",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Trash company"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-19",
+      "rating": 5,
+      "title": "Excellent app that we used for many\u2026",
+      "text": "Excellent app that we used for many years now. Free trainings and easy to manage",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Excellent app that we used for many years now."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-13",
+      "rating": 1,
+      "title": "Klaviyo will not stop spamming my phone\u2026",
+      "text": "Klaviyo will not stop spamming my phone with sales calls, despite asking to be removed from their list and put on a do not contact list. I've had to block 3-4 different sales employees from calling me non-stop monday through friday. It's getting ridiculous.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-09",
+      "rating": 4,
+      "title": "Klaviyo works well...",
+      "text": "Had some issues relating to billing but these were resolved by Tom in support. Overall it's a good service - our only gripe with Klaviyo and the reason for not being 5 stars is it is way too expensive so we have to constantly adjust and reduce our subscriber levels so we can actually afford the service and therefore do not see full benefit.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Overall it's a good service"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-01",
+      "rating": 1,
+      "title": "Nightmare to work with nightmare to get\u2026",
+      "text": "Nightmare to work with nightmare to get a hold of - They are invoicing me for 2 different accounts - Trying to get hold of them sorry nobody available hang up.... emailing them catcha doesn't allow you to get through - Buyer certainly beware",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Nightmare to work with nightmare to get a hold of"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-01",
+      "rating": 1,
+      "title": "I wanted access to the Advanced KDP\u2026",
+      "text": "I wanted access to the Advanced KDP features to integrate their webhooks into out system for out customers. I asked support explicitely if subscribing to a basic plan and starting a specific free trial would grant me access top the webhooks. The support confirmed and I subscribed. This was a down right lie as it did in fact not grant me access.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "This was a down right lie as it did in fact not grant me access"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-01",
+      "rating": 1,
+      "title": "The subtle pricing change has become a\u2026",
+      "text": "The subtle pricing change has become a scam. Support does not know how to handle it, and they continue to charge customers. After several years, it is time for a change. The way you implemented the pricing change was poorly executed and managed.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "The subtle pricing change has become a scam"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-04-29",
+      "rating": 1,
+      "title": "Wenn Sie Frustration brauchen: Klayvio!",
+      "text": "Extrem schlecht gemachtes Embedding. Super kompliziert und schlecht dokumentiert. Website blockiert st\u00e4ndig meinen crome Browser und vor allem die Hilfeseiten. Wenn Sie Frustration brauchen: Klayvio!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Extrem schlecht gemachtes Embedding"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-04-25",
+      "rating": 1,
+      "title": "Scam Upgrade to $3300!",
+      "text": "I\u2019ve been with Klaviyo 5 years. We were paying $625/month. Today we received a bill for $2765 AND $625! When I got ahold of their online support chat they said that we have 400,000+ active profiles which is simply NOT true. We did not change anything and all those profiles were inactive. They are trying to scam us by somehow making all those profiles active which we did NOT do on our end! Trying to deal with their support team now, this is a scam!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "We were paying $625/month. Today we received a bill for $2765 AND $625!",
+        "resonance_evidence": "They are trying to scam us"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-04-25",
+      "rating": 1,
+      "title": "Horribly deceptive",
+      "text": "Horribly deceptive. I tried out their new review feature and just during the demo it sent reviews. No preview, no setup, no branding. ZERO customer support was available. I will not be using them anymore.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Horribly deceptive"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-04-11",
+      "rating": 1,
+      "title": "Klaviyo is not trustworthy, they steel data",
+      "text": "If you want to rely on your emails and automations, please don't use Klaviyo. There are many other alternatives. They suspended my account without any notice. Not even an email saying that my account is disabled. I had to find out when I received a Zapier alert. They are very vague about it and the worst part of all they delete all your data and profiles. I reached out to them on support and email but no reply so far regarding my data. I would have understand it if they suspend your account, but the fact that they steel your data and won't let you export it is a crime in my opinion. I will wait a couple of days before I take legal steps. Ps Klaviyo. My account on Trustpilot is not the same as I have with you, so don't dispute this review saying it's not based on a genuine experience. I do have an account with you guys so it is my own genuine experience.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "They suspended my account without any notice. Not even an email saying that my account is disabled. I had to find out when I received a Zapier alert.",
+        "resonance_evidence": "If you want to rely on your emails and automations, please don't use Klaviyo"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-04-10",
+      "rating": 1,
+      "title": "We can't even downgrade our account",
+      "text": "We can't even downgrade our account Useless support. Terrible company",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "We can't even downgrade our account Useless support. Terrible company"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-04-09",
+      "rating": 1,
+      "title": "Poor pre-sale and got scammed",
+      "text": "I was trying to see what automations this company offers - no information. Requested a demo, got an email to create an account, did that thinking it will be my demo, but no, I got trapped into creating a live account where I have to link my website and everything. Went to the chat, it was Ai bot and real support is available only for accounts who pay for the service. So, how am I supposed to understand what this company offers before I buy it??? Feels like a scammer agency, no pre-sale support what so ever, lots of information, which does not offer enough info. edit: Was just reading the reviews and it is scary. Gives me an impression of poorly organised company, when they only take action after a review has been left. Thank you Truspilot for helping me not to choose this company.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Feels like a scammer agency, no pre-sale support what so ever"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-04-07",
+      "rating": 1,
+      "title": "Don't bother, you'll loose money and won't get any support",
+      "text": "Don't know what happend but the last months there after sales services is totally ZERO. No help with bugs, no solutions, you have to repeat the problem several times, and you have someone on the other side that seems to not really understand what I'm saying or explaining, etc. What a waste of time. We also got upgraded to another price but they keep changing their prices. They used to be excellent but clearly not the case anymore. We're leaving.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "We're leaving."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-04-04",
+      "rating": 1,
+      "title": "After 9 Years, This Is How They Treat You",
+      "text": "I\u2019ve been a paying Klaviyo customer for 9 years. After the Christmas peak, I forgot to downgrade our plan. Our usage dropped, but we continued to be charged at a much higher tier \u2014 even though we didn\u2019t use the additional capacity. I hold my hands up \u2014 it was my oversight. But there was no cost to Klaviyo, as we didn\u2019t use the extra service. I explained everything clearly and asked if they\u2019d consider a refund for the unused months. They refunded the current month (which hadn't ended yet), but refused to consider the identical previous months. No discussion. No flexibility. Just a copy-paste policy response and a flat \u201cthis decision is final.\u201d Even after nearly a decade as a loyal customer, there was zero goodwill. They charged us for services we didn\u2019t use, and wouldn't make it right \u2014 even when it would\u2019ve cost them nothing. I can't see a genuine reason for Klaviyo's decision. They would lose nothing by issuing a refund as the services were not used. As a business owner myself, I would not treat a customer this way. If you\u2019re thinking of using Klaviyo, be aware: once they\u2019ve charged you, that\u2019s where the support ends. You\u2019re on your own.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-04-03",
+      "rating": 1,
+      "title": "Customer support does not help",
+      "text": "Lot of issues - I keep opening tickets with Klaviyo customer support and nothing has been resolved. I am losing customers everyday as the click rate that Klaviyo shows is wrong as I am tracking the clicks in Clarity and clearly there are a lot of clicks that are not showing in Klaviyo.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "I am losing customers everyday as the click rate that Klaviyo shows is wrong as I am tracking the clicks in Clarity and clearly there are a lot of clicks that are not showing in Klaviyo.",
+        "resonance_evidence": "Lot of issues - I keep opening tickets with Klaviyo customer support and nothing has been resolved."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-04-02",
+      "rating": 1,
+      "title": "The worst email marketing company in\u2026",
+      "text": "The worst email marketing company in the market and the wordst support 0/10",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "The worst email marketing company in the market and the wordst support 0/10"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-04-02",
+      "rating": 3,
+      "title": "Is there some light........?",
+      "text": "I would like to award more due to the fact of a couple advisors were brilliant and helped me set up a sign up form. This coupled with my own work and looking on YouTube, Casey Luck, i am now fairly proficient on Klaviyo. The truth has always been the product is really good, with the caveat that it currently is not working due to technically issue for the last 48 hours? However it is potluck as to what advisor you get!! I have had live chat so many times, i eventually find a couple of good ones. For this reason i can not give anything more than 3 stars, the level of competency within the support is still really poor throughout tho whole team, some shine brightly, others are awful! Better but only because i have taught myself!!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "The truth has always been the product is really good, with the caveat that it currently is not working due to technically issue for the last 48 hours? However it is potluck as to what advisor you get!!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-04-01",
+      "rating": 1,
+      "title": "If I could I would give them ZERO\u2026",
+      "text": "If I could I would give them ZERO Stars. I have been trying to cancel my subscription for 2 weeks now. No success online nor with their Support. What they advise is useless and does not work. In the meantime they are trying to deduct money from my card. This is straight forward fraud! DO NOT USE THEM!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "I have been trying to cancel my subscription for 2 weeks now. No success online nor with their Support.",
+        "resonance_evidence": "This is straight forward fraud! DO NOT USE THEM!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-03-31",
+      "rating": 1,
+      "title": "Klaviyo keeps changing its pricing\u2026",
+      "text": "Klaviyo keeps changing its pricing policies. What used to be a flexible usage-based plan has become a forced subscriber-based model, where you're pushed to pay for inactive profiles. You're left deleting users blindly just to avoid getting overcharged. There\u2019s no real customer support, no one to talk to, and no transparency. It feels like a company that's lost its way \u2014 no wonder their stock has dropped so significantly.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    }
+  ]
+}

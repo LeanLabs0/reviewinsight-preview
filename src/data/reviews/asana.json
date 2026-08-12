@@ -1,0 +1,2512 @@
+{
+  "slug": "asana",
+  "captured_at": "2026-08-12T20:48:37.032020+00:00",
+  "reviews": [
+    {
+      "portal": "G2",
+      "review_id": "13254090",
+      "date": "8/12/2026",
+      "rating": 5.0,
+      "title": "User-Friendly UX and Responsive Support",
+      "text": "There's a user friendly UX, and the support staff/chat portal is open to inquiry The feature set can be a little overwhelming",
+      "role": "Marketing Team Lead",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/asana/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "The feature set can be a little overwhelming"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13250647",
+      "date": "8/12/2026",
+      "rating": 5.0,
+      "title": "User-Friendly Task & Project Management That Boosts Performance",
+      "text": "We can easily create tasks and projects, add priority-wise tags, and the UI is very user-friendly. The learning curve also isn\u2019t very high, so it\u2019s easy to get started. we can easily create tasks and assign them...or if we have to ask anything from client we create a task here and then have a discussion with him....so all in all a very good product to increase our overall performance For as much as I\u2019ve used Asana, I don\u2019t think there\u2019s anything I\u2019ve disliked about it.",
+      "role": "Senior Frontend Engineer",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/asana/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "so all in all a very good product to increase our overall performance"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13250004",
+      "date": "8/12/2026",
+      "rating": 5.0,
+      "title": "Streamlining Workflows with ease",
+      "text": "Now has AI feature to assist with questions I might have around workflow creations and rules. I don't need to google or go to the help centre. Even though AI feature is available creating rules and understand them is limited when adding custom features already determined by Asana, I cant create my own custom feature.",
+      "role": "Acting Junior Project Manager",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/asana/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "I don't need to google or go to the help centre. Even though AI feature is available creating rules and understand them is limited"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13242678",
+      "date": "8/11/2026",
+      "rating": 4.0,
+      "title": "Flexible Views That Fit Every Need",
+      "text": "The various views that are available depending on what you need. The near constant reminders they send to your email.",
+      "role": "Verified User in Civic & Social Organization",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/asana/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "The near constant reminders they send to your email."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13240787",
+      "date": "8/11/2026",
+      "rating": 3.5,
+      "title": "Great for Tracking Deadlines, but Too Many Asana Emails",
+      "text": "easy to track deadlines, easy to see what team members are working on too many emails get sent to me through asana",
+      "role": "Verified User in Non-Profit Organization Management",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/asana/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "too many emails get sent to me through asana"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13240340",
+      "date": "8/11/2026",
+      "rating": 4.0,
+      "title": "Category Tabs Make Navigation Easy",
+      "text": "I like the category tabs. I also appreciate the ability to create different tabs, though that's a feature I haven't used yet. I wish the subtask due date feature was called out in a more obvious way when looking at your home board",
+      "role": "Verified User in Food Production",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/asana/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "I wish the subtask due date feature was called out in a more obvious way when looking at your home board"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13239986",
+      "date": "8/11/2026",
+      "rating": 5.0,
+      "title": "Easy-to-Use Project Management with a Few Limitations",
+      "text": "What I like best about Asana is how easy it makes project and task management. I can organize work, set priorities and deadlines, track progress, and collaborate with my team in one place. It improves visibility, keeps everyone aligned, and reduces the chances of missing important tasks. One downside of Asana is that it can feel overwhelming when managing many projects and tasks at the same time. Some advanced features take time to understand, and the number of notifications can become distracting. The free plan also has limitations for larger teams.",
+      "role": "Graphic Design",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/asana/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "It improves visibility, keeps everyone aligned, and reduces the chances of missing important tasks."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13208290",
+      "date": "8/4/2026",
+      "rating": 5.0,
+      "title": "Asana\u2019s Intuitive Interface Keeps Projects Organized and on Track",
+      "text": "Asana is easy to use and makes it simple to organize tasks, collaborate with teams, and track project progress. Its intuitive interface and automation features help improve productivity and keep work organized. The main drawback is that some advanced features take time to learn, and a few useful capabilities are limited to premium plans. Aside from that, the overall experience is smooth and user-friendly.",
+      "role": "Verified User in Consumer Services",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/asana/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "makes it simple to organize tasks, collaborate with teams, and track project progress"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13233074",
+      "date": "8/9/2026",
+      "rating": 4.5,
+      "title": "User-Friendly Asana with Great Collaboration, Support, and Helpful AI",
+      "text": "The UI is user-friendly, and it\u2019s easy to add projects and view the charts. Collaboration with team members works really well, and the customer education resources and support team are great. The integrated AI features help a lot, and overall the experience has been great\u2014it's a quick, effective tool for staying organized. I am very new to the Asana hence there is none that i dislike",
+      "role": "Verified User in E-Learning",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/asana/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "overall the experience has been great\u2014it's a quick, effective tool for staying organized"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "4463977",
+      "date": "11/10/2020",
+      "rating": 4.5,
+      "title": "Asana Review",
+      "text": "Recurring tasks and simple task delegation make it easy to manage weekly tasks/projects and stay up to date on who is accomplishing each task and whether it has been completed. I also love Asana's 'boards' project type. It is a \"Trello-like\" experience and is great for managing progress on different projects when columns are designated for each step. I find that the \"My Tasks\" view often requires too much management of its own and can quickly get out of hand when it's not managed. This is a big reason why I say that Asana is great a project management but not the best at managing one individual's tasks/to-do list. The \"My Tasks\" view feels a bit unnatural and awkward and simply requires too much management of its own. Due date notifications are not ideal and Asana has set up their application in a way that requires you to \"live\" in the app in order to stay up to date with your tasks. Asana's mobile app has been one of it's weakest aspects. However, they have recently released new updates which has gone a long way to improve its usefulness. With that being said, it's still quite underpowered compared to its desktop web application.",
+      "role": null,
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/asana/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Asana is great a project management but not the best at managing one individual's tasks/to-do list"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "8164361",
+      "date": "5/31/2023",
+      "rating": 4.0,
+      "title": "My experience with Asana",
+      "text": "Great tool for project management to see all tasks in one platform and align with everyone. There are other tools that we can use out there in the market but Asana has the right balance of ease of use and being organize. Asana proofs to be a project management for everything including ticketing management like JIRA and Servicenow which I don't think it's working well currently. It's not great when we are trying to find a ticket within Asana.",
+      "role": "Netsuite Product Manager",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/asana/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Great tool for project management to see all tasks in one platform and align with everyone"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "26208",
+      "date": "9/10/2014",
+      "rating": 3.5,
+      "title": "Cool tool if anyone would actually adopt it",
+      "text": "I absolutely love the user interface - it's pretty seamless across mobile, tablet and desktop. It's pretty intuitive to the average non PMP-certified person. Drag and drop allows me to easily merge or separate personal and work tasks. Of course, it's fast and free so that always helps. Very difficult to integrate it into people's daily routines. Most people used their email or Outlook calendar to track their tasks and unless everyone is committed to using it, including the boss, the processes around the tool really fall apart, rendering usage of the tool sporadic at best.",
+      "role": "Marketing and Advertising",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/asana/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Very difficult to integrate it into people's daily routines"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "50",
+      "date": "8/24/2012",
+      "rating": 3.5,
+      "title": "Simple Group Project and Task Tracker",
+      "text": "Very easy to enter tasks, projects and share them among team members. The interface is easy to understand. It does everything that I want. Occasionally, I get lost between my personal tasks and the tasks that are assigned to me as a part of the business group that I'm a part of.",
+      "role": "Director, Product Management",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/asana/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "It does everything that I want"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "7656",
+      "date": "10/20/2012",
+      "rating": 4.5,
+      "title": "Great for team collaboration on tasks",
+      "text": "The tool is easy to use and has many use cases that can be easily supported as bug tracking, applicants tracking, implementation projects and more. We also used it to collect rejects from testing done by users during user acceptance testing sessions. Its good for both a self-task list or team working on a project together. Lot's of features for following tasks updates, posting a task by email. Even though the mobile app was very much improved lately, its still missing some important features (moving tasks between \"Today\", \"Upcoming\" and \"Later\".)",
+      "role": "CEO. Co-Founder",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/asana/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "The tool is easy to use and has many use cases that can be easily supported"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "8213",
+      "date": "11/14/2012",
+      "rating": 2.5,
+      "title": "Simple, Elegant Way to Capture and Share Tasks",
+      "text": "We used Azana for our last project implementing a web application for a financial services company. The best part about this application is there is very little magic to the whole thing. There are projects, tasks, and not much else. Entering a task is incredibly simple. You can easily share with other members your group. You can also reference other tasks anywhere in the application. Azana sort of forces a task management paradigm on your company. There are some situations where you can't quite fit what you are doing into the mold they provide. One good example of this if you have some sort of high level task that you would like a team to take care of, you must figure out a specific individual to delegate this task to. Some organization structures or teams of consultants do not have a project lead, therefore there is some guess work involved. Hopefully, in the near future they provide the ability to delegate tasks to teams and allow individuals to divide tasks or the manager of that group to delegate as he/she sees fit.",
+      "role": "Internet",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/asana/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "There are some situations where you can't quite fit what you are doing into the mold they provide"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "15056",
+      "date": "7/17/2013",
+      "rating": 3.5,
+      "title": "Good for personal use, but lacking in enterprise level management",
+      "text": "I like the idea of workspaces and the ability to separate my personal tasks from my job tasks. Also I like the idea of create projects with tasks and subtasks. From an enterprise level standpoint, it lacks transparency. There's not really an easy quick way to show people priority or where a particular project sits in your queue.",
+      "role": "Design",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/asana/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "I like the idea of workspaces and the ability to separate my personal tasks from my job tasks. Also I like the idea of create projects with tasks and subtasks. From an enterprise level standpoint, it lacks transparency."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "9860991",
+      "date": "7/3/2024",
+      "rating": 5.0,
+      "title": "Great Product for Project Management and Workflow at all levels",
+      "text": "Robust application has many features, yet as a beginner using Asana, I can set up what I need efficiently with the tutorial videos and training events they offer for users. As a project manager, I manage multiple projects with many deadlines and this will help our teams be able to not only see status but access information on any project all in one place, even linking to our Dropbox account. Would like personal assistance in setting up -and if not, maybe even some questions about the user when the begin asking about what kinds of projects they are doing and what their goals are and then make some suggestions about where to begin in the video and tutorial trainings.",
+      "role": "Director of Education",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/asana/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "I can set up what I need efficiently with the tutorial videos and training events they offer for users. As a project manager, I manage multiple projects with many deadlines and this will help our teams be able to not only see status but access information on any project all in one place"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "4932934",
+      "date": "8/12/2021",
+      "rating": 4.0,
+      "title": "ASANA TO ORGANIZE AND PRIORITIZE PROJECTS.",
+      "text": "Asana is a web and mobile application that works perfectly, providing excellent solutions and features, allowing us to organize, track and plan our projects, it is a software that I love because it allows me to develop my work in a productive and collaborative way, save our ideas of Visually safe and hassle-free, I like this tool because it adapts to my needs with flexible features. Asana is an application that works perfectly, I have used this tool for a long time and it has worked in its entirety from start to finish, it is reliable and offers me security I can keep my ideas and projects prioritized and not miss any detail , its wireless connection is excellent and does not lock.",
+      "role": "Human Resources Director",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/asana/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "it is a software that I love because it allows me to develop my work in a productive and collaborative way"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "27763",
+      "date": "10/13/2014",
+      "rating": 5.0,
+      "title": "Asana allows me to stay in action mode and simplify tasks into a clear roadmap...",
+      "text": "Fewer keystrokes. Fast as I need it to be. So far nothing. Would like to learn how to integrate more video/ media into my project workflows...",
+      "role": "Verified User in Media Production",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/asana/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "Fewer keystrokes. Fast as I need it to be.",
+        "resonance_evidence": "Fewer keystrokes. Fast as I need it to be."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "68435",
+      "date": "10/28/2015",
+      "rating": 5.0,
+      "title": "I utilise it daily for task tracking",
+      "text": "it has a clean interface and easily manages recurring tasks with subtasks which is what I need. It is easy to include others on tasks and keep track of their work. Adding new tasks is very simple and the iOS app works well too. I require an export on a weekly basis of the tasks and sub tasks I complete. The export comes through with sub tasks separated from tasks and also doesn't include any comments which is a major downfall when I'm using it to report to a client who isn't using the product. The new colours and interface can make it a little hard to tell if the \"tick\" has registered when you have completed a task.",
+      "role": "Public Relations and Communications",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/asana/reviews",
+      "sample_order": "highest_rated"
+    },
+    {
+      "portal": "G2",
+      "review_id": "53945",
+      "date": "7/21/2015",
+      "rating": 5.0,
+      "title": "Asana is a great tool to work together but we haven't used it a lot",
+      "text": "The marketing of Asana is great and off course for online collaboration in global teams this is the perfect solution. I'm not a manager yet, but if I will become one this definitely the tool I'm going to use to manage my global team and tasks. There is not much to dislike about Asana since it is free software. The daily reminders and amount of emails you get can be considered as a real disadvantage (daily digest... why?)",
+      "role": "Computer Software",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/asana/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "for online collaboration in global teams this is the perfect solution. I'm not a manager yet, but if I will become one this definitely the tool I'm going to use to manage my global team and tasks."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "45568",
+      "date": "5/29/2015",
+      "rating": 5.0,
+      "title": "it's awesome app",
+      "text": "It's very awesome app for managing teams and project. I really admire from Asana to how can we plan our daily work in systematic way. I think there is no single reason to hate this app but i think it's UI could be more user friendly.",
+      "role": "Information Technology and Services",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/asana/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "It's very awesome app for managing teams and project. I really admire from Asana to how can we plan our daily work in systematic way. I think there is no single reason to hate this app"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "57382",
+      "date": "1/17/2017",
+      "rating": 5.0,
+      "title": "Our company's Brain",
+      "text": "The ease of use and segmenting the project individually are the best things about asana, i personally tried most of the softwares which are available in the market I feeling nothing is equal to Asana Pricing can be team based instead of user based which makes it more expensive",
+      "role": "Internet",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/asana/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "i personally tried most of the softwares which are available in the market I feeling nothing is equal to Asana"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "46938",
+      "date": "6/15/2015",
+      "rating": 5.0,
+      "title": "Easiest Project Management Tool I've ever used!",
+      "text": "Although asana has great tutorial videos, the website is so intuitive that they are not necessary. Between the team calendar and the project tiles, it's very easy to get a quick, high-level overview of project statuses. The ability to drill down and see other team members tasks is also very helpful for managers. Our team is comprised of new staff and highly technical experienced team members, asana has been easy to adopt for all levels so far. We even have non technical team members finding out new features and showing the rest of us! Asana makes it very easy to manage multiple projects. But once our team started getting up to 20+ active projects, it became a little harder to manage. I suspect that this is because we are using the \"free-mium\" version versus the full fledged paid version which allows unlimited project summary tiles.",
+      "role": "Verified User in Accounting",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/asana/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "it's very easy to get a quick, high-level overview of project statuses"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "45773",
+      "date": "6/1/2015",
+      "rating": 5.0,
+      "title": "Thrilled with the product so far but could use a better team calendar",
+      "text": "Asana has a great plug-in architecture with some darn fun add-ons like the task completion flying unicorn that my team loves. The team calendar only shows due dates and does not make it clear when a project is actually being worked on.",
+      "role": "Verified User in Online Media",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/asana/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "my team loves"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "62417",
+      "date": "9/16/2015",
+      "rating": 5.0,
+      "title": "Great product at an affordable price",
+      "text": "Easy to use. Has very simple UI and allows for all of the functionality we need to manage our projects. User controls and permissions can be difficult to use.",
+      "role": "Higher Education",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/asana/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Easy to use"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "62072",
+      "date": "9/15/2015",
+      "rating": 5.0,
+      "title": "Great Product!",
+      "text": "Ability to put a single task into multiple streams (Implementation and Dev). Makes tracking progress a breeze. We add tasks on a daily basis and the system allows us to see the product, and put the tasks into separate queues which makes tracking a breeze. Nothing at all, all the features offered have been great.",
+      "role": "Verified User in Information Technology and Services",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/asana/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "makes tracking a breeze"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "66765",
+      "date": "10/18/2015",
+      "rating": 5.0,
+      "title": "Don't miss a thing",
+      "text": "The integration with Gmail allows you to bring you inbox down to zero and make email actionable task. Love the way I can view other users tasks. I have the updated Asana so I have project view which allows me to track projects, I have a small law firm and it makes assigning tasks very easy and keeps me updated with clients. This is almost a perfect project task collaboration program, especially after the latest update which really made the view of tasks and projects much simplier. Really nothing, with the newest update the program makes it simple to assign task to other and view your own tasks. Really the pinnacle of project task programs.",
+      "role": "Law Practice",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/asana/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "This is almost a perfect project task collaboration program"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "2717426",
+      "date": "7/8/2019",
+      "rating": 0.0,
+      "title": "We used Asana to coordinate projects.",
+      "text": "I liked Asana because it seemed like a singular and powerful project management tool. I did not like how bulky and confusing it was to navigate.",
+      "role": "Verified User in Education Management",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/asana/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I did not like how bulky and confusing it was to navigate"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "206265",
+      "date": "12/8/2016",
+      "rating": 0.0,
+      "title": "Asana is annoying and counterproductive",
+      "text": "It looks nice. Their designers have done a pretty good job. The functionality is very poor. When tasks are complete, the associated conversations are archived. This makes searching for notes extremely difficult. Similarly, organization of tasks is not very easy, resulting in clients posting notes in the wrong task thread or making redundant tasks. This all boils down to the task lists being visually indistinct and search not being intuitive.",
+      "role": "Design",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/asana/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "The functionality is very poor"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "391245",
+      "date": "9/14/2017",
+      "rating": 0.0,
+      "title": "Deceptive advertising",
+      "text": "great UX/UI - great design, clear to read, good use of white space. Deceptive advertising. Essentially useless as free version. Hidden minimum of 5 users, must purchase in groups of 5. Customer service tried to convince me that paying for users who don't exist was a \\*GOOD\\* thing. They advertise a per-user price, but they don't sell a per-user product. Which makes the entire price a lie. they advertise $9.99/user/month. BUT!! if you have 2 users, and you need collaboration, and custom fields and saved searches (which you do, because otherwise there's no \"all tasks\" view, so there's no way to get an overview of what you need to do that day), then the price is a LIE. Since the minimum is 5 users ($50/month, paid annually), the real price is $25/user/month, because they force you to waste money.",
+      "role": "Medical Practice",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/asana/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "the real price is $25/user/month, because they force you to waste money",
+        "resonance_evidence": "Deceptive advertising"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "395253",
+      "date": "9/20/2017",
+      "rating": 0.0,
+      "title": "helps you keep organized",
+      "text": "you get notifications when the article is published it would be helpful if it was integrated with a CMS",
+      "role": "Verified User in Writing and Editing",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/asana/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "it would be helpful if it was integrated with a CMS"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "352643",
+      "date": "7/28/2017",
+      "rating": 0.0,
+      "title": "This is a glorified checklist that far from intuitive",
+      "text": "I find Asana terribly difficult to use and spend more time trying to navigate it then using it for task management. Just about everything. Its not intuitive. Its not organized like your brain. Its overly compicated.",
+      "role": "Verified User in Internet",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/asana/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I find Asana terribly difficult to use and spend more time trying to navigate it then using it for task management"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "334254",
+      "date": "7/14/2017",
+      "rating": 0.0,
+      "title": "Usage experiment",
+      "text": "UI was simple to follow, learn, and use. Difficult to gain traction within our group especially since some people didn't use it and others didn't which pretty much resulted us to go back to email",
+      "role": "Verified User in Computer Software",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/asana/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "pretty much resulted us to go back to email"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "46054",
+      "date": "6/3/2015",
+      "rating": 0.0,
+      "title": "Nightmare product that duplicates your present work load",
+      "text": "Nice to see tasks............................................................ thats it. Messy and disorganized. Horrible integration with other software platforms. Non-intuitive buttons. No file system to organize documents other then within a project. How about all insurance documents together with a link from the projects to them instead of having to add them to each project seperately. I want to see all real estate purchase documents..... you have to go to each individual project; if there was a single project this is fine but with 30+ it is a pain in the ass. Doesn't integrate with office products well. If all of your staff and your customers and vendors use different software platforms then using Asana requires double the work load. Overall the product is a complete waste of time. We call it Facebook for work.... a convoluted mess.",
+      "role": "Accounting",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/asana/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Overall the product is a complete waste of time. We call it Facebook for work.... a convoluted mess."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "532238",
+      "date": "12/30/2017",
+      "rating": 0.0,
+      "title": "Simple to use but task modifications take too long",
+      "text": "I like the straight forward interface and ease of use. Modifying tasks and statuses take too long to access.",
+      "role": "Owner / Technician",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/asana/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "I like the straight forward interface and ease of use. Modifying tasks and statuses take too long to access."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "734345",
+      "date": "6/10/2018",
+      "rating": 0.0,
+      "title": "Overcomplicated",
+      "text": "Asana helped us to manage a long task list, but the utility of other functions never surfaced, as it seemed too difficult to pick up without training on the software. Asana was far too complicated for me to use on my own. Instead, I used and responded to content others created, but never contributed personally.",
+      "role": "Verified User in Events Services",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/asana/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Asana was far too complicated for me to use on my own"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "March 24, 2026",
+      "rating": null,
+      "title": null,
+      "text": "It helped me bring structure and clarity to managing my beauty coworking space, especially with part-time staff. Once everything was set up, it became a reliable system for keeping tasks organized and the team aligned.",
+      "role": "Founder",
+      "company_size": "2-10 employees",
+      "source_url": "https://www.capterra.com/p/184581/Asana-PM/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "It helped me bring structure and clarity to managing my beauty coworking space, especially with part-time staff",
+        "resonance_evidence": "Once everything was set up, it became a reliable system for keeping tasks organized and the team aligned."
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "June 12, 2026",
+      "rating": null,
+      "title": null,
+      "text": "The platform can also feel a bit overwhelming when managing large projects with many tasks, and certain reporting and automation capabilities are only available in higher-tier plans.",
+      "role": "Lead software engineer",
+      "company_size": "10,001+ employees",
+      "source_url": "https://www.capterra.com/p/184581/Asana-PM/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "The platform can also feel a bit overwhelming when managing large projects with many tasks"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "July 15, 2026",
+      "rating": null,
+      "title": null,
+      "text": "Our design projects are usually intensive and always demand proper planning and efficient team coordination and cooperation and thats why we introduced Asana to provide us with a digital workspace where we get to do all the work planning for our projects and ensure seamless team collaboration and coordination when executing those plans.",
+      "role": "Creative Director",
+      "company_size": "2-10 employees",
+      "source_url": "https://www.capterra.com/p/184581/Asana-PM/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "provide us with a digital workspace where we get to do all the work planning"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "July 22, 2026",
+      "rating": null,
+      "title": null,
+      "text": "posts and comments could be edited or deleted entirely without going to an archive or edit log, so someone could make a big mistake and there's no proof if they covered up for themselves.",
+      "role": "President",
+      "company_size": "2-10 employees",
+      "source_url": "https://www.capterra.com/p/184581/Asana-PM/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "someone could make a big mistake and there's no proof if they covered up for themselves"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "June 12, 2026",
+      "rating": null,
+      "title": null,
+      "text": "I particularly appreciate the ability to customize workflows, create project templates, and use dashboards to gain insight into team performance and workload distribution.",
+      "role": "HR Manager",
+      "company_size": "51-200 employees",
+      "source_url": "https://www.capterra.com/p/184581/Asana-PM/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "I particularly appreciate the ability to customize workflows, create project templates, and use dashboards to gain insight into team performance and workload distribution"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "June 21, 2026",
+      "rating": null,
+      "title": null,
+      "text": "It can occasionally feel like a full-time job just managing the project management tool. If your team doesn't have strict rules on how to use it, you can easily end up drowning in a sea of overlapping tasks and notifications.",
+      "role": "Project manager",
+      "company_size": "2-10 employees",
+      "source_url": "https://www.capterra.com/p/184581/Asana-PM/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "It can occasionally feel like a full-time job just managing the project management tool"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "June 8, 2026",
+      "rating": null,
+      "title": null,
+      "text": "Asana also helps us to easily track and monitor the flow of our tasks at each stage, allowing us to make sure that we are following our work plans accordingly.",
+      "role": "Operation Clerk",
+      "company_size": "51-200 employees",
+      "source_url": "https://www.capterra.com/p/184581/Asana-PM/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "helps us to easily track and monitor the flow of our tasks at each stage, allowing us to make sure that we are following our work plans accordingly"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "May 13, 2026",
+      "rating": null,
+      "title": null,
+      "text": "The mobile application can be a bit slow sometimes, and it takes time for desktop updatesand the interface can be overwhelming for new users at first",
+      "role": "Linguistic Specialist",
+      "company_size": "2-10 employees",
+      "source_url": "https://www.capterra.com/p/184581/Asana-PM/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "The mobile application can be a bit slow sometimes, and it takes time for desktop updatesand the interface can be overwhelming for new users at first"
+      }
+    },
+    {
+      "portal": "Gartner Peer Insights",
+      "review_id": null,
+      "date": "Mar 31, 2026",
+      "rating": 5.0,
+      "title": "Exploring Asana\u2019s Strengths in Project Setup, Product Management, and Team Collaboration Functions",
+      "text": null,
+      "body_gated": true,
+      "role": "Event App Director",
+      "company_size": "50M - 250M USD, Software",
+      "sentiment_label": "FAVORABLE",
+      "source_url": "https://www.gartner.com/reviews/product/asana-1842176392",
+      "sample_order": "page"
+    },
+    {
+      "portal": "Gartner Peer Insights",
+      "review_id": null,
+      "date": "Mar 30, 2026",
+      "rating": 3.0,
+      "title": "High Enterprise Pricing and Limited Workflow Customization Pose Challenges for Asana Users",
+      "text": null,
+      "body_gated": true,
+      "role": "Digital Growth Manager",
+      "company_size": "<50M USD, Media",
+      "sentiment_label": "CRITICAL",
+      "source_url": "https://www.gartner.com/reviews/product/asana-1842176392",
+      "sample_order": "page"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-08-11",
+      "rating": 1,
+      "title": "Be careful",
+      "text": "Be careful, they make billing mistakes and refuse to provide refunds. I wouldnt use this platform, stay away",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I wouldnt use this platform, stay away"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-08-11",
+      "rating": 4,
+      "title": "Great to use with MCP",
+      "text": "Great management saas, helping me to work efficiently across multiple project with different team members delegated to those specific project folders. Easy to use and can't go wrong with the free version.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Great management saas, helping me to work efficiently across multiple project with different team members delegated to those specific project folders. Easy to use and can't go wrong with the free version"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-27",
+      "rating": 2,
+      "title": "Disappointing for Larger Teams",
+      "text": "I've tried using Asana for managing my team of ten, but it just doesn\u2019t cut it for us. It gets cluttered quickly, and some features feel limited. Plus, navigating through the interface can be slow at times. Not the comprehensive tool I hoped for.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-16",
+      "rating": 1,
+      "title": "Awful client experience.",
+      "text": "Worse client experience I have ever received. I have to say that they don't proof read emails or get back to you on the matters you actually contacted them about. Glitchy functionality of the programme too at the best of times as soon as you have multiple users. So if you're looking to use it as a dashboard on team calls, look elsewhere. No help offered and the subscription model is a joke. Won't be continuing past my current commitment.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Worse client experience I have ever received"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-14",
+      "rating": 1,
+      "title": "Disappointing subscription terms",
+      "text": "Really disappointed with their subscription terms. No other SaaS these days reject refund when changing plans on the day of the payment. I need the smaller plan and only realised that the day when they payment's gone. These things happen and i requested a refund to be downgraded immediately rather than paying for feature i don't need. They rejected the request and said that i will be on the higher plan for another month. No other SaaS locks you in higher plan when it is clearly stated that this is not needed.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Really disappointed with their subscription terms"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-07",
+      "rating": 1,
+      "title": "Asana has made the free plan USELESS",
+      "text": "I used the free Asana offering a few years ago. Since I'm a solopreneur, I didn't need all the group task management, so it did the job of tracking projects and sending reminders. After I spent most of a day two weeks ago working out a calendar for my master's dissertation, everything disappeared when my free trial ended. I was allowed to \"downgrade,\" but I can't access the one project I had done. I am very, very unhappy!!!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "After I spent most of a day two weeks ago working out a calendar for my master's dissertation, everything disappeared when my free trial ended",
+        "resonance_evidence": "I am very, very unhappy!!!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-06",
+      "rating": 3,
+      "title": "Asana provides a clean and intuitive\u2026",
+      "text": "Asana provides a clean and intuitive interface that makes it easy to organize projects, assign tasks, and track progress across teams. The multiple project views, including list, board, and timeline, help adapt workflows to different types of work, while automation features reduce repetitive tasks. It integrates well with many popular business tools, making collaboration more efficient. Some advanced features require higher-tier plans, but overall it's a reliable and effective project management platform for teams of all sizes",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "it's a reliable and effective project management platform for teams of all sizes"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-26",
+      "rating": 1,
+      "title": "Aucun SAV, d\u00e9sabonnement impossible",
+      "text": "Aucun SAV. Pas d'humain, pas de possibilit\u00e9 de r\u00e9silier, pas de possibilit\u00e9 de supprimer des mebres d'organisation, Asana est une belle arnaque client avec de multiples promesses non tenues et l'impossbilit\u00e9 de se d\u00e9sabonner par la voie classique, en se d\u00e9sabonnant. Ils parviennent donc \u00e0 soutirer deux ou trois mois de fonctionnement suppl\u00e9mentaires au client m\u00e9content en ignorant leurs demandes de d\u00e9sabonnement ou en envoyant des conseils clients inadapt\u00e9s qui retardent encore la fermeture. Seule solution, l'oppostion bancaire. A fuir absolument",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Asana est une belle arnaque client"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-15",
+      "rating": 1,
+      "title": "Bad customer service.",
+      "text": "Bad customer service.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-30",
+      "rating": 1,
+      "title": "Stay away",
+      "text": "Look. We built our entire community outreach workflow around their free workspaces, and they suddenly drop a 2-user limit on us without warning. It feels incredibly restrictive and dishonest to handle grassroots users this way. Trying to get support to answer anything about seat changes or data lockouts is a joke\u2014just generic automated responses at 2 AM while our project timeline falls apart. Honestly, don't waste your vital grant funding on this corporate bloat when they just take your content hostage.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "they suddenly drop a 2-user limit on us without warning",
+        "resonance_evidence": "don't waste your vital grant funding on this corporate bloat"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-27",
+      "rating": 1,
+      "title": "Frustrating and impersonal customer support experience",
+      "text": "I opened a support case with Asana and had to follow up multiple times, only to receive generic, automated responses confirming receipt rather than any meaningful help. Despite being assigned case numbers (09391595 and 09391972), there has been no clear resolution or direct engagement from a support representative. The communication feels impersonal and slow, with no real accountability or timeline for resolving the issue. Instead of addressing the problem, the responses simply redirect me back to the help center or ask me to wait for further updates. Overall, the customer service experience has been frustrating and inefficient, especially when dealing with what appears to be an ongoing issue. I expected a more responsive and hands-on approach from a platform that is widely used for professional work management.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "the customer service experience has been frustrating and inefficient"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-21",
+      "rating": 1,
+      "title": "This is one of the worst things I have\u2026",
+      "text": "One of the worst apps I\u2019ve seen for the last years My task list looks like a garbage dump, and problems appear with every action, even the most basic one. I can\u2019t even reset my password properly. I end up on pages with no navigation. I couldn\u2019t even use the support !! chatbot. Everything feels like it is telling me: \u201cUser, we hate you.\u201d",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-17",
+      "rating": 1,
+      "title": "- False disclosure - lockout. No replies",
+      "text": "- False disclosure - locked out - expensive. lockout, zero service corporate monkey that offers a free trial and shows $12.95 pcm subscription but in reality there is nothing to tell you its for a minimum number of seats, and the cost is $60-80 plus. No one replies, zero response to the questions and then you get locked out of your data at the end of the trial. Yep.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "shows $12.95 pcm subscription but in reality there is nothing to tell you its for a minimum number of seats, and the cost is $60-80 plus",
+        "resonance_evidence": "False disclosure - locked out - expensive"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-13",
+      "rating": 1,
+      "title": "Dishonest Company",
+      "text": "The software is ok, but the company is dishonest. When attempting to cancel my subscription, I was double charged, and now they're refusing to refund the charge.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "The software is ok, but the company is dishonest"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-12",
+      "rating": 1,
+      "title": "You can't just decide to limit one of your plans without notifying your users",
+      "text": "I\u2019ve been using Asana for years, and the recent changes to the free plan are honestly disappointing. What used to be a genuinely useful collaboration tool for small teams now feels extremely restrictive. Suddenly limiting free workspaces to basically 2 users after many of us built workflows around the old system feels like a bait-and-switch. I can absolutely afford to upgrade, but at this point I\u2019d honestly rather move to a completely different platform and pay even more for fewer features than continue supporting a company handling its users this way.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-04",
+      "rating": 1,
+      "title": "Worst Customer Service ever!",
+      "text": "Worst Customer Service ever!! This is literally causing my to consider Click up or alternatives as this is awful experience",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Worst Customer Service ever!!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-28",
+      "rating": 1,
+      "title": "Asana mis-sells plans ZERO TRANSPARENCY",
+      "text": "Asana is misseling their plans. No mention of minimum no of seats - sent me fishy screenshot with information proofing otherwise but nowhere transparently disclosed at the time or post purchase - a robbery. - Support during trial period was non-existent even after countless support reach outs. - When I asked about the seat charges, they ignored me (5 cases raised) - I got billed for unused seats - it is only me - I escalated to the manager, but they closed the case without action No resolution, no willingness to fix - stay away. A total fiasco! There are better options out there.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "No mention of minimum no of seats",
+        "resonance_evidence": "a robbery"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-10",
+      "rating": 1,
+      "title": "Finger weg!!!",
+      "text": "Finger weg!!! Man kann nach Ablauf der \"Testversion\" NICHTS mehr wirklich machen ohne gleich eine Bezahlversion zu abonieren !!! Finger weg!!!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Finger weg!!!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-04",
+      "rating": 1,
+      "title": "TERRIBLE CUSTOMER SERVICE",
+      "text": "TERRIBLE CUSTOMER SERVICE. The platform makes it extremely difficult to Unsubscribe. Additionally, if the employee who signed you up for the platform leaves the company, it is nearly impossible to remove that person as owner/admin; thus, creating a perpetual subscription. Try to get that former employee removed from the platform...good luck. Even when you tell their staff that the person is no longer with the company, they still tell you to Cc the person in all correspondence, and they also directly continue to send that former employee direct emails. Stay away from this platform; there are so many others that are more customer-friendly.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "TERRIBLE CUSTOMER SERVICE"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-03-19",
+      "rating": 4,
+      "title": "Good project manager",
+      "text": "It's helped me greatly with project management and organization. A bit of a learning curve, but still very useful and powerful.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "It's helped me greatly with project management and organization"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-03-16",
+      "rating": 1,
+      "title": "Just absolute garbage",
+      "text": "Just absolute garbage - interface is pretty and slick, but it's like they never bothered to ask any real customers what they want. The lack of features for such an established company is breathtaking.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Just absolute garbage"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-03-14",
+      "rating": 1,
+      "title": "Terrible",
+      "text": "The way, they take important content hostage when they push you into a trial is incredibly unprofessional. Do Never ever use the Trial function, better use another App. I will leave asana for sure.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Do Never ever use the Trial function, better use another App. I will leave asana for sure."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-03-07",
+      "rating": 2,
+      "title": "Too much for simple tasks",
+      "text": "Tried Asana with our team for task tracking, but it didn\u2019t really work for us. There are loads of features and it just felt a bit over the top for everyday stuff. Simple things take more steps than they should and keeping everything updated started to feel like extra work. In the end we switched to something simpler.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-02-23",
+      "rating": 1,
+      "title": "Testprojekt angelegt und nach Ablauf\u2026",
+      "text": "Testprojekt angelegt und nach Ablauf der Testlaufzeit ist das gesamte Projekt nicht mehr sichtbar. Ich w\u00fcrde ja verstehen, dass gewisse Funktionen gesperrt sind aber dass die gesamte Ansicht gesperrt ist, ist eine absolute Frechheit!!!!!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "nach Ablauf der Testlaufzeit ist das gesamte Projekt nicht mehr sichtbar",
+        "resonance_evidence": "ist eine absolute Frechheit!!!!!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-02-16",
+      "rating": 1,
+      "title": "Asana a une m\u00e9thode de r\u00e9tention client\u2026",
+      "text": "Asana a une m\u00e9thode de r\u00e9tention client simple elle ignore les fermeture de compte et continue de d\u00e9biter sur la CB enregistrer. Une seul solution faire opposition a sa carte, une option couteuse en plus des pr\u00e9l\u00e8vement indue... malhonn\u00eate, \u00e0 fuir",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "continue de d\u00e9biter sur la CB enregistrer",
+        "resonance_evidence": "malhonn\u00eate, \u00e0 fuir"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-02-02",
+      "rating": 1,
+      "title": "Asana killed \u201cpersonal\u201d workspaces on purpose - Unacceptable!",
+      "text": "The recent removal of personal accounts was communicated by email once in October 2025. This was with a removal date of December 15. They changed if three times with no notifications and as far as I can see those that did try to get down their information via the options provided failed with little support. Ironically you cannot even pay for an upgrade to keep your data. Most legitimate companies tell you, to pay to upgrade for more storage, I have never heard of a company blankly just delete people's data. Beware of Asana's odd tactics when it comes to your data. One day it can all just disappear!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "removal date of December 15. They changed if three times with no notifications",
+        "resonance_evidence": "Beware of Asana's odd tactics when it comes to your data. One day it can all just disappear!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-02-01",
+      "rating": 1,
+      "title": "Annoying",
+      "text": "every single youtube advert is about asana, they must be doing so badly that they are doing everything possible to get people to use it, but it's going badly cause all the adverts make me want to avoid asana even more. would give 0 stars if i could.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "would give 0 stars if i could"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-01-31",
+      "rating": 1,
+      "title": "WORST CUSTOMER SERVICE EVER",
+      "text": "Whatever you do, don\u2019t sign up for Asana if you care about customer service!!! It\u2019s abysmal. They take days to respond, at best, and if you sign up for a trial or a student account, be warned that they will send ZERO notifications when your renewal is due and the default account is for 50 seats. I am out $1000 for a product I barely used a year ago and customer service took DAYS to tell me that they will not provide any refund at all despite my reaching out the day my STUDENT account renewed for full price, for 50 seats, despite my having not used the product at all for more than 5 people for a couple of weeks 10-11 months ago.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-01-24",
+      "rating": 2,
+      "title": "Looks good, but feels heavy to use",
+      "text": "I used Asana for work to manage tasks and projects. At first it looked nice and organised, but once I started using it daily, it felt a bit heavy and overcomplicated. There are a lot of options and settings, which sounds good, but in practice it slows things down. Simple tasks take more clicks than they should, and keeping everything updated feels like extra work. Some useful features are also locked behind paid plans, which didn\u2019t help. After a while I realised I was spending more time managing the tool than actually getting work done, so I stopped using it and moved on",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I was spending more time managing the tool than actually getting work done, so I stopped using it and moved on"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-01-20",
+      "rating": 1,
+      "title": "If I could rate them a 0 I would",
+      "text": "If I could rate them a 0, I would. I cancelled in writing in October. They charged me again in November. Then they gave me a partial refund and AGAIN acknowledged in writing that my account that I no longer had access to even log into had been cancelled. They again charged me in December with no authorization and no access to their product. They have been giving me the runaround for a month. Irene keeps emailing me \u201cwe are working on it\u201d, but no refund. It does not take two months to issue a refund. They even tried to blame my bank, who has assured me there is no block or hold on them being able to do it. They are thieves and liars and I would rather use pen and paper the rest of my life than touch their piece of sh** product with the WORST CUSTOMER SEVICE IN HISTORY.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "They again charged me in December with no authorization",
+        "resonance_evidence": "If I could rate them a 0, I would."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-01-13",
+      "rating": 1,
+      "title": "Agree with people",
+      "text": "Agree with people, unethical, zero content, took over \u00a3100 for auto renewal. Avoid!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "took over \u00a3100 for auto renewal",
+        "resonance_evidence": "Avoid!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-01-08",
+      "rating": 5,
+      "title": "I am not sure why I see so many bad reviews",
+      "text": "I am not sure why I see so many bad reviews. I used Asana for a few years and am quite happy with it. Free version is adequate for up to 15 people.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "I used Asana for a few years and am quite happy with it."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-01-07",
+      "rating": 1,
+      "title": "ze bieden een abbo aan voor 12 euro per\u2026",
+      "text": "ze bieden een abbo aan voor 12 euro per maand ofzo de goedkoopste in iedergeval.. ik dacht laat me even proberen. Ik moest voor een jaar vooruit betalen. Zo gezegd zo gedaan. Zojuist zie ik dat ze weer hebben afgeschreven.. ik dacht huh.. hebben ze dit al 4 x gedaan! En het mooiste is.... na dat ik had betaald bleef ik meldingen krijgen dat ik niet had betaald en dus niet alles opties had, echt neem GEEEEN ABBO OPLICHTERS",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "hebben ze dit al 4 x gedaan!",
+        "resonance_evidence": "echt neem GEEEEN ABBO OPLICHTERS"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-12-24",
+      "rating": 1,
+      "title": "Asana has terrible customer service and\u2026",
+      "text": "Asana has terrible customer service and incredibly misleading pricing structures. I wanted an account for just me and my assistant. I asked the customer service which was basically a bot with maybe minimal human interaction who told me my only option was a 2 seat starter plan. Seemed reasonable- I bought a year subscription. I was added into an account created by a free subscriber and then the saw the opportunity to attach\u00e9 my card to that account. I suddenly became responsible for 9 subscribers and their actions on projects that predated my account and subscription. I couldn\u2019t get them off and then they charged me $1000. I removed every extra person that was on accounts that I created but couldn\u2019t delete people on projects that were not mine. They refuse to give a refund. Have terrible customer service that just continually takes days to respond, there is no phone number to speak to a person and they just keep referring you to AI. It is a terrible company with terrible customer service and a mediocre planning software. Do not get burned by them. They will suck your bank account dry and say \u201cthere\u2019s just nothing we can do\u201d.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-12-19",
+      "rating": 2,
+      "title": "Doesn't work even on few months old\u2026",
+      "text": "Doesn't work even on few months old browser version",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Doesn't work even on few months old browser version"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-12-18",
+      "rating": 1,
+      "title": "Totaler Schrott.",
+      "text": "Totaler Schrott.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-12-16",
+      "rating": 1,
+      "title": "Huid mientras pod\u00e1is.",
+      "text": "Huid mientras pod\u00e1is. Te dan gratis todo en la prueba gratu\u00edta y luego te cobran por respirar. Si quieres recuperar un archivo, eso es premium. As\u00ed todo. Huid. Tal vez para mi es demasiado tarde. Hasta siempre, vosotros que todav\u00eda pod\u00e9is vivir.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Huid mientras pod\u00e1is"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-12-15",
+      "rating": 1,
+      "title": "Billing Errors, Unauthorized Charges, and Complete Breakdown in Support",
+      "text": "Our experience with Asana has been extremely disappointing and unprofessional, particularly around billing and customer support. During onboarding, we provided clear written instructions that all charges were to be billed exclusively to our company account. Despite this, charges were repeatedly applied to an individual team member\u2019s personal payment method after following instructions provided by Asana\u2019s own Account Executive. These charges occurred while billing ownership, plan changes, and order-form errors were still unresolved on Asana\u2019s side. What makes this experience especially concerning is not just the billing errors, but the lack of accountability and responsiveness. After escalating the matter directly to Asana\u2019s billing team and clearly requesting reversals and confirmation that no further personal charges would occur, communication stopped entirely. Follow-up emails received no response. At no point were charges paused, placed on hold, or proactively corrected. Instead, responsibility was deflected between sales, billing, and support, leaving us to manage the consequences of Asana\u2019s internal process failures. Asana markets itself as a tool for operational clarity and efficiency. Unfortunately, our experience was the opposite: unclear guidance, improper charges, repeated administrative errors, and silence after escalation. This is not acceptable for a business platform handling financial transactions. We would strongly caution other organizations especially those transitioning from individual to company billing to proceed carefully and to document everything in writing. Based on our experience, billing controls and escalation support are not reliable.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Our experience with Asana has been extremely disappointing and unprofessional"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-12-12",
+      "rating": 1,
+      "title": "Sottoscrizione ingannevole, scoperta solo dopo due mesi",
+      "text": "Dopo aver utilizzato un periodo gratuito il sito di Asana, ho sottoscritto un abbonamento chiamato Starter, nella fase di sottoscrizione ci erano vari aspetti ingannevoli, ovvero il prezzo che sembrava totalmente annuale, circa 80\u20ac, dove si paventava uno sconto che durante il pagamento non \u00e8 stato implementato, inoltre un numero di utenti maggiore (5) rispetto a quello richiesto, non evidente in fase di sottoscrizione, inoltre scopro al secondo mese che l'abbonamento era stato messo nel sito come pagamento automatico su paypal senza mia autorizzazione e scopro anche che ho sottoscritto un abbonamento di circa 80\u20ac mensile anzich\u00e8 annuale. Quindi scopro dopo due mesi che tutta l'iscrizione era stata ingannevole oltre che si sono automatizzati il pagamento per il secondo mese, ovviamente ho disdetto tutto ma sto cercando tramite paypal e le associazioni dei consumatori di stornare il pagamento, altrimenti mi rifar\u00f2 anche alla polizia postale se necessario, utilizzer\u00f2 qualsiasi strumento contro questa societ\u00e0 che non deve esistere visto che scopro un sacco di persone che hanno avuto lo stesso problema.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "ho sottoscritto un abbonamento di circa 80\u20ac mensile anzich\u00e8 annuale",
+        "resonance_evidence": "tutta l'iscrizione era stata ingannevole"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-12-03",
+      "rating": 1,
+      "title": "Dont waste your time in a trial",
+      "text": "I tried the trial expecting to choose the basic plan when it finished. However, I discovered that the basic plan requires a minimum of two seats, and the pricing is quite unclear. Additionally, by default, they subscribe you for five seats. When I attempted to downgrade to the personal plan, I found that I could no longer use my tasks because they had set up custom fields and rules, which blocked access to the board created during the trial. This was a complete waste of time and demonstrates questionable commercial practices.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "the basic plan requires a minimum of two seats",
+        "resonance_evidence": "This was a complete waste of time and demonstrates questionable commercial practices"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-11-24",
+      "rating": 1,
+      "title": "Underhand with renewals",
+      "text": "Very underhand subscription renewal practices. Cancelled on the last day of my subscription. They took payment for the following year and are now claiming that they can't refund because the renewal had already taken place. After going back and forth via email regarding the matter, they offered a 50% refund. I am still in the process of trying to recoup a full refund. Ridiculous, given that it was cancelled on the last day of the yearly subscription (so, not late). I will now need to contact credit card company and trading standards regarding this matter. Very disappointing!!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "they offered a 50% refund",
+        "resonance_evidence": "Very underhand subscription renewal practices"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-11-16",
+      "rating": 1,
+      "title": "ATTENTION",
+      "text": "ATTENTION! Ne pr\u00e9vient pas clairement du type d'abonnement contract\u00e9. ASANA induit en erreur, faisant croire \u00e0 un montant annuel qui s'av\u00e8re \u00eatre un montant MENSUEL. De plus, l'acc\u00e8s \u00e0 la RESILIATION est rendu TRES COMPLIQUE. R\u00e9sultats: 3 mois factur\u00e9s \u00e0 240 EUROS. Proc\u00e9dure de plainte engag\u00e9e avec la CLCV !",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "3 mois factur\u00e9s \u00e0 240 EUROS",
+        "resonance_evidence": "ASANA induit en erreur"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-11-10",
+      "rating": 2,
+      "title": "Unethical",
+      "text": "Overall, an ok system but there is zero phone support, none. This is also a really unethical company, they do either monthly or annual renewals and if you need HIPAA compliance the price more than quintuples, because they know they can get you that way. If you do not let them know you don't want unused seats 30 days before the \"renewal\" (an invoice they email you) then you cannot change seat numbers \"mid cycle.\" Stay away.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "if you need HIPAA compliance the price more than quintuples",
+        "resonance_evidence": "this is also a really unethical company"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-11-10",
+      "rating": 1,
+      "title": "Wouldn't refund us 3 minutes after charged made \u2013 long-term, loyal customers of Asana for years - rejected from refund of $60 after having been paying customers for years",
+      "text": "Wouldn't refund us 3 minutes after we were charged. Loyal customers for years. Didn't want to pay for a couple of months. Would have come back and continued to users in the new year, but due to the fact they could not simply refund a $60+ charge within minutes of it happening, have now turned us away from spending potentially thousands every month in 2026. Offensive, short-term thinking. Terrible customer service. I can't imagine how a company of this size, would have such terrible support, and would willingly cut away one of its subscribing customers willing to spend thousands of dollars, simply for the sake of a $60 charge which \"cannot be reversed\" within minutes of it being charged. It's a joke. And it's an embarassment to think that they would operate in this manner. They've essentially chosen $60 over recurring revenue of $60, $90, $120, etc. as our team grows, every single month. All for the sake of one $60 charge which they refuse to refund due to error. Their customer support needs to be fixed, as it is killing off their stakeholders (us, paying their bills). The subscription fees we pay them, are inevitably their biggest growth asset. Yet their willingness to kill those revenue streams one-by-one is most baffling. Over time, this will kill the software, leading people toward companies with more flexible and understanding customer support (I.e. ClickUp or Monday.com). If customer support can finally refund us, then we'll update our review accordingly. But we should never have to go to these lengths to receive standard levels of support.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "Wouldn't refund us 3 minutes after we were charged",
+        "resonance_evidence": "Terrible customer service"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-11-08",
+      "rating": 3,
+      "title": "Asana has some useful features",
+      "text": "Asana has some useful features, especially for planning tasks and keeping track of deadlines. The interface looks clean, and I like that you can switch between board and list view depending on how you work. But after using it for a while, I feel like it gets heavy and a bit confusing when you have multiple projects going on. Sometimes things get buried, notifications feel random, and it takes too many clicks to do simple actions. It\u2019s not bad - it does the job - but it doesn\u2019t feel super intuitive or fast. Works fine for basic task tracking, but for bigger workflows it can get frustrating.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "it does the job"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-10-28",
+      "rating": 1,
+      "title": "0 stars",
+      "text": "I would give less than 1 star if possible. Immediately turned off by the customer service and back and forth that was required to even just view the product. I was provided with emails from a delegate who went back and forth gathering information from me and ignoring my questions. All we wanted to do was watch a demo..... We had heard good reviews and thought we would try it. When we expressed our need to view this product instead of having time wasted with sales pitches were we were booked in anyway for a sales pitch. I highlighted again that if this wasnt possible just cancel the meeting. I thougt Fina was infuriating with ignoring direct questions, but I see that the behvaiour stems from the top down. Kai was our \"Account Executive\" and he was even more rude and condescending stating \"Asana isn't the fit for you and Goodluck finding a vendor\". WOW We are upfront about what we need - we have busy jobs and 20 emails isn't enticing when we know what we want. These softwares are designed for busy executives and businesses. Yet they time waste and drag along. I wasnt surprised to see the awful reviews.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I would give less than 1 star if possible"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-10-23",
+      "rating": 1,
+      "title": "Midleading & Scammy Billing Model!!!",
+      "text": "Unfortunately, I feel as though their paid subscription is incredibly misleading, and overall left me feeling scammed and unsupported as a customer. I had a certain number of seats in my plan, and after reading through their support articles to add guests (concluding they were free), I invited guests to the platform. Months later, I determined that they had increased the number of my seats in the plan from 2 to 10 with absolutely no notice, notification, or consent. The only reason I noticed this months later when I was reconciling my bookkeeping. When I contacted support regarding this, they took days and weeks to respond, said I needed to change from a workspace to organization (but provided zero information on how to do this), and ultimately would not resolve this clear billing and systems issue. If you're using Asana, watch your bank statements closely, as they may be increasing the charges over time without your knowledge!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "increased the number of my seats in the plan from 2 to 10 with absolutely no notice, notification, or consent",
+        "resonance_evidence": "left me feeling scammed and unsupported as a customer"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-10-22",
+      "rating": 1,
+      "title": "Took them two months to respond to my\u2026",
+      "text": "Took them two months to respond to my cancellation request, then they refused to refund me for the extra month I didn\u2019t want. I\u2019ll delete this comment if they refund me. Jessica Keeble",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-10-22",
+      "rating": 1,
+      "title": "Aggressive and offensive ad campaign.",
+      "text": "Aggressive and offensive ad campaign.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-10-15",
+      "rating": 1,
+      "title": "Untransparent menue \u2022 money lost",
+      "text": "Untransparent menue. One wrong click and you loose 1K!!! Watch out!!! Customer care is a catastrophe\u2026 check alternatives\u2026",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "One wrong click and you loose 1K!!!",
+        "resonance_evidence": "Watch out!!!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-09-22",
+      "rating": 2,
+      "title": "ich fands schon recht umst\u00e4ndlich",
+      "text": "ich fands schon recht umst\u00e4ndlich, wenngleich auch die grunds\u00e4tzliche Idee gut ist",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "ich fands schon recht umst\u00e4ndlich, wenngleich auch die grunds\u00e4tzliche Idee gut ist"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-08-06",
+      "rating": 1,
+      "title": "Hey there...",
+      "text": "I used Asana for a month, but unfortunately it's becoming complicated for me , so I switch in to Teamcamp.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "I used Asana for a month, but unfortunately it's becoming complicated for me , so I switch in to Teamcamp",
+        "resonance_evidence": "it's becoming complicated for me , so I switch in to Teamcamp"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-07-21",
+      "rating": 3,
+      "title": "\u26a0\ufe0f Locked Out After Paying",
+      "text": "\u26a0\ufe0f Locked Out After Paying \u2014 No Help from Support I upgraded from a free trial to a paid Asana plan several days before the trial ended \u2014 yet when the trial expired, I was completely locked out of my account. No way to access my projects or dashboards, even though I had already paid. As a small business owner, this was a serious disruption. To make it worse, Asana\u2019s support system offered no way to get immediate help. It just created tickets via a bot and told me to wait 24\u201348 hours \u2014 for a paid account that was locked out. I eventually found my own fix: resetting the password. That\u2019s it. A simple password reset forced the system to reauthenticate and let me back in. This solution wasn\u2019t offered anywhere in the bot flow or help docs related to trial lockouts. I like Asana\u2019s platform \u2014 but this kind of access failure, paired with poor support escalation, is unacceptable for any business-tier product. Asana, please: Add \"Try resetting your password\" to the lockout page Offer actual urgent support for paying customers Fix this known bug \u2014 users shouldn\u2019t be punished for upgrading early I\u2019m still using the product, but this shook my confidence.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-07-11",
+      "rating": 1,
+      "title": "This platform is total garbage",
+      "text": "This platform is total garbage, waste of time and money. Very hard to use. Every step has to be paid extra. No support. Shitty workflows. Horrible setup. Not intuitive navigation.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "This platform is total garbage, waste of time and money."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-07-09",
+      "rating": 1,
+      "title": "\ud83d\udea8 Small Business Buyer Beware",
+      "text": "\ud83d\udea8 Small Business Buyer Beware: Asana\u2019s Rigid Billing Policy Is Outdated and Customer-Hostile If you\u2019re a small business owner or solopreneur considering Asana for project management, think twice \u2014 especially before opting into an annual plan. I was just charged $265 for another year of a service I barely used and had actively tried to cancel last year. Because I no longer had access to the original email tied to my account, I couldn\u2019t cancel at the time, and after a full week of back-and-forth to verify my identity and finally gain access, Asana still refused to reverse the charge. This experience has been frustrating and disheartening. I\u2019ve been a customer for three years, but their support team was completely inflexible \u2014 even in light of the fact that: \u2022 The account was largely inactive, \u2022 I had tried to cancel previously, \u2022 And I reached out shortly after renewal. Many SaaS companies \u2014 especially those that understand the long-term value of goodwill \u2014 offer far more reasonable policies: \u2022 Notion, a challenger brand in the productivity space, provides pro-rated or full refunds if contacted shortly after renewal. \u2022 Basecamp, a best-in-class tool built by people who genuinely understand small business needs, has a simple policy: \u201cIf you\u2019re not happy, we\u2019ll refund you\u2014even after months.\u201d Asana\u2019s approach, in contrast, feels outdated and overly focused on maximizing short-term revenue over user trust. That $265 may not mean much to a large enterprise, but for a small business? It\u2019s a significant hit \u2014 especially for software that was barely used. I\u2019ve now canceled my subscription. If you value fairness, transparency, and support that actually supports you \u2014 consider other options.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "I was just charged $265 for another year of a service I barely used",
+        "resonance_evidence": "think twice \u2014 especially before opting into an annual plan"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-07-08",
+      "rating": 1,
+      "title": "After you try the paid plan",
+      "text": "After you try the paid plan, you cannot go back to free plans because your projects are not visible anymore. They make it complicated to have back your projects.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "They make it complicated to have back your projects."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-07-07",
+      "rating": 1,
+      "title": "The app itself is great - CS AWFUL",
+      "text": "The app itself is great - the customer service is awful! Using the chat functionality to talk to someone is impossible - it is just a bot which is frustrating. The only way to talk to CS is via email. I trialed the upgrade and was straight away put on the advanced - when we emailed them to put us on the package lower so we can see what the functionality is like they said we needed to cancel the trial and do the upgrade again -WRONG! you cant cancel a trial Thenn they said we need a separate account to trial it - we dont want a separate account - I want to trial it on my business account already created. Looks like CS dont actually know what they are talking about",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "The app itself is great - the customer service is awful!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-07-07",
+      "rating": 2,
+      "title": "Asana - Caution with Upgrades Scams.",
+      "text": "Asana I have been using Asana for more than 10 years. It worked like a charm, and in general the free version is perfect for simple tasks to work on with overseas teams. It functioned flawlessly, and generally, the free version is ideal for handling basic tasks with international teams. Pricing: The pricing is very fair, especially for my team of five people. But here\u2019s the trick that Asana uses to scam you: They make you pay for a plan for active and inactive team members. For example, over a period of five years, you employed ten people at your company. But only 5 remain; they make you pay for the 10 employees. To see your team, you must pay, as Asana Customer Service won't grant you access. Can you imagine how many people had worked in my company in the past 10+ years? My company employed more than 30 individuals. So they may have paid me initially for 10. I was then able to clean up the list and bring it down to my five current employees. Yet they won\u2019t offer one a credit for these extra inactive team/memberaccounts. To avoid this scam, first sign up for the monthly plan, then downgrade. AI: They sell it as the top project, but it is nothing close to being or working seamlessly like other platforms already using AI offer. They offer 15 days for a free trial, but it\u2019s not enough. Sales team: To contact the sales team is really hard. The only way is via email. Their average response rate is 24+ hours. So one has to be ready to WAIT. After my 15-daytrial concluded, ASANA basically limited the access to the platform. Anything that tries to be somewhat like ASANA AI will be blocked. If you are using Asana AI with current projects, it is advisable to create a duplicate so that your work remains unaffected after your trial ends. If you are using Asana AI with current projects, it is advisable to create a duplicate so that your work remains unaffected after your trial ends.g, as the tutorials are vague. But you must wait 24 hours for the first response, then another 24 ",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "my team of five people",
+        "resonance_evidence": "They make you pay for a plan for active and inactive team members"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-06-25",
+      "rating": 4,
+      "title": "So far so good!",
+      "text": "So far so good, we're pretty happy with the free version for now. Will update my comment as needed if things evolve.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "So far so good, we're pretty happy with the free version for now."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-06-25",
+      "rating": 1,
+      "title": "It's a very bad app",
+      "text": "It's a very bad app. Custom fields must be available for free.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "It's a very bad app."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-06-23",
+      "rating": 1,
+      "title": "It's Horrible",
+      "text": "It's horrible. Randomly logged me out. Tried to log me back in. Told me I had to reset password. Reset password. Still wouldn't let me in. Told me I have to turn on 2FA. Clicked enable. Asked me to scan a QR code with \"The App\". Don't know which app it means so can only assume it's the Asana app. Open app on phone. Logged out. Try to sign in. Tells me to enable 2FA. Click enable. Asks me to scan a QR code. Give up on app. Try different browser. Try to log in again. Only the second time. Error message - \"Too many attempts. Please try again later.\" Want to scream and throw computer out of window. This is such a horrible user experience. the developers are absolute morons. (or sadistic freaks that enjoy making people's user experience miserable).",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Want to scream and throw computer out of window. This is such a horrible user experience."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-06-18",
+      "rating": 1,
+      "title": "zero customer support",
+      "text": "zero customer support. multipleignored emails",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "zero customer support"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-06-14",
+      "rating": 1,
+      "title": "Deleted my lists after free trial ended and would not let me use them even tho I dont want their paid features",
+      "text": "Well it forced me to used the free trial plan even tho I wanted just the basics and then when it ended I cannot use my old list cuz I have used some kind of paid features. Wtf, I don't even want their paid features, just give my list back without them.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "I cannot use my old list cuz I have used some kind of paid features",
+        "resonance_evidence": "Wtf, I don't even want their paid features, just give my list back without them"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-06-13",
+      "rating": 1,
+      "title": "Terrible platform",
+      "text": "Terrible platform. It won't let you change plan and sends you on an endless loop. No one to talk to! We will boycott this app and get our funds back!!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "We will boycott this app and get our funds back!!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-28",
+      "rating": 1,
+      "title": "They keep charging money despite cancelled subscription",
+      "text": "As one of many people here, I have been charged despite cancelling subscription. Unfortunately this is an ongoing issue and I am thinking about taking a legal actions here. I have provided them with an evidence and confirmation email that I have cancelled subscription, so I don't know on which basis they keep charging me.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "I have been charged despite cancelling subscription",
+        "resonance_evidence": "I am thinking about taking a legal actions here"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-28",
+      "rating": 1,
+      "title": "Asana",
+      "text": "Asana, at its core, is a powerful and well-designed project management tool that offers significant value for teams. However, my recent experience as a sole proprietor has unfortunately revealed a darker side of a company that, like many who taste significant success, seems to have become fixated on high per-user pricing and rigid policies, sacrificing genuine customer empathy in the process. I was inadvertently charged for a 5-seat team plan (\u20ac84.31) which, given my status as a single-person business, I neither actively use nor need. This per-seat pricing model is already quite high, especially for smaller entities or those scaling down. My request for a refund and cancellation initiated an incredibly frustrating and drawn-out process. Over several days and a lengthy email exchange, I repeatedly explained my specific situation. Despite the inherent fairness of my request for a refund on an an unused, unneeded service that was simply too expensive for a solo operation, I was met with relentless references to Asana's \"subscriber agreement\" and inflexible refund policies. The numerous back-and-forth messages, the offering of irrelevant free months, and the ultimate denial of a refund after a supposed \"escalation to the finance team\" (for a \"one-time exception\" that never materialized) highlight a system that prioritizes policy over customer satisfaction. It feels as though Asana, while building an objectively good product, has lost the human touch. The customer service, while technically responsive, felt largely automated and devoid of genuine empathy. For a company of Asana's stature, this rigidity and unwillingness to be flexible \u2013 especially when the core issue stems from an overpriced per-seat model that no longer fits a user's needs \u2013 is deeply disappointing. It creates a barrier rather than building loyalty. This experience vividly illustrates how companies, once successful, can become \"money-greedy,\" focusing on maximizing revenue per user without truly underst",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "I was inadvertently charged for a 5-seat team plan (\u20ac84.31)",
+        "resonance_evidence": "Asana, while building an objectively good product, has lost the human touch"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-27",
+      "rating": 1,
+      "title": "Expensive, bad UX and terrible support",
+      "text": "Unfortunately, I have to agree with most of the reviews in here. The UX is clunky. Once you pay, support is only via email (even on the most advanced plan). The refund policy is just dumb, they made me pay for 10 months for something I won't be using. If your read this, dont fall into the Asana trap, it's expensive and not worth your money.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "they made me pay for 10 months for something I won't be using",
+        "resonance_evidence": "dont fall into the Asana trap, it's expensive and not worth your money"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-13",
+      "rating": 1,
+      "title": "Scam and fraud - stay away from free trials",
+      "text": "Scam! I was lured into a trial period last year. Tried the app once, but it wasn't for me, so I deleted the app again. Now I discover that Asana, without warning, has withdrawn 120 euros from my account. I NEVER signed up for a permanent subscription with them. I have contacted customer service to get a refund, as well as to have the information they have about me deleted, but get an AI-induced auto-response that it can't be done. I am so angry and upset about being scammed out of SO much money. I am a single mother, so it affects food for my children.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-12",
+      "rating": 5,
+      "title": "Love Asana",
+      "text": "Love Asana! I use it at my company and couldn't imagine my life without it. Seems like a lot of the reviews are for self service or like super small groups using the service. We use it at the company level and have amazing support and service. Ai is AMAZING!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Love Asana! I use it at my company and couldn't imagine my life without it"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-12",
+      "rating": 1,
+      "title": "This company is a scam",
+      "text": "This company is a scam. They will take \u201csubscription fees\u201d when you have not agreed to them. AVOID.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-04-28",
+      "rating": 1,
+      "title": "I purchased an annual subscription 1\u2026",
+      "text": "I purchased an annual subscription 1 year ago. I wasn't able to use the platform in the way I wanted or integrate the programs I needed. I realized my subscription renewed April 14th 2025 for another year. I reached out to them April 20th and they said I cannot get a refund. But there was no reminder and I am almost certain I removed my cc but they must of had it on record and renewed anyway. Terrible I do not recommend",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Terrible I do not recommend"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-04-28",
+      "rating": 1,
+      "title": "Entt\u00e4uschende Erfahrung mit Asana Support urspr\u00fcnglich wegen der\u2026",
+      "text": "Wir haben Asana urspr\u00fcnglich wegen der beworbenen Zeiterfassungsfunktion gew\u00e4hlt. Nach dem Upgrade auf ein kostenpflichtiges Abo stellte sich heraus, dass diese Funktion nur \u00fcber h\u00f6here Abostufen verf\u00fcgbar ist \u2013 trotz anderslautender Darstellung zum Zeitpunkt der Entscheidung. Unsere mehrfachen Supportanfragen verliefen extrem schleppend: Standardisierte Antworten, Ausweichman\u00f6ver, keine echte L\u00f6sungsbereitschaft. Nach mehrmaligem Nachfassen und letztlich K\u00fcndigung des Abos keine ernsthafte Auseinandersetzung mit unserem Anliegen. Schade f\u00fcr ein Unternehmen, das Effizienz und Kundenorientierung verspricht. F\u00fcr uns definitiv keine Option mehr.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "F\u00fcr uns definitiv keine Option mehr."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-04-24",
+      "rating": 1,
+      "title": "Worst customer service I have ever\u2026",
+      "text": "Worst customer service I have ever experienced. Asana does not give you a live person to hop on your computer and fix a glitch that was Asana-generated. Spent over 1 month trying to fix the issue. You have to use their Chatbot. I will never use Asana again, and I will shout it to the roof that their customer service and technical support are terrible!!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-04-23",
+      "rating": 1,
+      "title": "Deeply Disappointed by Lack of Account Deletion Option and Unhelpful Support",
+      "text": "I\u2019m writing to express my frustration and disappointment with Asana\u2019s account management and customer support process. It is absolutely shocking that in 2025, Asana still does not provide users with a straightforward way to delete their own accounts online. This lack of basic functionality not only goes against user autonomy but raises serious concerns about data privacy and transparency. To make matters worse, when attempting to contact customer support, users are met with an AI-powered chatbot that is incapable of providing real assistance or escalation. It is infuriating to be caught in an endless loop of automated responses when trying to carry out such a fundamental request. I expected more from a platform of Asana\u2019s reputation. The experience has left me feeling ignored, powerless, and deeply disappointed. I urge you to review your policies and systems immediately to allow users direct control over their data and access to real human support when needed.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-04-21",
+      "rating": 1,
+      "title": "Bait and Switch, free account for life isn't free.",
+      "text": "Signed up for a free account, used it for a couple of weeks, apparently our 'free trial' ran out, my partner paid for a subscription, now there is no way to downgrade back to the actual free account that was advertised on their pricing page. I try to contact support and I just get a 'authentication failed' message. Their support is also apparently only \"AI\" from what I can see on other documentation. This is a BAD company that bait and switches. Stay away.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "This is a BAD company that bait and switches. Stay away."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-04-18",
+      "rating": 1,
+      "title": "Thieves",
+      "text": "I'm only giving one star because I can't leave 0 stars. These are absolute thieves. They will remove money from your account automatically 1 year later. They hound you with renewal offers which I didn't subscribe to, assuming that would end my dealings with them. Turns out unless you not only don't renew but write to them with notice to cancel or they will rob you. Horrible horrible app. Avoid at all costs",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-04-17",
+      "rating": 1,
+      "title": "Anti Christian company",
+      "text": "Anti Christian company",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-04-11",
+      "rating": 1,
+      "title": "Incompetent customer service",
+      "text": "There are no issues with the product itself, but there is a huge negative attitude towards the support team. 3 times people contacted me and no one solved my problem and the problem was simple, please give me an account for bank transfers of the annual package. They also with this normally coped, first one disappeared, I started looking for how to contact at least someone from this company, then connected to the conversation the second and began to ask for the same data as the first, in the end said that they can not do what I want. Then the third one came and again asked for the data requested by the previous two. Absolutely incompetent guys.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-04-10",
+      "rating": 1,
+      "title": "Warning: Avoid This Company at All Costs",
+      "text": "I signed up for what I thought was a free trial. Turns out, they required my credit card just to try the platform. I never used the service once, completely forgot about it (the trial was long), and then\u2014without any notice\u2014a charge of $60.98 hits my card. Let\u2019s set aside how absurd that price is for a basic collaboration tool. I contacted support, explained that I never used the platform and didn\u2019t even recall entering my credit card. Instead of owning the situation, they shuffled me between three different agents, each one more unhelpful than the last. The end result? No refund. Just a link to their \u201csubscription terms.\u201d This is a company that\u2019s happy to take your money even if you never used their product. Zero integrity. Zero customer care. You've been warned.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "a charge of $60.98 hits my card"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-03-24",
+      "rating": 1,
+      "title": "\ud83d\udea8 Worst Customer Support \u2013 Avoid Asana! \ud83d\udea8",
+      "text": "I've been trying to delete an organization in Asana for over two months, and their support has been absolutely terrible. They ignore support case messages for days, and when they finally respond, it's completely unhelpful. They keep saying they will contact me, but they never do. Every interaction has been a frustrating cycle of delays and empty promises. Worst support I\u2019ve ever experienced. I do not recommend using Asana's services at all\u2014if you ever need real assistance, don\u2019t expect to get it from them.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I do not recommend using Asana's services at all"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-03-23",
+      "rating": 1,
+      "title": "Deceptive Billing Model - Potential Class Action Exposure",
+      "text": "I signed up for what I believed was a single-user subscription, but was charged for multiple seats without clear notice or authorization. Only after digging into the admin console and contacting support did I learn that Asana defaults paid workspaces to a minimum of two seats, with additional \"fictitious\" seats automatically added and billed, even though I had not added more than two users total. The onboarding and billing flows fail to clearly disclose these mechanics in a way an average user would reasonably understand\u2014raising serious concerns under consumer protection laws related to material misrepresentation and unfair or deceptive acts and practices (UDAP). After discovering the overcharge, I requested a refund, but Asana refused, citing their subscriber agreement and rigid billing schedule. Their refusal to offer a refund\u2014even when charges were clearly not knowingly authorized\u2014illustrates a troubling approach to customer service and billing ethics. Asana\u2019s stock is currently trading at around $14.50 USD, down more than 44% from its IPO, and the flood of similar complaints raises the question of whether these billing practices are being used to inflate recurring revenue. If even a portion of these reports are accurate, Asana could be exposed to class action litigation or securities fraud claims. Numerous recent reviews point to a pattern of systematic billing abuse, particularly targeting small teams and individual users. I canceled my account and regret ever signing up for the trial, which led directly to being overcharged without meaningful recourse. This platform may not be safe for users who value transparency or fair dealing. The frequency and consistency of overbilling complaints, refusal to refund, and misleading seat-based pricing suggest that practices potentially giving rise to claims for breach of contract, unjust enrichment, fraud, and consumer protection violations may not be accidental, but instead appear to be embedded in Asana\u2019s business model.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "down more than 44% from its IPO",
+        "resonance_evidence": "I canceled my account and regret ever signing up"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-03-18",
+      "rating": 4,
+      "title": "Easy to use, but paid features limit Access",
+      "text": "I use Asana every day, and its very helpful for assigning tasks and sub- tasks. the reminder features are great, and it helps me stay organized with my daily planning, however, some featiures are not free, which can be a bit frustrating,",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-03-15",
+      "rating": 1,
+      "title": "Ghosted by customer service after losing a bunch of work",
+      "text": "Sync wiped several boards. Tried to sync mobile app and web and ended up losing a bunch of tasks. Exchanged emails with \u201cReece\u201d for weeks and got nowhere. Told to look at setting among other unhelpful options but no viable solution and in the end I was simply ghosted. Features are similar to everything else.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "Sync wiped several boards",
+        "resonance_evidence": "in the end i was simply ghosted"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-03-15",
+      "rating": 1,
+      "title": "Avoid Asana",
+      "text": "Avoid Asana \u2013 Misleading Pricing and Terrible Customer Service! I strongly advise against using Asana. Their pricing model is deceptive, and their customer service is completely unhelpful. They lure users in with misleading marketing, making it seem like a flexible and cost-effective solution, but once you subscribe, you realize how expensive it actually is. I was charged an outrageous amount due to their confusing seat-based pricing, and when I tried to resolve the issue, their support team refused to help in any meaningful way. Not only did they decline to adjust my subscription fairly, but they also made it clear that they don\u2019t care about customer satisfaction. Their policies are rigid, their billing practices are predatory, and their support team offers nothing but copy-paste responses. If you make the mistake of signing up, be prepared to overpay and get zero assistance when you need it. I will be warning others about Asana\u2019s unethical pricing structure across multiple platforms. Don\u2019t fall for the marketing tricks \u2013 there are far better alternatives out there!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I strongly advise against using Asana"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-03-10",
+      "rating": 1,
+      "title": "The Most Dishonest Business Practices\u2026",
+      "text": "The Most Dishonest Business Practices I\u2019ve Ever Experienced with Asana! I purchased a single paid license for my own use. The people collaborating on my projects were using free accounts \u2014 they didn\u2019t need paid licenses. What did Asana do? Without my consent, they automatically increased my plan first to two licenses, and then to fifteen. I never authorized this. I never agreed to it. And I certainly never requested it. This is outright theft of customer funds. I personally did not increase the user limit. Asana did this on their own, without approval, and then sent a meaningless notification email that no one would ever interpret as a binding agreement to charge hundreds of extra dollars. When I contacted their support team, they blamed me and told me I should have read their notification. This is pure manipulation and a scam tactic. They deliberately designed this process to trick users into being charged for things they never wanted or agreed to buy. I am demanding a full refund, and I am shocked that in today\u2019s world, a company can act this unethically. I came to Asana because I wanted a helpful product. Instead, I was deceived and ripped off. Be very careful. Asana can silently upgrade your plan, inflate your license count without clear approval, and drain your money\u2014then hide behind shady policies. This company has lost all trust and integrity. What they did to me was not just bad customer service. It was fraud.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "automatically increased my plan first to two licenses, and then to fifteen",
+        "resonance_evidence": "This is outright theft of customer funds"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-02-25",
+      "rating": 1,
+      "title": "Disgusted.",
+      "text": "Disgusted. We had a paid package, however this was fraudulently set up as an auto renewal by an employee who had since left the company. We were unaware of the set up as the employee was the primary and only they had access to the 'billing'. Once discovered we contacted Asana immeditaely to inform them and ask for a refund of the annual premium. They refused as it is not their policy to provide refunds. Asked them to delete our acount, they cannot until the subscription ends in 1 years time. they simply would not assist in any way, just told us to use the system until the end of our subscription. We have several companies using the paid Asana subscription not just the one in question here, suffice to say they have lost more than 1 customer today.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "they have lost more than 1 customer today"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-02-14",
+      "rating": 2,
+      "title": "Terrible customer service",
+      "text": "Terrible customer service. BTW, you can't ask them to delete your organization.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Terrible customer service"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-02-07",
+      "rating": 1,
+      "title": "Do not use Asana.",
+      "text": "Do not use Asana. They\u2019ll give you a free trial to premier features and when you go to downgrade the request isn\u2019t made. I asked for a refund the same day as the payment was made, and they denied me. I told them I wanted the basic account back, and a month later they charge me for premium again and say they won\u2019t refund me for their mistake. Awful company, would never use again",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "a month later they charge me for premium again",
+        "resonance_evidence": "Do not use Asana"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-02-05",
+      "rating": 4,
+      "title": "Good service for a free account :)",
+      "text": "I have a free account. Recently a board had gotten lost due to my old (prior work email) account being separated from my active account. Customer service stuck with it and got my board restored.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "got my board restored",
+        "resonance_evidence": "Customer service stuck with it and got my board restored"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-01-19",
+      "rating": 1,
+      "title": "Mauvaise surprise apres avoir cr\u00e9\u00e9 un\u2026",
+      "text": "Mauvaise surprise apres avoir cr\u00e9\u00e9 un compte pour n'utiliser uniquement les listes avec taches classiques, sans jalon ni rien de payant ... Au bout de la fin de la p\u00e9riode d'essai, ils me demandent de passer en offre starter alors que c'est bien stipul\u00e9 que tout ce qui est tache est gratuit \u00e0 vie ... bref, foutaises !! mensonges, je pars sur Atlassian",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "mensonges, je pars sur Atlassian"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-01-13",
+      "rating": 1,
+      "title": "Genervt von eMail Flut und Spam",
+      "text": "Bietet keine M\u00f6glichkeit Newsletter abzubestellen und kann daher von jede abgemahnt werden. Was f\u00fcr eine schlechter Service. Die schaffen es nicht mal die Basics von einem digitalem Produkt.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Was f\u00fcr eine schlechter Service"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-01-08",
+      "rating": 1,
+      "title": "Can attest to the reviews here",
+      "text": "Can attest to the reviews here. This is a scam. They will go into your account and withdraw money after their ambiguous terms and \u2018seat\u2019 explanations aren\u2019t clear. DO NOT sign up. DO NOT use this platform.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "This is a scam"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-01-07",
+      "rating": 1,
+      "title": "Site douteux je suis abonn\u00e9e depuis 1\u2026",
+      "text": "Site douteux je suis abonn\u00e9e depuis 1 an et mon abonnement \u00e0 change de formulation PAR MIRACLE ils m'on prelev\u00e9 plus de 300\u20ac sans que je le demande en me disant qu'in aurait fait la demande nous m\u00eame ce qui est faux; malgr\u00e9s tout avons continu\u00e9 car aucun remboursement et la depuis 1 mois j'essaie de RESILIER impossible il le font expr\u00e9s pas de SAV et ni de num\u00e9ro je vais signer leur site aupr\u00e8s des autorit\u00e9 comp\u00e9tente;",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "ils m'on prelev\u00e9 plus de 300\u20ac sans que je le demande",
+        "resonance_evidence": "je vais signer leur site aupr\u00e8s des autorit\u00e9 comp\u00e9tente"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-01-02",
+      "rating": 1,
+      "title": "Avoid at all costs",
+      "text": "Avoid at all costs . Ambiguous subscription renewal details . When you ask for a refund always denied . Clearly a company deserving of bankruptcy . Do not buy any of their products as they will take you money for nothing and refuse to give it back .",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Avoid at all costs"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2024-12-24",
+      "rating": 5,
+      "title": "Asana is my favourite task manager",
+      "text": "Asana is my favourite task manager, thx!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Asana is my favourite task manager"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2024-12-20",
+      "rating": 1,
+      "title": "Absolute terrible customer experience",
+      "text": "Absolute terrible user experience! We are paying a subscription, yet when I log into my account I get a huge popup that I cannot close asking me to upgrade. So I CANNOT ACCESS THE BILLING SECTION, SO RIDICULOUS. And getting someone on the live chat is pretty difficult (they have you go through so many loops to get there, and once you get there the person goes offline right away..) Such a horrible customer experience, they should really put their s**t together!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Absolute terrible user experience!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2024-12-13",
+      "rating": 1,
+      "title": "Riddiculous customer service",
+      "text": "Riddiculous customer service. Really unhelpful. Steer away",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Riddiculous customer service. Really unhelpful. Steer away"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2024-12-10",
+      "rating": 1,
+      "title": "Un tr\u00e8s mauvais SAV",
+      "text": "Un tr\u00e8s mauvais SAV",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2024-11-28",
+      "rating": 1,
+      "title": "Great potential, Poor execution!",
+      "text": "Was an exciting premise to use for the business to make life easier however met with a lack of customer care and features not working as intended for a high price point. Only able to get in contact with online support tickets which, since trying to get help with their buggy rulings features, has so far taken over 4 weeks and still no reply. At \u00a323 per person per month, this sort of support is unacceptable and do not recommend it to others until bugs and customer communication is solved.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "has so far taken over 4 weeks and still no reply. At \u00a323 per person per month",
+        "resonance_evidence": "do not recommend it to others"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2024-11-20",
+      "rating": 1,
+      "title": "One of the worst customer experiences\u2026",
+      "text": "One of the worst customer experiences I\u2018ve ever had. They literally tried to scam me at every corner. First of all they did everything they could to prevent you from being able to cancel your contract from a mobile device. Then when I reached out to customer service to cancel I got ghosted multiple times over a period of multiple months and > 10 cases I had to create in their system. Finally when I went through PayPal they lied and told me I hadn\u2019t contacted them earlier which I had to prove to them in detail. At multiple steps they just continued lying, saying I hadn\u2019t followed up with support, etc. - all of which I have evidence for. No SaaS company in this world has processes that don\u2019t allow correlating cases by email address so I can only assume this was done deliberately.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    }
+  ]
+}

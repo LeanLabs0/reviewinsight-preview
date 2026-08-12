@@ -1,0 +1,2548 @@
+{
+  "slug": "jira",
+  "captured_at": "2026-08-12T20:48:37.032020+00:00",
+  "reviews": [
+    {
+      "portal": "G2",
+      "review_id": "13252140",
+      "date": "8/12/2026",
+      "rating": 4.5,
+      "title": "Efficient Tracking, Highly Recommended",
+      "text": "I like using Jira for continuous tracking until issue resolution. After raising an issue in Jira, I can track it on a daily basis, seeing my problem's status, whether it's stuck, and how much it has been solved. It's been very handy for me once I got the hang of it. Nothing as of now for me.",
+      "role": "Adarsh V.",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/jira/reviews",
+      "sample_order": "most_recent"
+    },
+    {
+      "portal": "G2",
+      "review_id": "13245988",
+      "date": "8/11/2026",
+      "rating": 5.0,
+      "title": "Jira Simplifies Project Management but Needs Better Navigation",
+      "text": "I like the ease of access in Jira, which makes it convenient for me to identify backlogs and any items on the agenda. It helps me track and manage ongoing pieces of work effectively. The initial setup was pretty straightforward too. I find it not easy to navigate, but it does get better over time. I would also like an easy way to view the Jira board without having to click into it fully.",
+      "role": "Jev J.",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/jira/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "it does get better over time"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13239118",
+      "date": "8/11/2026",
+      "rating": 5.0,
+      "title": "Unmatched Customizability for Agile Workflows",
+      "text": "Jira\u2019s greatest strength is its unmatched customizability for Agile workflows. Whether you follow Scrum, Kanban, or a hybrid approach, Jira can be tailored to fit your exact process. The ability to create complex workflows, automate repetitive tasks (via automation rules), and configure distinct issue types allows teams to work exactly how they want. The primary drawback is its steep learning curve and complexity. Jira is not an intuitive tool for new users; setting it up correctly requires a dedicated administrator, and onboarding new team members often takes significant time. This leads to \"Jira bloat,\" where projects and fields become disorganized if not strictly managed.",
+      "role": "Instructional Designer",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/jira/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "The primary drawback is its steep learning curve and complexity"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13239677",
+      "date": "8/11/2026",
+      "rating": 4.0,
+      "title": "Dangerous goods master data ticket management via Jira",
+      "text": "The interface is very user friendly, and I didn't need someone for onboarding of how to use it. For pricing unfortunately I don't know, but it is mandatory for our ticket systems. AI non existent here, or at least I'm not aware of it. The performance is great and I've never had any issues. Integrations into my work in terms of outlook notifications works great. Please see my feedback on the last question.",
+      "role": "Verified User in Biotechnology",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/jira/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "The interface is very user friendly"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13219703",
+      "date": "8/10/2026",
+      "rating": 3.0,
+      "title": "Organized and Collaborative, but Too Many Custom Fields Slow Simple Tasks",
+      "text": "in my internship Jira helped me to stay organized while working on multiple campaign and sales activities, it gave me a clear view of my daily tasks, deadlines and project progress making it much easier to manage my work . i also like that everyone on the team could see update in one place, which reduced confusion and improved communication. the kanban boards and tasks tracking are my favourites features, i could easy check what was assigned to me updates , tasks statuses and collaborate with teammates through comments and attachments, notification also helped me to stay on top of important deadlines. i regularly use Jira with managing marketing campaign tasks, tracking sales follow ups coordinating with team members , updating project progress ,managing content requests , following campaign timelines , organizing daily work. Jira has a clean and professional interface, after a short learning period, it become easy to create tasks, update progress and find project information quickly. it also integrates smoothly with agentforce sales, and Google workspace. its performance is best and the new ai features for summary are great some workflow include many custom fields, which can make simple tasks take longer to create a simpler task creation process for beginners would improve the overall experience, overall its a great tool. it also take a little time to learn where different project details are stored, once i became familiar with the platform , it was much easier to use but a simpler experience for beginner would make it even better.",
+      "role": "Sales And Marketing Intern",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/jira/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "overall its a great tool"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13234298",
+      "date": "8/10/2026",
+      "rating": 3.5,
+      "title": "Extensive ticket configuration, but price and UI can be improved",
+      "text": "The comprehensive parameterization of the tickets, as well as the links The pricing as well as the very developer-heavy user interface.",
+      "role": "Verified User in Computer Software",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/jira/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "The comprehensive parameterization of the tickets, as well as the links The pricing as well as the very developer-heavy user interface."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "9594605",
+      "date": "5/1/2024",
+      "rating": 5.0,
+      "title": "Jira is a good tool to use especially in Agile methedology",
+      "text": "Jira has automated the flow end to end flow and made our work much easier. It has grown so much where we can also generate Acceptance criteria / edge cases too. Jira can improve by providing more features such as Design development",
+      "role": "Cloud Analyst",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/jira/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Jira has automated the flow end to end flow and made our work much easier"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13231103",
+      "date": "8/9/2026",
+      "rating": 4.5,
+      "title": "Jira Makes Agile Tracking and Team Tasks Incredibly Efficient",
+      "text": "Jira makes tracking agile workflows and team tasks incredibly efficient The steep learning curve and complex setup can feel overwhelming, especially for non-technical team members.",
+      "role": "Verified User in Arts and Crafts",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/jira/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "The steep learning curve and complex setup can feel overwhelming"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13226371",
+      "date": "8/7/2026",
+      "rating": 5.0,
+      "title": "Productive Sprint-Based Task Management",
+      "text": "Task management with sprints is productive. creating new tasks each time feels hectic for me, instead of just using generate button to know what all tasks are to be assigned to which team member.",
+      "role": "Student",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/jira/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Task management with sprints is productive"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13225698",
+      "date": "8/7/2026",
+      "rating": 4.0,
+      "title": "It's flexible for every department",
+      "text": "I have only three tools saved to my browser bookmarks bar: Jira, ITONICS, and a stopwatch timer. Sure, there are more colourful project management tools, but I think Jira is flexible and straightforward enough to fulfil its purpose. It's reliable and makes sense. The integration with other tools is handy. In practice, I think a big advantage of Jira is it's often the standard project management tool when you start at a software company. That means most departments from software engineers, to marketing, to finance all use it already. That prevents the nuisance of having to convince another department to come on board to the same shared tool. My only complaint is I found the ROVO assistant has limitations in what fields it can read on a ticket, if for instance you want it to provide a summary of all active tickets from the current year. There are some fields it encounters as truncated strings, and therefore can't summarise.",
+      "role": "Marketing Manager",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/jira/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Jira is flexible and straightforward enough to fulfil its purpose. It's reliable and makes sense."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "15241",
+      "date": "7/23/2013",
+      "rating": 4.5,
+      "title": "Incredible Issue Management",
+      "text": "We use JIRA extensively for issue management and tracking. Each team has a project and it is a great way to work amongst teams and collaborate. The tool is very versatile and great to have project leaders, watchers, stakeholders, etc. They also have powerful and customizable searches and dashboards to keep track of projects you've reported, own, or are watching. It can be a little hard to use because it has so many features, but this isn't necessarily a bad thing.",
+      "role": "Computer Software",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/jira/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "it is a great way to work amongst teams and collaborate. The tool is very versatile and great to have project leaders, watchers, stakeholders, etc."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "15685",
+      "date": "8/6/2013",
+      "rating": 3.5,
+      "title": "Jira is adequate for our needs",
+      "text": "I have used Jira at my last couple jobs. They have added a lot of functionality over the past few years, and at this rate I might even start to like it one of these days! The various search filters and dashboard widgets are my favorite part. As far as project management software goes, I've definitely used worse. Once you have a few thousand issues in the system, it becomes SO difficult to find a specific issue that you are looking for, especially if it is not assigned to you. I'm not sure why, since the search tools are pretty robust, but I think this is caused by the fact that if you have dozens of users submitting buys/enhancements, they often use slightly different terms to describe projects, making keyword searches less helpful. Unless you have an admin who is on top of all the categorizing and management, the whole system becomes unwieldy. Linking issues together also uses an unwieldy process.",
+      "role": "Computer & Network Security",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/jira/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "As far as project management software goes, I've definitely used worse."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "11883",
+      "date": "3/25/2013",
+      "rating": 5.0,
+      "title": "The most cost effective and flexible issue management system out there today",
+      "text": "Configurability/flexibility is the key for Jira. Its not a question of whether you can make the tool do what you want it to, its more a question of how far you want to go with it. Nearly every aspect of the product is configurable in some way, from the types of issues, the fields each issue has, permissions to access issues, workflow for each issue type...the list goes on and on. Combined with the Greenhopper plugin Jira also becomes a great tool for managing an Agile/Scrum process. It does a great job of making backlog grooming, sprint planning and sprint execution a breeze. Additionally there is a great plugin architecture that allows developers to add or modify functionality via Java/HTML/JavaScript. This has let to a very active developer community that is constantly contributing to the Jira plugin marketplace. Jira also has a very active community of developer and administrators on the forums. As a result, getting help and/or answers to your questions is quite easy. Their entire documentation site, their support forums and the Jira customer support site are all indexed by the major search engines so simply searching the web for answers to your Jira questions will almost always turn up an answer. Jira can be a bit overwhelming to new users. On the surface its a very simple system and Atlassian has been working on this issue for a while now but it is easy for new users to get confused and not know what to do when they first log in.",
+      "role": "Computer Software",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/jira/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Jira also becomes a great tool for managing an Agile/Scrum process. It does a great job of making backlog grooming, sprint planning and sprint execution a breeze."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "45613",
+      "date": "5/29/2015",
+      "rating": 5.0,
+      "title": "Great tool for managing software",
+      "text": "JIRA is a well-thought out product, configurable and usable by both developers and business users. Plenty of features, and part of a set of collaboration tools including Confluence for documentation. Everything about JIRA is designed to support growth from small teams to larger teams and enterprises. Because it is easy to configure, it is also easy to construct overly-complex workflows. One rule of thumb is to start with the default workflow and only add steps that are absolutely critical to your process.",
+      "role": "Director of Marketing",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/jira/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "JIRA is a well-thought out product, configurable and usable by both developers and business users."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "57703",
+      "date": "8/13/2015",
+      "rating": 4.0,
+      "title": "A very helpful suite",
+      "text": "The flexability is wonderful. We are able to have multiple workflows, permissions, ticket types for each department. For a small company (less than 20) it's not worth it. It's too much and especially if you have not used it in the past.",
+      "role": "Business Development Manager",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/jira/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": true,
+        "resonance": "lukewarm",
+        "results_evidence": "For a small company (less than 20) it's not worth it.",
+        "resonance_evidence": "The flexability is wonderful."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "32518",
+      "date": "12/24/2014",
+      "rating": 2.5,
+      "title": "JIRA - an ALM Architect's perspective",
+      "text": "Versatile to its core, JIRA allows administrators the ability to create customized issue types (building data entry forms) and workflow for virtually any kind of business artifact within any IT domain: ALM (software defect tracking), ITSM (service desk management), PPM (agile portfolio management), etc. An Enterprise Application Administrator's playground of fun, JIRA can (and must) be customized to work for project teams and end-users. Consider three pitfalls when adopting JIRA - two pertaining to administration teams and one pertaining to end-users. Admin Pitfall #1: while JIRA does in fact allow administrators the ability to build customized issue types, workflows and artifacts, JIRA's core functionality isn't designed or delivered to support all of the customized artifacts that end up being created. And so, a growing JIRA instance ends up becoming a performance nightmare of additional plugins for extended functionality. Defined administration standards and practices can help control and manage customization. Otherwise, maintenance, support levels and cost increase with each customization. Admin Pitfall #2: The JIRA application is designed around the concept of reusing fields across multiple projects. Administrators end up managing a collection of customized fields for project reuse. And so, from this concept, extends JIRA's poor MVC design - presenting UX confusion and introducing inconsistencies at each level of architecture (especially in the GUI). Rather than JIRA itself managing the relationships and associations between fields within a project's schema (as other enterprise applications do), JIRA decouples these relationships and associations from the schema and puts this responsibility on the administrator. When field attributes and properties change, administrators are now \"managing\" DueDate, DueDate2, DueDate3, DueDate4, etc. End-User Pitfall: Compared to other polished enterprise software packages, JIRA's GUI is confusing and is not intuitive. Drop-down ",
+      "role": "Computer Software",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/jira/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "a growing JIRA instance ends up becoming a performance nightmare of additional plugins for extended functionality"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "22858",
+      "date": "5/6/2014",
+      "rating": 4.0,
+      "title": "Great for ticket management across teams, reporting could be better",
+      "text": "We collaborate with a remote development team, so it makes it really easy to monitor support and development/enhancement tickets while working on different teams in drastically different time zones. Search can be clunky, and reporting capabilities seem limited. Note that my company is using an older version so it is possible these issues have been addressed in more recent releases.",
+      "role": "Computer Software",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/jira/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "it makes it really easy to monitor support and development/enhancement tickets while working on different teams in drastically different time zones. Search can be clunky, and reporting capabilities seem limited."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "22279",
+      "date": "4/28/2014",
+      "rating": 4.5,
+      "title": "Great product for tracking bugs and enhancements across teams",
+      "text": "Once you have set up filters, I like how easy it is to see all the most important information about the list of issues. Integrating this information with Confluence is also helpful, when tracking items. Thirdly, I like how Atlassian has made changes to how you can edit details of a specific issue. Previously, you would have to edit the entire page, now you can just click on that one field and change it directly. I feel like it could be a little easier to share filters with others (there have to be specific permissions and I find that it becomes complicated at times).",
+      "role": "Verified User in Computer Software",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/jira/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "I like how easy it is to see all the most important information"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "20326",
+      "date": "3/4/2014",
+      "rating": 4.5,
+      "title": "Improved software with version 6.2",
+      "text": "Overall using this software after the upgrade from 6.0.3m to 6.2 is night and day. Retrieving data from the server is faster when using JIRA and I do not have to wait for the services to finish processing after a server reboot. This version works great with Service Desk 1.2. The add-ons that we currently have upgraded with no issues. Initially, the long wait to use JIRA website after a server reboot. Would have to delete the plugins and reboot.",
+      "role": "Government Administration",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/jira/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "Retrieving data from the server is faster when using JIRA and I do not have to wait for the services to finish processing after a server reboot",
+        "resonance_evidence": "Overall using this software after the upgrade from 6.0.3m to 6.2 is night and day"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "20591",
+      "date": "3/14/2014",
+      "rating": 5.0,
+      "title": "Perfect tool for Agile projects",
+      "text": "Centralized place to have every possible data ,issues and information related to an item. Email integration for seamless comment update to issues. Drag and drop prioritization. Drag and drop sprint planning (when team commits). Highly configurable, every project will have some additional data to be captured for each item. Dashboard with Confluence with the entire summary view for each sprint. Efficient way to manage item closure in the task board view . Overview of all the sprint items in the task board view . Direct excel export with all the relevant fields for those who loves to see everything in excel. Release burn down (based on story points) possibility, but I am yet to figure out the easiest way to do it. Mild slowness in usage, I am not sure whether the WAN bandwidth is the cause or in general the Jira server is an issue. General impression with people that tools are an overhead \\[excel is sufficient for everything\\].",
+      "role": "Principal Software Engineer",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/jira/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Mild slowness in usage"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "29846",
+      "date": "11/21/2014",
+      "rating": 5.0,
+      "title": "Excellent tool for all purpose task management",
+      "text": "Some of the best features: \\\\* extremely customizable out of box to suit your requirements \\\\* native integration with other Atlassian products out of box \\\\* extensibility with its robust add-on framework \\\\* big community for support, 3rd party add-ons \\\\* mature API, allows you to extends its features yourself The only downside to JIRA that I can think of is scalability. With its standard offering, once you reach million of record, it will start to run slow. However, with the new Data Center offering, it may resolve this problem.",
+      "role": "Computer Software",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/jira/reviews",
+      "sample_order": "highest_rated"
+    },
+    {
+      "portal": "G2",
+      "review_id": "53607",
+      "date": "7/20/2015",
+      "rating": 5.0,
+      "title": "Highly-configurable requirement- and bug tracking solution",
+      "text": "JIRA has an excellent workflow engine that can be easily configured for any type of needs. Workflow editing tool gives you a possibility to create a complex workflow only with drag-and-drop. On the other side, the workflow can be configured with various complex rules to be applied on status changes or on the external information. As an Administrator you can create and manage different types of entities, like \"bugs\", \"user stories\", or if you need \"customers\" or \"projects\". Dynamic views can be modified for each entity type, so that you have the information that matters. JIRA installation on-premise is quite complex and requires extensive experience for System Administrator. Moreover, JIRA requires good infrastructure behind, that increases costs of the complete on-premise solution.",
+      "role": "Financial Services",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/jira/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "JIRA has an excellent workflow engine that can be easily configured for any type of needs"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "52647",
+      "date": "7/16/2015",
+      "rating": 5.0,
+      "title": "Powerful features, granular configuration, steep learning curve",
+      "text": "Powerful customization of workflows, organizations, granular (!) permissioning. Once you are past the learning curve it is as if you had super-powers, and you can automate virtually everything in your workflow. I especially love how the whole ecosystem works perfectly well: JIRA + Confluence + BitBucket and then there is SourceTree, Bamboo, HipChat etc. We love the automagic cross-references. Complexity is introduced immediately instead of first showing a simple interface and making the many configurable elements as options. Be ready to go through a steep learning curve. Both end users and administrators have to be really excited about all the options the configuration allows. I don't really 'dislike' this, it's just the price we have to pay for the extreme power and flexibility we get. It's WORTH it.",
+      "role": "Verified User in Computer Software",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/jira/reviews",
+      "sample_order": "highest_rated"
+    },
+    {
+      "portal": "G2",
+      "review_id": "53991",
+      "date": "7/21/2015",
+      "rating": 5.0,
+      "title": "Stay on top of Agile methodology.",
+      "text": "Jira is fantastic for helping our engineering team handle sprint management. We keep the entire company's expectations inline with where development stands in relation to bugs, features and the overall project backlog. This is a great tool for establishing priority and limiting scope change within a set time duration and cadence. Additionally, there's a nice and simple integration with Zendesk which is what we use for customer support. All in all, it makes for a nice system from customer facing needs to internal business requirements. It's not a negative, really, but I do wish the platform was more extendable to other teams outside of engineering. And frankly, it can be made to work for other team, but in general it really has a product mindset (as it should). I just wish I could get the same value in Sales!",
+      "role": "Verified User in Computer Software",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/jira/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Jira is fantastic for helping our engineering team handle sprint management"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "51407",
+      "date": "1/19/2017",
+      "rating": 5.0,
+      "title": "The center for development",
+      "text": "Everything starts with JIRA. It allows us to plan our development work, track progress, provide status for other teams, and interact with other tools like Confluence and Slack. It's a vital part of our daily routine and how we manage all the moving parts and people in our organization. The user interface could be a bit more intuitive. I think once it's customized it works well but getting to that point can be a pain.",
+      "role": "Verified User in Telecommunications",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/jira/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "It's a vital part of our daily routine and how we manage all the moving parts and people in our organization"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "51589",
+      "date": "7/14/2015",
+      "rating": 5.0,
+      "title": "Excellent ticketing system",
+      "text": "Very easy an effective, minimize the time spent in collaterals and concentrate on the core work. From an IT admin perspective we especially like the ability to customize it with custom fields and workflows. The rich plugin ecosystem greatly simplifies the addition of non trivial features. As integrator and consultants the low baseline price tag allows to introduce it easily to customers and then allow them to test drive the real product. The handling of tasks and sub-tasks is very poor. From such a product you'd expect at leas some sort of WBS support.",
+      "role": "Management Consulting",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/jira/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "minimize the time spent in collaterals and concentrate on the core work",
+        "resonance_evidence": "Very easy an effective"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "51103",
+      "date": "7/10/2015",
+      "rating": 5.0,
+      "title": "Very good issue tracker for development work",
+      "text": "simplicity and integration with other systems A not very well thought out UX with seemingly odd decisions made to \"improve\" the system",
+      "role": "Research",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/jira/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "simplicity and integration with other systems A not very well thought out UX"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "45274",
+      "date": "5/28/2015",
+      "rating": 5.0,
+      "title": "Great tool for the full cycle of Software Development.",
+      "text": "\\- You can have everything from Bugs to Story / Requirements, wiki, Test, Meeting Minutes, KPIs (and so on) centralized in one place. Allows you to interlink them seamlessly. \\- An extensive community. Anything you need to know has already been asked in stackoverflow or somewhere else. \\- Full customization for your needs. \\- Several community addons (you can even make your own) for that little extra. A few more default options for customizable KPI / Dashboards would be nice, but that's easily addressed by addons.",
+      "role": "Information Technology and Services",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/jira/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "You can have everything from Bugs to Story / Requirements, wiki, Test, Meeting Minutes, KPIs (and so on) centralized in one place. Allows you to interlink them seamlessly."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "145093",
+      "date": "6/21/2016",
+      "rating": 0.0,
+      "title": "Unintuitive - Avoid if possible",
+      "text": "It has decent pricing for basically any team size. There is a lot of customization in terms of theming. Very unintuitive to use, as a software developer I can figure out applications pretty easily but there is no hope for JIRA. Page loads are kinda slow but bearable.",
+      "role": "Verified User in Information Technology and Services",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/jira/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "It has decent pricing for basically any team size. There is a lot of customization in terms of theming."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "2044862",
+      "date": "4/3/2019",
+      "rating": 0.0,
+      "title": "Jira is an excellent bug tracking software...but it's hard to use",
+      "text": "Nothing, my company chose to use this software so I am not using this software It is complicated, has far too many features that are hard to navigate, it's expensive so not all our team has access and the formatting sucks",
+      "role": "Verified User in Information Technology and Services",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/jira/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "It is complicated, has far too many features that are hard to navigate, it's expensive so not all our team has access and the formatting sucks"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "210714",
+      "date": "12/20/2016",
+      "rating": 0.0,
+      "title": "Bloated, complicated, and will slow down your development team",
+      "text": "JIRA is known for being flexible and customizable. You can tweak and configure JIRA to fit any workflow. There are several plugins/add-ons available which may add additional functionality. JIRA is an overly complicated system for managing projects. The biggest problem with JIRA will make you feel like you've collected and documented all the information, yet give you a false sense of security. JIRA will get in the way of critical communication between members of your project teams. Your project estimates will be wrong and you will miss deadlines due to lack of clarity among the team. There are so many layers between you and the tasks that need to be done that it does not facilitate communication between the team. You will need to hire someone to manage JIRA full-time because it is not accessible to the average user. If you want your team to be successful, choose a different project management tool.",
+      "role": "Internet",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/jira/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "If you want your team to be successful, choose a different project management tool."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "544779",
+      "date": "1/5/2018",
+      "rating": 0.0,
+      "title": "Horrible and slow",
+      "text": "Not much. I do like some of the reporting. Almost everything. It is slow, tedious, and lacks a good UX. Also too narrowly focused on only supporting engineers.",
+      "role": "Verified User in Information Technology and Services",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/jira/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Almost everything. It is slow, tedious, and lacks a good UX."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "1255152",
+      "date": "11/28/2018",
+      "rating": 0.0,
+      "title": "Why not Jira",
+      "text": "There's nothing. There's nothing good in Jira for a product. It's a tool for team leads at most. The process of setup, user administration, and task migration from the old system.",
+      "role": "Verified User in Information Technology and Services",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/jira/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "There's nothing good in Jira for a product."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "5099546",
+      "date": "11/4/2021",
+      "rating": 0.0,
+      "title": "Jira ignores users",
+      "text": "Jira is adequate at managing issues once you get a grasp of their workflows. The complete disregard for end users. Just take a look at this support ticket that has hundreds of requests for an option to disable their \"smart links\" feature: https://jira.atlassian.com/browse/JRACLOUD-72429 This is the most annoying feature in any software I've ever used, hundreds of other users agree, and Jira is just completely ignoring it.",
+      "role": "Verified User in Computer Software",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/jira/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "The complete disregard for end users"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "4806989",
+      "date": "6/18/2021",
+      "rating": 0.0,
+      "title": "Not user friendly at all",
+      "text": "Kanban boards really help to manage teams. But it takes a ton of time and effort to figure out how to set it up with myriads of obstacles you need to overcome. Overly complicated, offering actions and steps that you can't actually do (workflows are a nightmare). Moving you from one view to a completely different one without letting you know. UI not well designed. Messy.",
+      "role": "Product Marketing Manager (Gridly.com)",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/jira/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Overly complicated, offering actions and steps that you can't actually do (workflows are a nightmare)"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "5247684",
+      "date": "1/4/2022",
+      "rating": 0.0,
+      "title": "There\u2019s gotta be a better way.",
+      "text": "Has good integration with other tools in the Atlassian suite. Also offers cloud based saas solution. Search is terrible. It's so bad that users have to learn how to write queries in J-sql, which is easy, but unnessary. Doing simple things like seeing all open tickets for a single employee or creating a dashboard of all my employees is frustratingly difficult and documentation is vague. The tool has a lot of features, but nothing about it is intuitive.",
+      "role": "Verified User in Real Estate",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/jira/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Doing simple things like seeing all open tickets for a single employee or creating a dashboard of all my employees is frustratingly difficult"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "3049978",
+      "date": "8/23/2019",
+      "rating": 0.0,
+      "title": "Hard to use",
+      "text": "Flexible with its functionality but is hard to use Hard to track time, it should be a lot more automated or easy to use",
+      "role": "Verified User in E-Learning",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/jira/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Hard to use Hard to track time"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "July 11, 2026",
+      "rating": null,
+      "title": null,
+      "text": "Its customizable workflows, issue tracking, dashboards, and collaboration features help development and IT teams stay organized while making it easy to monitor project status and ongoing work.",
+      "role": "Manager",
+      "company_size": "11-50 employees",
+      "source_url": "https://www.capterra.com/p/19319/JIRA/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "help development and IT teams stay organized while making it easy to monitor project status and ongoing work"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "June 14, 2026",
+      "rating": null,
+      "title": null,
+      "text": "I had a Jira ticket opened few years already, however still no respond received, no feedback whatsoever, even I responded another follow up note with same ticket, however no luck hear anything from anywhere, and I can't cancel the ticket from my side either for some odd reason. Plus I can't ask helpdesk to cancel my Jira ticket because helpdesk said they don't manage Jira ticket system, and have to wait for the technician who responsible for that particular system/application, so here I am getting stuck for few years of that Jira ticket.",
+      "role": "Business Analyst",
+      "company_size": "10,001+ employees",
+      "source_url": "https://www.capterra.com/p/19319/JIRA/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I had a Jira ticket opened few years already, however still no respond received, no feedback whatsoever"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "June 21, 2026",
+      "rating": null,
+      "title": null,
+      "text": "Once properly configured, it provides unparalleled visibility into project timelines, resource allocation, and issue tracking. While it can feel heavy and a bit rigid for smaller, fast-moving projects, its scalability and deep integration features make it an essential tool for structured, enterprise-level workflow management.",
+      "role": "Systems Engineer",
+      "company_size": "501-1,000 employees",
+      "source_url": "https://www.capterra.com/p/19319/JIRA/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "provides unparalleled visibility into project timelines, resource allocation, and issue tracking"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "June 22, 2026",
+      "rating": null,
+      "title": null,
+      "text": "There are a lot of menus, settings, boards, fields, and workflow options, so it takes time to learn where everything is. If it is not set up properly, it can also become cluttered pretty quickly.",
+      "role": "IT Manager",
+      "company_size": "51-200 employees",
+      "source_url": "https://www.capterra.com/p/19319/JIRA/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "it takes time to learn where everything is"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "June 17, 2026",
+      "rating": null,
+      "title": null,
+      "text": "Powerful workflow automation (especially for ticket lifecycles and SLA monitoring), robust dashboard reporting capabilities for operational visibility, and seamless integration with tools like Confluence.",
+      "role": "Software Engineer",
+      "company_size": "5,001-10,000 employees",
+      "source_url": "https://www.capterra.com/p/19319/JIRA/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Powerful workflow automation"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "June 23, 2026",
+      "rating": null,
+      "title": null,
+      "text": "Everyone creates brand new, completely separate Ad-Hoc Columns for small workflow pieces rather than checking if someone else already created it (and made everyone's brain hurt), and makes it painful to see the fractured data.",
+      "role": "Chief Executive Officer",
+      "company_size": "11-50 employees",
+      "source_url": "https://www.capterra.com/p/19319/JIRA/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "makes it painful to see the fractured data"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "June 11, 2026",
+      "rating": null,
+      "title": null,
+      "text": "Jira is especially valuable for project and team collaboration because it allows different teams to work on the same workflow, share updates, leave comments, and keep everyone aligned on deadlines and responsibilities.",
+      "role": "Software developer",
+      "company_size": "1,001-5,000 employees",
+      "source_url": "https://www.capterra.com/p/19319/JIRA/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "especially valuable for project and team collaboration"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "April 21, 2026",
+      "rating": null,
+      "title": null,
+      "text": "Additionally, heavy customization can make workflows harder to manage, and performance may slow down when dealing with large volumes of tickets or data",
+      "role": "Application support analyst",
+      "company_size": "1,001-5,000 employees",
+      "source_url": "https://www.capterra.com/p/19319/JIRA/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "performance may slow down when dealing with large volumes of tickets or data"
+      }
+    },
+    {
+      "portal": "Gartner Peer Insights",
+      "review_id": null,
+      "date": "Jun 30, 2026",
+      "rating": 4.0,
+      "title": "Automated notifications and robust workflows boost reliability, but setup is complex",
+      "text": null,
+      "body_gated": true,
+      "role": "Bid Manager",
+      "company_size": "50M - 250M USD, Software",
+      "sentiment_label": "FAVORABLE",
+      "source_url": "https://www.gartner.com/reviews/product/jira",
+      "sample_order": "page"
+    },
+    {
+      "portal": "Gartner Peer Insights",
+      "review_id": null,
+      "date": "Jul 7, 2026",
+      "rating": 3.0,
+      "title": "Incredibly useful and powerful tool, but can get overly complicated and costly if you're not careful",
+      "text": null,
+      "body_gated": true,
+      "role": "Director of Marketing",
+      "company_size": "<50M USD, Consumer Goods",
+      "sentiment_label": "CRITICAL",
+      "source_url": "https://www.gartner.com/reviews/product/jira",
+      "sample_order": "page"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-08-11",
+      "rating": 1,
+      "title": "I dont use your product",
+      "text": "I dont use your product I get an email and it says this is so important that you can not unsubcribe!!!!!!!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I dont use your product I get an email and it says this is so important that you can not unsubcribe!!!!!!!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-08-10",
+      "rating": 1,
+      "title": "Loom Subscription went up 3x without consent",
+      "text": "I used loom for years and paid around $20 per month for the software, randomly we started being charged $60 per month and when I looked into it they just increased the prices by 3x and started charging us for an additional user that I had no idea was even on the account. I requested it to be cancelled and instead was met with a huge email and charged again the following month. Will stay away from any software related to them.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "paid around $20 per month for the software, randomly we started being charged $60 per month and when I looked into it they just increased the prices by 3x",
+        "resonance_evidence": "Will stay away from any software related to them"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-08-10",
+      "rating": 1,
+      "title": "I signed up for a basic account on Trello...",
+      "text": "I signed up for a basic account simply to browse Trello and check out a standard project board. I had absolutely no intention of buying anything or starting a premium service. Instead of a straightforward signup, Atlassian instantly hit my inbox with an email titled \"Order confirmed,\" complete with an official transaction order number. The email is explicitly designed to look like a paid invoice, causing immediate panic and making me think I had been scammed. Even worse, getting out of this hidden trap was intentionally complicated. I was forced to navigate through three separate web pages just to find the hidden option to cancel the trial.Forcing users into financial panic just to drive premium conversions is a predatory, hostile user experience. This company uses manipulative UI tricks that mimic actual scams. Absolutely untrustworthy.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Forcing users into financial panic just to drive premium conversions is a predatory, hostile user experience. This company uses manipulative UI tricks that mimic actual scams. Absolutely untrustworthy."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-30",
+      "rating": 1,
+      "title": "LOOM AND ATLASSIAN SCAM.",
+      "text": "I downloaded the loom app to make a video for a job interview. I downloaded a free app. Used free features and now I'm being charged without consent by atlassian without being informed...i did not save my banking details, because I did not use this for paid features, only the free video recorder to share a link. This loom app and atlassian is a scam. Fraudulent. You are blocked. Do not contact me. You are fraudulent and I will report you to the better business bureau, and local ombudsman if you do not honor my request to delete my account. Refusal to cancel my account will be deemed a scam. Refusal to delete that bill produced without consent for your service will be reported as the scam it is. Terrible customer service.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "This loom app and atlassian is a scam. Fraudulent."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-30",
+      "rating": 1,
+      "title": "Worst User Experience on the Internet",
+      "text": "Worst User Experience on the Internet. Trello is such a poor service. They try to trick you into premium subscriptions, already during the sign up process. Trello's UI is so bad, weird, no structure, no support. No info on how to delete an account. Not professional and feels almost like a scam operation.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Worst User Experience on the Internet"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-28",
+      "rating": 1,
+      "title": "SCAM run away",
+      "text": "SCAM run away. I was forced to create an account through Loom for a job interview process. I ended up with ghost domains and subscriptions that I NEVER agreed upon. When attempting to close the account immediately afterward, Atlassian locked my profile deletion button, citing that I am a 'last billing admin' for an unrequested, unpaid free workspace entitlement. Their system forces a mandatory 14-to-60-day holding loop to keep consumer data active on their servers without user consent, while providing no functional customer service numbers or simple self-service deletion paths for non-paying users.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "Their system forces a mandatory 14-to-60-day holding loop to keep consumer data active on their servers",
+        "resonance_evidence": "SCAM run away"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-27",
+      "rating": 2,
+      "title": "Slow support response",
+      "text": "I asked for help a week ago but still no reply. Software issues are piling up now.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I asked for help a week ago but still no reply. Software issues are piling up now."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-23",
+      "rating": 1,
+      "title": "Scam, i think",
+      "text": "They are trying to get me to pay for a Subscription that i never made. Their support Website is a Labyrinth of AI-Powered Chatbots and looping redirectors, that won't let you contact a person in the company to deal with your issue. I think this is an actual scam under a legal disguise. Someone should do something about this.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I think this is an actual scam under a legal disguise"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-22",
+      "rating": 1,
+      "title": "Atlassian Holds Customers Hostage",
+      "text": "Deleting my account was absurdly difficult. Atlassian makes customers jump through endless self service steps, waiting periods, and confusing pages instead of letting support handle a clear deletion request. It feels intentionally designed to make leaving as hard as possible. Because of this experience, I would gladly pay 10x more to use Microsoft rather than ever use Atlassian again!!!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I would gladly pay 10x more to use Microsoft rather than ever use Atlassian again!!!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-21",
+      "rating": 1,
+      "title": "I upgraded my Trello workspace to the\u2026",
+      "text": "I upgraded my Trello workspace to the annual Standard plan. Shortly after, a misclick in the billing UI triggered an additional upgrade to Premium for the same workspace, resulting in two separate charges on the same day (21 July 2026): Trello Standard annual fee: $60.00 (Invoice TRINV-40285809) Trello Premium upgrade fee: $59.99 (Invoice TRINV-40285849) Total charged: $119.99. While Trello's billing system automatically corrected the future renewal back to Standard, it did not automatically refund the duplicate past charge. The plan-switching UI makes it too easy to accidentally trigger a second paid upgrade, and there's no clear one-click undo before the charge goes through. I've submitted a formal refund request through Atlassian's official billing support channel with both invoice numbers, but the process requires manual review rather than an automatic refund for what is clearly an accidental duplicate purchase. I'd encourage Atlassian to add a confirmation step before plan upgrades that involve an immediate charge, and to offer a faster self-service refund path for same-day accidental duplicate purchases.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "lukewarm",
+        "results_evidence": "resulting in two separate charges on the same day (21 July 2026): Trello Standard annual fee: $60.00 (Invoice TRINV-40285809) Trello Premium upgrade fee: $59.99 (Invoice TRINV-40285849) Total charged: $119.99",
+        "resonance_evidence": "I'd encourage Atlassian to add a confirmation step before plan upgrades"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-21",
+      "rating": 2,
+      "title": "Disappointing Experience Overall",
+      "text": "The product didn't match the description at all. I was really excited to receive my order, but when it arrived, the size was off and the color was much duller than shown online. It took longer than expected to get here, too, which added to my frustration. I tried reaching out to customer service for help, but their response was slow and not very helpful. I really hoped for a better experience, but this just didn't meet my expectations at all. I'll think twice before ordering from here again.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I'll think twice before ordering from here again"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-20",
+      "rating": 1,
+      "title": "Atlassian use Loom video links as bait",
+      "text": "They use influencers on Instagram offering work and they insist on a Loom video of you. You innocently go through the motions and suddenly you find yourself subscribed to their cloud services and a whole host of nonsense you didn't ask for. Then they make it impossible for you to delete your profile. The loom video is the bait. Be very careful",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Be very careful"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-15",
+      "rating": 1,
+      "title": "They asked for this",
+      "text": "They asked for this. As with many US companies they make it virtually impossible or impossibly difficult to cancel your personal data or cancel an account or subscription. For me this automatically earns them a zero star review and scam rating. I see I am not the only one.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "automatically earns them a zero star review and scam rating"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-13",
+      "rating": 1,
+      "title": "This company is a scam",
+      "text": "This company is a scam - you cannot contact them easily. They continuously take money from my account despite a verification email stating they had cancelled all my cloud subscriptions as per my request. You cannot contact support unless you login and the moment you login again they reactivate your account again. They never respond, despite me emailing directly to the last person I dealt with. I was forced to block my cards to get rid of them - possibly the most dishonest and poorly run business I have come across. Thieves, scams artists!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "possibly the most dishonest and poorly run business I have come across. Thieves, scams artists!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-10",
+      "rating": 1,
+      "title": "They're stealing your data!!",
+      "text": "I paid for a 1-month subscription to Loom, and one month later I was hacked; my Atlassian account was banned from their platform, I no longer have any workspaces, and all the videos I had were deleted. They're stealing your data!!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "all the videos I had were deleted",
+        "resonance_evidence": "They're stealing your data!!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-05",
+      "rating": 1,
+      "title": "RIDICULOUSLY BAD",
+      "text": "RIDICULOUSLY BAD, STOLE MY MONEY! They bought Loom, made it impossible to unsubscribe and I CANNOT STOP THE SUBSCRIPTION! NOBODY IS ANSWERING EMAILS! NO REFUNDS EVER! HOLY SHIT!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "RIDICULOUSLY BAD, STOLE MY MONEY!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-01",
+      "rating": 1,
+      "title": "if i could do 0 stars i would",
+      "text": "if i could do 0 stars i would. they are taking money from me and i cant get it cancelled.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "if i could do 0 stars i would"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-25",
+      "rating": 1,
+      "title": "Scam company",
+      "text": "Scam company. They bought loom and ruined it. Now the billing part is impossible to handle. Also, i bought one workspace for 24USD and they billed us for 216USD. I immediately asked for a refund (few minutes after the charge) telling them i didn't even know why they STOLE 216usd from us.... They didn't reply and refused to refund the payment. They lost a customer for life for a couple hundred bucks",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-24",
+      "rating": 1,
+      "title": "They have completely obliterated the\u2026",
+      "text": "They have completely obliterated the Loom and Trello experience. Perfect example of a \"BIG\" company buying other decent companies and adding their horrible customer service and back end admin systems and THEN trying to charge you MORE for a MUCH worse experience... I would literally short the stock of this company it is THAT horrible but its already down 70%... wish I had done it earlier... Avoid anything even remotely attached to Atlassian... Can't image a use case where you can't find a better run alternative for any of their current products...",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Avoid anything even remotely attached to Atlassian"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-19",
+      "rating": 1,
+      "title": "Bandits of the IT world.",
+      "text": "If i could put -10 I would. Their billing and their confusion rate are the worst I have ever dealt with. No one cares in the slightest. We have tried and tried to get this fixed. we are now in our 3rd month of being charged for a platform we don't need nor want. $250.00 each time. No one cares, no one appears to have a responsibility to get these things right, and I doubt they even have it monitored in any way. As an IT company, they are basically incompetent. Sad since we were very happy with Loom. The good thing I guess, is that there are now other ways of doing what they do using AI so I wouldn't buy shares in them.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "we are now in our 3rd month of being charged for a platform we don't need nor want. $250.00 each time",
+        "resonance_evidence": "If i could put -10 I would"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-19",
+      "rating": 1,
+      "title": "Absolutely terrible company to deal\u2026",
+      "text": "Absolutely terrible company to deal with. Their subscription practices are misleading, their billing lacks transparency, and the entire experience feels designed to make it as difficult as possible to cancel. In my opinion, it borders on predatory. Over the last six months, they have taken more than $1,000 from our business in subscription fees, with little clarity around what we were actually paying for. When we tried to cancel, we were met with endless frustration, confusing processes, and virtually no meaningful support. A company that relies on making it difficult for customers to unsubscribe should be a major red flag. I would strongly advise anyone considering their services to think twice and read every detail carefully before signing up. Based on our experience, I would avoid them entirely.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "Over the last six months, they have taken more than $1,000 from our business in subscription fees",
+        "resonance_evidence": "I would strongly advise anyone considering their services to think twice"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-16",
+      "rating": 1,
+      "title": "NEVER EVER EVER USE THIS SOFTWARE",
+      "text": "Firstly, I would recommend to anyone looking to delete their account, that they make use of GDPR article 17 regarding the right to removal of data and thus also the account. Do note that this is still a bothersome customer-service heavy method, but it seems to be the only one. This is some of the most sloppy software I have ever had the displeasure of using. I once created an account - big mistake, as it has become virtually impossible to delete. Of course it would be too much to allow the user the freedom to no longer want to use the product right? I must apparently first delete my \"organization\" (I am a singular high school student who needed it for some throwaway subject) which firstly takes forever since they have grace periods on removing free apps for some reason. Additionally, I must apparently write to their useless customer service to remove features I NEVER ASKED FOR and NEVER USED. The mere fact that software is legally operating is astonishing. DO NOT USE ATLASSIAN!!!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "DO NOT USE ATLASSIAN!!!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-16",
+      "rating": 1,
+      "title": "Si je pouvais mettre moins d'une \u00e9toile\u2026",
+      "text": "Si je pouvais mettre moins d'une \u00e9toile je le ferais. Ne vous INSCRIVEZ SURTOUT PAS. Ensuite c'est impossible de supprimer votre compte sous pr\u00e9texte que vous devez transf\u00e9rer la licence admin. SPOILER ALERT je veux juste me d\u00e9sinscrire sans rien transf\u00e9rer \u00e0 personne. Faites attention en utilisant LOOM, c'est \u00e0 ce moment la qu'ils m'ont inscrit sans mon consentement.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Si je pouvais mettre moins d'une \u00e9toile je le ferais. Ne vous INSCRIVEZ SURTOUT PAS."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-12",
+      "rating": 1,
+      "title": "Verbrecher .",
+      "text": "Verbrecher .. Abmelden aus dem kompletten Account unm\u00f6glich.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Verbrecher .. Abmelden aus dem kompletten Account unm\u00f6glich."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-12",
+      "rating": 1,
+      "title": "It's a piece of sh*t especially if you\u2026",
+      "text": "It's a piece of sh*t especially if you need to login again... so stupid, bulky, and complicated",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "It's a piece of sh*t especially if you need to login again... so stupid, bulky, and complicated"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-04",
+      "rating": 1,
+      "title": "Loom \u00e9tait super utile avant",
+      "text": "Loom \u00e9tait super utile avant: depuis le rachat inutilisable. J'ai perdu de multiples heures de recordings \u00e0 refaire \u00e0 0 \u00e0 cause d'un bug.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "J'ai perdu de multiples heures de recordings \u00e0 refaire \u00e0 0 \u00e0 cause d'un bug.",
+        "resonance_evidence": "Loom \u00e9tait super utile avant: depuis le rachat inutilisable."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-28",
+      "rating": 1,
+      "title": "Platform actively misused for spam and phishing \u2014 support ignores the real problem",
+      "text": "I have never been an Atlassian customer, yet I regularly receive spam, phishing attempts, and scam messages delivered via Atlassian's own notification system. Criminals create Jira or Confluence accounts, add arbitrary email addresses to projects, and Atlassian's infrastructure then delivers the messages \u2014 from a trusted domain that bypasses standard spam filters. This is a well-documented abuse vector. What makes this worse: Atlassian's abuse process does not address the actual problem. When I contacted support, instead of blacklisting my addresses from ever being added to a project, they processed an account deletion request I never made. The core issue \u2014 that anyone can weaponize their platform to reach people who never consented \u2014 was completely ignored. There is a third concern that Atlassian users may not think about: companies routinely paste passwords, API keys, and other sensitive data into Jira tickets. Atlassian then sends these out as plaintext email notifications to every watcher \u2014 including people who were added without their knowledge. This is a serious security and data protection issue. The fix is straightforward: make notifications strictly opt-in. Nobody should receive Atlassian emails unless they explicitly signed up. Until that changes, the platform remains a convenient tool for anyone wanting to reach people who have no relationship with Atlassian whatsoever.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Until that changes, the platform remains a convenient tool for anyone wanting to reach people who have no relationship with Atlassian whatsoever."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-26",
+      "rating": 1,
+      "title": "If I could I'd give absolutely ZERO\u2026",
+      "text": "If I could I'd give absolutely ZERO stars. I have tried everything over and over. I don't know where to start but I CANNOT DELETE MY F..... ACCOUNT. Everything is slow on this site. Everything cross-binds each thing. Nothing will work and it is SO NOT user-friendly. For God sake DON'T sign up. It seems impossible to cancel your subscriptions and admin role, users, groups and YOUR ACCOUNT. Finally someone reaches out to me by email after sending I don't know how many emails that gets rejected saying: Nobody is surveying this email - please reach out to the community. They have now FINALLY de-activated ONE SINGLE APP. They have NOT deleted anything.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "For God sake DON'T sign up."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-21",
+      "rating": 1,
+      "title": "Not even trying to meet halfway...",
+      "text": "Prior employee purchased without authorization from our leadership. When we finally found out ams terminated the employee; we got a \"sorry it is passed 30 days\" notice and stated no refund, partial or otherwise. A credit towards products we could use would have been appreciated at least. The customer service experience was drug out and i am having to go back and be crystal clear so it doesnt auto renew.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "we got a \"sorry it is passed 30 days\" notice and stated no refund, partial or otherwise"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-10",
+      "rating": 1,
+      "title": "Horrible Acquisition",
+      "text": "Horrible Acquisition. They bought Loom and have made no effort to make the service actually usable. It has been broken for ages, and wide responses have received no feedback. I have assignments due soon, and this is the greatest disgrace I've seen any time recently.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Horrible Acquisition. They bought Loom and have made no effort to make the service actually usable. It has been broken for ages"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-09",
+      "rating": 1,
+      "title": "Stay absolutely clear of this dodgy company!",
+      "text": "Stay absolutely clear of this dodgy company. I signed up to test loom and they signed me up to a paid-subscription without my knowledge in the background. None of that was mentioned at all when testing the video. It wasn't until a few weeks passed that they tried to request a payment. They are using scare tactics to get customers to pay. Luckily I hadnt uploaded any personal information or credit information. DO NOT use this company for loom or any other services under any circumstances as they practice very shady business tactics.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-07",
+      "rating": 1,
+      "title": "Can't delete account & No customer support",
+      "text": "I can't delete my account. The instructions on how to delete your account on the help center they have, doesn't work, it keeps giving an error that you have active subscriptions, even through I don't. There is no customer support, just an AI that tells you the same useless stuff as on the FAQ/help center Worst services ever! Stay away!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Worst services ever! Stay away!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-03",
+      "rating": 1,
+      "title": "Bodenlose Frechheit - Betrug",
+      "text": "Ich habe ein kostenloses! Probeabo bei Loom \u00fcber Atlassian abgeschlossen, ohne zu wissen, dass das ein Scam ist. Seitdem bekomme ich alle paar Tage Emails, dass ich meine payment details geben soll f\u00fcr ein Abo, dass ich nie abgeschlossen habe, dass das kostenlose Abo geendet hat, das haben sie mir sogar geschrieben. Ich kann mein Konto nicht l\u00f6schen, weil ich angeblich ein aktives Abo habe, das wohlgemerkt von selbst geendet hat, und ich kann das Abo nicht l\u00f6schen weil angeblich noch Zahlungen offen sind, weil sie ein Abo berechnen, das ich nie abgeschlossen habe und ich muss erst zahlen bevor ich k\u00fcndigen kann, was ich selbstverst\u00e4ndlich nicht tun werde, da ich nichts abgeschlossen habe. Meine inzwischen mindestens 5 E-Mails werden antwortlos ignoriert. Betr\u00fcger",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Betr\u00fcger"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-30",
+      "rating": 1,
+      "title": "Nichts funktioniert",
+      "text": "Nichts funktioniert. Geld wird dennoch abkassiert. Trotz K\u00fcndigung. Schrottladen. Nie wieder!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-27",
+      "rating": 1,
+      "title": "Loom subscription not cancelable anymore - Guys better avoid this company!",
+      "text": "Last week i clicked on (Loom) 14 days free subscription and they immidiately charged my credit card with a monthly subscription which i cannot cancel anymore. Now i cannot downgrade manually anymore, cannot delete my credit card and cannot contact their support because you will be leaded in circles when you try to contact them. It is unbelieveable these days that a company like atlassian does not seem to care about its customers. I feel robbed, the first time in years and my company has been existing for four years now. I highly recommend all business not to do any business with this company. Try to avoid this company and their products.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-24",
+      "rating": 1,
+      "title": "I can't access my Loom account because\u2026",
+      "text": "I can't access my Loom account because of a login error after changing Atlassian account. I can't access Loom support because I can't sign in. I can't speak with support or any human from Atlassian or Loom. I'm stuck in a loop with AI support chat, completely unable to access a service I'm paying for.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I'm stuck in a loop with AI support chat, completely unable to access a service I'm paying for"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-22",
+      "rating": 1,
+      "title": "This company really sucks",
+      "text": "Really bad, i focking logged in to my old account, what was a premium one and now they pushed me in to a new account and can't back my old premium account. This company really sucks",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Really bad, i focking logged in to my old account, what was a premium one and now they pushed me in to a new account and can't back my old premium account. This company really sucks"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-21",
+      "rating": 1,
+      "title": "I got emails in the middle of the night\u2026",
+      "text": "I got emails in the middle of the night after ending my subscription",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I got emails in the middle of the night after ending my subscription"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-17",
+      "rating": 1,
+      "title": "They're greedy and arrogant",
+      "text": "They're greedy and arrogant - even when you pay for the service, they artificially block standard features, forcing you to buy more and more! And they constantly try to cram features you don't need into the package. They also constantly use your data to train their AI.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "They're greedy and arrogant - even when you pay for the service, they artificially block standard features, forcing you to buy more and more!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-17",
+      "rating": 1,
+      "title": "SCAM SCAM SCAM",
+      "text": "I set up a loom account which automatically enrolled me into this terrible service without my knowledge. I used the loom account to record A SINGLE video, on their 'free version' and was automatically enrolled to the most expensive service after only 14 days, again without my consent. Its been an absolute nightmare trying to delete my account, and now im apparently 'overdue' a bill that I didnt even consent to in the first place. I've still not been able to delete and this is clearly done purposely to keep people trapped. No customer service to get hold of as they know exactly what they're doing. AVOID ATLASSIAN AND LOOM AT ALL COSTS!!!!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-14",
+      "rating": 1,
+      "title": "IMPOSSIBLE TO DELETE THE ACCOUNT",
+      "text": "I did this account unpurpously thinking it was something else and now it is impossible to delete the account. It is scam and frustrating.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "It is scam and frustrating."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-14",
+      "rating": 1,
+      "title": "You can never leave",
+      "text": "They take your money easily but when you try to leave the platform they will make sure it is one of the most convoluted and frustrating processes known to man. Scammers!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "They take your money easily but when you try to leave the platform they will make sure it is one of the most convoluted and frustrating processes known to man. Scammers!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-06",
+      "rating": 1,
+      "title": "Loom nicht mehr verwendbar",
+      "text": "Loom wurde nun auch von Atlassian \u00fcbernommen und meine ganze Firma kann sich nicht mehr einloggen, dankbarerweise gibt es keinen Support. Wir nutzen Loom seit bald 10 Jahren und werden nun unsere Vertr\u00e4ge k\u00fcndigen und auch unsern Kunden davon abraten",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "Wir nutzen Loom seit bald 10 Jahren und werden nun unsere Vertr\u00e4ge k\u00fcndigen",
+        "resonance_evidence": "meine ganze Firma kann sich nicht mehr einloggen, dankbarerweise gibt es keinen Support"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-03-31",
+      "rating": 1,
+      "title": "Horrible scam",
+      "text": "Horrible scam, LOOM unknowingly made me this account and it's impossible to delete, now it says I should pay for some subscription? Total scam, horrible company and website. Loom is a scam too.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Horrible scam, LOOM unknowingly made me this account and it's impossible to delete, now it says I should pay for some subscription? Total scam, horrible company and website."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-03-30",
+      "rating": 1,
+      "title": "Would leave negative stars if I could.",
+      "text": "Would leave negative stars if I could. Like other reviewers, the creation of my account was completely unintentional. Trying to remove it after the fact is next to impossible. I am going to reach out to my pediatrician and BEG them to find a different solution because this is insane.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Would leave negative stars if I could"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-03-24",
+      "rating": 1,
+      "title": "Impossible to unsubscribe if you change your mind",
+      "text": "Almost impossible to unsubscribe, or delete your account. You keep getting frequent emails without the option of the \"unsubscribe\" button. Took me an hour to finally manage to somehow deactivate my account. Terrible user interface experience.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "Took me an hour to finally manage to somehow deactivate my account",
+        "resonance_evidence": "Terrible user interface experience"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-03-23",
+      "rating": 3,
+      "title": "Good but could be better",
+      "text": "I am a user of Atlassian and they are alright, but their processes are a little bit too complicated. Nice piece of tech, but I feel that they sometimes overcomplicate their features, and this creates a bad user experience. Still one of the most advanced platforms for enterprise businesses.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "they are alright"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-03-20",
+      "rating": 1,
+      "title": "Beware of their subscription methods",
+      "text": "One of those companies that make unsubscribing as difficult as possible.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "One of those companies that make unsubscribing as difficult as possible"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-03-20",
+      "rating": 1,
+      "title": "Trying unsubscribe and delete my\u2026",
+      "text": "Trying unsubscribe and delete my account was almost impossible. DO NOT GO NEAR THIS COMPANY and his rich jerk MIke Cannon-Brookes.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "DO NOT GO NEAR THIS COMPANY"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-03-12",
+      "rating": 1,
+      "title": "Horrific experience.",
+      "text": "Horrific experience. I\u2019ve been using Loom for over 2 years and was paying around $20 per month, which felt like a fair price for a tool I use occasionally but find useful when needed. Out of nowhere my bill jumped to $72 per month. No warning, no approval, no confirmation. It appears Atlassian upgraded the account without any clear confirmation or approval, resulting in a large price increase. This feels extremely misleading and unfair. I am currently contesting the payment but had 0 repsonses - Fraudsters Atlassian seems to have upgraded accounts automatically without any clear opt-in from customers, which resulted in my monthly bill more than tripling overnight. That is not acceptable and feels extremely misleading. I am currently disputing the charge. Very disappointing after being a customer for several years.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "my bill jumped to $72 per month",
+        "resonance_evidence": "Horrific experience"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-03-11",
+      "rating": 1,
+      "title": "Atlassian has an interesting way of\u2026",
+      "text": "Atlassian has an interesting way of ensuring customer loyalty by trapping you into subscription plans and things you didn't sign up for and making it difficult to leave.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "trapping you into subscription plans"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-03-02",
+      "rating": 1,
+      "title": "Absolute garbage company",
+      "text": "Absolute garbage company. It's literally impossible to unsubscribe.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Absolute garbage company"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-02-27",
+      "rating": 1,
+      "title": "It\u2019s impossible to delete the Loom\u2026",
+      "text": "It\u2019s impossible to delete the Loom account, which I never even used. Why? Because it\u2019s connected to a main Atlassian account that I didn\u2019t even know I had. In short, this company\u2019s business model feels fishy and like a trap. Avoid it at all costs.The Loom trial period does not end as expected and instead converts into a paid billing cycle. The account deletion process is slow and frustrating. I will not be paying for a service I didn\u2019t intend to subscribe to. This experience feels misleading.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Avoid it at all costs"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-02-26",
+      "rating": 1,
+      "title": "Avoid if you dont want your work\u2026",
+      "text": "Avoid if you dont want your work deleted. We spent 1000 hours doing a lot of work in jira to have it all lost because we didnt log in and missed and email. They will delete your site if you don't sign in",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "We spent 1000 hours doing a lot of work in jira to have it all lost",
+        "resonance_evidence": "Avoid if you dont want your work deleted"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-02-23",
+      "rating": 1,
+      "title": "Avoid at all costs",
+      "text": "Truly horrendous. Don't use. No customer support, and a task that should be easy (deleting an account with no active subscriptions or billing) becomes a multiple day process with teams who literally don't speak to each other - I asked if they could and they just replied saying thanks?",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "a task that should be easy (deleting an account with no active subscriptions or billing) becomes a multiple day process",
+        "resonance_evidence": "Truly horrendous. Don't use."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-02-19",
+      "rating": 1,
+      "title": "It is impossible to delete account",
+      "text": "I created an Atlassian account by mistake and I can\u2019t delete it. I already tried everything. Their instructions don\u2019t work and they perfectly know that. I am sure they intentionally made account deletion impossible. I only get messages like \u201cYou can\u2019t delete youself\u201d or \u201cYour account can\u2019t be deleted\u201d. There are no laws for them. My advice is to not get involved with Atlassian at all.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "My advice is to not get involved with Atlassian at all"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-02-16",
+      "rating": 1,
+      "title": "Sinister blocks to stop account deletion",
+      "text": "Make it impossible to delete your account after starting a free trial (with Loom). Sinister, creepy, strange business practice of trapping you with their account. I would recommend NOBODY sign up with Atlassian as a result.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I would recommend NOBODY sign up with Atlassian as a result"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-02-13",
+      "rating": 1,
+      "title": "Out of the sky they charged 50% more\u2026",
+      "text": "Out of the sky they charged 50% more for my Loom subscription. Blocked future payments.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "they charged 50% more for my Loom subscription",
+        "resonance_evidence": "Out of the sky they charged 50% more for my Loom subscription. Blocked future payments."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-02-10",
+      "rating": 1,
+      "title": "Do yourself a favour and dont bother.",
+      "text": "Do yourself a favour and dont go anywhere near Atlassian or Confluence. We adopted Confluence for a knowledge base. This is something we update and check periodically and it had our important processes, information and more. After a period of inactivity, Atlassian went ahead and both deactivated the site and then permanently deleted it. The process of getting in contact with customer service is near impossible unless you are a paid account, so we didn't know what had occured until we finally found a way to talk to a rep. All they could say was \"Sorry, can't do anything and all your data is deleted and can't be recovered. Want to make another site with us?\"",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "After a period of inactivity, Atlassian went ahead and both deactivated the site and then permanently deleted it",
+        "resonance_evidence": "Do yourself a favour and dont go anywhere near Atlassian or Confluence"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-02-07",
+      "rating": 1,
+      "title": "Trial trap",
+      "text": "Had a trial version, they made it incredible hard to delete my account.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "they made it incredible hard to delete my account"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-01-19",
+      "rating": 1,
+      "title": "Automatic billing, zero usage, and no remediation",
+      "text": "We\u2019ve been long-time users of Atlassian products, but this experience has been extremely disappointing. A Jira Software subscription was automatically upgraded from free to paid due to a temporary user threshold breach, despite the product not being intentionally adopted or operationally used. We requested cancellation almost immediately after renewal, yet were still charged approximately $5,000 for a billing period in which the product was not used at all. Despite clear intent to cancel and no meaningful usage, support has declined to offer a refund or credit, citing policy rather than commercial reasonableness. Separately, we\u2019ve also experienced prolonged technical issues with Slack integrations that materially impacted our operations and were never fully resolved, despite repeated outreach. Atlassian products are powerful, but billing rigidity and lack of flexibility when issues arise make it difficult to recommend them for teams that expect fair remediation and accountability.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "charged approximately $5,000 for a billing period in which the product was not used at all",
+        "resonance_evidence": "make it difficult to recommend them"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-01-19",
+      "rating": 5,
+      "title": "Subscription refunded",
+      "text": "I subscribed to their service by mistake, went on holiday and received the first bill after one and a half month. I realized my mistake, paid the bill and politely asked for a refund explaining my mistake. I had 0 hope of a positive outcome BUT I actually got the bill refunded and my subscription turned into free plan within 24 hours. UNBELIEVABLE! THANKS A LOT!!!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "I actually got the bill refunded and my subscription turned into free plan within 24 hours. UNBELIEVABLE! THANKS A LOT!!!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-01-13",
+      "rating": 1,
+      "title": "Horrific. 4xed my bill out of the blue.",
+      "text": "I've been using Loom for 3+ years. Paying around $18-20 a month every month. A fair price for a tool I use not all that often but is useful when I need it. Out of the blue they have 4xed my bill to $80+ a month. Apparently there are users on my account I didn't even know existed (they were just people who viewed my loom recordings). Atlassian apparently just upgraded all of our accounts (by a very significant amount) without any positive confirmation from the users that this is what they want. I am contesting the payment. I am contesting",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "4xed my bill to $80+ a month",
+        "resonance_evidence": "I am contesting the payment"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-01-01",
+      "rating": 1,
+      "title": "Kein Stern w\u00e4re angebracht!",
+      "text": "Kein Stern w\u00e4re angebracht! Ich habe ein Probeabo bei LOOM in Anspruch genommen und nach einer Woche gek\u00fcndigt. Loom arbeitet offenbar mit dieser nichtsnutzigen Atlessian-Gesellschaft zusammen, die ich dann offenbar gesondert h\u00e4tte k\u00fcndigen m\u00fcssen, denn mir wurde eine Monatsgeb\u00fchr abgezogen. So weit, so gut. Was mich wirklich \u00fcber alle Massen aufregt: Der sogenannte Kundensupport ist ein Teufelskreis aus Schaltfl\u00e4chenoptionen, die ins Nirgendwo f\u00fchren. Ein AI - Agent erkl\u00e4rt mir, er h\u00e4tte jetzt keine Zeit. Es ist wirklich der reinste Hohn. F\u00fcnf Minuten sp\u00e4ter erkl\u00e4rt mir AI, das \"Team\" w\u00e4re gerade \u00fcberlastet und ich m\u00fcsse auf eine Email - Antwort von ihnen warten. Was mich am meisten \u00e4rgert: Indem sie Kunden nicht transparent informieren, sie in eine Spirale aus Schaltfl\u00e4chen schicken und sie dann abwimmeln, machen die so viel Geld, wie ich in meinem Leben nicht verdienen werde. Update: Keine R\u00fcckmeldung vom Kundendienst, nach viermaligem Downgrade vom kostenpflichtigen Loom-Abo in die kostenfreie Mitgliedschaft und jeweils einer Best\u00e4tigung, dass der Downgrade erfolgt sei, ist das Abo nach wie vor als Bezahlabo mit n\u00e4chstem Abrechnungsdatum Ende Januar im System. Nie wieder Atlassian.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "mir wurde eine Monatsgeb\u00fchr abgezogen",
+        "resonance_evidence": "Nie wieder Atlassian"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-12-30",
+      "rating": 1,
+      "title": "Worst experience i ever had",
+      "text": "Worst experience i ever had. \"Due to inactivity, account is desactivated. To reactivate it, I have to contact the support.\" As a free user, i cannot contact the support. Atlassian AI tells me to upgrade the plan so that i can contact the support... When i want to upgrade the plan, I have to contact the support ... which i cannot do because I am a free user. This is stupid. long story short. Data is deleted after inactivity period. So i lost everything. That is a huge damage for my work.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "Data is deleted after inactivity period. So i lost everything.",
+        "resonance_evidence": "Worst experience i ever had"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-12-27",
+      "rating": 2,
+      "title": "woke up to a bank alert this morning\u2026",
+      "text": "woke up to a bank alert this morning notifying me that this company has taken a subscription payment from my account, at ten times the amount I was previously paying to the original company they acquired. After reading other reviews, it\u2019s clear this isn\u2019t an isolated incident. Many customers are reporting the same experience, and refunds don\u2019t seem to be offered. I struggle to understand how this practice is even legal. When a company receives repeated complaints about unexpected charges at inflated rates and still takes no action, it speaks volumes about their business ethics. I sincerely hope they do the right thing, refund affected customers and rethink a business model that leaves new users discovering large, unexpected payments missing from their accounts. **UPDATE JAN 2026 - I feel its important to note fornother users, i did receive a refund and my account was deactivated.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-12-17",
+      "rating": 1,
+      "title": "Terrible product",
+      "text": "Wasted a morning trying to log in and just keep getting an error message",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Wasted a morning"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-12-13",
+      "rating": 1,
+      "title": "I\u2019ve used Trello Atlassian linked my Trello account to a non-functional email and locked me outas a work tool for\u2026",
+      "text": "I\u2019ve used Trello as a work tool for years, and all of my professional information is stored on the platform. After attempting to log in using \u201cSign in with Google\u201d, Atlassian automatically changed the email associated with my account to a temporary/placeholder address, without my request or consent. The issue is that this temporary address does not have an inbox and cannot receive emails. Google has formally confirmed that it is impossible to receive messages at this type of address. As a result: I was logged out of all devices; I can no longer access my account; Atlassian keeps trying to send a signup or verification link to an address that cannot receive messages; I\u2019m stuck in an endless verification loop with no way to complete it. The system itself displays that a signup link has been sent, which clearly shows that the email change was never completed or verified. I still have full access to my original, valid email address and proof that I did not initiate this change. Despite this, support keeps stating they cannot revert the email, cannot send the verification code through another channel, and cannot offer any alternative verification method. In short: Atlassian linked my account to a non-functional email address and now refuses to provide a reasonable way to recover access, even though this situation was created by their own system. This is a serious service failure that completely locked me out of essential work data. I\u2019m still waiting for a fair and proportional solution, such as: canceling the pending email change and restoring the previously verified email, providing an alternative or manual verification method, or at least allowing access to or export of my data.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "I was logged out of all devices; I can no longer access my account",
+        "resonance_evidence": "This is a serious service failure that completely locked me out of essential work data"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-12-12",
+      "rating": 1,
+      "title": "Automatic renewal for a product I used\u2026",
+      "text": "Automatic renewal for a product I used for 2 weeks. Confirmation that payment is going through, which was not authorised. Took over a week to respond with a message that did not relate..30 day payment cancel policy! When queried from last year...this year no choice. Next year they will do me a gesture and not charge me as planned!!! Regret using, would avoid.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Regret using, would avoid."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-12-04",
+      "rating": 1,
+      "title": "Boooo they are terrible. High priced, Terrible, Greedy",
+      "text": "They are way overpriced, expect you to pay for services you don't want. Charged me almost 400 bucks for 4 seats, i removed the seats teh same day and contacted them for a refund and their advice was to reactivate the seats to get the most out of my subscription. Tone deaf, greedy, and not to bright. The software kind of sucks too, it takes forever for the recorder to load and i would get anonymous views on my videos if i forgot to turn off link sharing. i would give them zero stars if i could",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "Charged me almost 400 bucks for 4 seats",
+        "resonance_evidence": "i would give them zero stars if i could"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-11-29",
+      "rating": 1,
+      "title": "They write terrible software",
+      "text": "They write terrible software. They talk about how they're this great software family, but then some family members get sold off like hipchat or bought and neglected like opsgenie. Don't give theese people money to do more irresponsible things with their dynasty.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Don't give theese people money to do more irresponsible things with their dynasty."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-11-25",
+      "rating": 1,
+      "title": "They will not refund you for accidental yearly charges",
+      "text": "They rejected a refund request after billing us for an entire year of use we don't need. We requested a refund on the same day we were billed because we did not intend to use the product, and we forgot to cancel the subscription in time. They decided not to refund us for the full year, and instead told us that we have paid for the full year and can use it and then cancel for next year. We are surprised and extremely disappointed.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "billing us for an entire year of use we don't need",
+        "resonance_evidence": "We are surprised and extremely disappointed."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-11-22",
+      "rating": 1,
+      "title": "They illegally created a site in my\u2026",
+      "text": "They illegally created a site in my companies name and refuse to delete. They did absolutely no checking and simply don't care. This company is a joke and they constantly spam you and when contacting them to get it deleted ASAP there is a 14 day waiting period whilst they sell your data that you never gave them permission to do.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "This company is a joke"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-11-05",
+      "rating": 1,
+      "title": "Use LOOM to market.",
+      "text": "Use LOOM to market.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-11-01",
+      "rating": 1,
+      "title": "cloud solution is a backwards solution",
+      "text": "The \u201cnew\u201d Confluence and Jira cloud solution is terrible. It takes a long time to load and update. File storage only works partially. Overall, it takes more time to make changes.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-10-10",
+      "rating": 1,
+      "title": "They do everything to keep your data",
+      "text": "They do everything to keep your data. Don\u2019t use this scam company!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-09-26",
+      "rating": 1,
+      "title": "Just Spammers",
+      "text": "Not only are they sending spam using my private email address without permission, but they've also subscribed me to all their worthless service's newsletters. This company is absolutely misurable (as you can see from the other reviews here).",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "This company is absolutely misurable"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-09-11",
+      "rating": 1,
+      "title": "It seems they don't have Product\u2026",
+      "text": "It seems they don't have Product Managers in this company. Who can be stupid enough to revamp a working UI interface in order to hide some features under a tiny button \"automation\" when those features are not related to automation??",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Who can be stupid enough to revamp a working UI interface"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-08-15",
+      "rating": 1,
+      "title": "complete garbage.",
+      "text": "complete garbage. It used to be bad, now it's bad but full of AI. The simplest thing don't work. Cant copy paste anything without breaking a page. Fields all over the place, 90% of them used by nobody, just adding noise. constant AI requests for things I don't need and never asked for. Today after half an hour of a colleague trying to share his comment by sharing the comment link which point to his comment on the page, we just gaver up and set up a zoom session after I tried to right click every comment on the page to find which comment number matches the id in the comment url. What the hell? pen and paper is better, by along way. the fact we cant even give a link to a specific comment without wasting half a day trying to confirm what comment we are talking about is such bs. Can't you just fix the url links that goes to comment so they go to the comment instead of randomly going anywhere in the page? If not cant you just display th3e comment number or the date of the comment instead of displaying '2 days ago' that is useful to no one? Whoever is designing this has no clue.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "after half an hour of a colleague trying to share his comment by sharing the comment link",
+        "resonance_evidence": "complete garbage"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-08-13",
+      "rating": 1,
+      "title": "A Sad End",
+      "text": "I've never seen a trust pilot rating this low but I know why, and it's a 1 star srom me also. I recently changed my phone and due to using Microsoft Authenticator for my Trollo 2FA, none of my accounts copied over. \"It's ok, I have my 24 digit emergency recovery code saved in Notion.\" No no. That doesn't work. Now we have a problem. The account (which I pay for) is no longer accessible. Account recovery doesn't work and just sends me back to 2FA after I have changed my passwd. And, trying to raise a support ticket automatically sends me back to the login screen, so I can't even contact them. I never had a problem with Trello or Atlassian but everything is fine until something goes wrong, then it's down to how the company handles issues and, as a tech company, you can't even raise a ticket? Bad, bad, bad. Fortunately, I still have my old phone somewhere so I may ba able to fix this but, I will be looking for an alternative solution for my work flow. And there are plenty of options. Not recommended. Monday.com Wrike, Asana. Hell, even Microsoft ToDo would be better than this because you'd be able to access your account. If anyone from the company wants to get in touch the please respond to this review.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "I recently changed my phone and due to using Microsoft Authenticator for my Trollo 2FA, none of my accounts copied over",
+        "resonance_evidence": "I've never seen a trust pilot rating this low but I know why, and it's a 1 star srom me also"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-08-04",
+      "rating": 1,
+      "title": "We used Jira and Atlassian for years",
+      "text": "We used Jira and Atlassian for years. But after their constant shoving of AI down our throats, updates we didn't want and then their massive staff layoffs I refuse to support such a greedy company. I pay each month to work with humans and I pay money to cover the wages of those humans. I don't pay you money to have AI do whatever the hell it wants and then it be impossible to actually speak to a human when support is needed. We had close to 100 licences, lets see if your AI greed is worth it in the long run!!!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "We had close to 100 licences",
+        "resonance_evidence": "I refuse to support such a greedy company"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-07-25",
+      "rating": 1,
+      "title": "Deliberately Obstructive and Poor Service",
+      "text": "Be warned: deleting your account is nearly impossible. I tried to remove an accidentally created account and was blocked by a baffling policy. Both the automated system and the support agent insisted I couldn't delete the account because they do not 'force' account closures and that I was the sole 'admin'. Their \"solution\" was for me to assign a new admin to an empty account I just wanted to erase. This is an absurd catch-22 that effectively holds your data hostage. After 30 minutes of arguing in circles with support, my unwanted account still exists against my will. This practice feels intentionally deceptive and shows a deep disrespect for user data rights. Frankly, forcing a user to keep an unwanted account is an unacceptable practice and may not be compliant with data privacy laws (like GDPR or CCPA) that give users the right to have their information deleted.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "After 30 minutes of arguing in circles with support, my unwanted account still exists against my will",
+        "resonance_evidence": "This is an absurd catch-22 that effectively holds your data hostage"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-07-21",
+      "rating": 1,
+      "title": "No longer recommending Trello",
+      "text": "Sadly, what was a decent working product for our needs has become uncomfortable to use. Atlassian performed an \"upgrade\" without adequate testing within the user base. The layout has moved so that you have to navigate across the screen instead of scrolling down. Switching between boards now takes longer due to the general layout changes. The Trello team is also not responding to the comments users are leaving them on their forum about customizing the changes or just plain rolling them back. In our experience, Trello now has an inadequate interface and there's no response from Atlassian. No longer recommend it.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "Switching between boards now takes longer due to the general layout changes",
+        "resonance_evidence": "No longer recommend it"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-07-08",
+      "rating": 1,
+      "title": "The product owners and customer service\u2026",
+      "text": "The product owners and customer service are simply awful communicators. They have no interest in constructive conversation with their users and change their products on a whim with very little if any critical thought. Do NOT sign up with this company.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Do NOT sign up with this company"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-06-26",
+      "rating": 1,
+      "title": "Horrible experience \u2013 feels like a trap",
+      "text": "I deeply regret ever signing up for Atlassian. Creating an account takes several minutes, but trying to cancel or delete it is a nightmare. The system locks you into a so-called \"free\" subscription that you can\u2019t cancel, and because of that, you can\u2019t delete your account either. Every help link just sends you in circles with no real support, unless you\u2019re a paying customer. It took me hours just to find the buried settings and still couldn\u2019t fully delete my account. At one point, I was even asked to email personal documents like a passport just to prove my identity. incredibly invasive and unacceptable. This kind of manipulative design and lack of transparency is a major red flag. I wouldn\u2019t recommend Atlassian to anyone.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-31",
+      "rating": 1,
+      "title": "Shame on Atlassian",
+      "text": "Atlassian makes it virtually impossible to delete a trial account. What will happen to the unsuspecting trial customer is that your free account will convert into a paid subscription. Then when you try to delete the account it will list a host of reasons as to why you cannot delete that account. I am proficient with computers and it took me just over an hour of drilling down through about 50 different account web pages, changing settings, and slowly unravelling the web that was keeping me from deleting my account. Not sure if this meets the definition of fraud, but they are skating close to criminal territory, and it certainly is poor and deceitful business practices.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "it took me just over an hour of drilling down through about 50 different account web pages",
+        "resonance_evidence": "Atlassian makes it virtually impossible to delete a trial account"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-12",
+      "rating": 1,
+      "title": "I spent 2 minutes to create an account\u2026",
+      "text": "I spent 2 minutes to create an account which I regretted instantly and spent the next 2 hours trying to find out how to 1. Cancel my free trial 2. Delete my organisation 3. Delete my account I'm still waiting for them to cancel my free trial of idk",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "I spent 2 minutes to create an account which I regretted instantly and spent the next 2 hours trying to find out how to 1. Cancel my free trial 2. Delete my organisation 3. Delete my account",
+        "resonance_evidence": "I regretted instantly"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-05-03",
+      "rating": 1,
+      "title": "I have never encountered a platform as\u2026",
+      "text": "I have never encountered a platform as frustrating, manipulative, and anti-user as Atlassian. I created a Bitbucket account, and without warning, it automatically enrolled me in some \"free subscription\". The catch? You can't cancel it. And since it's \"active,\" you can't delete your account either. You're locked in, forever. Let me repeat: \u25b6 You can\u2019t delete your account because you have a free subscription. \u25b6 You can\u2019t cancel the free subscription. \u25b6 They auto-renew it. \u25b6 You\u2019re stuck. Forever. This feels like a clear violation of GDPR and basic human decency. Every link to \u201cdelete your account\u201d ends in a loop of useless support articles and redirects. There's no visible support email, no way to talk to a human unless you're paying, and no proper customer service for account deletion \u2013 something that should be a basic right.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I have never encountered a platform as frustrating, manipulative, and anti-user as Atlassian"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-04-24",
+      "rating": 1,
+      "title": "The worst service ever",
+      "text": "The worst service ever. For no reason they contacted me and asked to EMAIL my Passport copy to them. (Probably because I have Russian name). I am European, born and raised in Latvia. Don't use this service. 1. They fish your data out by asking to email passport copy (outrageous) 2. They ban you due to your name/possible nationality",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "The worst service ever"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-04-22",
+      "rating": 1,
+      "title": "A truly awful establishment :(",
+      "text": "I would have loved to have looked at TRUSTPILOT before using it. I used this company's TRELLO app for free. A user I shared another board with unauthorizedly kicked me out of all my boards. And this company doesn't even have a support email to fix this. They have set up a volunteer support system but they don't do anything. In other words, you're talking to a wall. Definitely don't trust this company and their products.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Definitely don't trust this company and their products"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-04-21",
+      "rating": 1,
+      "title": "Ads ads & more ads",
+      "text": "Youtube gave me your ad! Not something for me!!!! Just know ive seen your ad multiple times, it wasted time of my life i won't get back, but the bit that brings me comfort... Is knowing how much you lot wasted on some wasted ads!!!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "it wasted time of my life i won't get back"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-04-07",
+      "rating": 1,
+      "title": "Paid them months for a premium\u2026",
+      "text": "Paid them months for a premium subscription without using it. When I went to downgrade to free right after my latest payment to them, I get prompted that the free subscription will start immediately with no refund. Not even letting me acces my premium features that I already paid for the rest of the paid period. This just show a malicious attitude they have towards their customers. Any other company knows how to refund for non used time, or keep functionality until the paid period is over, but not Atlassian. Going from \"might use it again in the future\", to \"I'm now going to delete my account and data and never return\". Way to go Atlassian, good job!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "Paid them months for a premium subscription without using it. When I went to downgrade to free right after my latest payment to them, I get prompted that the free subscription will start immediately with no refund. Not even letting me acces my premium features that I already paid for the rest of the paid period.",
+        "resonance_evidence": "This just show a malicious attitude they have towards their customers"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-03-11",
+      "rating": 1,
+      "title": "Lent",
+      "text": "Lent, moche, cher, horriblement lent. le syst\u00e8me de plugins tres tres cher avec chaque plugin dispo pour tous les sieges.... il y a moins cher, plus rapide et plus ergonomique",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Lent, moche, cher, horriblement lent"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-03-08",
+      "rating": 3,
+      "title": "I can't figure out what it does",
+      "text": "I can't figure out what it does",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-02-28",
+      "rating": 1,
+      "title": "Non-existant support",
+      "text": "I gave up my e-mail address before changing it in my Trello account. Atlassian said they would send me a link to my new address - never got it. There is no way to contact support online except if you are signed in. So I am unable to access my account because they refuse to answer my e-mail to support even though they received it.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-02-18",
+      "rating": 1,
+      "title": "NEVER AGAIN",
+      "text": "NEVER AGAIN. Don't sign up with them because they will never stop taking your money even if you close the account. I went through the laborious steps of closing my account, and received confirmation it was closed, and they STILL bill me every month. There's no way to reach customer service that I can find online. I thought maybe my account is still open somehow, but now when I try and log in, it says there's an error. Every time. (Probably because the account is closed!) Feels like fraud and deception to me. My only option is to close my business credit card so they will stop taking my money which is a huge inconvenience because that's not the only bill I'm paying with that card. But until I do that, they will continue to happily debit my account every month. Whatever happened to ethical business practices??",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-02-07",
+      "rating": 1,
+      "title": "Support = ZERO",
+      "text": "I canceled my subscription and applied to get the money back. But even if I have the receipt in my hand, it is far too difficult to enter the correct information about correct numbers to be entered in the correct places, which you have to search for. After 1.5 hours of trying to figure this out I only had to count $150 in lost money.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "After 1.5 hours of trying to figure this out I only had to count $150 in lost money.",
+        "resonance_evidence": "it is far too difficult to enter the correct information about correct numbers to be entered in the correct places"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-01-28",
+      "rating": 2,
+      "title": "horrible :(",
+      "text": "horrible :( no live chat to talk to tech cannot create another workspace I pay",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "horrible :( no live chat to talk to tech cannot create another workspace"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-01-23",
+      "rating": 1,
+      "title": "Need an account with them to use a free\u2026",
+      "text": "Need an account with them to use a free tool that worked with no account before, made an account, the updated software still does not work. Guess they bought good software from someone and made it into garbage.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "the updated software still does not work. Guess they bought good software from someone and made it into garbage."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2025-01-01",
+      "rating": 1,
+      "title": "Need to wait 24hr to recover account due to standard Atlassian overcomplexity",
+      "text": "Can't recover account without waiting 24 hours due to the standard Atlassian 'how can we make this as complex as possible' 2FA. Here's an idea, use the same 2FA as everyone else, you know, the one that puts users at the heart of the solution.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Can't recover account without waiting 24 hours due to the standard Atlassian 'how can we make this as complex as possible' 2FA."
+      }
+    }
+  ]
+}

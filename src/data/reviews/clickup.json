@@ -1,0 +1,2230 @@
+{
+  "slug": "clickup",
+  "captured_at": "2026-08-12T20:48:37.032020+00:00",
+  "reviews": [
+    {
+      "portal": "G2",
+      "review_id": "497201",
+      "date": "12/12/2017",
+      "rating": 5.0,
+      "title": "Switched from Jira to Click-Up",
+      "text": "Clean UI, responsive team, very easy to set-up. Nothing really -- been very useful for our team. Sometimes it can be hard to navigate...but that also might be a function of how we've set up our account.",
+      "role": "Verified User in Internet",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/clickup/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "been very useful for our team"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "767210",
+      "date": "11/5/2018",
+      "rating": 5.0,
+      "title": "Pefect application to keep an overview of tasks and to save costs",
+      "text": "The simplicity and overview. It is a low-threshold way to keep the overview in your organization. It helps your organization grow. I do not know if this is connected to our internet connection. The speed of the online application can sometimes be a bit faster.",
+      "role": "Owner",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/clickup/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "It is a low-threshold way to keep the overview in your organization. It helps your organization grow."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "1081170",
+      "date": "10/31/2018",
+      "rating": 5.0,
+      "title": "Great webapplication",
+      "text": "It has a clean minimalistic design, but has also tons of features I would like gantcharts, and the possibility to export tasks",
+      "role": "www.b-smart.biz : \"We automate tasks - You optimize time\"",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/clickup/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "It has a clean minimalistic design, but has also tons of features I would like gantcharts"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "2099892",
+      "date": "4/15/2019",
+      "rating": 5.0,
+      "title": "Easy to use Software",
+      "text": "The best parts of ClickUp is how accessible their software is. You can access it from a desktop, laptop, and phone app. It is visually appealing and great when having to communicate with others using the platform. There isn't much to like about ClickUp. I wish you could access the main page from your phone as the first screen. Currently it immediately prompts me to create a list.",
+      "role": "Verified User in Health, Wellness and Fitness",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/clickup/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "There isn't much to like about ClickUp. I wish you could access the main page from your phone as the first screen."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "4907430",
+      "date": "8/3/2021",
+      "rating": 5.0,
+      "title": "Seamless! A pleasure to use",
+      "text": "Click Up brings together so many helpful working tools that other software only have 1 or 2 of. I wish I had found it sooner before I had my clients learn and get comfortable in inferior software.",
+      "role": "Verified User in Marketing and Advertising",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/clickup/reviews",
+      "sample_order": "highest_rated"
+    },
+    {
+      "portal": "G2",
+      "review_id": "4326719",
+      "date": "7/31/2020",
+      "rating": 5.0,
+      "title": "Great, flexible and adaptive product",
+      "text": "We use ClickUp to get work done across the world between our VA and ourselves. Not much to dislike. I love this product.",
+      "role": "Verified User in Legal Services",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/clickup/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "I love this product."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "4387631",
+      "date": "9/16/2020",
+      "rating": 5.0,
+      "title": "The best way to always have an overview over all discussions",
+      "text": "The possibility to have multiple discussions at the same time, but not sorted in time (like in a WhatsApp group) but by topic. And the option to use functions like bold text and adding documents. The system is extremely sensitive. It is possible to click on something on a checklist by mistake.",
+      "role": "Verified User in Marketing and Advertising",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/clickup/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "The system is extremely sensitive. It is possible to click on something on a checklist by mistake."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "9971688",
+      "date": "8/7/2024",
+      "rating": 0.0,
+      "title": "Honest review from a medium business in Australia",
+      "text": "The functionality is powerful, when it works - which is almost never. We are looking at switching to another platform due to the constant bugs and horrendus support that essentially relies on you to troubleshoot their platform for them. The promise of improved workflow is constantly crippled by platform bugs that significantly impact user functionality, and damage business reputation as a result of email automation bugs. The bug we are experiencing sends automated emails in triplicate and duplicates the name, creating a terrible client experience. Yes you can customise lists to build great systems applicable to your business, however the way you set them up constantly breaks and staff are left wondering what has gone wrong. No I would not recommend ClickUp to anyone I care about, not ever.",
+      "role": "Founding Director",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/clickup/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "sends automated emails in triplicate and duplicates the name",
+        "resonance_evidence": "No I would not recommend ClickUp to anyone I care about, not ever."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "8143766",
+      "date": "5/25/2023",
+      "rating": 0.0,
+      "title": "Clickup is ok until it isn't",
+      "text": "It's similar to other scrum-style storyboard services. It is incredibly slow, buggy, and has a horrendous UX design. Numerous layout shifts cause misclicks.",
+      "role": "Senior Software Engineer",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/clickup/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "It is incredibly slow, buggy, and has a horrendous UX design."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "6654210",
+      "date": "5/24/2022",
+      "rating": 0.0,
+      "title": "nice idea, BUT STAY AWAY - Client service is a crap.",
+      "text": "the genral idea of connecting all channels is great. The delivery however failed. CUSTOMER SERVICE. OMG. they should really invest in that part and hire people who actually can think. 6 weeks and basic problem still is unsolved, every 2 days someone new \"jumping in\" into conversation with some copy-paste \"solutions\" that doesn't match your problem. also - they will delete your account, but they won't delete your workspace: so they will keep charging you even when you stopped working with them. SCAM.",
+      "role": "Manging Director",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/clickup/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "they will delete your account, but they won't delete your workspace: so they will keep charging you even when you stopped working with them. SCAM."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "9090515",
+      "date": "1/7/2024",
+      "rating": 0.0,
+      "title": "Ridiculous Paywalls & Unhelpful Customer Support",
+      "text": "The core product is solid. It's good for organization. The absurd paywalls and useless support. 100 \"uses\" of a mindmap, to them, means having 100 nodes on a mindmap... even if you just took a couple hours, every time you hit enter it's a \"use\" every time a team member just reloads the page it's a \"use\" And I'm literally paying for the \"unlimited\" plan. Support level 1, 2, and 3 will repeat the same useless response even after admitting that their \"description of uses could be imporved\" -- will not provide any easy assistance whatsoever such as unlocking the feature to allow me to access my mindmap created with the team, closes the ticket prematurely without even a reply. TLDR; They ransom your data back to you for upgrades.",
+      "role": "Dan L.",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/clickup/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "100 \"uses\" of a mindmap, to them, means having 100 nodes on a mindmap... even if you just took a couple hours, every time you hit enter it's a \"use\"",
+        "resonance_evidence": "They ransom your data back to you for upgrades."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "10557914",
+      "date": "11/24/2024",
+      "rating": 0.0,
+      "title": "No focus - ClickUp got unreliable",
+      "text": "Features would actually be good if the would work, it is very flexible, we use clickup daily, automation and integration with third party tools would be easy with make (but be aware of bugs!) Too many bugs, even on enterprise plan you interact with many different people from customer support, support doesn't really care, many bugs will be confirmed as unattended behaviour but it will take weeks and months until they solve even critical bugs. also, the fact that it is pushing to a one in all solution means, that everything is there, but nothing is really \"industry leading\" itself.",
+      "role": "Gesch\u00e4ftsf\u00fchrung, Inhaber",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/clickup/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "it will take weeks and months until they solve even critical bugs",
+        "resonance_evidence": "Too many bugs, even on enterprise plan you interact with many different people from customer support, support doesn't really care"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "11030999",
+      "date": "4/9/2025",
+      "rating": 0.0,
+      "title": "Mess and zero performance",
+      "text": "It is very flexible in terms of you can do anything anywhere. It is biggest benefit but it is also its biggest drawback. \\- It is very very slow, every page load takes above 10 seconds. Backlog crashes every so often although we have not more than 300 tasks there. \\- The features are mess. ClickUp tried to combine everything in one product and it became a hydra that doesn't do anything properly, is very hard use because it is bloated with things. \\- When forced to use it daily, you'll start to notice oa lot of bugs. Integrations just doesn't work altought they try to look like they do. Things change randomly. Every planning our estimates are empty althought someone else can see them from their computer. \\- Tags change color randomly. When trying to delete a tag, it just shows up again. Renaming task status means that I know that for a few weeks, I'll still find tasks with the old status that I need to manually rename again. \\- When contacting support, they'll answer you but it never actually helped. Like not even once I got my problem solved.",
+      "role": "Verified User in Computer Software",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/clickup/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "every page load takes above 10 seconds",
+        "resonance_evidence": "Like not even once I got my problem solved."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "7402323",
+      "date": "11/21/2022",
+      "rating": 0.0,
+      "title": "The worst customer experience ever",
+      "text": "The product has potential. It is growing and developing new features fast \u2022 Customer support is a nightmare. If you have an issue beyond the support playbook, good luck solving it! \u2022 The platform is full of bugs and issues. Document and tasks are disappearing; sometimes, the system is so slow that the team can't work; reports are too simple.",
+      "role": "CEO",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/clickup/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Customer support is a nightmare. If you have an issue beyond the support playbook, good luck solving it!"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "7809907",
+      "date": "3/8/2023",
+      "rating": 0.0,
+      "title": "Used to Support Multiple Workflows Efficiently - Now Fails to Support Even Basic Task Management",
+      "text": "As an operations manager, I oversee multiple remote teams. I like that I've been able to create various workflows that match each team's needs. It's been more customizable and supportive for tasks that vary pretty widely than the average productivity platform. \\*Update - we've had a bug now for about 6 months that the team continues to fail to address where changing a task's status from ASSIGNED to SUBMITTED fails to stick (so multiple team members are having to reset the status of the task to try to get it to save). We've had multiple team members submit bug reports and have had NO success in getting tech support to respond with anything other than \"we've elevated this to the development team.\" A basic feature of a task management platform is to track it through a workflow...so it's been a little mind boggling that this feature has such a huge bug and no support.",
+      "role": "Kimberly C.",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/clickup/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "we've had a bug now for about 6 months that the team continues to fail to address",
+        "resonance_evidence": "have had NO success in getting tech support to respond with anything other than \"we've elevated this to the development team.\""
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "9736782",
+      "date": "6/2/2024",
+      "rating": 0.0,
+      "title": "The app is not easy-to-use, productive, efficient. No bug fixing. only money & time lost.",
+      "text": "How can I like the productivity features since they are not working and I lost money and time? The App was an aim to help Project managers in their work and life, and instead - it makes it more complicated. The bugs are not fixed, the features are not improved. I reported many bugs since a year (wrong filters working, statises not visible, wrong data tracki g and much more), but the company did nothing about it. We get info about an updates every month on our mailboxes but none of the crucial bugs was ever fixed. I have 300+250 tasks on ClickUp, they are not able to tell when they would be able to fix those, so no Roadmap. I am a Project manager and product Owner since many years and I havent seen that kind of Roadmap Management in my lifetime. I lost much money and time cause I was not on time with many tasks and what was the cause? The ClickUp shows different tasks on different lists and somehow many on them are not visible, even if I use date Filter or due date \"last 7 days\" etc - we cannot trust this App, and instead of giving some Roadmap, we still do not know whether its good to move 1000 tasks somewhere else or what. And it has been since almost a year. Sometimes I got answer like \"We cannot estimate the time but its in the Review\" for 15 weeks... And sometimes - no info for long time, promising they are working on it and then - tadaaam \"We are not working on it cause its only you who reported that bug and we prioritize bugs and issues Based on the number of reporters\". Omg. It is unbelieveable. Of course you would get AI updates, some integrations etc, but the crucial things like reponsiveness, productivity, reliable features, bug fixing, filters working properly, lists showing right tasks every moment - this is something you cannot See. How could I trust the App as I do have 5 tasks on my TODO list for today and then I got 25 email notifications that those tasks are overdue? Where those tasks were hidden for 24 hours? And Its the same with many functionalit",
+      "role": "Verified User in Information Technology and Services",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/clickup/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "I reported many bugs since a year (wrong filters working, statises not visible, wrong data tracki g and much more), but the company did nothing about it",
+        "resonance_evidence": "I lost much money and time cause I was not on time with many tasks"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "7723959",
+      "date": "2/16/2023",
+      "rating": 0.0,
+      "title": "Crap support & overly expensive",
+      "text": "They have a lot of options, but one of the most important ones for project management doesn't work. Unfortunately, some of these options don't work as intended. This company is costly, and the customer service is garbage. You can pay $89 a month and still get no live support. I've had a bug reported for almost a month and a half, and it's still not fixed.",
+      "role": "CEO",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/clickup/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "I've had a bug reported for almost a month and a half, and it's still not fixed.",
+        "resonance_evidence": "You can pay $89 a month and still get no live support."
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "May 6, 2026",
+      "rating": null,
+      "title": null,
+      "text": "It combines tasks, docs, dashboards, automations, and team communication in one place, which reduces tool sprawl and improves visibility.",
+      "role": "CTOReal Estate, 51 - 200 employees",
+      "company_size": "51-200 employees",
+      "source_url": "https://www.capterra.com/p/158833/ClickUp/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "reduces tool sprawl and improves visibility"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "May 7, 2026",
+      "rating": null,
+      "title": null,
+      "text": "I did, unfortunately, notice lag in creating tasks. When I would quickly add tasks, subtasks, and quickly add notes and info on those items, it would take a moment to load up.",
+      "role": "Owner",
+      "company_size": null,
+      "source_url": "https://www.capterra.com/p/158833/ClickUp/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I did, unfortunately, notice lag in creating tasks"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "April 5, 2026",
+      "rating": null,
+      "title": null,
+      "text": "ClickUp is multi-functional and you can do a lot of things on the platform (such as track time, create workflows, store documents, create and track goals, etc.)",
+      "role": "Lead Editor",
+      "company_size": null,
+      "source_url": "https://www.capterra.com/p/158833/ClickUp/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "ClickUp is multi-functional and you can do a lot of things on the platform"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "June 4, 2026",
+      "rating": null,
+      "title": null,
+      "text": "mobile app is not so usefull as the desktop app, if you want full features, you need to upgrade the price plan getting more cost for almost the same things.",
+      "role": "IT Manager",
+      "company_size": "501-1,000 employees",
+      "source_url": "https://www.capterra.com/p/158833/ClickUp/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "mobile app is not so usefull as the desktop app, if you want full features, you need to upgrade the price plan getting more cost for almost the same things"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "June 18, 2026",
+      "rating": null,
+      "title": null,
+      "text": "One of the biggest advantages has been it's reporting and dashboard capabilities, which allow us to monitor key metrics such as sales pipeline, project completion rates, team productivity and overall business performance.",
+      "role": "Business Analyst",
+      "company_size": "2-10 employees",
+      "source_url": "https://www.capterra.com/p/158833/ClickUp/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "One of the biggest advantages has been it's reporting and dashboard capabilities, which allow us to monitor key metrics such as sales pipeline, project completion rates, team productivity and overall business performance"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "May 16, 2026",
+      "rating": null,
+      "title": null,
+      "text": "The learning curve is incredibly steep, and the user interface can feel very overwhelming and cluttered when you are first setting things up. Because it does so much, it took me a long time to figure out the best workflow without getting bogged down by the sheer number of options and occasional minor lagging issues.",
+      "role": "Developer",
+      "company_size": null,
+      "source_url": "https://www.capterra.com/p/158833/ClickUp/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "The learning curve is incredibly steep, and the user interface can feel very overwhelming and cluttered"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "April 23, 2026",
+      "rating": null,
+      "title": null,
+      "text": "We moved different teams from different tools (Trello, Basecamp, Google spreadsheets, etc) years ago and combined everything into ClickUp, which brought all teams to the same platform, which is easier for cross-team training and consistency across the company.",
+      "role": "VP of Creative",
+      "company_size": "51-200 employees",
+      "source_url": "https://www.capterra.com/p/158833/ClickUp/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "moved different teams from different tools (Trello, Basecamp, Google spreadsheets, etc) years ago and combined everything into ClickUp",
+        "resonance_evidence": "brought all teams to the same platform, which is easier for cross-team training and consistency across the company"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "March 16, 2026",
+      "rating": null,
+      "title": null,
+      "text": "I also wish that the proofing add on would allow me to do frame by frame review, as right now, it\u2019s not detailed enough for the video team.",
+      "role": "Director",
+      "company_size": "11-50 employees",
+      "source_url": "https://www.capterra.com/p/158833/ClickUp/reviews/",
+      "sample_order": "page"
+    },
+    {
+      "portal": "Gartner Peer Insights",
+      "review_id": null,
+      "date": "May 20, 2026",
+      "rating": 5.0,
+      "title": "Powerful and flexible \u2014 but invest in setup and training to get the most out of it!",
+      "text": null,
+      "body_gated": true,
+      "role": "Human Resources Associate",
+      "company_size": "250M - 500M USD, Healthcare and Biotech",
+      "sentiment_label": "FAVORABLE",
+      "source_url": "https://www.gartner.com/reviews/product/clickup-2027440980",
+      "sample_order": "page"
+    },
+    {
+      "portal": "Gartner Peer Insights",
+      "review_id": null,
+      "date": "Feb 27, 2026",
+      "rating": 3.0,
+      "title": "Extremely flexible and compatible with existing software but could use some stronger client-facing features",
+      "text": null,
+      "body_gated": true,
+      "role": "Prinicipal",
+      "company_size": "<50M USD, Services (non-Government)",
+      "sentiment_label": "CRITICAL",
+      "source_url": "https://www.gartner.com/reviews/product/clickup-2027440980",
+      "sample_order": "page"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-08-11",
+      "rating": 1,
+      "title": "Awful customer service",
+      "text": "Awful customer service. Sent them an email to pay my account balance and they shut my account off and did not respond to my emails and messages for 10+ days costing my team valuable time on critical path projects.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "costing my team valuable time on critical path projects",
+        "resonance_evidence": "Awful customer service"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-08-10",
+      "rating": 5,
+      "title": "Great for small and big projects.",
+      "text": "Every day routine and organization is much easier with clickup than without. It really helps to keep track of various team and private projects. The integration of wiki pages for documentation into the project folders makes it easier to find all notes, todos and documentation in one place.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Every day routine and organization is much easier with clickup than without"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-08-09",
+      "rating": 4,
+      "title": "Absolutely indispensable for running my\u2026",
+      "text": "Absolutely indispensable for running my web design agency I run a web design business, and frankly, I don\u2019t know how my business would function without ClickUp. As a Power User, I rely on it daily to keep project spaces neatly organized, assign tasks to my contractors, and store vital resources where my entire team can access them instantly. My only minor friction point came recently when our heavy usage required us to upgrade, and I wish there were a slightly more flexible pricing option that included several base seats. However, because ClickUp is the absolute backbone of my day-to-day operations, the value it provides to my workflow and business efficiency is 100% worth it.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Absolutely indispensable for running my web design agency"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-08-08",
+      "rating": 5,
+      "title": "Future of Work OS",
+      "text": "ClickUp has become the operating system for my work. What I like most about ClickUp is how everything comes together in one place. It feels like a truly AI convergent workspace, where the AI understands the context of the work happening across the platform instead of operating as a separate tool. The UI is clean, the platform is genuinely enjoyable to use, and it has helped me simplify and better manage my overall tech stack. The AI agent functionality is especially impressive. I can build agents around specific workflows, use them to support task execution, and get insights into behaviors and opportunities to improve productivity. Visibility is also a major benefit for me. I can see what is happening across projects, understand workloads, identify deadlines, and get a much clearer picture of the business without jumping between multiple platforms. The onboarding experience was also strong. Their team was supportive during the initial setup, and once I understood how ClickUp works, I stopped feeling like I constantly needed to learn another new tool. The main thing I would improve is the screen recording functionality. I would love the ability to record my camera at the same time as my screen, similar to Loom. That would make it even easier to replace another tool in my stack. Overall, ClickUp is solving one of the biggest problems I had, tool sprawl. Instead of having work scattered across different platforms, it gives my team and my AI a shared source of context. That improves visibility, reduces the chances of missed deadlines, and makes execution much easier. It is increasingly replacing the need for separate tools like Slack, Loom, and parts of Zoom for me. I am very happy with the platform and especially excited about the direction ClickUp is taking with AI.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "get insights into behaviors and opportunities to improve productivity",
+        "resonance_evidence": "ClickUp is solving one of the biggest problems I had, tool sprawl"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-08-07",
+      "rating": 5,
+      "title": "ClickUp transform\u00f3 la forma en que colaboramos y creamos cada d\u00eda",
+      "text": "Soy l\u00edder creativa y co-founder de una agencia de marketing digital, en nuestra propia experiencia de m\u00e1s de 2 a\u00f1os con Clickup, hemos encontrado un equilibrio (me permito decir que es m\u00e1gico) entre el orden estrat\u00e9gico y la agilidad creativa que antes nos parec\u00eda imposible. ClickUp cambi\u00f3 las reglas del juego al convertirse en el cerebro operativo de nuestro equipo. Lo que marca la diferencia para nosotros principalmente es la capacidad que tiene para ayudarnos con la organizaci\u00f3n integral de proyectos. Nosotros centralizamos absolutamente todos nuestros clientes, entregables, conversaciones, tareas y flujos de trabajo en un solo lugar con visibilidad total. Por otro lado, algo que han ido integrando poco a poco y que ha sido incre\u00edble es la Inteligencia Artificial. ClickUp Brain nos ayuda a agilizar desde la lluvia de ideas y la redacci\u00f3n de briefs hasta la automatizaci\u00f3n de tareas repetitivas, permitiendo que el equipo se enfoque en crear. Lo que m\u00e1s rescato y por lo que sigo eligiendo cada d\u00eda a ClickUp es por la capacidad de ayudarnos a eliminar la dispersi\u00f3n de informaci\u00f3n. Ahora tenemos la colaboraci\u00f3n en tiempo real de todo el equipo, los comentarios en archivos y el acceso controlado para clientes en un \u00fanico canal. ClickUp no solo nos dio la estructura necesaria para escalar el negocio; transform\u00f3 la forma en que colaboramos y creamos d\u00eda a d\u00eda. Se las recomiendo hoy y siempre.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Se las recomiendo hoy y siempre"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-08-07",
+      "rating": 5,
+      "title": "An essential tool that completely streamlined our team\u2019s workflow!",
+      "text": "We\u2019ve been using ClickUp for a while now, and it has genuinely transformed how our team manages projects and daily tasks. The ability to switch between Board, List, and Dashboard views makes it super easy to keep track of sprint progress and team workload all in one place. What stands out most is how flexible it is: we were able to replace multiple separate tools for task tracking, documentation, and sprint management. Features like Custom Fields and \"Write with AI\" save us tons of time on repetitive admin work and documentation. There is a slight learning curve at first because of how many features it offers, but once you set up your workspace properly, it\u2019s a total game-changer. Highly recommend it to any team looking to boost productivity!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "we were able to replace multiple separate tools for task tracking, documentation, and sprint management",
+        "resonance_evidence": "Highly recommend it to any team looking to boost productivity!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-08-06",
+      "rating": 5,
+      "title": "All in one PM tool",
+      "text": "Really good all in one project management tool. Good for companies that are of any scale.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Really good all in one project management tool"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-08-06",
+      "rating": 5,
+      "title": "I could not recommend ClickUp more!",
+      "text": "I could not recommend ClickUp more! Not only is it completely customizable to work how you need it to, but the customer service and all the peole working at ClickUp are amazing.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "I could not recommend ClickUp more!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-08-06",
+      "rating": 5,
+      "title": "Flexible, powerful, and worth the learning curve!",
+      "text": "We've recently started implementing ClickUp across our consulting business, and it's quickly become the central place for managing projects, tracking deliverables, and documenting processes. One of the things I appreciate most is how flexible it is. Instead of forcing your team into a rigid workflow, ClickUp lets you build processes that fit the way you actually work. There is definitely a learning curve, especially if you're setting up a workspace from scratch, but the available resources, ClickUp University, and the Power User community have made that process much easier. The platform continues to evolve, and I'm excited to keep building with it. Overall, it's been a great experience, and I'd recommend it to teams looking for a highly customizable project management solution",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "I'd recommend it to teams looking for a highly customizable project management solution"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-08-06",
+      "rating": 5,
+      "title": "One place for sprints, bugs and releases",
+      "text": "I run product engineering for a small AI video team, and ClickUp is where all of it lives \u2014 sprint planning, bug triage and release tracking in one place. The biggest win has been cutting the number of tools I keep open; before, context was scattered across a few apps and things quietly fell out of sync. Brain is the feature I'd actually miss \u2014 I use it to pull a status summary across parallel workstreams instead of chasing updates one by one. It takes some upfront setup to get the views and statuses right, but once configured it has held up well for daily use.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "cutting the number of tools I keep open; before, context was scattered across a few apps and things quietly fell out of sync",
+        "resonance_evidence": "The biggest win has been cutting the number of tools I keep open"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-08-04",
+      "rating": 5,
+      "title": "The user experiences is TOP",
+      "text": "The user experiences is TOP, an easy and very helpfull app for the everyday tasks on any type of project",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "The user experiences is TOP, an easy and very helpfull app for the everyday tasks on any type of project"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-08-04",
+      "rating": 5,
+      "title": "I really like this app",
+      "text": "I really like this app, and I'm happy my job introduced it as a staple. It simplifies a lot of daily tasks, provides a better overview of what needs to be done, and allows for a seamless place to have all the information needed.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "I really like this app, and I'm happy my job introduced it as a staple"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-08-03",
+      "rating": 5,
+      "title": "ClickUp brought structure to our entire marketing department",
+      "text": "As CMO, I lead a team of content marketers, performance marketers, and a creative team, and before ClickUp our planning was scattered across spreadsheets, Slack threads, and separate documents. Since fully switching to ClickUp, we finally have one central place for campaign management, content calendars, and approval workflows. The custom dashboards give me an instant overview of every campaign's progress, and the automations have saved us hours per week on status updates. What I especially appreciate is how easily marketing connects with other departments like sales and product, making launches run more smoothly. There is a learning curve for new team members and not every integration works flawlessly, but the ease with which we now report to the rest of management more than makes up for that. For any marketing team looking for more clarity and less tool overload, I can genuinely recommend ClickUp.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "the automations have saved us hours per week on status updates",
+        "resonance_evidence": "I can genuinely recommend ClickUp"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-08-03",
+      "rating": 5,
+      "title": "ClickUp for Marketing and Events Agencies",
+      "text": "I work at a marketing and events agency (Ag\u00eancia+) where I manage multiple clients simultaneously, ranging from industrial companies to international trade shows. Before ClickUp, every client had a different spreadsheet, and no one had a clear view of what was happening. Today, ClickUp is the backbone of our operation. We use it to map event production processes, manage client requests, track our team's workload, and integrate everything with Google Calendar and Outlook so we never miss a deadline. The Spaces > Folders > Lists hierarchy allows me to organize each client (Vergaplast, Codinter, Marposs, Dardi, and others) while maintaining a complete view of the business. ClickUp Brain has become an essential part of my workflow. It helps me find information across projects, generate updates, and even brainstorm solutions. It's like having an AI assistant that understands the entire context of our workspace. If you run an agency managing multiple clients at the same time, I honestly haven't found a better tool.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "I honestly haven't found a better tool",
+        "resonance_evidence": "If you run an agency managing multiple clients at the same time, I honestly haven't found a better tool"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-08-01",
+      "rating": 4,
+      "title": "I've been the lePowerful and highly customizable, but the learning curve is realad admin for ClickUp at\u2026",
+      "text": "I've been the lead admin for ClickUp at our agency, responsible for the entire workspace setup \u2014 custom fields, permissions, automations, dashboards, and recurring task logic \u2014 and overall it's been a very positive experience. The level of customization is genuinely impressive: once you understand the logic behind spaces, folders, and custom fields, you can build a system that fits almost any workflow, from client campaign management to internal process documentation. That said, the learning curve is steep if you're setting things up from scratch without much guidance. I had to build our own onboarding materials (videos, slides, a knowledge base) just to get the rest of the team comfortable, because ClickUp's own onboarding didn't cover the more advanced configuration options in enough depth. Automations are powerful but can behave unpredictably if you're not careful with triggers, and some permission settings aren't as intuitive as they should be for teams with junior and senior roles mixed together. Overall, if you have the time (or a dedicated person) to configure it properly, ClickUp becomes an extremely capable tool. It's not plug-and-play, but the payoff is worth it.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Overall, if you have the time (or a dedicated person) to configure it properly, ClickUp becomes an extremely capable tool"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-08-01",
+      "rating": 5,
+      "title": "good experince using the app",
+      "text": "good experince using the app",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-31",
+      "rating": 5,
+      "title": "This make my work easier and more\u2026",
+      "text": "This make my work easier and more efficient for me",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "This make my work easier and more efficient for me"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-31",
+      "rating": 5,
+      "title": "I've had a greaClickUp Has Improved Our Team's Productivityt experience using\u2026",
+      "text": "I've had a great experience using ClickUp for managing HR and operational workflows. It helps keep tasks, documents, and communication organized in one place, making collaboration much easier. I especially like ClickUp Brain, notifications, and the ability to customize workflows to fit our processes. While there is a learning curve because of the many features, it's a powerful platform that has improved our team's productivity and organization.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "I've had a great experience using ClickUp"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-31",
+      "rating": 5,
+      "title": "The all-in-one workspace that actually\u2026",
+      "text": "The all-in-one workspace that actually delivers I've been using ClickUp for project management across multiple teams, and it's genuinely replaced 4-5 other tools for us. Task management, docs, chat, dashboards, and now their AI (Brain) ties it all together. The customization is unmatched: custom fields, multiple views, automations, and the hierarchy system lets you organize work however your brain works. Is there a learning curve? Sure. But once you're in, nothing else comes close. The team ships updates constantly and actually listens to the community. Easily the best productivity platform I've used.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "replaced 4-5 other tools for us",
+        "resonance_evidence": "Easily the best productivity platform I've used"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-30",
+      "rating": 5,
+      "title": "Game changer for QA workflows and task management!",
+      "text": "ClickUp has completely transformed how I organize test suites, track bugs, and manage sprints. The addition of ClickUp Brain and Super Agents makes it effortless to generate validation guides and search through project specs without context switching. The interface is modern, intuitive, and keeps everything our team needs in one single space. Highly recommend it to any software development or QA team!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Highly recommend it to any software development or QA team!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-30",
+      "rating": 5,
+      "title": "They actually listen",
+      "text": "The application continuously updates based on the feedback given by the users and thats what I find most valuable. When Agents were being introduced they solved a problem that the team and I were experiencing when duplicating tasks and changing certain custom fields. The AI agents were a massive upgrade to automation and efficiency.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "The AI agents were a massive upgrade to automation and efficiency"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-30",
+      "rating": 5,
+      "title": "ClickUp has become an essential part of my work",
+      "text": "ClickUp has become an essential part of my workflow. It helps me stay organized, manage deadlines, and keep track of multiple tasks in one place. My favorite feature is the ability to mention teammates directly within tasks, making collaboration simple and keeping communication organized. Overall, it's an intuitive and reliable tool that makes project management much more efficient.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "it's an intuitive and reliable tool that makes project management much more efficient"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-30",
+      "rating": 4,
+      "title": "I use ClickUp every day to track my work and bill clients!",
+      "text": "I use ClickUp every day to track my work and the time I invoice my clients. Also, I love how I can easily add a screen recording to a task to provide instructions or answer questions easily.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "I love how I can easily add a screen recording to a task"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-29",
+      "rating": 5,
+      "title": "Transformed my workflow",
+      "text": "ClickUp has completely transformed how I organize my work. Having all my tasks, docs, and projects in one single place saves me so much time every day. It's incredibly customizable and easy to use. Highly recommend!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Highly recommend!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-29",
+      "rating": 5,
+      "title": "We're a 7-person web and AI development\u2026",
+      "text": "We're a 7-person web and AI development agency, and ClickUp is where our operations and project management finally live in one place. We tried plenty of other tools before it and none of them fit the way we work. The biggest change was bringing clients in as guests. We used to run follow-up through Slack and email, but both sit outside where the work actually happens, so every exchange added delay. Now clients create their own tasks and talk to us directly in ClickUp, with comments attached to the specific task they're about. Our HubSpot integration does the same thing for the sales-to-dev handoff \u2014 far less duplication and far less lost context. Not perfect: search sometimes fights with Brain, and comment privacy is too limited when guests are involved. But the product keeps improving, and it's earned its place in our stack. 9/10.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "far less duplication and far less lost context",
+        "resonance_evidence": "it's earned its place in our stack. 9/10"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-29",
+      "rating": 5,
+      "title": "Best Task Management Tool",
+      "text": "It's the best task management tool I have ever used",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "It's the best task management tool I have ever used"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-28",
+      "rating": 5,
+      "title": "I can confidently say that ClickUp is\u2026",
+      "text": "I can confidently say that ClickUp is the most flexible, powerful, and scalable productivity platform on the market. What sets ClickUp apart is its incredible customizability. We use it to coordinate complex workflows in the board game industry, and the combination of Custom Fields, Task Relationships, and Automations has completely eliminated manual bottlenecks for our teams. It has seamlessly replaced 4-5 different tools (spreadsheets, docs, task managers, and basic chats) and centralized everything under one roof. On top of a fantastic, robust product, their continuous weekly feature releases and highly active community show that they genuinely care about user feedback and innovation. If you are looking to scale your business operations, eliminate siloed communication, and build highly optimized, automated workflows, ClickUp is the gold standard. 5/5 stars, without hesitation!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "replaced 4-5 different tools (spreadsheets, docs, task managers, and basic chats)",
+        "resonance_evidence": "ClickUp is the gold standard"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-28",
+      "rating": 4,
+      "title": "Reliable task management platform",
+      "text": "Reliable task management platform, there are some limitations for connecting to other applications, but the integration with my company Slack account has dramatically improved my day to day workflows!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "dramatically improved my day to day workflows"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-27",
+      "rating": 1,
+      "title": "Ghosted during interview process",
+      "text": "applied for a job MONTHS back, had an interview and then got ghosted. How disrespectful do you have to be to your potential employees? DO BETTER! ClickUp is a replaceable organization - focus on how you are treated as a customer, dont accept trash support or trash followup from small business.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "How disrespectful do you have to be to your potential employees? DO BETTER! ClickUp is a replaceable organization"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-27",
+      "rating": 5,
+      "title": "It's aIt's an excellent tool for managingn excellent tool for managing\u2026",
+      "text": "It's an excellent tool for managing projects and assigning tasks to the team. And with the implementation of super agents, it makes it easier to have greater control over deadlines. Highly recommended.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Highly recommended"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-27",
+      "rating": 5,
+      "title": "It help me with our daily task and team\u2026",
+      "text": "It help me with our daily task and team collaboration. It also help me ease with AI prompt and my task management",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "It help me with our daily task and team collaboration"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-27",
+      "rating": 5,
+      "title": "ClickUp helps keep tasks organized and\u2026",
+      "text": "ClickUp helps keep tasks organized and improves visibility across projects. The dashboards and task tracking features have been very useful.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "have been very useful"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-24",
+      "rating": 5,
+      "title": "Powerful project management that keeps getting better",
+      "text": "We've been using ClickUp to manage recruiting, credentialing, operations, and internal projects, and it has become the central hub for our team. What I appreciate most is how flexible it is\u2014you can customize workflows, automate repetitive tasks, and keep everything organized in one place. One of my favorite features is Write with AI. It saves me a lot of time when drafting emails, creating documentation, brainstorming ideas, and summarizing information. The newer AI features and automations have also helped us streamline several internal processes.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "It saves me a lot of time when drafting emails, creating documentation, brainstorming ideas, and summarizing information"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-24",
+      "rating": 5,
+      "title": "The workspace I rely on every day",
+      "text": "I've been using ClickUp extensively for managing AI projects, certifications, internship work, and personal productivity. What keeps me coming back is how everything lives in one place\u2014from tasks and docs to AI-powered assistance with ClickUp Brain. The platform continues to evolve with useful features, and while there's always room for improvement, it has become an essential part of how I plan and execute my work. I'd definitely recommend it to anyone looking for an all-in-one productivity platform.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "I'd definitely recommend it to anyone looking for an all-in-one productivity platform"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-23",
+      "rating": 5,
+      "title": "Fluxo de trabalho extremamente limpo",
+      "text": "Fluxo de trabalho extremamente limpo, consigo organizar minhas tarefas de forma muito organizada e mantendo as informa\u00e7\u00f5es confidenciais em departamentos separados.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Fluxo de trabalho extremamente limpo, consigo organizar minhas tarefas de forma muito organizada"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-23",
+      "rating": 4,
+      "title": "What made my experience great is having\u2026",
+      "text": "What made my experience great is having all my information in one spot.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "What made my experience great is having all my information in one spot"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-23",
+      "rating": 5,
+      "title": "ClickUp has become my go-to workspace",
+      "text": "I've been using ClickUp every day for project coordination, QA, and team collaboration, and it has significantly improved how I organize my work. Instead of switching between multiple tools, I can manage tasks, documentation, and communication in one place. One feature I particularly like is ClickUp Brain. It helps me create structured QA checklists from requirements, summarize information, and organize work much faster than doing everything manually. It doesn't replace my review process, but it removes a lot of repetitive work and lets me focus on quality. The platform keeps evolving with new features, and while there are occasional improvements that can still be made, especially around some longer AI generations, my overall experience has been very positive. ClickUp has become an essential part of my daily workflow, and overall, ClickUp has become an essential part of my daily workflow and has helped me stay more organised and productive.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "organize work much faster than doing everything manually",
+        "resonance_evidence": "ClickUp has become an essential part of my daily workflow"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-22",
+      "rating": 4,
+      "title": "User experience for me is perfect overall",
+      "text": "User experience for me is perfect. My only concern is sometimes the Docs tab slows down a lot when to much content (images for example) are inside the docs.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "User experience for me is perfect"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-22",
+      "rating": 5,
+      "title": "ClickUp offered superior feature\u2026",
+      "text": "ClickUp offered superior feature consolidation, allowing operations, marketing, and engineering to work within a single unified workspace. The capability to toggle between List, Kanban, Gantt, and Calendar views on the exact same underlying dataset provided the required balance of flexibility and operational structure across diverse team roles",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "allowing operations, marketing, and engineering to work within a single unified workspace",
+        "resonance_evidence": "provided the required balance of flexibility and operational structure across diverse team roles"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-22",
+      "rating": 5,
+      "title": "Highly Effective Tool to manage my personal life and business",
+      "text": "I like the hierarchy of object and how easy it is to move tasks from one list to another. The use of AI agents is very beneficial to, I've been able to send myself a \"daily summary\" from each of my workspaces to see what's pending in my personal life and for my automation agency. I personally think the product teams put a lot of work and thought upfront so features can be easily rolled out based on user feedback.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "I've been able to send myself a \"daily summary\" from each of my workspaces",
+        "resonance_evidence": "The use of AI agents is very beneficial to"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-22",
+      "rating": 5,
+      "title": "Great Company",
+      "text": "I'm giving this company five stars because of the outstanding customer service, the level of customization they offer, and their genuine commitment to continuous improvement. Every interaction has been professional, and it's clear they value customer feedback. The only downside is the cost, as their pricing is higher than some alternatives. Even so, I believe the quality, flexibility, and overall experience make it well worth it, which is why I feel confident giving them five stars.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "I'm giving this company five stars because of the outstanding customer service, the level of customization they offer, and their genuine commitment to continuous improvement"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-21",
+      "rating": 5,
+      "title": "Production Company",
+      "text": "Production Company We use this tool for alot of sales and production tracking. My favourite addition is the Ai built into the workspace so I am not navigating to another Ai site etc. It allows me to search within the workspace as well as internet searching",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "My favourite addition is the Ai built into the workspace"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-20",
+      "rating": 2,
+      "title": "I love the app, but hate the bugs",
+      "text": "It's a great app, and they're constantly innovating, however this comes at a cost of bugs and performance. I have raised concerns about this in which they care too much about their release schedule and new features than they do about shipping quality work. It's still a great app, I am just frustrated that their 99% uptime guarantee is not factual since some bugs we have experienced were app breaking.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "It's still a great app, I am just frustrated that their 99% uptime guarantee is not factual"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-20",
+      "rating": 5,
+      "title": "Advantage to use Clickup",
+      "text": "ClickUp is highly regarded for its powerful all-in-one project management capabilities. Users appreciate its extensive customization and flexibility, allowing them to adapt workflows to their specific needs. The platform's integrated AI features are particularly praised, as they significantly save time and boost efficiency for various tasks. ClickUp has transformed their workflow and organization, making it a valuable tool for both personal and professional use.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "they significantly save time and boost efficiency for various tasks. ClickUp has transformed their workflow"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-17",
+      "rating": 5,
+      "title": "Nearly 4 Years of Running Our Team on ClickUp",
+      "text": "We've been using ClickUp for almost four years, and it's become the backbone of how our team operates. We manage client projects, SOPs, recurring workflows, documentation, and cross-functional collaboration all in one place. As our team has grown, ClickUp has scaled with us, helping us standardize processes, automate repetitive work, and keep everyone aligned. More recently, ClickUp AI and Super Agents have taken our workflows even further by reducing manual work and making information easier to access, allowing us to focus more on improving processes than managing them.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "reducing manual work and making information easier to access",
+        "resonance_evidence": "it's become the backbone of how our team operates"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-16",
+      "rating": 5,
+      "title": "O ClickUP \u00e9 \u00f3timo para gest\u00e3o de tempo",
+      "text": "O ClickUP tem uma interface bem intuitiva. Facilita a rotina e trabalho em equipe. \u00d3timo para gest\u00e3o de tempo e relat\u00f3rios de produtividade.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "\u00d3timo para gest\u00e3o de tempo e relat\u00f3rios de produtividade"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-15",
+      "rating": 5,
+      "title": "A Clickup me ajudou a organizar melhor meus processos e gest\u00e3o das tarefas.",
+      "text": "A Clickup me ajudou a organizar melhor meus processos internos, a ter um controle das tarefas em tempo real e tamb\u00e9m a melhorar minha efici\u00eancia operacional com o meu time.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "melhorar minha efici\u00eancia operacional com o meu time"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-14",
+      "rating": 1,
+      "title": "It has actively harmed our operations, customers, and team.",
+      "text": "We have been using ClickUp for some time and rely on it for our team of 50+ people and 1000+ customers. The security and reliability of the tool has been degrading to levels in which it has actively affected our team, customers, and workflow. As it is, it does not reach the quality required to a professional or corporate tool. Two bugs recently introduced disrupted our operations: - Replies for important messages where delayed for up to a month, and suddenly yesterday everybody in the team received hundreds of missed replies and important messages dating back to June. - Randomly, email addresses have started to appear in unrelated tasks/cards (that we use as a CRM to keep our customer base). This has caused our CS to inadvertedly send messages to the wrong recipients. There are other bugs that affect daily usage, we have reported some of them for a long time without answer, but they never affected our operations, reputation, and customers in such a disturbing way.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "Replies for important messages where delayed for up to a month",
+        "resonance_evidence": "The security and reliability of the tool has been degrading to levels in which it has actively affected our team, customers, and workflow. As it is, it does not reach the quality required to a professional or corporate tool."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-14",
+      "rating": 5,
+      "title": "I couldn't live without it",
+      "text": "Project management for teams? The best tool to easily track tasks and collaborate with team members. The AI bit has now elevated it a lot, so I'm happy to have been using it for a while now. I think it is one of my most used tools at work!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "The best tool to easily track tasks and collaborate with team members. The AI bit has now elevated it a lot, so I'm happy to have been using it for a while now. I think it is one of my most used tools at work!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-08",
+      "rating": 1,
+      "title": "I've been a paying ClickUp customer for\u2026",
+      "text": "I've been a paying ClickUp customer for over three years, and unfortunately, this experience has completely changed my opinion of the company. I accidentally added a client to my workspace so he could access one single table containing his documents. At no point did I receive a warning that this would trigger an additional charge, despite already being on a paid plan. As soon as I noticed what had happened, I immediately changed his role to Guest. The activity logs would clearly show that his access was extremely limited. After this dispute, I even checked my email and found that I had never received any confirmation or notification when this user was added to my workspace. Had ClickUp sent one, it would have served as a record of the role originally assigned to the user at the time he was invited, making it much easier to verify exactly what happened. I also noticed that ClickUp doesn't send me invoice or receipt emails when it charges my account. This makes it even harder to keep track of billing events and creates unnecessary friction whenever a billing issue needs to be reviewed. I also wasn't notified that VAT, which hadn't been collected before, would suddenly start being charged, which resulted in an additional charge of USD 100. Despite explaining the situation, offering evidence, and pointing out that this was an honest mistake that I corrected immediately, Jejomar, the ClickUp support representative handling my case, rejected my refund request. After more than three years as a customer, I expected a company of this size to value long-term relationships instead of rigidly enforcing charges that could have easily been resolved as a goodwill gesture. What disappointed me the most wasn't the amount of money, it was the way the situation was handled. Customer loyalty clearly wasn't taken into account, and the support experience left me feeling like my years as a paying customer meant very little. As a result, I won't be renewing my subscription. When my current",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "this experience has completely changed my opinion of the company"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-07",
+      "rating": 4,
+      "title": "Really good",
+      "text": "Really good. but the import from Trello is a bit poor which is a shame - comment history not preserved is the main issue, or littered with \"Clickbot\" messaging, leaving the whole board looking like a total mess. This makes migration annoying. Otherwise, the platform itself is v good/impressive.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Really good. but the import from Trello is a bit poor which is a shame"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-07",
+      "rating": 5,
+      "title": "Great all-in-one project management tool",
+      "text": "I've been using ClickUp for a while now and it's made a big difference to how I manage my work. It keeps everything in one place, from tasks and docs to dashboards and automations, which makes it much easier to stay organized. One thing I really like is how flexible it is. You can customise it to fit the way your team works instead of changing your process to match the tool. It took a little time to learn everything because there are so many features, but once you get used to it, it's very powerful. Overall, it's been a great experience and I'd definitely recommend it to anyone looking for a project management tool.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "I'd definitely recommend it to anyone looking for a project management tool"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-06",
+      "rating": 5,
+      "title": "ClickUp Simplified Everything",
+      "text": "ClickUp has helped me to take the tools I use for work as well as my personal productivity tools and put them into one, while still making sure that the lines don't get blurred and everything is cleanly separated. The way you can categorize and organize all your work is the biggest unlock",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "The way you can categorize and organize all your work is the biggest unlock"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-04",
+      "rating": 5,
+      "title": "I Highly Recommend ClickUp",
+      "text": "I have been using ClickUp at work since 2022. It's an agency with team members across different timezones and ClickUp has played a vital role in keeping the workflow organised. We use it to manage client projects, track internal assignments, manage onboarding for new clients and new hires, and overall agency operations. The automations are very powerful and saves a ton of time for recurring tasks. There are some minor bugs at times, but that's not a big issue. I have used other project management tools and by far ClickUp is the most powerful, reliable and easy to use. I would highly recommend it.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "saves a ton of time for recurring tasks",
+        "resonance_evidence": "I would highly recommend it"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-04",
+      "rating": 5,
+      "title": "Breaking large tasks into smaller",
+      "text": "Breaking large tasks into smaller, well-defined subtasks makes them easier to understand, prioritize, and execute, while also enabling better progress tracking and reducing complexity. UX is also great!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "UX is also great!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-02",
+      "rating": 5,
+      "title": "It's a great tool to organise al my\u2026",
+      "text": "It's a great tool to organise al my tasks!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "It's a great tool to organise al my tasks!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-29",
+      "rating": 5,
+      "title": "ClickUp has been very useful for daily work",
+      "text": "ClickUp has been very useful for organizing my daily work, managing tasks, and keeping different projects in one place. I like that it combines task management, documentation, and collaboration features, which helps reduce the need to switch between multiple tools. There are many options to customize workflows, so it can take some time to set everything up, but once configured it becomes a very powerful productivity platform.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "ClickUp has been very useful for organizing my daily work, managing tasks, and keeping different projects in one place"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-27",
+      "rating": 5,
+      "title": "ClickUp se convirti\u00f3 en el sistema operativo de nuestra agencia",
+      "text": "Despu\u00e9s de probar distintas herramientas de gesti\u00f3n de proyectos, encontr\u00e9 ClickUp y, sinceramente, nunca mir\u00e9 atr\u00e1s. Desde el primer d\u00eda me di cuenta de que no era solo una aplicaci\u00f3n para crear tareas, sino una plataforma donde pod\u00eda centralizar pr\u00e1cticamente toda la operaci\u00f3n de mi empresa. Hoy gestionamos proyectos de marketing, desarrollo web, dise\u00f1o, contenido, procesos internos, documentaci\u00f3n, automatizaciones y seguimiento de clientes desde un solo lugar. Lo que m\u00e1s valoro es la flexibilidad para adaptar la plataforma a nuestra forma de trabajar, en lugar de tener que adaptar nuestros procesos a una herramienta. Cada nueva actualizaci\u00f3n demuestra que el equipo detr\u00e1s de ClickUp realmente escucha a su comunidad. La incorporaci\u00f3n de funciones como ClickUp Brain, las automatizaciones, los dashboards y la mejora constante de la experiencia de usuario han hecho que nuestro equipo sea mucho m\u00e1s organizado y productivo. Como cualquier plataforma compleja, existe una curva de aprendizaje al principio, pero el tiempo invertido vale completamente la pena. Una vez entiendes su potencial, es dif\u00edcil imaginar volver a trabajar sin ella. Pocas herramientas generan tanta dependencia positiva. Desde que me registr\u00e9 por primera vez, ClickUp se convirti\u00f3 en una parte esencial de mi d\u00eda a d\u00eda y de las operaciones de nuestra agencia. M\u00e1s que un gestor de proyectos, para nosotros es el centro de nuestro negocio. Gracias al equipo de ClickUp por seguir innovando y construir un producto que realmente ayuda a las empresas a trabajar mejor. Cinco estrellas, sin duda.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "gestionamos proyectos de marketing, desarrollo web, dise\u00f1o, contenido, procesos internos, documentaci\u00f3n, automatizaciones y seguimiento de clientes desde un solo lugar",
+        "resonance_evidence": "nunca mir\u00e9 atr\u00e1s"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-27",
+      "rating": 5,
+      "title": "I started using ClickUp in 2021 and I\u2026",
+      "text": "I started using ClickUp in 2021 and I never looked back. ClickUp is way ahead of other similar platforms in my opinion. And the platform is constantly evolving for the better and the support staff is always extremely helpful. I would definitely recommend them to anyone looking for a project management platform.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "I would definitely recommend them to anyone looking for a project management platform"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-26",
+      "rating": 5,
+      "title": "Access to the particulars\u2026",
+      "text": "Access to the particulars are limited to the account given to me in my work community, but whatever particulars I needed, I could ask my boss and get access to it. That brings ease in my activity.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "That brings ease in my activity"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-26",
+      "rating": 5,
+      "title": "easy to use and good customer service",
+      "text": "easy to use and good customer service",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-25",
+      "rating": 5,
+      "title": "Aplicativo excelente",
+      "text": "Aplicativo excelente, contribuiu de diversas formas para a minha rotina diaria",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Aplicativo excelente, contribuiu de diversas formas para a minha rotina diaria"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-25",
+      "rating": 5,
+      "title": "Clickup is the end all be all",
+      "text": "My experience with ClickUp has been all about reducing the amount of time I spend chasing context. Before, work felt scattered across tasks, docs, comments, chats, and status updates. ClickUp helps bring that together in one place, so I can see what needs to happen, who owns it, and where things stand without constantly switching tools. The biggest value for me is visibility. I can organize projects, track priorities, document decisions, and keep communication connected to the actual work. That makes it easier to stay aligned and move faster without losing details. ClickUp Brain and ClickUp Super Agents make that even more useful because they turn all that workspace context into something I can actually ask questions about. Instead of digging through tasks or docs manually, I can get a quick summary, find blockers, or understand what changed. Overall, ClickUp feels less like a task manager and more like a central workspace for getting work done.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "reducing the amount of time I spend chasing context. Before, work felt scattered across tasks, docs, comments, chats, and status updates. ClickUp helps bring that together in one place",
+        "resonance_evidence": "ClickUp feels less like a task manager and more like a central workspace for getting work done"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-25",
+      "rating": 5,
+      "title": "ClickUp is a great tool for people who\u2026",
+      "text": "ClickUp is a great tool for people who want or need to be more organized in their life and in their projects. I feel comfortable saying that if you\u2019re starting to feel the need to create a more organized life, ClickUp may seem a bit advanced at first, but over time it becomes the perfect tool. This review was translated using AI.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "over time it becomes the perfect tool"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-25",
+      "rating": 5,
+      "title": "Big Change",
+      "text": "At first, we were skeptical about the program, but as we expanded its use over time, we discovered that it was the best thing that could have happened to us. It helped us streamline many processes and saved us a lot of time that would otherwise have been spent switching between Excel spreadsheets and other tools. A simple interface, a wide range of features, and fast support are ClickUP\u2019s main strengths.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "saved us a lot of time that would otherwise have been spent switching between Excel spreadsheets and other tools",
+        "resonance_evidence": "it was the best thing that could have happened to us"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-24",
+      "rating": 5,
+      "title": "How ClickUp Improves My Workflow",
+      "text": "My experience has been great, mainly because of how easy it is to manage my tasks and the level of customization ClickUp provides. I can organize everything I need in a practical and efficient way, without being restricted by unnecessary fields or processes.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "My experience has been great, mainly because of how easy it is to manage my tasks and the level of customization ClickUp provides"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-24",
+      "rating": 5,
+      "title": "ClickUp Review",
+      "text": "We've been using ClickUp to manage projects, marketing workflows, and cross-functional collaboration, and it has become a central part of our team's operations. What stands out most is the flexibility. We can customize spaces, lists, views, automations, and dashboards to match different workflows without needing multiple tools. The platform continues to evolve with new features while still providing strong project management fundamentals. The visibility across tasks, deadlines, and team responsibilities has significantly improved our coordination and accountability. Features like custom fields, automations, docs, dashboards, and integrations help keep everything organized in one place. Overall, ClickUp has helped our team stay organized, improve execution, and scale our processes more effectively. Highly recommended for teams looking for a flexible all-in-one work management solution",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Highly recommended for teams looking for a flexible all-in-one work management solution"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-24",
+      "rating": 5,
+      "title": "It turned a tedious manual matching automated using ClickUp",
+      "text": "It turned a tedious manual matching process into a usable action list.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "It turned a tedious manual matching process into a usable action list.",
+        "resonance_evidence": "It turned a tedious manual matching process into a usable action list."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-23",
+      "rating": 5,
+      "title": "A Great Tool for Staying Organized and Productive",
+      "text": "I've been using ClickUp for project management and QA work, and it has become one of my go-to tools. It helps me stay organized, manage tasks efficiently, and keep track of progress across multiple projects. What I like most is the flexibility to customize workflows, dashboards, and task views based on different team needs. It makes collaboration much easier and keeps everything in one place. I've also found the platform to be continuously improving with new features and updates. Overall, ClickUp has had a positive impact on my daily work, and I would definitely recommend it to anyone looking for a powerful project management solution.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "I would definitely recommend it to anyone looking for a powerful project management solution."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-23",
+      "rating": 5,
+      "title": "I love Click Up 1",
+      "text": "I love Click Up ! Being a part of a team that manages several projects at once, it's easy to become overwhelmed or disorganized. Click Up had made it so easy for my team to stay on top of our tasks and move through projects effeciently.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "I love Click Up ! Being a part of a team that manages several projects at once, it's easy to become overwhelmed or disorganized. Click Up had made it so easy for my team to stay on top of our tasks and move through projects effeciently."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-22",
+      "rating": 5,
+      "title": "I am a ClickUp user since last 1.5\u2026",
+      "text": "I am a ClickUp user since last 1.5 Years and I have always wanted something so easy to use which could help me streamline everything in one place. This tool helps me build a better organizational structure, creates visibility for my team and has made the performance reviews absolutely easy.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "This tool helps me build a better organizational structure, creates visibility for my team and has made the performance reviews absolutely easy."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-22",
+      "rating": 1,
+      "title": "We recently moved our team from Slack\u2026",
+      "text": "We recently moved our team from Slack to ClickUp and were actively testing it. Till yesterday, we were able to send voice notes directly in Chat/DM from the desktop app and browser without any issues. Today, the feature has completely disappeared for both me and my team, leaving only the Talk-to-Text microphone option. What is most frustrating is not only the disappearance of a basic communication feature, but the support experience. The AI assistant initially provided conflicting information, claiming voice clips were never supported in desktop Chat/DM, despite the fact that we had been using them. After escalating to a human agent, I spent considerable time authenticating my account, granting workspace access, providing screenshots, and explaining the issue, only to be told that the matter would be transferred to Technical Support with an expected response time of up to 24 hours. For a platform positioning itself as an all-in-one workplace solution and a replacement for tools like Slack, core communication features should be reliable and stable. Sudden feature removals or bugs without communication create disruption for teams and undermine confidence in the platform. Very disappointing experience, especially during a critical evaluation period where we're comparing ClickUp against other collaboration tools.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "the feature has completely disappeared for both me and my team, leaving only the Talk-to-Text microphone option",
+        "resonance_evidence": "Very disappointing experience, especially during a critical evaluation period where we're comparing ClickUp against other collaboration tools."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-19",
+      "rating": 2,
+      "title": "The product itself is quite nice, but beware sudden hidden charges",
+      "text": "The product itself is quite nice. However, After adding a limited member with collaborator -only member (which was stated as free during the process, resulted in a $216.00 charge that I had to get reversed. It turns out that adding a free limited member (view only) at no charge can trip a conversion as soon as you add the member to a group to receive notifications (still read-only). No warning is given. You will not know how you might inadvertently do something that triggers a member status conversion and get automatically whacked with a charge. Beware!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "resulted in a $216.00 charge that I had to get reversed",
+        "resonance_evidence": "Beware!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-18",
+      "rating": 5,
+      "title": "ClickUp Makes Managing Multiple Projects Easier",
+      "text": "My experience with ClickUp has been very positive. I use it to manage client projects, website tasks, GoHighLevel automations, social media content, deadlines, and team communication. What I like most is that everything stays organized in one place. Tasks, comments, files, priorities, and updates are easy to track, which helps reduce missed details and unnecessary follow-ups. ClickUp Brain also helps me summarize feedback, organize notes, and create clear action steps. This saves time and makes it easier to manage multiple projects at once. The platform can feel overwhelming at first because it has many features, but once the workspace is set up properly, it becomes a powerful tool for productivity and collaboration.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "This saves time and makes it easier to manage multiple projects at once.",
+        "resonance_evidence": "My experience with ClickUp has been very positive."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-18",
+      "rating": 5,
+      "title": "Great tool for managing projects and teams in one place",
+      "text": "I've been using ClickUp for quite some time and my overall experience is very positive. What I appreciate most is the flexibility: I manage projects, tasks and documents in a single environment, customizing the views (list, board, calendar) to match the way I work. The automations save me a lot of time on repetitive tasks, and the integration with the other tools I use is convenient. The biggest benefit is in team management: information used to be scattered across chats, emails and spreadsheets, whereas now I have everything centralized, with tasks assigned to the right people and clear deadlines and priorities. Dashboards and the different views let me track progress in real time, which means fewer alignment meetings and more on-time deliveries. The only area for improvement is some occasional technical hiccups: data doesn't always refresh immediately, so every now and then I have to reload the page to see the latest updates. Nothing blocking, but more responsive data loading would make the experience even better.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "fewer alignment meetings and more on-time deliveries",
+        "resonance_evidence": "my overall experience is very positive"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-17",
+      "rating": 5,
+      "title": "Everything works fine",
+      "text": "Everything works fine, great experience",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-17",
+      "rating": 5,
+      "title": "ClickUp\u2019\u0131 i\u015f yerinde g\u00f6rev takibi ve\u2026",
+      "text": "ClickUp\u2019\u0131 i\u015f yerinde g\u00f6rev takibi ve ekip i\u00e7i i\u015f ak\u0131\u015flar\u0131n\u0131 d\u00fczenlemek i\u00e7in kullan\u0131yoruz. G\u00f6revleri ki\u015filere atamak, durumlar\u0131n\u0131 takip etmek ve s\u00fcre\u00e7leri tek yerden y\u00f6netmek b\u00fcy\u00fck kolayl\u0131k sa\u011fl\u0131yor. ClickUp 4.0 ile aray\u00fcz daha h\u0131zl\u0131 ve kullan\u0131\u015fl\u0131 hale gelmi\u015f. G\u00f6revler, belgeler, sohbet ve yapay zeka \u00f6zelliklerinin tek platformda birle\u015fmesi g\u00fcnl\u00fck i\u015f takibini daha verimli yap\u0131yor. \u0130\u015fleri daha d\u00fczenli, g\u00f6r\u00fcn\u00fcr ve kontrol edilebilir hale getiren ba\u015far\u0131l\u0131 bir platform.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "ba\u015far\u0131l\u0131 bir platform"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-16",
+      "rating": 5,
+      "title": "Uni\u00e3o de Processos",
+      "text": "O ClickUp de forma eficaz uniu todos os nossos processos em uma \u00fanica plataforma, onde antes era dividido em v\u00e1rios sistemas e softwares diferentes",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "uniu todos os nossos processos em uma \u00fanica plataforma, onde antes era dividido em v\u00e1rios sistemas e softwares diferentes",
+        "resonance_evidence": "de forma eficaz"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-16",
+      "rating": 5,
+      "title": "Easy to collaborate with teams",
+      "text": "Easy to collaborate with teams, track progress through dashboards, chat with the team and create tasks from the chat itself!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Easy to collaborate with teams, track progress through dashboards"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-13",
+      "rating": 5,
+      "title": "Streamlining HR and Administrative Operations with ClickUp",
+      "text": "ClickUp is an excellent project management and productivity platform. Its task management, automations, dashboards and collaboration tools make it easy to stay organized and keep projects on track. It has significantly improved workflow efficiency and team coordination in my day-to-day work.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "ClickUp is an excellent project management and productivity platform"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-11",
+      "rating": 1,
+      "title": "There is no FREE - false advertising",
+      "text": "ClickUp hides the fact that almost all features have limited use in the free services. For example, you want to track the progress of a task in list view. It counts when you add and update any progress bars, and once you have done this too many times, the funtion is now lost. They do not warn you this is a special feature when you start using it, they just blindside you once you've met their \"quota.\" If they had been transparent that the only way this tool is actually useful is if you have a paid description, that would have been fine. What's insidious is present themselves as allowing free use with only some features limited (like the Gannt chart view - oh, but it's okay, you can still use timelines), when in actuality, you can barely use anything without brushing against a limited-use feature.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "ClickUp hides the fact that almost all features have limited use in the free services"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-10",
+      "rating": 1,
+      "title": "CS sucks",
+      "text": "As a one woman show, ClickUp charged me $600+ in the span of 2 months because I was using the wrong email to log in. I unknowingly added my other emails as guests (which I should not have been charged for given the tier I was paying for) and when I tried to correct the billing issue with them, they said I was unable to and were completely inflexible to even offering credit for the future. I was looking into my account today trying to fix a bug with their support team, and when I saw those invoices again I quickly remembered worst CS experience of my life.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "ClickUp charged me $600+ in the span of 2 months",
+        "resonance_evidence": "worst CS experience of my life"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-10",
+      "rating": 1,
+      "title": "Excessive ads on Youtube made me hate it",
+      "text": "Excessive ads on Youtube have made me hate this product. For every youtube video, you have 5 clickup ads. Stop spamming us with your product. It sucsk that there is no other way to say, hey, less of this ad, stop this ad. I hate clickUp, all up in every video I watch for the last month. I will never use it.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I hate clickUp"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-03",
+      "rating": 5,
+      "title": "ClickUp is helping us a lot in managing projects",
+      "text": "ClickUp is helping us a lot in managing our projects together and allows us to use the features like the clickup Ai to safe time and work faster. The interface is easy to understand and is giving us options to connect features to our tasks, like the AI Notetaker or making dashboards in between our lists.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "allows us to use the features like the clickup Ai to safe time and work faster",
+        "resonance_evidence": "ClickUp is helping us a lot in managing our projects together"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-31",
+      "rating": 5,
+      "title": "Highly recommend ClickUp for their customer care",
+      "text": "While ClickUp is an great tool, I was even more impressed out with how their customer service team handled a difficult issue. The ClickUp support team handled the situation quickly and fairly. It's rare to see a company show this level of decency and customer care!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "I was even more impressed out with how their customer service team handled a difficult issue"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-26",
+      "rating": 5,
+      "title": "The project management tool that actually scales with an agency",
+      "text": "We use ClickUp at Plurali Studio to manage 8\u201310 active SEO client accounts with a team of 2\u20133 people. Before ClickUp, project context was scattered across spreadsheets, email threads, and Notion docs \u2014 functional but fragile. ClickUp consolidated everything into one structured workspace, and the difference in daily clarity is significant. The standout feature for our workflow is Brain. Getting a consolidated summary of task status across all client projects in minutes \u2014 instead of manually opening every space \u2014 has meaningfully changed how we start each day. It's not a gimmick; it's genuinely useful for anyone juggling multiple accounts in parallel. The learning curve is real and front-loaded, and the mobile experience still has room to improve. But for agencies that invest in setting it up properly, ClickUp pays back that investment quickly. It's the operational backbone of how we run client work.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "Getting a consolidated summary of task status across all client projects in minutes \u2014 instead of manually opening every space",
+        "resonance_evidence": "It's the operational backbone of how we run client work"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-25",
+      "rating": 5,
+      "title": "My experience with ClickUp is awesome",
+      "text": "My experience with ClickUp is awesome! My business and projects match on the same platform with a bunch of great integrations and automations.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "My experience with ClickUp is awesome!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-25",
+      "rating": 5,
+      "title": "Good plataform",
+      "text": "Good plataform! WE use it everyday",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-22",
+      "rating": 1,
+      "title": "AI-first restructuring raises trust concerns",
+      "text": "ClickUp\u2019s recent public messaging around aggressive AI adoption and workforce reduction makes me less confident in the company as a long-term vendor. For a tool used to manage daily work, trust, reliability, support quality, and human accountability matter. I\u2019d like to see clearer evidence that AI adoption is improving the product for customers rather than simply reducing headcount.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-21",
+      "rating": 5,
+      "title": "AI Without Context Is Just Bad Code",
+      "text": "AI without context is basically a function with no parameters. It might run, but the output is going to be generic. That\u2019s the problem with how a lot of teams are using AI today. They have access to powerful models, but those models are disconnected from the actual work: the tasks, docs, goals, dashboards, priorities, dependencies, and conversations that define how the team operates. In developer terms, it\u2019s like calling: generateProductivity(); \u2026and expecting magic. But real productivity comes when AI has access to the right inputs: generateProductivity({ tasks, docs, goals, dashboards, teamContext, priorities, workflows }); That\u2019s what makes a Converged AI Workspace different. It\u2019s not just an AI chat window bolted onto your stack. It\u2019s AI embedded natively into the environment where work already happens. When AI is bolted on, it has no real runtime context. When AI is built in, it can understand the full application state. That\u2019s the difference with ClickUp Brain. It doesn\u2019t just sit on top of your work like a third-party plugin. It lives inside the workspace, with native access to tasks, docs, dashboards, goals, and integrations across the tools your team already uses. So every AI interaction is powered by real context: your data, your structure, your priorities, and your workflows. Because AI isn\u2019t the future of work by itself. Contextual AI is. Or to put it another way: if (AI.hasContext()) { return betterDecisions + fasterExecution + fewerContextSwitches; } How much more could your AI do if it actually knew your work?",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-21",
+      "rating": 5,
+      "title": "Verry Good Task Management Application",
+      "text": "Verry Good Task Management Application",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-20",
+      "rating": 5,
+      "title": "Na pr\u00e1tica",
+      "text": "Na pr\u00e1tica, o ClickUp simplifica muito o fluxo de trabalho porque elimina a necessidade de ficar pulando de aplicativo em aplicativo, centralizando o controle de materiais, as medi\u00e7\u00f5es e o cronograma em um \u00fanico lugar. O grande ganho est\u00e1 em acabar com o retrabalho e com a perda de informa\u00e7\u00f5es: em vez de atualizar uma planilha, mandar um e-mail para compras e avisar a equipe de campo pelo WhatsApp, tudo acontece de forma autom\u00e1tica dentro da plataforma. Quando o status de uma medi\u00e7\u00e3o \u00e9 alterado ou um prazo \u00e9 modificado, o sistema atualiza o painel geral instantaneamente e notifica os respons\u00e1veis, o que reduz drasticamente as tarefas manuais, evita esquecimentos e deixa a comunica\u00e7\u00e3o da equipe muito mais fluida e direta.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "reduz drasticamente as tarefas manuais, evita esquecimentos",
+        "resonance_evidence": "o ClickUp simplifica muito o fluxo de trabalho"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-19",
+      "rating": 4,
+      "title": "A all in one tool",
+      "text": "ClickUp is an incredibly powerful all-in-one platform that truly streamlines my work as a PM. The customizable workflows and the Outlook integration are top-notch. While the expensive AI add-ons and the lack of free onboarding are definitely frustrating, the platform's ability to handle complex multi-project management makes it absolutely worth using.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "the platform's ability to handle complex multi-project management makes it absolutely worth using"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-19",
+      "rating": 1,
+      "title": "So bad",
+      "text": "So bad, absolute nightmare from UX perspective. Did Product Manager work on that?",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "So bad, absolute nightmare from UX perspective"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-17",
+      "rating": 5,
+      "title": "How ClickUp AI Helped Our Team Automate Workflows and Improve Collaboration",
+      "text": "Our team uses ClickUp AI mainly for engineering, support, and operations workflows. Engineering uses ClickUp Brain to generate sprint summaries, task descriptions, and technical documentation from meetings. Support uses an AI workflow that categorizes tickets and drafts first responses for common issues, which reduced response times significantly. Operations uses AI-generated meeting summaries and automatic task creation after client calls, saving a lot of manual follow-up work. The feature that surprised us most was how well ClickUp AI understands context across tasks and Docs, making documentation and project updates much faster.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "reduced response times significantly",
+        "resonance_evidence": "The feature that surprised us most was how well ClickUp AI understands context across tasks and Docs, making documentation and project updates much faster"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-16",
+      "rating": 5,
+      "title": "Powerful workspace for teams that need structure and automation and ai power",
+      "text": "ClickUp has become one of the most flexible project management platforms I work with. What I like most is that it can adapt to many different business models instead of forcing every team into the same rigid structure. For teams dealing with messy operations, scattered tasks, unclear ownership, or manual follow-ups, ClickUp can bring everything into one organized workspace. The combination of Spaces, Folders, Lists, custom fields, dashboards, forms, templates, and automations makes it very powerful when it is set up properly. It is especially useful for agencies, operations teams, recruitment workflows, client delivery, internal processes, and cross-functional teams that need visibility and accountability. The biggest strength is also the biggest challenge: ClickUp is highly customizable. That means teams need to think carefully about their structure before building too much. A clean setup makes ClickUp excellent. A rushed setup can become messy quickly. Overall, I highly recommend ClickUp for teams that want one central place to manage work, automate repetitive steps, and create better operational clarity.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Overall, I highly recommend ClickUp for teams that want one central place to manage work, automate repetitive steps, and create better operational clarity"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-16",
+      "rating": 1,
+      "title": "another s..",
+      "text": "another s... that does not worth the money. They rely on aggressive commercials to sell a completely useless app full of bug. On top of that it has a conflict with one of my daily software worldwide used and clickup.com keeps making my laptop crashed. thank you for wasting my money and the health of my laptop.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "another s... that does not worth the money. They rely on aggressive commercials to sell a completely useless app full of bug"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-15",
+      "rating": 1,
+      "title": "Saskia Stoker told me clickup handles\u2026",
+      "text": "Saskia Stoker told me clickup handles inventory when asked further she said it was a list inside the crm software which is also miniaml, very deceptive and rude, hard to get straight answers, just wants you to click buy based on lies",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "very deceptive and rude, hard to get straight answers, just wants you to click buy based on lies"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-14",
+      "rating": 5,
+      "title": "Flexible, powerful and worth the investment",
+      "text": "Overall, ClickUp has been a really positive experience. In less than six months it became the backbone of our team's project management and the single source of truth for almost the entire operation. What stands out the most is the flexibility, the hierarchy of Spaces, Folders and Lists combined with multiple views and customizable fields adapts to whatever workflow we throw at it, without forcing us into someone else's method. The UX is intuitive enough that I got up to speed on my own, and the robust API plus native integrations with tools like Gmail and Outlook make it easy to plug ClickUp into the rest of our stack. ClickUp Brain is a nice bonus when I remember to use it. It's not perfect, of course. Paying in dollars from Brazil hurts the budget and is the kind of thing you have to justify internally every time you expand the team. The notification volume can get noisy until you tune it properly, performance shows some lag in heavier workspaces, and the lack of Portuguese support adds friction when you need to talk to the support team, although when I did reach out, the experience was smooth and they solved my issue quickly. In the end, it's a tool that delivers a lot for what it charges. It replaced several scattered tools, brought clarity to our operation and centralized everything we need in one place. I'd recommend it to any team looking to stop juggling spreadsheets and chats and finally have real visibility over their work.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "In less than six months it became the backbone of our team's project management and the single source of truth for almost the entire operation",
+        "resonance_evidence": "I'd recommend it to any team looking to stop juggling spreadsheets and chats and finally have real visibility over their work"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-14",
+      "rating": 5,
+      "title": "ClickUp is part of my routine",
+      "text": "ClickUp is part of my routine. I can no longer imagine my life without using this tool in my day-to-day work. Besides aligning my ideas, it helps me plan my entire operation and helps my team better organize their deliverables, priorities, and be more productive.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "ClickUp is part of my routine. I can no longer imagine my life without using this tool in my day-to-day work"
+      }
+    }
+  ]
+}

@@ -21,8 +21,8 @@
 <main class="wrap">
 <div class="crumb"><a href="../index.html">Home</a></div>
 <h1>Methodology</h1>
-<div class="lede">What we read, what we publish, and what we have not built yet.
-This page will carry a version number and a changelog before the site is public.</div>
+<div class="lede">What we read, how the score is worked out, and what we deliberately
+do not do. Every figure on the site can be rebuilt from the numbers on the vendor pages.</div>
 
 <section class="section rule-top">
   <h2>Where the data comes from</h2>
@@ -36,6 +36,14 @@ This page will carry a version number and a changelog before the site is public.
 
 <section class="section rule-top">
   <h2>The score</h2>
+  <p>Two things decide it. What reviewers rate a product, and how much that rating
+  can be trusted. We publish both, and the second one adjusts the first.</p>
+  <div class="formula">rating   = the four sites' own averages, averaged, x20</div>
+  <div class="formula">evidence = 0.30 Recent + 0.25 Reliable + 0.25 Results + 0.20 Resonance</div>
+  <div class="formula">score    = 50 + (rating - 50) x evidence / 100</div>
+  <p>A product with perfect evidence scores exactly what reviewers rate it. A product
+  with no usable evidence sits at 50, because we do not know anything about it. Everything
+  else lands in between, moved away from the middle only as far as its evidence earns.</p>
   <div class="formula">score = (Recent + Reliable + Results&#8209;specific + Resonance) / 4</div>
   <ul class="dims">
     <li><b>Recent</b><span class="small">How strong the review evidence is in the last 180 days.</span></li>
@@ -46,6 +54,30 @@ This page will carry a version number and a changelog before the site is public.
   <p class="small muted" style="margin-top:14px">A vendor with fewer than two sites
   carrying reviews, under 15 reviews, or under 5 reviews in the last year will be
   shown as Not Rated rather than given a number.</p>
+</section>
+
+<section class="section rule-top">
+  <h2>Where each number comes from</h2>
+  <div class="tscroll"><table>
+  <thead><tr><th>Part</th><th>Measured from</th></tr></thead>
+  <tbody>
+    <tr><td>Recent</td><td>How many days since the newest review, and what share of the
+      reviews we hold were written in the last year.</td></tr>
+    <tr><td>Reliable</td><td>How far apart the sites' star ratings are, and how often a
+      review's wording matches the stars it was given.</td></tr>
+    <tr><td>Results-specific</td><td>The share of reviews naming an outcome a stranger
+      could check. A number, a time saved, a tool replaced. Not "saves time".</td></tr>
+    <tr><td>Resonance</td><td>Whether reviewers recommend the product, approve of it,
+      tolerate it, or warn you off. Averaged per site, then across sites.</td></tr>
+  </tbody></table></div>
+  <p class="small muted">Two of the four need the review text read. A model labels each
+  review and has to quote the exact words behind its label; if those words are not
+  literally in the review, the label is thrown away. Every calculation is done in code,
+  never by the model.</p>
+  <p class="small muted">G2 gives us no working pagination, so we read it through four
+  sort orders. Two of those return the best and worst reviews on purpose, so we use them
+  for quotes and keep them out of every rate. Gartner keeps review text behind a login,
+  so it contributes ratings and dates but not tone.</p>
 </section>
 
 <section class="section rule-top">

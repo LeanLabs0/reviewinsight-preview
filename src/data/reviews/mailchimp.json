@@ -1,0 +1,2464 @@
+{
+  "slug": "mailchimp",
+  "captured_at": "2026-08-12T20:48:37.032020+00:00",
+  "reviews": [
+    {
+      "portal": "G2",
+      "review_id": "13229138",
+      "date": "8/8/2026",
+      "rating": 4.5,
+      "title": "Simple Interface and Helpful Automation for Email Campaigns",
+      "text": "I like how easy it is to manage email campaigns and marketing in one place. The interface is simple and the automation tools are really helpful. Some of the more advanced features can take a little time to fully understand and get comfortable with. Pricing can also start to feel a bit high as your contact list grows, especially as you scale up.",
+      "role": "Marketing Coordinator",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Some of the more advanced features can take a little time to fully understand and get comfortable with. Pricing can also start to feel a bit high"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "6775012",
+      "date": "6/24/2022",
+      "rating": 4.5,
+      "title": "Easy-to-Use Marketing Platform with No Experience Needed",
+      "text": "I really like the wide variety of professionally designed templates that make creating emails quick and easy. The drag-and-drop editor is intuitive, so I can build attractive campaigns without any design or technical experience. It saves time while still producing professional-looking results. Pricing can become expensive as your contact list grows. More affordable plans with additional features would make the platform even better for small businesses.",
+      "role": "Marketing and Advertising",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "I really like the wide variety of professionally designed templates that make creating emails quick and easy. The drag-and-drop editor is intuitive"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "5372820",
+      "date": "2/24/2022",
+      "rating": 5.0,
+      "title": "A complete solution for email marketing and customer engagement with new Automation features",
+      "text": "With time the automation features have been improved. The email templated also improved with better functionality. I also like the way the audience segmentation has been improved and tracking the performance got the detailed analytics. As we increase the usage or the tool, the cost shoots up and feels expensive. Some of the core featured are behind the high pricing paywall that feels costly. Overall the dashboard need some overhaul to reduce the scattered feature and provide concise analytics.",
+      "role": "Automation Engineer",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "As we increase the usage or the tool, the cost shoots up and feels expensive. Some of the core featured are behind the high pricing paywall that feels costly. Overall the dashboard need some overhaul"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "8031336",
+      "date": "5/4/2023",
+      "rating": 4.5,
+      "title": "I enhanced visibility and reach though the tools",
+      "text": "Automation, AI, led me to get more convesion and enhance the open click rate, and lower span rate I think the price a little bit high, The value is great, but we look for a little bit cheaper",
+      "role": "Digital Marketing Specialist",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "led me to get more convesion and enhance the open click rate, and lower span rate",
+        "resonance_evidence": "Automation, AI, led me to get more convesion and enhance the open click rate, and lower span rate"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "8916807",
+      "date": "11/22/2023",
+      "rating": 4.5,
+      "title": "Pretty great.",
+      "text": "It does emails, it does social scheduling, it has analytics, it's got templates. It's got amazing customer support. It's easy to use, and you won't really need another tool. Sometimes, the pricing feels a bit much, but if you send emails regularly it's worth it. They've added new AI tools as well, which help you so much. Contact managment is still a bit clunky, but it's improved over previous iterations.",
+      "role": "Managing Director",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews",
+      "sample_order": "most_recent"
+    },
+    {
+      "portal": "G2",
+      "review_id": "6995214",
+      "date": "8/18/2022",
+      "rating": 5.0,
+      "title": "One of the best go-to option for newsletters",
+      "text": "Mailchimp still remains to this day the leader when it comes to email marketing. I don't see any other services providing the same kind of quality for the same price. I wish the integration and automation of their newsletter would be a bit better.",
+      "role": "Verified User in Marketing and Advertising",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Mailchimp still remains to this day the leader when it comes to email marketing. I don't see any other services providing the same kind of quality for the same price."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13163850",
+      "date": "7/24/2026",
+      "rating": 4.5,
+      "title": "Straightforward Email Builder with Powerful Automation and Clear Reports",
+      "text": "The email builder is straightforward to use, audience segmentation works well, and the automation features save me a lot of manual effort. I also appreciate that the campaign reports are clear and easy to understand, so it\u2019s quick to see what\u2019s working and make improvements to future campaigns. The reporting filters could be more flexible, and some of the more advanced features take a bit of time to learn and get comfortable with.",
+      "role": "Email Marketing Executive",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews",
+      "sample_order": "most_recent"
+    },
+    {
+      "portal": "G2",
+      "review_id": "8656386",
+      "date": "9/25/2023",
+      "rating": 5.0,
+      "title": "Mailchimp is the best automation tool for marketing",
+      "text": "I really like how Mailchimp is evolving beyond traditional email marketing into a more intelligent, all-in-one marketing platform. The newer AI capabilities, unified customer data, omnichannel campaign management, and Analytics AI are particularly interesting because they make it easier to move from insights to action and measure the impact of marketing efforts in one place. I think Mailchimp could make some of its features simpler and easier to use, especially for beginners. It would also be great to have better integrations with other tools and more flexible pricing options as businesses grow.",
+      "role": "Marketing Content Specialist",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "I really like how Mailchimp is evolving beyond traditional email marketing into a more intelligent, all-in-one marketing platform"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "5208819",
+      "date": "12/16/2021",
+      "rating": 3.0,
+      "title": "Ok Fallback for Email Marketing and Basic DIY CRM",
+      "text": "MailChimp is a helpful tool for creating, editing and/or updating simple landing pages for content marketing as well as customer onboarding processes. The landing pages are one of my favorite features of MailChimp, with simple editing, design and layout options. I don't like that Mailchimp shut down its TinyLetter platform without providing users with advance notice as well as ample time to export email lists and newsletter archives.",
+      "role": "Verified User in Entertainment",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "MailChimp is a helpful tool for creating, editing and/or updating simple landing pages"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "5068261",
+      "date": "10/19/2021",
+      "rating": 4.5,
+      "title": "Amazing E-mail Marketing",
+      "text": "I like the different integrations they have. One of the integrations I enjoy the most is being able to design in canvas and connecting it to mailchimp. AI could be a little better so commands are more accurate.",
+      "role": "Regional Director of Marketing, Communications &amp; Operations",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews",
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "I like the different integrations they have"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13533",
+      "date": "5/22/2013",
+      "rating": 4.0,
+      "title": "Good Option for SMBs",
+      "text": "MailChimp's integrations and add-ons make this tool significantly more flexible than some of the other options. I've integrated this with our website signup form and RSS feed so visitors to the sign can signup and automatically start receiving emails of our best content every week. The pricing is also very reasonable for SMBs just getting started with email marketing. The design options aren't as flexible as I'd like. There are a limited number of fonts available and that can make branding a bit more difficult.",
+      "role": "Higher Education",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "MailChimp's integrations and add-ons make this tool significantly more flexible than some of the other options"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "24396",
+      "date": "6/30/2014",
+      "rating": 3.0,
+      "title": "Good email campaign starter, but not the finisher you're looking for",
+      "text": "The best thing about Mailchimp is that it is free to start. Depending on needs it can scale higher, but not something I would advise. With Mailchimp being free, it allows you to get your feet wet and really dive into email campaigns. You can create templates and have the ability to even embed forms on your website. For being a free solution, it really is the best solution. Mailchimp is fairly limited in what you can create. The other main issue I have with it is any lists created in MailChimp does not directly translate to other services. For example, if you create an email list in MailChimp and end up going to another service like Aweber, everyone on that list will need to re-opt-in with the new responder. This can be an inconvenience if not communicated correctly to clients, but also is a pain going through the process.",
+      "role": "Computer Software",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "For being a free solution, it really is the best solution"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "13687",
+      "date": "5/23/2013",
+      "rating": 5.0,
+      "title": "So easy a monkey can do it!",
+      "text": "Easy to set up an integrate into any website. Perfect for creating a mailing list on a blog. The tutorials are great too and distill a lot of information into simple terms. The support team is very responsive and the site's design makes it fun to use. I would like to see more tutorials on the site regarding API interface and automation, but I haven't delved into this fully yet so I may be speaking too soon.",
+      "role": "Information Technology and Services",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Easy to set up an integrate into any website. Perfect for creating a mailing list on a blog. The tutorials are great too"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "16944",
+      "date": "10/7/2013",
+      "rating": 4.0,
+      "title": "Great For Starters",
+      "text": "It is a great mail service, especially when trying to sendI blast emails. For small business companies its especially useful because you can send emails through a company email with the address being the company's name. For example email@yourcompany.com. It is a service you pay for but it is pretty easy to use and great for office staff and keeping track of emails. On another note, it is also a great email for personal use as well. That one is free. It got a bit expensive after a little while. The company I used to work for used mail chimp and switched to a different email provider because the blast emails got expensive after a while.",
+      "role": "Health, Wellness and Fitness",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "The company I used to work for used mail chimp and switched to a different email provider because the blast emails got expensive after a while"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "24723",
+      "date": "7/9/2014",
+      "rating": 5.0,
+      "title": "Easy to use, friendly interface that gives you the power of email without the hassle",
+      "text": "MailChimp is EASY to use. There are plenty of options and powerful features, but the general interface and cute little quotes and images don't make you think you're using a powerful business tool, but instead a fun little \"game\" or \"toy\" that rewards you for doing things right. It is also very scale-able, which is helpful in our case since we sometimes send LOTS of emails and other times send almost none. Our current approach is to buy big batches of credits and use them as needed. Although it is quite cute, some of the error message text or the related success messages make it tough to \"sell\" to a senior executive who may be thinking the tool isn't powerful or professional enough. Even the name is a little silly. I also wish we could dig a little deeper to determine WHO opened, clicked, etc. on emails rather than just seeing the numbers. This is why we will soon be moving away from MailChimp to a solution within our CRM instance.",
+      "role": "Corporate Marketing Manager",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "This is why we will soon be moving away from MailChimp to a solution within our CRM instance"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "211307",
+      "date": "12/20/2016",
+      "rating": 2.0,
+      "title": "Good functionality; poor design",
+      "text": "Mailchimp makes it easy to send emails to thousands of clients, as well as pre-scheduling emails in advance so you can set and meet email marketing deadlines. There is a lack of email layout templates. Unless you want to hard code your own, there is not much flexibility in some of the designs. It is also complicated to upload lists within segments if you are a newbie (not as simple as some other email software).",
+      "role": "Verified User in Furniture",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "makes it easy to send emails"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "12339",
+      "date": "4/18/2013",
+      "rating": 4.5,
+      "title": "Traffic Driver",
+      "text": "Aside from the price and opt-in source tracking, the ease of archiving your own content (autosync) to YOUR website and improve SEO is the best and most underutilized feature of this software. List management. It's hard to import contacts and campaign delivery can get sticky with multiple lists.",
+      "role": "Research",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "the best and most underutilized feature"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "4939",
+      "date": "10/1/2012",
+      "rating": 2.5,
+      "title": "Another mail marketing program",
+      "text": "We used a demo of MailChimp for a while & it did what we needed to. The interface was actually quite impressive and the feedback reporting was decent. I know it sounds lame, but our marketing department did not want to keep using it because of the name--when the users did see the name, they were a little \"turned off\" by it.",
+      "role": "Medical Devices",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "our marketing department did not want to keep using it"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "35994",
+      "date": "2/16/2015",
+      "rating": 5.0,
+      "title": "Staying in Touch with my list of 800+ contacts for Training Programs.",
+      "text": "It's the best way to keep in touch on a weekly basis with a list of more than 800 trainees regarding new training sessions, conferences, giveaways, updates and product releases. Since I offer a free training program, a free way of sending emails to everyone is great. Creating lists takes a bit of extra time, perhaps a more simple way of adding contacts to a list/group would do more justice.",
+      "role": "Internet",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "keep in touch on a weekly basis with a list of more than 800 trainees",
+        "resonance_evidence": "a free way of sending emails to everyone is great"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "19809",
+      "date": "2/16/2014",
+      "rating": 5.0,
+      "title": "Simple and Easy to use",
+      "text": "The ease of use and navigation throughout the app to get what I need done. that it does not integrate with my CRM Kickserv",
+      "role": "Co Founder & CEO of Kickserv",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews",
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "The ease of use and navigation throughout the app to get what I need done"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "36328",
+      "date": "2/18/2015",
+      "rating": 5.0,
+      "title": "Great free features and functionality",
+      "text": "I love that I can use the free version of MailChimp, and it's actually pretty powerful. I'm able to send out RSS-fed campaigns to blog subscribers and not have to worry about drafting and sending an e-mail every time I write a new blog post. There are options to include images and related posts, and I'm able to keep my subscribers nurtured and coming back for more. Plus, the form functionality is easy-to-use and implement throughout my website. Because of this, I can easily grow my list, and stay in touch with the users on my site. Form integration can be a little bit confusing, and sometimes limited using the free version",
+      "role": "Marketing and Advertising",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "I'm able to send out RSS-fed campaigns to blog subscribers and not have to worry about drafting and sending an e-mail every time I write a new blog post",
+        "resonance_evidence": "I love that I can use the free version of MailChimp, and it's actually pretty powerful"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "56858",
+      "date": "8/6/2015",
+      "rating": 5.0,
+      "title": "Great tool for young growing companies",
+      "text": "This is the easiest way to manage a weekly email campaign for a young growing company. The list management is brilliant. The integrations with a universe of 3rd party providers like Google Docs, Squarespace, etc. are very efficient. The design templates are solid as is the WYSIWYG editor. The Aviary photo editing integration makes photos easy. Analytics and tracking are very well done. There could be more templates and typefaces. Responsive designs are not always effective. Automation and data feeds are limited.",
+      "role": "Partner",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "This is the easiest way to manage a weekly email campaign for a young growing company"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "87093",
+      "date": "1/12/2016",
+      "rating": 5.0,
+      "title": "Perfect for E-Blasts and Newsletters!",
+      "text": "Great templates are provided and easily customized or you have the option to build from scratch! Easily add subscribers to your email lists or bulk import existing lists in a few clicks! Website widgets and tons of integration options make this tool a must have Nothing comes to mind. This is ideal for small businesses that want to send out an e-Blasts or Newsletters!",
+      "role": "Owner",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "This is ideal for small businesses that want to send out an e-Blasts or Newsletters!"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "184708",
+      "date": "10/25/2016",
+      "rating": 5.0,
+      "title": "Efficient, Easy to use, professionally designed and affordable",
+      "text": "Paying attention to every details which a marketer needs. Everything is around, no need to wandering. Lists are easy to manage and reporting is good enough for an email campaign. Integration with 3rd parties are in TOP5 list as most of platforms are supporting Mailchimp with no issue. Template code editing! wish I could edit the basic templates in place not in a separate section. Also, the SPAM filtering is very strict which is good but sometimes it doesn't help user to solve the problem of the imported list with no clue! Managing layout is good but sometimes its not flexible enough to make what exactly you want and you have to create your own template which is another issue!",
+      "role": "IT Business Consultant",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "reporting is good enough for an email campaign"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "114199",
+      "date": "4/2/2016",
+      "rating": 5.0,
+      "title": "the best service for email marqueting",
+      "text": "ease of use, integration with other platforms, their editable templates, plans and rates user registration and authentication , are difficult for the user first enters, have lag to validate user lists",
+      "role": "E-Learning",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "ease of use, integration with other platforms, their editable templates, plans and rates"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "136639",
+      "date": "10/31/2017",
+      "rating": 5.0,
+      "title": "Easy and professional",
+      "text": "It's easy to customize and add in your own content/logos. That you have to pay for more subscribers.",
+      "role": "Information Technology and Services",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews",
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "It's easy to customize and add in your own content/logos."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "294651",
+      "date": "5/18/2017",
+      "rating": 0.0,
+      "title": "Opposite of user-friendly!",
+      "text": "I don't know anything that I enjoy about this program. It is terribly hard to use. I do not create blank templates within the software, which may be the reason that I find it so hard to use. I have to make campaigns every few months for the university and upload from a .pdf file and it usually takes me half of the day to remember what to do. It's hard to even search and find an answer. I have made myself a note now, however, to save more problems in the future. Just think that a website based on sending mail campaigns wouldn't be so complicated.",
+      "role": "Administrative Assistant",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "it usually takes me half of the day to remember what to do",
+        "resonance_evidence": "I don't know anything that I enjoy about this program. It is terribly hard to use."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "452815",
+      "date": "11/2/2017",
+      "rating": 0.0,
+      "title": "Avoid if possible",
+      "text": "Signup process was fast and easy and required no payment information to test some of the features. Exceptionally poor customer service. Our account was suspended and despite being a paying customer, never had the opportunity to speak with an actual human being. Rather, we received canned emails saying we were no longer welcome as a customer. Our list was gathered organically from our website, had a low bounce and very low unsubscribe rate yet somehow we were removed from the platform without a question. MailChimp will not tell us what we did wrong, only that we violated their acceptable use policy after having used the same list, templates, and campaigns for months with no issues. It's unfortunate that they treat their customers in such a way and would never recommend this service to a colleague.",
+      "role": "Verified User in Computer Software",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "would never recommend this service to a colleague"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "1578498",
+      "date": "1/15/2019",
+      "rating": 0.0,
+      "title": "very disappointing .. no view, no visitors but i lost money for FB ads",
+      "text": "very disappointing .. no view, no visitors but i lost money for FB ads they are taking all your budget amount no matter what is the ads result is. reply from support - \"Just to clarify, it is a minimum of $5 for MailChimp/Facebook to RUN your AD, this does not include customer, or subscriber engagement. For example, there is a cost to run an AD in a newspaper, which does not guarantee that the AD will be read; the cost is strictly for the AD to be run/posted.\" if you set $100 budget and ads time for 2 days, if you get 0 view, visit, impressions then also they are taking $100 from your account.",
+      "role": "Information Technology and Services",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "if you set $100 budget and ads time for 2 days, if you get 0 view, visit, impressions then also they are taking $100 from your account",
+        "resonance_evidence": "very disappointing"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "2277251",
+      "date": "5/15/2019",
+      "rating": 0.0,
+      "title": "FRUSTRATING. Locked our domain. No idea why. No way you can talk with anyone to find out.",
+      "text": "Nothing to see here.... most companies offer customer service. Not these monkeys Everything. Who likes zero? Mailchimp does. Its not that we had spent a lot of time developing anything. Its that our ERP system offers one way to link to such a service and that is Mailchimp. Locked out? Time to eat some bananas, as you will spend more time than it is worth looking for a way to contact someone and still fail and still have no other option",
+      "role": "Verified User in Electrical/Electronic Manufacturing",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "most companies offer customer service. Not these monkeys"
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "4370080",
+      "date": "9/1/2020",
+      "rating": 0.0,
+      "title": "Worst Marketing Platform I've Ever Used.",
+      "text": "Nothing. The entire platform is horrible to use. Everything. The lack of organization of email campaigns, the lack of accessibility, and how every time I go to upload bulk contacts in a new tag, the site breaks and/or errors out and the only way to fix it is to clear my cache and cookies EVERY TIME for it to even work. This entire platform is horrible and thankfully we won't be on it very much longer. Also, the lack of exported email campaign metrics is annoying. In order for me to get any metrics on open rates, click rates, etc I have to manually input them. Plus, you can't highlight and copy/paste A/B test subject lines once its been sent so you use to look up emojis and re-type the entire thing. So stupid.",
+      "role": "Verified User in Retail",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "every time I go to upload bulk contacts in a new tag, the site breaks and/or errors out and the only way to fix it is to clear my cache and cookies EVERY TIME",
+        "resonance_evidence": "The entire platform is horrible to use."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "4341659",
+      "date": "8/13/2020",
+      "rating": 0.0,
+      "title": "Mailchimp review",
+      "text": "It's fairly simple to set up an account. If your a newbie and just using wordpress or some simple site for a brand new business, there's plugins to help make it easier to use. \\- Poor Customer Support. They didn't want to help solve our issue and keep us as a customer. Instead of working with us to save a legitimate customer who wants to use the solution, they would rather work with spammers who instead misuse the platform and the Internet. \\- It's a terrible solution and company that takes advantage of people and businesses. I'll never work with them again and will make sure everyone I know never will either. \\- There's literally little documentation on how to configure the solution for our needs. \\- There's security, performance and stability issues. \\- They try to lock you into their own solution. If you have any mailing list users already, they will require you to migrate them all to their platform. \\- It's not very intuitive to use. They don't seem to make any investment in making the platform easier for users from UI/UX and seem more focused of their own backend technology instead of customers needs.",
+      "role": "Verified User in Security and Investigations",
+      "company_size": "Enterprise (> 1000 emp.)",
+      "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "It's a terrible solution and company that takes advantage of people and businesses. I'll never work with them again and will make sure everyone I know never will either."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "3782234",
+      "date": "12/1/2019",
+      "rating": 0.0,
+      "title": "Should be easy - but its not -",
+      "text": "Free service up to a certain amount on list Not that easy to use - has a lot of hiccups and not enough accessories to make your newsletter look great.",
+      "role": null,
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Not that easy to use - has a lot of hiccups and not enough accessories to make your newsletter look great."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "7112856",
+      "date": "9/17/2022",
+      "rating": 0.0,
+      "title": "Mailchimp doesn't take spam seriously",
+      "text": "The software is fairly easy to use and is flexible. Mailchimp refuses to take spam seriously. I have reported hundreds of messages to them and they take a very long time to respond. They have no method to block your domain from being imported . Mailchimp thrives off spammers using their free offering and they simply rinse and repeat sending spam to email lists they purchase and then import to mailchimp. Mailchimp doesn't want you to be able to opt out of having your email address or domain imported into these lists as they would lose business. If mailchimp is as serious about spam as the false promise they claim to be, they need to introduce a method for a domain to be impossible to import from a list, therefore combatting spam completely. They could still allow email form sign up + email confirmation opt in, but they refuse to.",
+      "role": "IT Support",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I have reported hundreds of messages to them and they take a very long time to respond."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "6961837",
+      "date": "8/9/2022",
+      "rating": 0.0,
+      "title": "Not Worth it",
+      "text": "MailChimp has really good branding, but that is about it. That they disconnected their app to Shopify, don't follow GDPR guildelines (or at least they didn't), and their payment is high for what you receive. I also found their many emails spammy.",
+      "role": "Verified User in Design",
+      "company_size": "Small-Business (50 or fewer emp.)",
+      "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "MailChimp has really good branding, but that is about it. That they disconnected their app to Shopify, don't follow GDPR guildelines (or at least they didn't), and their payment is high for what you receive."
+      }
+    },
+    {
+      "portal": "G2",
+      "review_id": "12970863",
+      "date": "6/17/2026",
+      "rating": 0.0,
+      "title": "Promising Features Hampered by Unreliable SMS Automation",
+      "text": "What I liked most was the idea of having multiple marketing tools in one place. The platform offers campaign management, audience/contact management, landing pages, automations, and SMS marketing, which is why we chose it in the first place. The dashboard and campaign list were fairly easy to navigate, and I liked that I could see the status of campaigns and automations in one place. The concept of building keyword-based SMS automations was also appealing because it could have allowed us to grow our email marketing list. Unfortunatly, while I liked the idea of the platform and what it appeared to offer, the expeience did not meet expectations. The SMS keyword automation did not work consistently for text to join, and the support experience made it difficult and did not resolve the issue or offer a resolution. So what I liked most was the potential of the platform, but the execution did not work for our needs. The biggest thing that did not work well for us was the SMS keyword automation. We switched form Clearstream which worked flawlessly. We were trying to use Mailchimp to help us grow from SMS campaigns only into email marketing. We do not currently have an email list cultivated, so our goal was to use the text to join SMS keyword automation to grow our email list. We do this through giveaways. Unfortunately, the keyword SMS flow did not work consistently. We tested with multiple phone numbers. Originally two of the phone numbers were already in our general audience from our contact import. After archiving all imported contacts, the two phone numbers texted the keyword again and they finally got the automated response. Two phone numbers that have never been imported into mailchimp tried and never recieved a response, their numbers never showed up in mailchimp as sending the keyword to our assigned mailchimp phone number for our sms platform. Support said they would have to be manually added then send the text with keyword for them to be added to the list. Which d",
+      "role": "Owner Operator",
+      "company_size": "Mid-Market (51-1000 emp.)",
+      "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews",
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "We switched form Clearstream which worked flawlessly.",
+        "resonance_evidence": "the expeience did not meet expectations. The SMS keyword automation did not work consistently for text to join, and the support experience made it difficult and did not resolve the issue or offer a resolution."
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "May 15, 2026",
+      "rating": null,
+      "title": null,
+      "text": "It\u2019s a great option for businesses and individuals looking to manage marketing campaigns efficiently without needing advanced technical skills. While pricing can increase as your audience grows and some advanced features require higher-tier plans, the overall functionality and ease of use make it a reliable and effective marketing platform.",
+      "role": "Operator",
+      "company_size": "201-500 employees",
+      "source_url": "https://www.capterra.com/p/110228/MailChimp/reviews/",
+      "sample_order": "page"
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "June 8, 2026",
+      "rating": null,
+      "title": null,
+      "text": "The worst part is that Mailchimp includes unsubscribed or inactive contacts in the billing, forcing me to do a recurring and tedious manual cleanup to avoid paying for empty space.",
+      "role": "Artist and Tour Manager",
+      "company_size": "10,001+ employees",
+      "source_url": "https://www.capterra.com/p/110228/MailChimp/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "forcing me to do a recurring and tedious manual cleanup",
+        "resonance_evidence": "The worst part is that Mailchimp includes unsubscribed or inactive contacts in the billing, forcing me to do a recurring and tedious manual cleanup to avoid paying for empty space."
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "June 8, 2026",
+      "rating": null,
+      "title": null,
+      "text": "The templates, automation features, and reporting tools make it efficient to communicate with audiences and track engagement. While there can occasionally be a learning curve with some advanced features, the platform generally provides a reliable and effective solution for email marketing needs.",
+      "role": "Associate",
+      "company_size": "11-50 employees",
+      "source_url": "https://www.capterra.com/p/110228/MailChimp/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "the platform generally provides a reliable and effective solution for email marketing needs."
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "June 17, 2026",
+      "rating": null,
+      "title": null,
+      "text": "Multiple test phone numbers texted the assigned keyword, but the entries did not reliably show in the dashboard, did not appear in the queue, and did not receive the automated SMS response.",
+      "role": "Marketing Coordinator",
+      "company_size": "501-1,000 employees",
+      "source_url": "https://www.capterra.com/p/110228/MailChimp/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "entries did not reliably show in the dashboard, did not appear in the queue, and did not receive the automated SMS response",
+        "resonance_evidence": "Multiple test phone numbers texted the assigned keyword, but the entries did not reliably show in the dashboard, did not appear in the queue, and did not receive the automated SMS response"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "April 13, 2026",
+      "rating": null,
+      "title": null,
+      "text": "It gives you everything you need in one place, from email marketing and automation to segmentation, landing pages, and reporting, which makes it a very complete platform for serious marketing work.",
+      "role": "Marketing Manager",
+      "company_size": "501-1,000 employees",
+      "source_url": "https://www.capterra.com/p/110228/MailChimp/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "It gives you everything you need in one place, from email marketing and automation to segmentation, landing pages, and reporting, which makes it a very complete platform for serious marketing work"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "March 4, 2026",
+      "rating": null,
+      "title": null,
+      "text": "The high-intensity pricing structures are not so good in terms of value when our customer base is increasing and customer service is virtually useless when you fall into their rigid spam filtering software.",
+      "role": "E-Commerce Manager",
+      "company_size": "11-50 employees",
+      "source_url": "https://www.capterra.com/p/110228/MailChimp/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "The high-intensity pricing structures are not so good in terms of value when our customer base is increasing and customer service is virtually useless when you fall into their rigid spam filtering software"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "March 30, 2026",
+      "rating": null,
+      "title": null,
+      "text": "The drag\u2011and\u2011drop editor, pre\u2011designed templates, and clear workflows make day\u2011to\u2011day email marketing straightforward, even without extensive technical or design experience.",
+      "role": "Legal Assistant",
+      "company_size": "51-200 employees",
+      "source_url": "https://www.capterra.com/p/110228/MailChimp/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "The drag\u2011and\u2011drop editor, pre\u2011designed templates, and clear workflows make day\u2011to\u2011day email marketing straightforward, even without extensive technical or design experience"
+      }
+    },
+    {
+      "portal": "Capterra",
+      "review_id": null,
+      "date": "March 2, 2026",
+      "rating": null,
+      "title": null,
+      "text": "There are WP integration security issues that have come up by my hosting provider. While I keep all my software up-to-date, I have to keep scanning/repair software running in the background at all times.",
+      "role": "Corporate Finance",
+      "company_size": "2-10 employees",
+      "source_url": "https://www.capterra.com/p/110228/MailChimp/reviews/",
+      "sample_order": "page",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "I have to keep scanning/repair software running in the background at all times",
+        "resonance_evidence": "There are WP integration security issues that have come up by my hosting provider. While I keep all my software up-to-date, I have to keep scanning/repair software running in the background at all times"
+      }
+    },
+    {
+      "portal": "Gartner Peer Insights",
+      "review_id": null,
+      "date": "Apr 9, 2026",
+      "rating": 4.0,
+      "title": "Reliable Email Marketing Platform That Scales With Your Business",
+      "text": null,
+      "body_gated": true,
+      "role": "Cmo",
+      "company_size": "50M - 250M USD, Consumer Goods",
+      "sentiment_label": "FAVORABLE",
+      "source_url": "https://www.gartner.com/reviews/product/ailchimp-594139131",
+      "sample_order": "page"
+    },
+    {
+      "portal": "Gartner Peer Insights",
+      "review_id": null,
+      "date": "May 13, 2026",
+      "rating": 3.0,
+      "title": "Mailchimp Suited Basic Needs But Faced Challenges With Advanced Ecommerce Automation",
+      "text": null,
+      "body_gated": true,
+      "role": "E-Commerce Coordinator",
+      "company_size": "50M - 250M USD, Retail",
+      "sentiment_label": "CRITICAL",
+      "source_url": "https://www.gartner.com/reviews/product/ailchimp-594139131",
+      "sample_order": "page"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-08-12",
+      "rating": 1,
+      "title": "Paid for a plan, banned the next day, no refund",
+      "text": "Paid for a plan, banned the next day, no refund and support completely ignores me My experience with this service has been absolutely unacceptable. I purchased a paid plan for 10,000 contacts. Initially, I uploaded more contacts than my plan allowed. The system displayed an error telling me to either upgrade my plan or remove the extra contacts. Fair enough. I did exactly what they asked. I cleaned the contact list and reduced it to 10,000 contacts, which was exactly within the limit of the plan I had paid for. However, my account remained restricted and I still could not send any campaigns. So I contacted customer support expecting them to simply review the account and remove the restriction. What happened instead? They banned my account. No proper explanation. No warning. No solution. The account was literally one day old. They took payment for the subscription, I complied with their contact limit, and when I contacted support because their system was still preventing me from using the service I had paid for, my account was simply blocked. I have contacted support multiple times since then and they are not answering my emails at all. And the money has not been refunded. From a customer's point of view, this looks extremely bad: take the payment, block the account, provide no explanation, ignore the customer and keep the money. I paid for a service that I was effectively unable to use. If there was supposedly some issue with my account, the very least a legitimate company should do is explain what happened, answer the customer and either restore access or issue a refund. Instead, I have received nothing but silence. Based on my experience, I would strongly recommend thinking twice before paying for this service. If something goes wrong with your account, you may find yourself with no access, no support and no refund - while they already have your money.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "I purchased a paid plan for 10,000 contacts",
+        "resonance_evidence": "Paid for a plan, banned the next day, no refund and support completely ignores me My experience with this service has been absolutely unacceptable"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-08-11",
+      "rating": 3,
+      "title": "Outlook compatibility.",
+      "text": "Outlook compatibility. We use MailChimp for internal communications rather than marketing communications. I wish that MailChimp was more compatible with outlook. I think that when you are looking at demographics that maybe an area that you could tap into.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "I wish that MailChimp was more compatible with outlook"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-08-11",
+      "rating": 1,
+      "title": "Mail chimp is simply awful",
+      "text": "Mail chimp is simply awful. Login gets stuck if you have another Intuit account like QuickBooks. I tried to log in so many times today. I used the forgot my Username and it told me what my username was after a few tries. Went to retrieve my password because the one I saved was overwritten by QuickBooks and the monkeys login told me my username did not exist. Complete garbage",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Mail chimp is simply awful"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-08-10",
+      "rating": 1,
+      "title": "Terrible customer service",
+      "text": "Terrible customer service. After getting locked out of my account, I repeatedly emailed customer support to cancel my membership, but they refused to process the request. I was ultimately forced to issue a chargeback and block recurring debits through my credit card company just to stop the charges.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "forced to issue a chargeback and block recurring debits through my credit card company just to stop the charges",
+        "resonance_evidence": "Terrible customer service"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-08-05",
+      "rating": 2,
+      "title": "Just such a bad tool with loads of\u2026",
+      "text": "Just such a bad tool with loads of problems, and customer service makse you wait ages, and they also most of the time dont know what the problem is. I think this company might die soon.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Just such a bad tool with loads of problems"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-08-04",
+      "rating": 5,
+      "title": "I spoke with Mars on billing and it was\u2026",
+      "text": "I spoke with Mars on billing and it was fast, easy and without stress. Mars understood what I needed and I'm glad it was resolved right away. Thank yoU!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "I'm glad it was resolved right away"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-08-04",
+      "rating": 5,
+      "title": "Eugiene was very helpful and\u2026",
+      "text": "Eugiene was very helpful and knowledgable",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Eugiene was very helpful and knowledgable"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-08-03",
+      "rating": 1,
+      "title": "DO NOT USE...",
+      "text": "DO NOT USE... You pay for everything and cancelling your plan is impossible...",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "DO NOT USE"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-08-03",
+      "rating": 5,
+      "title": "Annalisa, was very thoughtful, understanding and helpful in resolving a billing issue. Many thanks for your help!",
+      "text": "Thoughtful and understanding",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-08-03",
+      "rating": 3,
+      "title": "Cumpre com a entrega, mas tem potencial de melhora",
+      "text": "Muitas vezes o Mailchimp muda os t\u00edtulos sozinho e n\u00e3o permite corrigir. Se uma altera\u00e7\u00e3o \u00e9 feita, n\u00e3o \u00e9 aplicada. Outro ponto que precisa ser melhorado \u00e9 o painel de m\u00e9tricas. Os dados relevantes precisam ser mais claros e melhor apresentados visulamente.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Outro ponto que precisa ser melhorado \u00e9 o painel de m\u00e9tricas"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-08-01",
+      "rating": 5,
+      "title": "A great tool for Email Marketing",
+      "text": "User friendly interface and excellent communications",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "User friendly interface and excellent communications"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-08-01",
+      "rating": 1,
+      "title": "Long-time customer disappointed by the lack of communication and customer support",
+      "text": "We have been Mailchimp customers for many years, and unfortunately this has been the worst experience we have had with the platform. Our complaint is not only about the account suspension, but about the way the entire situation was handled. On July 25, we successfully paid our outstanding invoice. Once the payment was processed, the suspension warning banner disappeared from our account. No new warning or notification appeared indicating that another payment would be due on July 30, or that our account would be suspended immediately without any grace period. On July 30, our account was suspended, seriously affecting our business operations and our ability to communicate with our customers. We waited many hours for a response from support while our business remained unable to operate, and we even received automated replies that were unrelated to our case. The Billing team later explained that no additional grace period could be granted because two grace periods had already been used in previous billing cycles. However, this limitation had never been communicated to us. If there is a limit on the number of grace periods, customers should be clearly informed before an account is suspended. We are not trying to avoid paying our invoices. Our business depends on receiving payments from our own customers, and we have always brought our account up to date. What we needed was a short period of flexibility to continue operating while waiting for those scheduled payments. What disappoints us the most is not only the billing decision itself, but the lack of communication, the slow response from support, and the complete absence of any effort to mitigate the impact on a loyal customer who has trusted Mailchimp for many years. We hope Mailchimp reviews this case at a higher level and improves its communication and customer support processes so that other long-term customers do not experience the same situation. Case Reference: 15163600800",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "On July 30, our account was suspended, seriously affecting our business operations and our ability to communicate with our customers",
+        "resonance_evidence": "this has been the worst experience we have had with the platform"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-31",
+      "rating": 1,
+      "title": "Pratique commerciale frauduleuse",
+      "text": "Pratique commerciale frauduleuse, exp\u00e9rience client nulle. On s'arrange pour vous prendre votre argent mais aucun effort n'est fait pour vous aider. Vous avez fait une fausse manoeuvre et avez \u00e0 pr\u00e9sent plus de contacts, m\u00eame pendant une seconde? Vous payez! Tout est fait pour capter votre argent, et rien pour vous aider. Passez votre chemin , trouvez un fournisseur avec un minimum d'esprit client, et laissez couler cette entreprise rapace qui gaspille de l'espace.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-31",
+      "rating": 1,
+      "title": "Can't login. No support. Retarded UX",
+      "text": "I can't login. It's impossible - you already have an account, you can't register - forgot password? - you don't have have an account - you blocked on 60 min after 4 attempts - logged into another account few times, each time different projects inside. One time is shared client account, another free tier. No chance to switch. Retarded UX. No support. Guys, hire at least one QA in your team.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-30",
+      "rating": 3,
+      "title": "naja",
+      "text": "Es funktioniert grunds\u00e4tzlich gut, allerdings empfinde ich das Unternehmen als sehr verbraucherunfreundlich. Ich verstehe nicht, warum alle meiner Daten gel\u00f6scht werden, sobald ich mich gegen ein kostenpflichtiges Abonnement entscheide. Es sollte doch m\u00f6glich sein, die Daten zu behalten und den Zugriff lediglich einzuschr\u00e4nken, anstatt sie vollst\u00e4ndig zu l\u00f6schen.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-29",
+      "rating": 1,
+      "title": "What a difficult to use system",
+      "text": "What a difficult to use system! After you create a template, it should have a send button to lead to the next step and send this out. But no! The system just wants to fool you around and make you stuggle, make simple things difficult! And the price is expensive! Will need to find a better alternative. I don't recommend it!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-29",
+      "rating": 1,
+      "title": "Zero customer service",
+      "text": "Zero customer service. I received a charge I did not recognize to my card, because it has always been Mailchimp. Now it came Intuit. I charged it back and cancelled my card because I thought it was fraudulent. Days later I received an email from Mailchimp stating my card had been declined. I realized what had happened then. I went to their site and paid with a new card. Still my account is suspended even though they got my payment. All the customer \"service\" guy could tell me is: talk to your bank. I can even see on my billing history that it has been paid, even on their site. Horrible experience",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-24",
+      "rating": 1,
+      "title": "Zero Customer Support After Account Suspention",
+      "text": "I signed up for the paid service to use for my PR outreach efforts. I have explicit permission to use the contacts I have from approved databases, yet my account was restricted, and I received no customer support. So I wasted $45 and had to use another service to get my work done.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-23",
+      "rating": 1,
+      "title": "Support Not Knowledgable",
+      "text": "It took 3 months to get my contacts as subscribers. I paid for the service and could not use it. No one knew how to get the contacts in as subscribers. A lot of time wasted on the phone with support. Now that they are subscribers the live help has expired. I asked for it to be extended was told no. I asked for credit for the 3 months of payments they said no.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-23",
+      "rating": 4,
+      "title": "Still learning the system but it\u2019s good\u2026",
+      "text": "Still learning the system but it\u2019s good for the most part and helps me send emails to customers.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-23",
+      "rating": 3,
+      "title": "ok to use but didn't get great results",
+      "text": "ok to use but didn't get great results",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-22",
+      "rating": 5,
+      "title": "I had a question",
+      "text": "I had a question, and it was answered promptly and professionally, and totally understood my situation ... great personal service.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "great personal service"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-22",
+      "rating": 5,
+      "title": "Great",
+      "text": "Great - solved my issue fast and easily. Super clear",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Great - solved my issue fast and easily. Super clear"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-17",
+      "rating": 1,
+      "title": "J'avais d\u00e9j\u00e0 ma base de clients et je\u2026",
+      "text": "J'avais d\u00e9j\u00e0 ma base de clients et je voulais me faciliter le travail avec eux mais ilpossible qu'ils recouvent les mails... J'ai donc abandonn\u00e9",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "ilpossible qu'ils recouvent les mails... J'ai donc abandonn\u00e9",
+        "resonance_evidence": "J'ai donc abandonn\u00e9"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-16",
+      "rating": 1,
+      "title": "0/10 Terrible experience",
+      "text": "Update: I sent email to mc-socialreviews on July 20th with no respond , I sent also to many top management in your company no one answered or replied my emails , as mentioned in my review you don't care about your clients !!! 0/10 Terrible experience. The sales team was very responsive until I completed my payment. After that, customer support completely disappeared. My account was suspended without any clear explanation, and emailing multiple people across the company, no one responded. This level of customer service is unacceptable. I will never use this service again and cannot recommend it to anyone.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I will never use this service again and cannot recommend it to anyone"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-15",
+      "rating": 1,
+      "title": "Bad customer service, answers to my question about an automation differed based on employee I talked to",
+      "text": "Not easy to navigate, will not work the way the person who set it up with me said it would, they would not issue a refund when I requested (since they told me automations could do something they cannot in fact do). Customer service is dismal.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Not easy to navigate, will not work the way the person who set it up with me said it would"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-13",
+      "rating": 1,
+      "title": "Years as a Customer, but Mailchimp\u2019s Support Has Become an AI Dead End",
+      "text": "We have had a Mailchimp account for many years, but our recent experience has been extremely frustrating. When testing an email template, none of the test emails arrived. We tried sending them to three different email addresses, but not a single message was delivered. The support experience was even worse. I explained the problem clearly several times, but the AI chat assistant repeatedly asked whether the emails had landed in the spam folder and kept telling me to resend them. I had already checked the spam folders and had clearly stated that the emails had not arrived anywhere. Instead of understanding the answer or escalating the issue to a competent support agent, the AI system simply repeated the same irrelevant questions and suggestions. There was no useful troubleshooting, no proper investigation and no actual support. A support system that ignores precise answers and sends customers around in circles is not support at all. Mailchimp\u2019s template testing currently does not work for us, and its AI support is repetitive, ineffective and completely useless.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-08",
+      "rating": 1,
+      "title": "Fra tilfreds bruger til utilfreds bruger...",
+      "text": "Jeg har v\u00e6ret en tilfreds bruger i mange \u00e5r, dog med en gratis konto. Pludselig havde jeg overskredet gr\u00e6nsen for tilladte kontakter (audience). Det er fair nok, s\u00e5 jeg opgraderede til en \"paid plan\". Efter kort tid var min vurdering, at jeg ikke fik tilstr\u00e6kkelig \"value for money\", s\u00e5 jeg ville downgrade til gratis konto igen, og her opstod problemet, for det kan man - til min store overraskelse - ikke bare g\u00f8re. Jeg havde nemlig opbrugt min mulighed for dette?!?!? WHAT? S\u00e5 eneste mulighed var en s\u00e6tte planen p\u00e5 pause, dvs. at Mailchimp senere automatisk begynder at opkr\u00e6ve penge igen. Jeg er de facto l\u00e5st til at skulle betale dem penge. Jeg kan ikke downgrade men kun upgrade. Det er jo vanvittigt. Nu afventer jeg at h\u00f8re fra deres billing team. Man er jo vant til, at alle online services har en nem m\u00e5de at downgrade p\u00e5 - men alts\u00e5 ikke hos mailchimp. Kan IKKE anbefales! \u2639\ufe0f",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-07",
+      "rating": 5,
+      "title": "High Customer Services",
+      "text": "High Customer Services",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-06",
+      "rating": 1,
+      "title": "Customer service does not read correspondences",
+      "text": "Updated: I emailed the address in their response to this review, and after 11 days they still have not responded. I have faithfully used Mailchimp since 2020, when they had a promotional for a free domain to push their website building. Although the builder was more limited than other options, it met my needs, and I already used their email system. In 2026 I found that my website was blocked and listed to visitors as a proven malicious site; this happened at an incredibly awful time and cost me partnerships. If you are on the free tier, it is impossible to get any support, so I searched mailchimp and eventually discovered that they had changed several elements of the free their without notice, including the use of a custom domain (which had been active for 6 years.) There was no way to restore my site or talk to customer service unless I started a plan, so I did and immediately reached out. Two months later and not only have they made it right, they have often not responded in a timely manner, and when they have it is clear they have not read the correspondence. After asking to escalate the issue, a billing manager gave me the \"solution\" of downgrading. Mailchimp customer service has failed immensely, and their deceptive practice of trying to force people off the free tier is disgraceful. I help manage the mailchimp of a larger organization, and we have faced similar issues. If they did not make it so difficult to transfer sites I would leave; instead I am repeating my situation weekly to reps who do not seem to care.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "my website was blocked and listed to visitors as a proven malicious site",
+        "resonance_evidence": "Mailchimp customer service has failed immensely, and their deceptive practice of trying to force people off the free tier is disgraceful"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-06",
+      "rating": 5,
+      "title": "Customer service is awesome",
+      "text": "Customer service is awesome",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-06",
+      "rating": 5,
+      "title": "It was good",
+      "text": "It was good, the person was clear and patient",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "It was good"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-06",
+      "rating": 1,
+      "title": "una merda totale",
+      "text": "una merda totale",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-03",
+      "rating": 1,
+      "title": "I finally cut ties with this company",
+      "text": "I finally cut ties with this company, even though I\u2019d been working with them since 2023. After they charged an extra $15 for 500 additional subscribers\u2014even though I actually only have up to 2,500 subscribers\u2014but they count both \u201ccleaned\u201d and \u201cunsubscribed\u201d ones. $64 a month! No, thanks!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "charged an extra $15 for 500 additional subscribers",
+        "resonance_evidence": "I finally cut ties with this company"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-07-03",
+      "rating": 2,
+      "title": "CS hallucinating when solving SMS setup",
+      "text": "We chose to change to Mailchimp in order to organise email & text sendouts in one place. With the SMS setup we experienced issues with making sure that phone numbers were added in the correct field to enable us to use it. We reached out to support to get this resolved. After one month, being directed to 6 different people, often repeating information & tasks - they were not able to solve the issue. The experience could be compared to an LLM hallucinating: repeatedly answering incorrectly, but with confidence. To this day I am unsure whether my issue is actually technically possible to solve. To be balanced, I do want to specify that the email part of the service is, in my opinion, the best I've tried, and here I don't really have any complaints. I would rate the email service as a strong 4 or a weak 5, due to some minor friction points in the UI. That is why the total rating is not a 1. The result is us not continuing with Mailchimp for SMS, and a very bitter relationship with Mailchimp as a brand and organisation. I am genuinely surprised by the lack of effort & system knowledge from CS, especially since the direct consequence of not solving the issue directly decreased the amount spent by us as a customer. Case:15160635275",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "After one month, being directed to 6 different people",
+        "resonance_evidence": "a very bitter relationship with Mailchimp as a brand and organisation"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-29",
+      "rating": 1,
+      "title": "this is my first time working with\u2026",
+      "text": "this is my first time working with mailchimp and it has not been the best experience. I have tried twice to do a live tutorial but each time I could not connect using the link that was provided. The online experience was not better. I attempted to use the online assistance and they could not help me either. I ended up having to figure out my issue on my own.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "it has not been the best experience"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-29",
+      "rating": 5,
+      "title": "brazilian experience",
+      "text": "The tool is excellent and offers great features for anyone working with email marketing. Mailchimp was the only tool that allowed me to effectively reach clients using Microsoft services, as Outlook doesn't block emails sent from it (I\u2019m not sure why that happens with other tools, but for me, that\u2019s the key advantage).",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "Mailchimp was the only tool that allowed me to effectively reach clients using Microsoft services, as Outlook doesn't block emails sent from it",
+        "resonance_evidence": "The tool is excellent and offers great features"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-28",
+      "rating": 5,
+      "title": "Your BEST representative EVER who guided me\u2026",
+      "text": "Your representative who guided me through setting up and sending a recent email to our list. I think her name was Indigo? Indira? I\u2019m sorry I don\u2019t remember. But she stuck with me for the whole time, maybe an hour. Patiently, helpfully. Absolute GOLD STAR employee.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "stuck with me for the whole time, maybe an hour",
+        "resonance_evidence": "Absolute GOLD STAR employee"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-26",
+      "rating": 1,
+      "title": "I cant use the product for its intended\u2026",
+      "text": "I cant use the product for its intended use. I called support and she could not help me. I was supposed have secondary call but nobody has reached out.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I cant use the product for its intended use"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-25",
+      "rating": 5,
+      "title": "Fast response with solid advice for\u2026",
+      "text": "Fast response with solid advice for mitigating spam subscriptions.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "solid advice for mitigating spam subscriptions",
+        "resonance_evidence": "Fast response with solid advice"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-25",
+      "rating": 1,
+      "title": "I'm only giving it 1 because I can't go negative",
+      "text": "I'm only giving it 1 because I can't give zero or negative marks. This used to be a great service years ago, until it was sold a couple of times, now it basically appears to be a trap to lock up your mails and siphon money, EVEN IF YOU DON'T SEND A SINGLE MAIL TO YOUR AUDIENCE! Since they ramped the prices insanely, we've been trying to downgrade steadily for a year or two, but there's so many complex and convoluted processes, hidden gotchas and nested menus it always finds another way to delay your exit or bump charges. It's the SAAS equivalent of being stuck in a Vegas casino. It's taken us a year to cut back from the insane $1K amounts we were paying to what I thought was $100, but has now turned out again to be closer to $500. We are now in the process of removing it entirely from our workflow. Good riddance! There are hundreds of better options out there. DO NOT USE!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "cut back from the insane $1K amounts we were paying to what I thought was $100, but has now turned out again to be closer to $500",
+        "resonance_evidence": "I'm only giving it 1 because I can't give zero or negative marks"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-25",
+      "rating": 5,
+      "title": "Quick, helpful answer",
+      "text": "I reached out with a question, and the reply was quick, helpful and actionable! Thank you so much!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "the reply was quick, helpful and actionable! Thank you so much!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-20",
+      "rating": 1,
+      "title": "I\u2019ve had a very frustrating experience\u2026",
+      "text": "I\u2019ve had a very frustrating experience with Mailchimp and would not recommend it. Compared to platforms like Constant Contact, it\u2019s noticeably less intuitive and more difficult to navigate. Simple tasks often feel more complicated than they should be, which slows everything down. The biggest issue, however, is their support. It\u2019s very clear they are quick to make themselves available when you\u2019re in the sales process, but once you\u2019re a customer, that accessibility disappears. Instead of being able to speak with someone, you\u2019re forced into an email-based support system with long delays between responses. What should be quick fixes turn into drawn-out back-and-forth conversations, which is incredibly inefficient and frustrating. If reliable, timely support and ease of use matter to you, Mailchimp falls short in both areas.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-17",
+      "rating": 5,
+      "title": "Mailchimp has become an invaluable\u2026",
+      "text": "Mailchimp has become an invaluable communications tool for our organization. It allows us to effectively communicate with, engage, and mobilize our members and supporters through professional, visually appealing campaigns. One of the metrics we value most is our consistently above-average open rate, which tells us that both the platform and our content are resonating with our audience. Mailchimp's analytics and reporting tools provide meaningful insights that help us understand engagement, refine our messaging, and make data-driven decisions. I also appreciate the platform's best-practice recommendations, which have helped us improve everything from subject lines and preview text to overall campaign effectiveness. The interface is intuitive, the templates are flexible, and the reporting tools keep us informed and focused on continuous improvement. For organizations seeking a reliable email marketing platform with strong analytics and practical guidance, Mailchimp is an excellent choice.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "our consistently above-average open rate",
+        "resonance_evidence": "Mailchimp has become an invaluable communications tool for our organization"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-16",
+      "rating": 1,
+      "title": "Awful product and awful business.",
+      "text": "Awful product and awful business. Lagged behind other email providers for some time, but are starting to catch up. However, support is SHOCKING! I have been chasing an important support ticket for a client for months and months, progress so slow, now being COMPLETELY ignored and I've even asked to raise a complaint with a manager, to no response. Shocking customer service!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Awful product and awful business"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-16",
+      "rating": 1,
+      "title": "terrible provider",
+      "text": "terrible provider! 2-factor authentication really sucks, I can't get on my account: 2nd time in 3 months... and they do nothing!!! You have to fill in all rediculous questions... stay away from this on to send your emails...",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "2nd time in 3 months",
+        "resonance_evidence": "terrible provider!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-16",
+      "rating": 1,
+      "title": "Read the small print - huge hidden costs.",
+      "text": "Signed up to what appeared to be a reasonable monthly price only to be charged a HUGE amount (5 times the monthly fee) of hidden costs that are unavoidable. I would recommend reading ALL the small print before you sign up. Doing anything in the app is difficult and ineffective for me. Very please to be rid of it.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "charged a HUGE amount (5 times the monthly fee)",
+        "resonance_evidence": "Very please to be rid of it"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-16",
+      "rating": 5,
+      "title": "Excellent so far",
+      "text": "Excellent so far",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-13",
+      "rating": 1,
+      "title": "Some new AI feature that is apparently\u2026",
+      "text": "Some new AI feature that is apparently supposed to schedule an SMS broadcast of the campaign altered the text of the notice and got it wrong.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "altered the text of the notice and got it wrong"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-13",
+      "rating": 3,
+      "title": "When you area small business and just\u2026",
+      "text": "When you area small business and just need to send out maximum three times a year to 50-80 clients it's not a good value. It's cheaper to do it old style and send by regular mail, or even to print and send by post.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "send out maximum three times a year to 50-80 clients",
+        "resonance_evidence": "it's not a good value"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-12",
+      "rating": 5,
+      "title": "very helpful and patient!",
+      "text": "very helpful and patient!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-12",
+      "rating": 1,
+      "title": "Absolutely pathetic platform with\u2026",
+      "text": "Absolutely pathetic platform with constant issues. Even basic things like font size and line spacing. Support useless and time wasting. \u00a3800 a month to send dreadful emails my audience can barely read.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "\u00a3800 a month",
+        "resonance_evidence": "Absolutely pathetic platform with constant issues"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-11",
+      "rating": 5,
+      "title": "The operative was very helpful",
+      "text": "The operative was very helpful. We hadn't realised which plan we should be on. I understand how it works now.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "I understand how it works now"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-10",
+      "rating": 1,
+      "title": "\u2b50 1/5",
+      "text": "\u2b50 1/5 \u2014 15 Days Locked Out, Zero Resolution I have been locked out of my Mailchimp account for over 15 days due to a Two-Factor Authentication issue after changing my phone number. This is a legitimate business account under Wolfpack Sportz (Ticket #15160235671). Here's what their support put me through: \u2022 Asked me to email from a specific address \u2014 I did. No reply. \u2022 When I followed up from my personal email, they repeatedly told me to use the other address instead of actually helping. \u2022 After 15 days of back and forth, they asked me to submit a government-issued passport photo through a third-party link. \u2022 When I declined to submit my passport (which is a reasonable boundary), they offered \"verification questions\" \u2014 but that option has still not been followed through. \u2022 I have been unable to send campaigns, access my audience data, or run my business through this platform during this entire period. \u2022 Despite being a paying subscriber, I have received no billing relief, no urgency, and no resolution. The support team has been courteous in tone but completely ineffective in action. The process is circular, the security verification demands are excessive for a paying account owner, and there is no escalation path offered. Mailchimp charges monthly fees for a service I have been unable to access for over two weeks. This is unacceptable. I am now escalating to Intuit Executive Relations and filing a complaint with the FTC and BBB. If you are a small business owner \u2014 think carefully before relying on Mailchimp as a critical communication tool. One phone number change can lock you out indefinitely with no real path to recovery.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "locked out of my Mailchimp account for over 15 days",
+        "resonance_evidence": "This is unacceptable"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-09",
+      "rating": 5,
+      "title": "Very good platform that enables me to\u2026",
+      "text": "Very good platform that enables me to communicate with my large group of subscribers...",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Very good platform"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-07",
+      "rating": 2,
+      "title": "Pratique, mais devenu trop cher pour mon usage",
+      "text": "Je trouve le service tr\u00e8s pratique mais ils m\u2019ont forc\u00e9 \u00e0 passer au plan payant depuis que j\u2019ai plus de 250 contacts alors que j\u2019envoie maximum 5 newsletters par an, je trouve \u00e7a abus\u00e9, trop cher pour l\u2019usage. J\u2019h\u00e9site \u00e0 changer d\u2019outil.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-05",
+      "rating": 1,
+      "title": "AVOID MailChimp at all costs - terrible platform!",
+      "text": "Since being purchased by Intuit, MailChimp has suffered the same fate as most Intuit products, meaning they ruined what was once easy to use. I've used MailChimp - on and off - for 15+ years, and extensively for the last 5 years, and it just keeps getting worse and worse. It feels like they're making changes to the platform OFTEN and EVERY change brings new problems and makes more clicks to get my job done. It often now results in major frustration and leaves me angry....almost daily. It is the WORST piece of crap list management tool I've ever used, and I've used many of their competitors (Aweber, iContact, Constant Contact, MailerLIte, etc....the list goes on) and I STILL use a few of the others. ALL are better than MailChimp, the only reason I stick with them is because of one client who insists on it, but I\u2019m THISCLOSE to firing this client just to get away from MailChimp. I report problems to them ALL THE TIME and all I get are \"thanks for your feedback\" but nothing ever gets better, it continues to get worse. DO yourself a huge favor and choose a different company for your list management/email needs.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "DO yourself a huge favor and choose a different company"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-04",
+      "rating": 5,
+      "title": "Mailchimp is by far the best technical\u2026",
+      "text": "Mailchimp is by far the best technical support available from all the websites/Apps that I need to engage with as CEO / Sole Trader of my own company. No bot, no misinformation, just pure human communication skills and knowledge. In addition to the ability to share screens - this is a major game changer. Thank you Mailchimp Support (today - Mr Yuki)",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "by far the best technical support available"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-06-03",
+      "rating": 5,
+      "title": "Mailchimp Support to the Rescue!",
+      "text": "I had sent out an important correspondence to our membership which included a link to a document. There was an issue discovered with the document and Mailchimp customer support helped me address it so that I did not have to send out a corrected campaign. I am so grateful for the help by Lucho and the tech team.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "I am so grateful for the help by Lucho and the tech team."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-31",
+      "rating": 1,
+      "title": "Forced upsell to continue using the\u2026",
+      "text": "Forced upsell to continue using the service (as is)",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Forced upsell to continue using the service (as is)"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-29",
+      "rating": 1,
+      "title": "Extremely poor service and product",
+      "text": "Extremely poor service and product. Consist issues in revenue reporting and reliability of figures. (Dashboard says one thing, reports say another - desktop says one figure, the mobile app says another along with subscriber figure discrepancies, etc.) I was encouraged to email the Customer Success team however, I am yet to receive a single reply and all emails have gone unanswered. Myself and my team have spent hours on chatbox and phone calls running around in circles - nobody seems equipped to answer simple questions. There is little support options available despite being accounted for in billing. Constantly undergoing \"upgrades\" which seem to break features and revenue / data reporting and not sufficiently tested prior to launch and deployment. Update 01/07: Have reached out to the below contact email, supplied by Mailchimp in their reply, twice and unsurprisingly have not received any reply or acknowledgement.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Extremely poor service and product."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-28",
+      "rating": 1,
+      "title": "Horrible experience",
+      "text": "Horrible experience, avoid them by all means. Scam",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Horrible experience, avoid them by all means. Scam"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-27",
+      "rating": 1,
+      "title": "Beware, this could happen to your ecommerce",
+      "text": "Beware. This could happen to you. Mailchimp disabled my account for an unspecified compliance review, after 1 year of successful collaboration. I have tried to understand the reason behind this decision for over a week now, without any results. The compliance team never replied to my requests and the customer support team apparently has no clue of what's going on. For over a week all my marketing is not working. New customers don't receive welcome messages, messages related to the activation process, renewal notices, nor any other vital piece of communication. BEWARE, this could happen to you. And Mailchimp is not providing any information, any ideas nor timing to resolve this major issue. A disaster for any e-commerce. Find an alternative provide as soon as possible. UPDATE: After sending more info to Mailchimp on their request nothing changed. Now Zapier blocked several Zaps linked to Mailchimp. All our marketing automation is collapsing due to Mailchimp temporary suspension and we still don't know why and how to resolve it NEW UPDATE: after a few days we received two messages from Mailchimp, exactly 13 minutes apart. The first on from their Compliance team claiming unauthorized access and one from their Web Team claiming that our \"ticket is a technical support ticket not a compliance ticket\". Should we try the proposed solutions one after the ther, both at the same time, flip a coin and decide... from bad to worse",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-26",
+      "rating": 1,
+      "title": "Terrible",
+      "text": "Terrible. Even without the always trying to grab money and conning you into upgrading when you don't want or need to the platform is really cumbersome and frustrating to use. Reply to Reply: You'd have to alter your whole editing model to bring it into line to what people are used to, then make it work.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Terrible. Even without the always trying to grab money and conning you into upgrading when you don't want or need to the platform is really cumbersome and frustrating to use."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-25",
+      "rating": 1,
+      "title": "Awful! Money snatchers & bad comms",
+      "text": "Terrible platform. My experience: Charge you a monthly membership to send their required number of emails, then if you import your contacts they flag it as spam, block your emails sending, still charge you the money and when you request a refund, they drag it out for days and refuse without justifying the reason.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Terrible platform."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-25",
+      "rating": 1,
+      "title": "I have been with MailChimp for nearly\u2026",
+      "text": "I have been with MailChimp for nearly 18 years. However, a few years back they introduced forced two-factor authentication and twice in the past 12 months this has cost me thousands is lost sales. You see, MailChimp, unlike more professional companies, which, when they need to send you a code, give the option of receiving it by text or email. However, the Chimpanzees only allow two-factor authentication by text. The Chimpanzees seem to believe that everyone keeps the same phone and phone number foreverrrrrrrrrrr. These Chimpanzees refuse to take into account that nearly everyone will at some point either lose their phone or have it stolen or the phone will at sometime become damaged and cannot receive texts. I had my phone stolen last year,, and I was locked out of my MailChimp for nearly a month. More professional companies have a customer service that can be contacted by phone or email, but not the Chimpanzees. Once again I lost my phone this weekend and am now locked out of my account. I goggled how to contact MailChimp customers service if you lose your phone and cannot receive the two-factor authentication. Chimpanzees have a solution. They say: if you have lost your phone and cannot receive the two-factor authentication. You should reach out to Mailchimp support If you need to get in touch with the recovery team. You can send a request using the Mailchimp Account Recovery Contact Form. How do I request to the Mailchimp Account Recovery Contact Form, you may ask? The Chimpanzees say log into your account (the account you are locked out of) and complete the recovery contact form. So to log into your account you must first input the code they sent to your lost phone. The Chimpanzees hide the recovery contact form you need to complete to get back into your account, on the account that you are locked out of. The Chimpanzees also have a live customer service to help you get back into the account you are locked out of. However, you can only contact their customer ser",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "twice in the past 12 months this has cost me thousands is lost sales",
+        "resonance_evidence": "I was locked out of my MailChimp for nearly a month."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-24",
+      "rating": 5,
+      "title": "Gggoooooddddr",
+      "text": "Gggoooooddddr",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-24",
+      "rating": 4,
+      "title": "Haven\u2019t heard of you before so I\u2019m\u2026",
+      "text": "Haven\u2019t heard of you before so I\u2019m still evaluating",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-21",
+      "rating": 1,
+      "title": "Zero stars for customer service!",
+      "text": "We are locked out of our account and nobody from Mailchimp has bothered to reply to multiple requests for help. When I went to sales they replied straight away though because they thought we were new customers!!! But then refused to put us in touch with the appropriate department who could resolve our issue. Looking for an alternative. Do not use Mailchimp would be my advice.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Do not use Mailchimp would be my advice"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-21",
+      "rating": 5,
+      "title": "Communication and efficiency gold!",
+      "text": "just had to get help from the live expert and they did a wonderful job helping and explaining and doing it quickly and efficiently so I got my campaign out. late but phew still out. I only have been running campaigns for last 2 months no problems till now and so glad resolved quickly!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "got my campaign out. late but phew still out",
+        "resonance_evidence": "they did a wonderful job helping and explaining and doing it quickly and efficiently"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-18",
+      "rating": 1,
+      "title": "Mailchimp is a complete scam",
+      "text": "Mailchimp is a complete scam. I purchased the Standard package and within 42 hours my account was suddenly locked without any reason or notice. After login, I only see \u201cYour login is not associated with any Mailchimp accounts, would you like to create a new one?\u201d which is impossible for users to fix. Very poor support, waste of money, and no proper refund assistance.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "within 42 hours my account was suddenly locked",
+        "resonance_evidence": "Mailchimp is a complete scam"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-17",
+      "rating": 5,
+      "title": "Great newsletter solution.",
+      "text": "Great newsletter solution.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-15",
+      "rating": 1,
+      "title": "What a mistake!",
+      "text": "What a mistake!! We chose Mailchimp for our school system about 5 years ago and we have several accounts. Earlier this week, my email was hacked and Maichimp deactivated my account! I explained what occurredvia email (5 times) and on the phone (3 times), and I had a major campaign that was supposed to go out this morning, but they haven't responded or reinstated it yet. All my contacts are stuck in Mailchimp, my campaign, that needed to go out today is frozen also, and I can't even log into my account since it's deactivated!! Just infuriating incompetence. We will be switching all of our accounts to a company with actual customer service.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "We will be switching all of our accounts to a company with actual customer service"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-15",
+      "rating": 1,
+      "title": "MailChimp no longer works reliably",
+      "text": "MailChimp no longer works reliably. I made a copy of my last campaign and it was blank. So I made another copy and made a couple of edits and was not done yet and Mailchimp sent the email anyway. I did not hit send or even go to the screen where you can send it. Beware, Mailchimp no longer works reliably.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "Mailchimp sent the email anyway. I did not hit send",
+        "resonance_evidence": "Beware, Mailchimp no longer works reliably"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-14",
+      "rating": 1,
+      "title": "Critical: Account Blocked",
+      "text": "Critical: Account Blocked with Zero Support During Business Hours Mailchimp blocked our account Tuesday afternoon due to a suspicious login from Dubai. While security measures are understandable, their response was catastrophic. We received an alert email at 10:30 AM. Our marketing team immediately confirmed the Dubai IP was legitimate and replied the same day. Mailchimp never responded to our confirmation. By Tuesday 2:00 PM, our account was locked. We discovered the next morning that our connected Mandrill account (transactional emails) was also suspended without any notification. For 24 hours, we couldn't send booking confirmations, payment confirmations, or travel information to customers\u2014critical for a hospitality business. The real problem: Support access is only available through the blocked account. We couldn't reach anyone. The website chatbot is useless\u2014it just loops you back to login. Our team called the only phone number available and waited 4 hours to speak to someone who told us they couldn't help and would respond to our email in 1-4 business days. One to four days is not an acceptable response time for a service that handles all transactional communications. We lost 24 hours of emails stuck in Mandrill's queue that we cannot recover. We've since migrated to another provider. Mailchimp is not reliable for mission-critical email infrastructure.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "For 24 hours, we couldn't send booking confirmations, payment confirmations, or travel information to customers",
+        "resonance_evidence": "Mailchimp is not reliable for mission-critical email infrastructure"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-14",
+      "rating": 1,
+      "title": "Horrible cancellation policy",
+      "text": "Horrible cancellation policy! Do not waste your time with this company. Better find a new modern company that actually care about the customer, not trying to just collect as much money as possible.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Do not waste your time with this company"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-14",
+      "rating": 1,
+      "title": "Subscribed for free period thru\u2026",
+      "text": "Subscribed for free period thru shopify, cancelled subscription several days after and was billed today. Their tech support says i had to make second cancellation thru their site where i have never been before. Nonsense.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Nonsense."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-14",
+      "rating": 1,
+      "title": "Account Blocked with Zero Support During Business Hours",
+      "text": "Mailchimp blocked our account Tuesday afternoon due to a suspicious login from Dubai. While security measures are understandable, their response was catastrophic. We received an alert email at 10:30 AM. Our marketing team immediately confirmed the Dubai IP was legitimate and replied the same day. Mailchimp never responded to our confirmation. By Tuesday 2:00 PM, our account was locked. We discovered the next morning that our connected Mandrill account (transactional emails) was also suspended without any notification. For 24 hours, we couldn't send booking confirmations, payment confirmations, or travel information to customers\u2014critical for a hospitality business. The real problem: Support access is only available through the blocked account. We couldn't reach anyone. The website chatbot is useless\u2014it just loops you back to login. Our team called the only phone number available and waited 4 hours to speak to someone who told us they couldn't help and would respond to our email in 1-4 business days. One to four days is not an acceptable response time for a service that handles all transactional communications. We lost 24 hours of emails stuck in Mandrill's queue that we cannot recover. We've since migrated to another provider. Mailchimp is not reliable for mission-critical email infrastructure.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "For 24 hours, we couldn't send booking confirmations, payment confirmations, or travel information to customers",
+        "resonance_evidence": "Mailchimp is not reliable for mission-critical email infrastructure."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-14",
+      "rating": 4,
+      "title": "It is very easy to use and I enjoy the\u2026",
+      "text": "It is very easy to use and I enjoy the data provided.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "It is very easy to use and I enjoy the data provided."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-13",
+      "rating": 1,
+      "title": "blocked us when we are just testing",
+      "text": "blocked us when we are just testing, sending internally to see how we can or if we would move forward with Mailchimp as a out cmmunicati platform for our clients and possibly for marketing, but you still charge us, and we cannot send any messages",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "we cannot send any messages",
+        "resonance_evidence": "blocked us when we are just testing"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-12",
+      "rating": 1,
+      "title": "Absurd slechte support vanuit het compliance team",
+      "text": "De support van het compliance team van Mailchimp is werkelijk absurd slecht. Zonder enige aankondiging of overleg werd ons volledige account stilgelegd, inclusief de transactionele mails van 13 webshops \u00e9n onze klantenservice. Ondanks dat we direct hebben benadrukt hoe kritiek deze mails zijn voor onze bedrijfsvoering \u00e9n het probleem dezelfde dag nog hadden opgelost, kregen zowel wij als de reguliere Mailchimp support het compliance team vervolgens 4 DAGEN lang niet te pakken. In die periode kwamen essenti\u00eble processen volledig stil te liggen: klanten ontvingen geen order- en verzendbevestigingen meer en onze klantenservice kon klanten niet bereiken vanuit onze eigen domeinen. Na vier dagen kregen we uiteindelijk slechts het laconieke bericht: \u201cSorry for the delay in response, we reinstated your account.\u201d Voor de maandelijkse fee die wij betalen, mag je op z\u2019n minst fatsoenlijke en bereikbare support verwachten. Voor ons was dit de druppel: we hebben direct alles overgezet naar een ander platform. Nooit meer Mailchimp.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "4 DAGEN lang niet te pakken. In die periode kwamen essenti\u00eble processen volledig stil te liggen: klanten ontvingen geen order- en verzendbevestigingen meer",
+        "resonance_evidence": "Nooit meer Mailchimp."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-11",
+      "rating": 4,
+      "title": "Overall good experience and easy to use",
+      "text": "We mostly use mailchimp as an email template builder and for small list email blasts. over the last 5 years it has worked pretty well for us",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "over the last 5 years it has worked pretty well for us"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-11",
+      "rating": 1,
+      "title": "Horrific on every level",
+      "text": "Horrific on every level. And no help. Followed their advice, my list has separated, cannot get it back and no assistance. Mailchimp has literally RUINED 14 year worth of mailing list. You cannot get help from a human and on email they say 'they cannot help' but offer advice - if you are not technical mailchimp is a nightmare, stay clear.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "Mailchimp has literally RUINED 14 year worth of mailing list.",
+        "resonance_evidence": "Horrific on every level."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-08",
+      "rating": 1,
+      "title": "Can't Verify Website",
+      "text": "No matter what we try, this site won't verify our website. As a result, everything bounces. Pointless.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "everything bounces",
+        "resonance_evidence": "Pointless."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-05-08",
+      "rating": 1,
+      "title": "Avoid at all Costs - MailChimp, Intuit and Quickbooks",
+      "text": "MailChimp,OMG... I signed up, $65 - 97 minutes later I was suspended, and they couldn't tell me why, some how the controlling bot said I broke the rules, but could tell the staff what rules.... 2 days later they agree a refund... They take ANOTHER $65 without my Authorization, or a OTP... When I inquired as to why they took a charge and NOT issued a Refund as stated, they said they did issue a refund and that I was mistaken, when I showed them the receipts they all but accused me of forging the receipts, so When I asked them to show me their receipt of the refund They refused. Calling your company MailChimp does not mean you are required to then employ that species...Into my sixth week of trying to get refunded... What's even more telling is that MailChimp are owned by Intuit who is their Parent Company... And guess what they do??? You cannot make this S**t up.... They publish Accountancy software, Yes you read that right, a company that charges when giving refunds Sell accountancy software....AVOID MAILCHIMP AVOID INTUIT",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "$65 - 97 minutes later I was suspended",
+        "resonance_evidence": "AVOID MAILCHIMP AVOID INTUIT"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-29",
+      "rating": 1,
+      "title": "Unfair customer treatment",
+      "text": "You denied my SMS service because I have a political campaign, when I know FOR A FACT that MANY other candidates and politicians use MailChimp SMS for broad text blasts.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "You denied my SMS service"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-28",
+      "rating": 3,
+      "title": "add more social on sharing.",
+      "text": "add more social on sharing.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency"
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-27",
+      "rating": 5,
+      "title": "Finding the Best Rate",
+      "text": "Many thanks for helping us sort out a non-profit discount on our Mailchimp account. Polite, timely, courteous, helpful",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Polite, timely, courteous, helpful"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-27",
+      "rating": 1,
+      "title": "i am very disapointed with their\u2026",
+      "text": "i am very disapointed with their service and i was in very difficult situation few times. customer services is bad and didnt refund me. interface is difficult and doesnt allow nice newsletter , complicated to handle. their way ofcounting the people on your database doesnt make sens neither; looks like they do it for you to pay more.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "i am very disapointed with their service"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-25",
+      "rating": 1,
+      "title": "absolutely horrible experience",
+      "text": "absolutely horrible experience. Will be moving to a different service. Every automation I tried was unsuccessful and every day I sent out an email campaign there were 1-4 people on average that never received it, even after receiving emails from me in the past (a day or two prior!)",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "every day I sent out an email campaign there were 1-4 people on average that never received it",
+        "resonance_evidence": "absolutely horrible experience. Will be moving to a different service."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-24",
+      "rating": 1,
+      "title": "Mailchimp stole from my card. Then told me to wait 9\u201311 days for my own money.",
+      "text": "I paid Mailchimp $166 for an account. Within 4 hours, their automated system suspended me. No evidence. No explanation. Just a robot telling me I broke their rules. I asked for a refund. They ignored me. I tried their \"LIVE CHAT.\" It is a bot named Neo that lies and says it is human. Neo transferred me to \"Compliance.\" No one ever contacted me. Then Mailchimp charged my card again. $166. Then they charged it again. Another $166. Three charges. $498 total. For an account that was suspended after 4 hours. When I finally reached a human, they agreed to refund me. Then they charged me again. Now they say I have to wait 5\u20137 business days for my refund. Today is Friday. 5\u20137 business days means 9\u201311 actual days. Mailchimp stole $498 from my card. They know it. They admit it. And they are making me wait 9\u201311 days to get my own money back. This is not a mistake. This is not a glitch. This is their business model. \u00b7 Take money \u00b7 Suspend account \u00b7 Ignore customer \u00b7 Keep charging \u00b7 Sit on refunds for two weeks \u00b7 Hope the customer gives up Mailchimp is not an email service provider. Mailchimp is a fraud operation run by accountants and lawyers who have figured out that stealing in small amounts, slowly, is hard to fight. I disputed every charge with my bank. I filed a complaint with the FTC. And I am telling everyone I know. If you use Mailchimp, cancel your card. They will not stop. Zero stars is not low enough In Response to MailChimps reply:- BULLSHIT... You refunded JUST ONE OF THE CHARGES... And the money was not put back on my card, WHY? BECAUSE MAILCHIMP DELAY REFUND PAYMENTS BY 7 WORKING DAYS.... YOU GUYS NEED TO BE INVESTIGATED... SO MUCH FRAUD IN THE USA ITS MIND BOGGELING.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "I paid Mailchimp $166 for an account. Within 4 hours, their automated system suspended me",
+        "resonance_evidence": "Mailchimp stole $498 from my card. They know it. They admit it."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-23",
+      "rating": 5,
+      "title": "Mailchimp is user friendly",
+      "text": "Mailchimp is user friendly. It has so many different features. I am able to create email automations, email campaigns, landing pages, and review analytics as well. It also has a cool newer feature where you can add pop up to websites as well. Its great for beginners and small business owners as well.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Its great for beginners and small business owners as well."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-22",
+      "rating": 1,
+      "title": "Complete lack of respect",
+      "text": "Some years ago I tried to set up a mailing list using MailChimp, and they never did what they had to do on their end to clear the first steps required for set-up. When I inquired as to why this was, I got a very unprofessional message back saying it was because they thought I wasn't capable of using their services properly. I hadn't even started using them and got no indication as to why they thought so. An absolute lack of respect for a potential customer interested in using their services. I don't understand how they're still afloat after all of these years.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "An absolute lack of respect for a potential customer"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-21",
+      "rating": 1,
+      "title": "TERRIBLE.",
+      "text": "TERRIBLE. WORST EMAIL PROVIDER EVER. DONT USE IT",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "TERRIBLE. WORST EMAIL PROVIDER EVER. DONT USE IT"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-20",
+      "rating": 1,
+      "title": "really bad service here! TOLD ME TO USE ANOTHER PROVIDER",
+      "text": "really bad service here! customer support told me \"Please be patient or utilize a different option for now.\" as in use another provider!",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "really bad service here! customer support told me \"Please be patient or utilize a different option for now.\" as in use another provider!"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-17",
+      "rating": 5,
+      "title": "Simple to do the complex",
+      "text": "Although setting it up is complex, it was much easier than I imagined. The campaign is on, the leads are coming, and it was easy to get there.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "The campaign is on, the leads are coming, and it was easy to get there."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-17",
+      "rating": 2,
+      "title": "Black mirror episode",
+      "text": "I have been using mailchimp for a few years until now that has become a blackmirror episode where premium becomes basic so you have to reupgrade, no thanks, i rather migrate to other platform instead of playing this silly games with a company that pretends to care of their customers.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "i rather migrate to other platform instead of playing this silly games with a company that pretends to care of their customers."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-16",
+      "rating": 1,
+      "title": "Highly unrecommended",
+      "text": "First case - it let me import a number of contacts over my limit without any notices and instantly increased the montly bill. I've deleted all contacts (no emails sent), bill was still high ($800 instead of $40 sub), I had to contact the support for extra cost elimination. Second case - our account was unexpectedly blocked: Your account is under review as part of our standard verification process, which takes about 24 hours. During this period, access to certain features will be limited. We used it for transactional emails for our app and blocking stopped all emails to our customers. Issue wasn't resolved in 24 hours, no any updates after provided necessary documents. Moved to another provider",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "bill was still high ($800 instead of $40 sub)",
+        "resonance_evidence": "Moved to another provider"
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-15",
+      "rating": 1,
+      "title": "The worst company I have ever dealt\u2026",
+      "text": "The worst company I have ever dealt with. Incompetent staff who do not know their own processes. They have lost a customer.",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "The worst company I have ever dealt with. Incompetent staff who do not know their own processes. They have lost a customer."
+      }
+    },
+    {
+      "portal": "Trustpilot",
+      "review_id": null,
+      "date": "2026-04-14",
+      "rating": 1,
+      "title": "Cannot unsubscribe from spam emails - they claim it is a \"Critical Matter\"to user accounts\u2026",
+      "text": "Sending spam emails to user accounts which you cannot subscribe to. Received this email \"Your contacts are waiting\u2014time to check in with a new email\", it's just spam to get you to log in and use MailChimp after 30 days of inactivity. At the bottom of the email it says \"This message was sent to inform you of a critical matter. Please note that if you have chosen not to receive marketing messages from Mailchimp, your choice applies only to promotional materials. You will continue to receive critical notifications that are legally required or could affect your service.\"",
+      "role": null,
+      "company_size": null,
+      "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Sending spam emails to user accounts which you cannot subscribe to."
+      }
+    }
+  ]
+}

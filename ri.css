@@ -404,3 +404,10 @@ tbody tr:hover { background: var(--paper-sunk); }
 .lookuphint { margin-top: 10px; }
 .lookuphint a { color: var(--ink-2); text-decoration: underline; }
 .lookuphint a:hover { color: var(--ink); }
+
+#sc-all:checked ~ .tablist label[for="sc-all"] { background: var(--ink); color: var(--paper); }
+#sc-all:checked ~ #panel-all { display: block; }
+#sc-marketing-automation:checked ~ .tablist label[for="sc-marketing-automation"] { background: var(--ink); color: var(--paper); }
+#sc-marketing-automation:checked ~ #panel-marketing-automation { display: block; }
+#sc-project-management:checked ~ .tablist label[for="sc-project-management"] { background: var(--ink); color: var(--paper); }
+#sc-project-management:checked ~ #panel-project-management { display: block; }

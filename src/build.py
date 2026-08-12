@@ -423,37 +423,35 @@ def page_home() -> None:
     statbar = "".join(f'<div class="stat"><b class="num">{e(n)}</b><span>{e(l)}</span></div>'
                       for n, l in stats)
 
-    lead = "".join(f"""<div class="lrow">
+    def leaderboard(vs, limit=None):
+        rows = vs[:limit] if limit else vs
+        return "".join(f"""<div class="lrow">
   <span class="lpos num">{i}</span>
   {scorebox(v)}
   <div class="lwho"><h3><a href="vendors/{v['slug']}/index.html">{e(v['name'])}</a></h3>
-    <div class="tiny muted">{e(v['category_name'])}</div></div>
+    <div class="tiny muted">{e(v['category_name'])} &middot;
+      {total_reviews(v):,} reviews across {len(portals_with_data(v))} sites</div></div>
   <div class="lchips">{''.join(
       f'<span class="chip">{e(d["label"].split("-")[0])} <b class="num">{d["value"]:.0f}</b></span>'
       for d in dims_of(v))}</div>
-</div>""" for i, v in enumerate(scored[:6], 1))
+</div>""" for i, v in enumerate(rows, 1))
 
-    # Tabbed category panel, mirroring the sibling property's section.
-    # Radio inputs rather than JS, so every vendor ships in the first response.
-    cat_keys = list(CATS.items())
+    scopes = [("all", "All vendors", scored, "vendors/index.html",
+               f"All {len(VENDORS)} vendors")]
+    for c, m in CATS.items():
+        scopes.append((c, m["name"], cat_vendors(c), f"categories/{c}/index.html",
+                       f"Full {m['name']} ranking"))
+
     radios = "".join(
-        f'<input class="tabradio" type="radio" name="catsel" id="cat-{c}"'
-        f'{" checked" if i == 0 else ""}>' for i, (c, _) in enumerate(cat_keys))
-    tablist = "".join(
-        f'<label for="cat-{c}">{e(m["name"])}</label>' for c, m in cat_keys)
-    panels = ""
-    for c, m in cat_keys:
-        vs = cat_vendors(c)
-        cards = "".join(f"""<a class="vcard" href="vendors/{x['slug']}/index.html">
-      <b>{e(x['name'])}</b>
-      <span class="vscore num">{score_of(x) if score_of(x) else 'NR'}</span>
-      <span class="tiny muted">{e(x['category_name'])}</span></a>""" for x in vs)
-        panels += f"""<div class="tabpanel" id="panel-{c}">
-    <div class="panelhd"><b>{e(m['name'])}</b>
-      <span class="muted">{len(vs)} vendors, ranked by score</span></div>
-    <div class="vgrid">{cards}</div>
-  </div>"""
-    cats = f"""<div class="tabs">{radios}
+        f'<input class="tabradio" type="radio" name="scope" id="sc-{k}"'
+        f'{" checked" if i == 0 else ""}>' for i, (k, *_ ) in enumerate(scopes))
+    tablist = "".join(f'<label for="sc-{k}">{e(n)}</label>' for k, n, *_ in scopes)
+    panels = "".join(f"""<div class="tabpanel" id="panel-{k}">
+    <div class="lead">{leaderboard(vs, 8)}</div>
+    <a class="morelink" href="{href}">{e(cta)} &rarr;</a>
+  </div>""" for k, n, vs, href, cta in scopes)
+
+    ranking = f"""<div class="tabs">{radios}
   <div class="tablist">{tablist}</div>
   {panels}
 </div>"""
@@ -506,24 +504,13 @@ def page_home() -> None:
   <div>
     <h2>Highest scored</h2>
     <p class="intro">A score is what reviewers rate a product, moved toward the middle when
-    the evidence behind that rating is thin, stale or contradictory.</p>
-    <div class="lead">{lead}</div>
-    <a class="morelink" href="vendors/index.html">All {len(VENDORS)} vendors &rarr;</a>
+    the evidence behind that rating is thin, stale or contradictory. Pick a category to
+    rank within it.</p>
+    {ranking}
   </div>
 </div></section>
 
 <section class="band tint"><div class="wrap">
-  <div class="eyebrow">Categories</div>
-  <div>
-    <h2>Browse the index</h2>
-    <p class="intro">Every vendor in a category is read across the same four sites on the
-    same day, so the comparison is like for like. Pick a category to see who is in it.</p>
-    {cats}
-    <a class="morelink" href="vendors/index.html">Browse all vendors &rarr;</a>
-  </div>
-</div></section>
-
-<section class="band"><div class="wrap">
   <div class="eyebrow">Method</div>
   <div>
     <h2>What the score measures</h2>
@@ -534,7 +521,7 @@ def page_home() -> None:
   </div>
 </div></section>
 
-<section class="band tint"><div class="wrap">
+<section class="band"><div class="wrap">
   <div class="eyebrow">Finding</div>
   <div>
     <h2>Where the sites disagree</h2>
@@ -546,7 +533,7 @@ def page_home() -> None:
   </div>
 </div></section>
 
-<section class="band"><div class="wrap">
+<section class="band tint"><div class="wrap">
   <div class="eyebrow">Vendors</div>
   <div>
     <h2>Everyone we read</h2>

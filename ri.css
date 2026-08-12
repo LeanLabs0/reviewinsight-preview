@@ -209,3 +209,7 @@ tbody tr:hover { background: var(--paper-sunk); }
 @media (max-width: 640px) { .dimparts li { grid-template-columns: 1fr auto; } .dimparts li .muted { display: none; } }
 .chip { border: 1px solid var(--rule); padding: 1px 7px; font-size: 12px; color: var(--ink-2); }
 .chip b { color: var(--ink); }
+.mathtoggle { margin: 12px 0 6px; }
+.mathtoggle summary { cursor: pointer; color: var(--ink-2); }
+.mathtoggle summary:hover { color: var(--ink); }
+.mathtoggle .formula { white-space: pre; line-height: 1.7; margin-top: 8px; }

@@ -221,9 +221,12 @@ def dim_block(v, depth: int) -> str:
       <p>Reviewers rate {e(v['name'])} <b class="num">{rating['value']}</b> out of 100.
       The evidence behind that comes out at <b class="num">{r['evidence']}</b>, so we publish
       <b class="num">{r['score']}</b>.</p>
-      <div class="formula">{e(rating['math'])}</div>
-      <div class="formula">evidence = {e(r['evidence_math'])}</div>
-      <div class="formula">score = {e(r['score_math'])}</div>
+      <details class="mathtoggle">
+        <summary class="tiny">Show the arithmetic</summary>
+        <div class="formula">rating   = {e(rating['math'])}
+evidence = {e(r['evidence_math'])}
+score    = {e(r['score_math'])}</div>
+      </details>
       <p class="tiny muted">Measured on {r['sample_size']} reviews, {r['labelled']} of them
       read and labelled. <a href="{'../' * depth}methodology/index.html">How the score works</a></p>
     </div>

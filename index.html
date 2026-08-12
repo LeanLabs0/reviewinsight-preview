@@ -27,10 +27,15 @@
     differently. ReviewInsight reads all four for every vendor, reads the reviews themselves
     rather than counting them, and publishes one score with the arithmetic attached.</p>
     <p class="sub">No vendor can pay to appear here, rank higher, or have anything removed.</p>
-    <div class="herolinks">
-      <a class="pill" href="categories/marketing-automation/index.html">Marketing Automation</a><a class="pill" href="categories/project-management/index.html">Project Management</a>
-      <a class="pill" href="methodology/index.html">How we score</a>
-    </div>
+    <form class="lookup" onsubmit="return riGo(this)">
+      <input id="riq" list="ri-vendors" autocomplete="off" required
+             placeholder="Look up any vendor" aria-label="Look up any vendor">
+      <button type="submit" aria-label="Go">&rarr;</button>
+      <datalist id="ri-vendors"><option value="ActiveCampaign"><option value="Adobe Marketo Engage"><option value="Asana"><option value="Basecamp"><option value="Braze"><option value="Brevo"><option value="ClickUp"><option value="HubSpot Marketing Hub"><option value="Iterable"><option value="Jira"><option value="Klaviyo"><option value="Mailchimp"><option value="monday.com"><option value="Notion"><option value="Smartsheet"><option value="Wrike"></datalist>
+    </form>
+    <p class="lookuphint tiny">16 vendors across
+      <a href="categories/marketing-automation/index.html">Marketing Automation</a>, <a href="categories/project-management/index.html">Project Management</a>.
+      <a href="methodology/index.html">How we score</a>.</p>
   </div>
   <div class="specimen">
   <div class="sphd"><b>ClickUp</b>
@@ -97,18 +102,68 @@
   <div>
     <h2>Browse the index</h2>
     <p class="intro">Every vendor in a category is read across the same four sites on the
-    same day, so the comparison is like for like.</p>
-    <div class="two"><div class="card">
-  <h3><a href="categories/marketing-automation/index.html">Marketing Automation</a></h3>
-  <p class="tiny muted">8 vendors ranked</p>
-  <ol class="catprev"><li><a href="vendors/brevo/index.html">Brevo</a><span class="num">79</span></li><li><a href="vendors/mailchimp/index.html">Mailchimp</a><span class="num">72</span></li><li><a href="vendors/braze/index.html">Braze</a><span class="num">72</span></li><li><a href="vendors/activecampaign/index.html">ActiveCampaign</a><span class="num">71</span></li></ol>
-  <p class="small"><a href="categories/marketing-automation/index.html">All 8 ranked &rarr;</a></p>
-</div><div class="card">
-  <h3><a href="categories/project-management/index.html">Project Management</a></h3>
-  <p class="tiny muted">8 vendors ranked</p>
-  <ol class="catprev"><li><a href="vendors/clickup/index.html">ClickUp</a><span class="num">81</span></li><li><a href="vendors/wrike/index.html">Wrike</a><span class="num">74</span></li><li><a href="vendors/monday-com/index.html">monday.com</a><span class="num">72</span></li><li><a href="vendors/notion/index.html">Notion</a><span class="num">72</span></li></ol>
-  <p class="small"><a href="categories/project-management/index.html">All 8 ranked &rarr;</a></p>
-</div></div>
+    same day, so the comparison is like for like. Pick a category to see who is in it.</p>
+    <div class="tabs"><input class="tabradio" type="radio" name="catsel" id="cat-marketing-automation" checked><input class="tabradio" type="radio" name="catsel" id="cat-project-management">
+  <div class="tablist"><label for="cat-marketing-automation">Marketing Automation</label><label for="cat-project-management">Project Management</label></div>
+  <div class="tabpanel" id="panel-marketing-automation">
+    <div class="panelhd"><b>Marketing Automation</b>
+      <span class="muted">8 vendors, ranked by score</span></div>
+    <div class="vgrid"><a class="vcard" href="vendors/brevo/index.html">
+      <b>Brevo</b>
+      <span class="vscore num">79</span>
+      <span class="tiny muted">Marketing Automation</span></a><a class="vcard" href="vendors/mailchimp/index.html">
+      <b>Mailchimp</b>
+      <span class="vscore num">72</span>
+      <span class="tiny muted">Marketing Automation</span></a><a class="vcard" href="vendors/braze/index.html">
+      <b>Braze</b>
+      <span class="vscore num">72</span>
+      <span class="tiny muted">Marketing Automation</span></a><a class="vcard" href="vendors/activecampaign/index.html">
+      <b>ActiveCampaign</b>
+      <span class="vscore num">71</span>
+      <span class="tiny muted">Marketing Automation</span></a><a class="vcard" href="vendors/iterable/index.html">
+      <b>Iterable</b>
+      <span class="vscore num">71</span>
+      <span class="tiny muted">Marketing Automation</span></a><a class="vcard" href="vendors/klaviyo/index.html">
+      <b>Klaviyo</b>
+      <span class="vscore num">69</span>
+      <span class="tiny muted">Marketing Automation</span></a><a class="vcard" href="vendors/hubspot-marketing-hub/index.html">
+      <b>HubSpot Marketing Hub</b>
+      <span class="vscore num">66</span>
+      <span class="tiny muted">Marketing Automation</span></a><a class="vcard" href="vendors/adobe-marketo-engage/index.html">
+      <b>Adobe Marketo Engage</b>
+      <span class="vscore num">64</span>
+      <span class="tiny muted">Marketing Automation</span></a></div>
+  </div><div class="tabpanel" id="panel-project-management">
+    <div class="panelhd"><b>Project Management</b>
+      <span class="muted">8 vendors, ranked by score</span></div>
+    <div class="vgrid"><a class="vcard" href="vendors/clickup/index.html">
+      <b>ClickUp</b>
+      <span class="vscore num">81</span>
+      <span class="tiny muted">Project Management</span></a><a class="vcard" href="vendors/wrike/index.html">
+      <b>Wrike</b>
+      <span class="vscore num">74</span>
+      <span class="tiny muted">Project Management</span></a><a class="vcard" href="vendors/monday-com/index.html">
+      <b>monday.com</b>
+      <span class="vscore num">72</span>
+      <span class="tiny muted">Project Management</span></a><a class="vcard" href="vendors/notion/index.html">
+      <b>Notion</b>
+      <span class="vscore num">72</span>
+      <span class="tiny muted">Project Management</span></a><a class="vcard" href="vendors/smartsheet/index.html">
+      <b>Smartsheet</b>
+      <span class="vscore num">66</span>
+      <span class="tiny muted">Project Management</span></a><a class="vcard" href="vendors/basecamp/index.html">
+      <b>Basecamp</b>
+      <span class="vscore num">66</span>
+      <span class="tiny muted">Project Management</span></a><a class="vcard" href="vendors/asana/index.html">
+      <b>Asana</b>
+      <span class="vscore num">65</span>
+      <span class="tiny muted">Project Management</span></a><a class="vcard" href="vendors/jira/index.html">
+      <b>Jira</b>
+      <span class="vscore num">62</span>
+      <span class="tiny muted">Project Management</span></a></div>
+  </div>
+</div>
+    <a class="morelink" href="vendors/index.html">Browse all vendors &rarr;</a>
   </div>
 </div></section>
 
@@ -144,6 +199,20 @@
   </div>
 </div></section>
 <main class="wrap"><div>
+<script>
+const RI_VENDORS = {"hubspot marketing hub": "hubspot-marketing-hub", "klaviyo": "klaviyo", "adobe marketo engage": "adobe-marketo-engage", "mailchimp": "mailchimp", "activecampaign": "activecampaign", "brevo": "brevo", "braze": "braze", "iterable": "iterable", "monday.com": "monday-com", "asana": "asana", "clickup": "clickup", "wrike": "wrike", "smartsheet": "smartsheet", "notion": "notion", "jira": "jira", "basecamp": "basecamp"};
+function riGo(f) {
+  const q = document.getElementById('riq').value.trim().toLowerCase();
+  let hit = RI_VENDORS[q];
+  if (!hit) {
+    const k = Object.keys(RI_VENDORS).find(n => n.includes(q));
+    if (k) hit = RI_VENDORS[k];
+  }
+  if (hit) location.href = 'vendors/' + hit + '/index.html';
+  else location.href = 'vendors/index.html';
+  return false;
+}
+</script>
 </main>
 <footer class="foot"><div class="wrap">
   <div>

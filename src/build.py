@@ -410,6 +410,11 @@ def page_home() -> None:
   <div class="spfoot">{sites}</div>
 </div>"""
 
+    vendormap = json.dumps({v["name"].lower(): v["slug"] for v in VENDORS.values()})
+    vendoropts = "".join(
+        f'<option value="{e(v["name"])}">' for v in
+        sorted(VENDORS.values(), key=lambda x: x["name"].lower()))
+
     stats = [(f"{len(VENDORS)}", "vendors scored"),
              (f"{behind:,}", "reviews behind those scores"),
              (f"{reviews_read:,}", "reviews read one by one"),
@@ -428,15 +433,30 @@ def page_home() -> None:
       for d in dims_of(v))}</div>
 </div>""" for i, v in enumerate(scored[:6], 1))
 
-    cats = "".join(f"""<div class="card">
-  <h3><a href="categories/{c}/index.html">{e(m['name'])}</a></h3>
-  <p class="tiny muted">{len(cat_vendors(c))} vendors ranked</p>
-  <ol class="catprev">{''.join(
-      f'<li><a href="vendors/{x["slug"]}/index.html">{e(x["name"])}</a>'
-      f'<span class="num">{score_of(x) if score_of(x) else "NR"}</span></li>'
-      for x in cat_vendors(c)[:4])}</ol>
-  <p class="small"><a href="categories/{c}/index.html">All {len(cat_vendors(c))} ranked &rarr;</a></p>
-</div>""" for c, m in CATS.items())
+    # Tabbed category panel, mirroring the sibling property's section.
+    # Radio inputs rather than JS, so every vendor ships in the first response.
+    cat_keys = list(CATS.items())
+    radios = "".join(
+        f'<input class="tabradio" type="radio" name="catsel" id="cat-{c}"'
+        f'{" checked" if i == 0 else ""}>' for i, (c, _) in enumerate(cat_keys))
+    tablist = "".join(
+        f'<label for="cat-{c}">{e(m["name"])}</label>' for c, m in cat_keys)
+    panels = ""
+    for c, m in cat_keys:
+        vs = cat_vendors(c)
+        cards = "".join(f"""<a class="vcard" href="vendors/{x['slug']}/index.html">
+      <b>{e(x['name'])}</b>
+      <span class="vscore num">{score_of(x) if score_of(x) else 'NR'}</span>
+      <span class="tiny muted">{e(x['category_name'])}</span></a>""" for x in vs)
+        panels += f"""<div class="tabpanel" id="panel-{c}">
+    <div class="panelhd"><b>{e(m['name'])}</b>
+      <span class="muted">{len(vs)} vendors, ranked by score</span></div>
+    <div class="vgrid">{cards}</div>
+  </div>"""
+    cats = f"""<div class="tabs">{radios}
+  <div class="tablist">{tablist}</div>
+  {panels}
+</div>"""
 
     rs = [("recent", "Recent", "How much of the evidence comes from the last year, and how fresh the newest review is."),
           ("reliable", "Reliable", "Whether the sites agree with each other, and whether written reviews match the stars they carry."),
@@ -465,10 +485,16 @@ def page_home() -> None:
     differently. ReviewInsight reads all four for every vendor, reads the reviews themselves
     rather than counting them, and publishes one score with the arithmetic attached.</p>
     <p class="sub">No vendor can pay to appear here, rank higher, or have anything removed.</p>
-    <div class="herolinks">
-      {''.join(f'<a class="pill" href="categories/{c}/index.html">{e(m["name"])}</a>' for c, m in CATS.items())}
-      <a class="pill" href="methodology/index.html">How we score</a>
-    </div>
+    <form class="lookup" onsubmit="return riGo(this)">
+      <input id="riq" list="ri-vendors" autocomplete="off" required
+             placeholder="Look up any vendor" aria-label="Look up any vendor">
+      <button type="submit" aria-label="Go">&rarr;</button>
+      <datalist id="ri-vendors">{vendoropts}</datalist>
+    </form>
+    <p class="lookuphint tiny">{len(VENDORS)} vendors across
+      {''.join(f'<a href="categories/{c}/index.html">{e(m["name"])}</a>'
+               + (", " if i == 0 else "") for i, (c, m) in enumerate(CATS.items()))}.
+      <a href="methodology/index.html">How we score</a>.</p>
   </div>
   {specimen}
 </div></section>
@@ -491,8 +517,9 @@ def page_home() -> None:
   <div>
     <h2>Browse the index</h2>
     <p class="intro">Every vendor in a category is read across the same four sites on the
-    same day, so the comparison is like for like.</p>
-    <div class="two">{cats}</div>
+    same day, so the comparison is like for like. Pick a category to see who is in it.</p>
+    {cats}
+    <a class="morelink" href="vendors/index.html">Browse all vendors &rarr;</a>
   </div>
 </div></section>
 
@@ -527,7 +554,21 @@ def page_home() -> None:
     <a class="morelink" href="vendors/index.html">Full list with scores &rarr;</a>
   </div>
 </div></section>
-<main class="wrap"><div>"""
+<main class="wrap"><div>
+<script>
+const RI_VENDORS = {vendormap};
+function riGo(f) {{
+  const q = document.getElementById('riq').value.trim().toLowerCase();
+  let hit = RI_VENDORS[q];
+  if (!hit) {{
+    const k = Object.keys(RI_VENDORS).find(n => n.includes(q));
+    if (k) hit = RI_VENDORS[k];
+  }}
+  if (hit) location.href = 'vendors/' + hit + '/index.html';
+  else location.href = 'vendors/index.html';
+  return false;
+}}
+</script>"""
     write("index.html", shell(0, "ReviewInsight",
           "One score per B2B software vendor, read across G2, Capterra, Gartner Peer "
           "Insights and Trustpilot.", body))

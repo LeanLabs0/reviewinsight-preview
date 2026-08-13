@@ -549,7 +549,7 @@ def page_home() -> None:
       {''.join(f'<a href="categories/{c}/index.html">{e(m["name"])}</a>'
                + (", " if i == 0 else "") for i, (c, m) in enumerate(CATS.items()))}</p>
     <div class="plainlist taxonomy">{''.join(
-        f'<span>{e(t["name"])}</span>' for t in TAXONOMY)}</div>
+        f'<a href="categories/{t["slug"]}/index.html">{e(t["name"])}</a>' for t in TAXONOMY)}</div>
     <p class="tiny muted" style="margin-top:14px">{len(TAXONOMY)} industries. Nothing is
     published for an industry until every vendor in it has been read across all four sites.</p>
   </div>
@@ -582,15 +582,67 @@ function riGo(f) {{
           "Insights and Trustpilot.", body, bare=True))
 
 
+def page_industry(t: dict) -> None:
+    live = "".join(
+        f'<li><a href="../{c}/index.html">{e(m["name"])}</a>'
+        f'<span class="num">{len(cat_vendors(c))} vendors</span></li>'
+        for c, m in CATS.items())
+    body = f"""<div class="crumb"><a href="../../index.html">Home</a> /
+<a href="../index.html">Categories</a></div>
+<h1>{e(t['name'])}</h1>
+<div class="lede">No {e(t['name'])} vendors have been scored yet. This page exists so the
+industry has an address, and it will fill in once every vendor in it has been read.</div>
+
+<section class="section rule-top">
+  <h2>What will be here</h2>
+  <p>A ranked list of {e(t['name'])} vendors, each with a score built from what reviewers
+  say across G2, Capterra, Gartner Peer Insights and Trustpilot. Every vendor gets its own
+  page showing the arithmetic behind the score, the rating each site gives it, how far
+  those sites disagree, and quotes that link back to the original review.</p>
+  <p class="small muted">We publish an industry only once every vendor in it has been read
+  across all four sites on the same day. A partial ranking is worse than no ranking, because
+  it looks complete.</p>
+</section>
+
+<section class="section rule-top">
+  <h2>Live now</h2>
+  <p class="small muted">Two categories are scored today. They show exactly what this page
+  will look like.</p>
+  <ul class="catlist">{live}</ul>
+</section>
+
+<section class="section rule-top">
+  <h2>How the scoring works</h2>
+  <p class="small muted">The method is published in full, including the formula, the curves
+  and the cutoffs below which a vendor is shown as unrated rather than given a number.</p>
+  <p><a href="../../methodology/index.html">Read the methodology &rarr;</a></p>
+</section>"""
+    write(f"categories/{t['slug']}/index.html",
+          shell(2, f"{t['name']} | ReviewInsight",
+                f"{t['name']} vendors scored across four review sites.", body, "cat"))
+
+
 def page_categories() -> None:
     items = "".join(
         f'<li><a href="{c}/index.html">{e(m["name"])}</a>'
         f'<span class="num">{len(cat_vendors(c))} vendors</span></li>' for c, m in CATS.items())
+    rest = "".join(
+        f'<li><a href="{t["slug"]}/index.html">{e(t["name"])}</a>'
+        f'<span class="num muted">not yet scored</span></li>' for t in TAXONOMY)
     body = f"""<div class="crumb"><a href="../index.html">Home</a></div>
 <h1>Categories</h1>
-<div class="lede">Two categories are live while we prove the data. Each vendor in
-them is read across all four review platforms.</div>
-<ul class="catlist">{items}</ul>"""
+<div class="lede">Two categories carry scored vendors today. The rest of the industry
+list has a page each, so you can see what is planned, but nothing is published for an
+industry until every vendor in it has been read across all four sites.</div>
+
+<h2>Scored</h2>
+<ul class="catlist">{items}</ul>
+
+<section class="section rule-top">
+  <h2>Not yet scored</h2>
+  <p class="small muted">{len(TAXONOMY)} industries on the network list.</p>
+  <ul class="catlist twocol">{rest}</ul>
+</section>"""
     write("categories/index.html",
           shell(1, "Categories | ReviewInsight", "B2B software categories.", body, "cat"))
 
@@ -911,6 +963,9 @@ def main() -> None:
     page_vendors_index()
     page_methodology()
     page_quarterly()
+
+    for t in TAXONOMY:
+        page_industry(t)
 
     pairs = set()
     for cat, meta in CATS.items():

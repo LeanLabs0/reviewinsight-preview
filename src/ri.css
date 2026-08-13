@@ -343,7 +343,7 @@ tbody tr:hover { background: var(--paper-sunk); }
 .morelink { display: inline-block; margin-top: 18px; font-weight: 500; }
 
 /* ---------- dark footer ---------- */
-.foot { background: var(--ink); border-top: none; color: #b9bec8; margin-top: 0; padding: 46px 0 56px; }
+.foot { background: #121418; border-top: none; color: #b9bec8; margin-top: 0; padding: 46px 0 56px; }
 .foot h4 { color: #eef0f4; }
 .foot p { color: #9aa0ab; }
 .foot a { color: #cfd4dc; }
@@ -422,3 +422,10 @@ main.wrap > .crumb:first-child { margin-bottom: 14px; }
   break-inside: avoid;
 }
 @media (max-width: 900px) { .plainlist.taxonomy { columns: 2; } }
+
+/* taxonomy names now resolve to a page each */
+.plainlist.taxonomy a { display: block; padding: 5px 0; font-size: 14px; color: var(--ink-2); break-inside: avoid; }
+.plainlist.taxonomy a:hover { color: var(--accent); }
+.catlist.twocol { columns: 2; column-gap: 36px; }
+.catlist.twocol li { break-inside: avoid; }
+@media (max-width: 700px) { .catlist.twocol { columns: 1; } }

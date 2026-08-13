@@ -19,6 +19,7 @@ HERE = Path(__file__).parent
 DATA = json.loads((HERE / "data" / "_all.json").read_text(encoding="utf-8"))
 OUT = HERE / "site"
 
+TAXONOMY = json.loads((HERE / "data" / "_taxonomy.json").read_text(encoding="utf-8"))
 SCORED = json.loads((HERE / "data" / "_scores.json").read_text(encoding="utf-8"))
 SCORES: dict = SCORED["scores"]
 WEIGHTS: dict = SCORED["weights"]
@@ -534,6 +535,23 @@ def page_home() -> None:
     <div class="tscroll"><table>
       <thead><tr><th>Vendor</th><th class="n">Rating gap</th><th>Between</th></tr></thead>
       <tbody>{gaps}</tbody></table></div>
+  </div>
+</div></section>
+
+<section class="band"><div class="wrap">
+  <div class="eyebrow">Coverage</div>
+  <div>
+    <h2>Industries</h2>
+    <p class="intro">The index is being built out across the industry list the network
+    already publishes. Two categories carry scored vendors today. The rest are named here
+    so you can see the shape of the thing, not because there is anything behind them yet.</p>
+    <p class="small"><b>Live now.</b>
+      {''.join(f'<a href="categories/{c}/index.html">{e(m["name"])}</a>'
+               + (", " if i == 0 else "") for i, (c, m) in enumerate(CATS.items()))}</p>
+    <div class="plainlist taxonomy">{''.join(
+        f'<span>{e(t["name"])}</span>' for t in TAXONOMY)}</div>
+    <p class="tiny muted" style="margin-top:14px">{len(TAXONOMY)} industries. Nothing is
+    published for an industry until every vendor in it has been read across all four sites.</p>
   </div>
 </div></section>
 

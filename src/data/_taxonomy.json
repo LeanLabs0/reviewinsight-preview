@@ -1,0 +1,130 @@
+[
+  {
+    "name": "HR Technology",
+    "slug": "hr-technology"
+  },
+  {
+    "name": "Telecommunications",
+    "slug": "telecommunications"
+  },
+  {
+    "name": "Digital Marketing",
+    "slug": "digital-marketing"
+  },
+  {
+    "name": "Agriculture",
+    "slug": "agriculture"
+  },
+  {
+    "name": "Accounting",
+    "slug": "accounting"
+  },
+  {
+    "name": "Artificial Intelligence",
+    "slug": "artificial-intelligence"
+  },
+  {
+    "name": "Automotive",
+    "slug": "automotive"
+  },
+  {
+    "name": "Biotech",
+    "slug": "biotech"
+  },
+  {
+    "name": "Cleantech",
+    "slug": "cleantech"
+  },
+  {
+    "name": "Cloud Computing",
+    "slug": "cloud-computing"
+  },
+  {
+    "name": "Construction",
+    "slug": "construction"
+  },
+  {
+    "name": "Cybersecurity",
+    "slug": "cybersecurity"
+  },
+  {
+    "name": "Developer Tools",
+    "slug": "developer-tools"
+  },
+  {
+    "name": "E-commerce",
+    "slug": "e-commerce"
+  },
+  {
+    "name": "Energy",
+    "slug": "energy"
+  },
+  {
+    "name": "Financial Services",
+    "slug": "financial-services"
+  },
+  {
+    "name": "Fintech",
+    "slug": "fintech"
+  },
+  {
+    "name": "Healthcare",
+    "slug": "healthcare"
+  },
+  {
+    "name": "Information Services",
+    "slug": "information-services"
+  },
+  {
+    "name": "Legal Technology",
+    "slug": "legal-technology"
+  },
+  {
+    "name": "Logistics",
+    "slug": "logistics"
+  },
+  {
+    "name": "Manufacturing",
+    "slug": "manufacturing"
+  },
+  {
+    "name": "Pharmaceuticals",
+    "slug": "pharmaceuticals"
+  },
+  {
+    "name": "Procurement",
+    "slug": "procurement"
+  },
+  {
+    "name": "Professional Training",
+    "slug": "professional-training"
+  },
+  {
+    "name": "Public Relations",
+    "slug": "public-relations"
+  },
+  {
+    "name": "Real Estate Technology",
+    "slug": "real-estate-technology"
+  },
+  {
+    "name": "Retail",
+    "slug": "retail"
+  },
+  {
+    "name": "Robotics",
+    "slug": "robotics"
+  },
+  {
+    "name": "SaaS",
+    "slug": "saas"
+  },
+  {
+    "name": "Sales Enablement",
+    "slug": "sales-enablement"
+  },
+  {
+    "name": "Staffing",
+    "slug": "staffing"
+  }
+]

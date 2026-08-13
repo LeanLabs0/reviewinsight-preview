@@ -413,3 +413,12 @@ tbody tr:hover { background: var(--paper-sunk); }
 main.wrap { display: block; padding-top: 44px; padding-bottom: 56px; }
 main.wrap > .crumb:first-child { margin-bottom: 14px; }
 @media (max-width: 720px) { main.wrap { padding-top: 28px; } }
+
+/* taxonomy list: names only, nothing behind them yet, so they must not
+   look clickable */
+.plainlist.taxonomy { columns: 4; column-gap: 28px; margin-top: 16px; }
+.plainlist.taxonomy span {
+  display: block; padding: 5px 0; font-size: 14px; color: var(--ink-2);
+  break-inside: avoid;
+}
+@media (max-width: 900px) { .plainlist.taxonomy { columns: 2; } }

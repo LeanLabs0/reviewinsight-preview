@@ -118,7 +118,8 @@ def cat_vendors(cat: str) -> list:
 
 
 # ------------------------------------------------------------------- shell
-def shell(depth: int, title: str, desc: str, body: str, nav: str = "") -> str:
+def shell(depth: int, title: str, desc: str, body: str, nav: str = "",
+          bare: bool = False) -> str:
     r = "../" * depth if depth else ""
     return f"""<!doctype html>
 <html lang="en">
@@ -140,9 +141,9 @@ def shell(depth: int, title: str, desc: str, body: str, nav: str = "") -> str:
   </nav>
   <span class="spacer tiny">Data captured {CAPTURED}</span>
 </div></header>
-<main class="wrap">
+{'' if bare else '<main class="wrap">'}
 {body}
-</main>
+{'' if bare else '</main>'}
 <footer class="foot"><div class="wrap">
   <div>
     <h4>ReviewInsight</h4>
@@ -479,8 +480,7 @@ def page_home() -> None:
         f'<td class="small">{e(spread(v)["lo"][0])} {spread(v)["lo"][1]} '
         f'vs {e(spread(v)["hi"][0])} {spread(v)["hi"][1]}</td></tr>' for v in widest)
 
-    body = f"""</div></main>
-<section class="hero2"><div class="wrap">
+    body = f"""<section class="hero2"><div class="wrap">
   <div>
     <h1>Software reviews,<br>read four at a time.</h1>
     <p class="sub">G2, Capterra, Gartner Peer Insights and Trustpilot rate the same product
@@ -545,7 +545,6 @@ def page_home() -> None:
     <a class="morelink" href="vendors/index.html">Full list with scores &rarr;</a>
   </div>
 </div></section>
-<main class="wrap"><div>
 <script>
 const RI_VENDORS = {vendormap};
 function riGo(f) {{
@@ -562,7 +561,7 @@ function riGo(f) {{
 </script>"""
     write("index.html", shell(0, "ReviewInsight",
           "One score per B2B software vendor, read across G2, Capterra, Gartner Peer "
-          "Insights and Trustpilot.", body))
+          "Insights and Trustpilot.", body, bare=True))
 
 
 def page_categories() -> None:

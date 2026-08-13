@@ -407,3 +407,9 @@ tbody tr:hover { background: var(--paper-sunk); }
 #sc-marketing-automation:checked ~ #panel-marketing-automation { display: block; }
 #sc-project-management:checked ~ .tablist label[for="sc-project-management"] { background: var(--ink); color: var(--paper); }
 #sc-project-management:checked ~ #panel-project-management { display: block; }
+
+/* inner pages need breathing room under the masthead; the homepage supplies
+   its own via the hero, so it renders without this wrapper */
+main.wrap { display: block; padding-top: 44px; padding-bottom: 56px; }
+main.wrap > .crumb:first-child { margin-bottom: 14px; }
+@media (max-width: 720px) { main.wrap { padding-top: 28px; } }

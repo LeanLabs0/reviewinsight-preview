@@ -834,7 +834,7 @@ def page_compare(a, b) -> None:
     elif ra is not None and rb is not None:
         verdict = f"Both rate {ra}. The difference is in which parts get them there."
     else:
-        verdict = "One of these does not have enough review evidence to score."
+        verdict = "One of these does not have enough recent reviews to be rated."
     body = f"""<div class="crumb"><a href="../../index.html">Home</a> /
 <a href="../../categories/{a['category']}/index.html">{e(a['category_name'])}</a></div>
 <h1>{e(a['name'])} vs {e(b['name'])}</h1>

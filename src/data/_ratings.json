@@ -1,0 +1,2107 @@
+{
+  "parts": [
+    "review_avg",
+    "reliable",
+    "recent",
+    "results"
+  ],
+  "labels": {
+    "review_avg": "Review Avg",
+    "reliable": "Reliable",
+    "recent": "Recent",
+    "results": "Result-Specific"
+  },
+  "curves": {
+    "freshness": [
+      [
+        0,
+        100
+      ],
+      [
+        30,
+        90
+      ],
+      [
+        45,
+        82
+      ],
+      [
+        60,
+        74
+      ],
+      [
+        90,
+        60
+      ],
+      [
+        180,
+        34
+      ],
+      [
+        365,
+        10
+      ],
+      [
+        730,
+        0
+      ]
+    ],
+    "recent_share": [
+      [
+        0,
+        0
+      ],
+      [
+        0.1,
+        18
+      ],
+      [
+        0.25,
+        42
+      ],
+      [
+        0.4,
+        60
+      ],
+      [
+        0.6,
+        78
+      ],
+      [
+        0.8,
+        92
+      ],
+      [
+        1,
+        100
+      ]
+    ],
+    "agreement": [
+      [
+        0,
+        100
+      ],
+      [
+        0.25,
+        94
+      ],
+      [
+        0.5,
+        85
+      ],
+      [
+        1.0,
+        68
+      ],
+      [
+        1.5,
+        48
+      ],
+      [
+        2.0,
+        30
+      ],
+      [
+        2.5,
+        16
+      ],
+      [
+        3.0,
+        7
+      ],
+      [
+        4.0,
+        0
+      ]
+    ],
+    "specificity": [
+      [
+        0,
+        0
+      ],
+      [
+        0.02,
+        12
+      ],
+      [
+        0.05,
+        28
+      ],
+      [
+        0.1,
+        48
+      ],
+      [
+        0.15,
+        62
+      ],
+      [
+        0.2,
+        72
+      ],
+      [
+        0.3,
+        85
+      ],
+      [
+        0.4,
+        93
+      ],
+      [
+        0.5,
+        100
+      ]
+    ]
+  },
+  "presence": {
+    "1": 0.35,
+    "2": 0.7,
+    "3": 0.88,
+    "4": 1.0
+  },
+  "floors": {
+    "platforms": 2,
+    "reviews": 15,
+    "recent_reviews": 5
+  },
+  "ratings": {
+    "hubspot-marketing-hub": {
+      "slug": "hubspot-marketing-hub",
+      "rated": true,
+      "rating": 65,
+      "rating_math": "85.8 + 7.0 + 96.9 + 71.0 = 260.7, / 4 = 65.17 -> 65",
+      "parts": [
+        {
+          "key": "review_avg",
+          "label": "Review Avg",
+          "value": 85.8,
+          "math": "4.4x14,913 + 4.5x6,249 + 4.4x2,683 + 1.5x1,152 = 107,271, / 24,997 reviews = 4.29 stars, x20 = 85.8",
+          "parts": [
+            {
+              "name": "G2",
+              "detail": "4.4 from 14,913 reviews",
+              "value": 88.0,
+              "curve": ""
+            },
+            {
+              "name": "Capterra",
+              "detail": "4.5 from 6,249 reviews",
+              "value": 90.0,
+              "curve": ""
+            },
+            {
+              "name": "Gartner Peer Insights",
+              "detail": "4.4 from 2,683 reviews",
+              "value": 88.0,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "1.5 from 1,152 reviews",
+              "value": 30.0,
+              "curve": ""
+            }
+          ]
+        },
+        {
+          "key": "reliable",
+          "label": "Reliable",
+          "value": 7.0,
+          "math": "7.0 x 1.00 for 4 platforms = 7.0",
+          "parts": [
+            {
+              "name": "Widest gap between platforms",
+              "detail": "3.0 stars, Trustpilot at 1.5 against Capterra at 4.5",
+              "value": 7.0,
+              "curve": "16 + (3-2.5)/(3-2.5) x (7-16) = 7.0"
+            },
+            {
+              "name": "Platforms carrying reviews",
+              "detail": "4, which counts for 100% of the agreement figure",
+              "value": 100.0,
+              "curve": "one platform 35%, two 70%, three 88%, four or more 100%"
+            }
+          ]
+        },
+        {
+          "key": "recent",
+          "label": "Recent",
+          "value": 96.9,
+          "math": "0.6 x 100.0 + 0.4 x 92.2 = 96.9",
+          "parts": [
+            {
+              "name": "Days since the newest review",
+              "detail": "0",
+              "value": 100.0,
+              "curve": "0 at or below 0, so 100"
+            },
+            {
+              "name": "Written in the last year",
+              "detail": "120 of 149 reviews we read (81%)",
+              "value": 92.2,
+              "curve": "92 + (0.805-0.8)/(1-0.8) x (100-92) = 92.2"
+            }
+          ]
+        },
+        {
+          "key": "results",
+          "label": "Result-Specific",
+          "value": 71.0,
+          "math": "62 + (0.195-0.15)/(0.2-0.15) x (72-62) = 71.0",
+          "parts": [
+            {
+              "name": "Reviews naming a checkable outcome",
+              "detail": "33 of 106 reviews we read closely, 19% averaged across platforms",
+              "value": 71.0,
+              "curve": "62 + (0.195-0.15)/(0.2-0.15) x (72-62) = 71.0"
+            },
+            {
+              "name": "Capterra",
+              "detail": "12% of 8 reviews",
+              "value": 12.5,
+              "curve": ""
+            },
+            {
+              "name": "G2",
+              "detail": "11% of 9 reviews",
+              "value": 11.1,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "35% of 89 reviews",
+              "value": 34.8,
+              "curve": ""
+            }
+          ]
+        }
+      ],
+      "eligibility": {
+        "platforms": 4,
+        "reviews": 24997,
+        "recent_reviews": 120,
+        "sample": 149,
+        "labelled": 106
+      },
+      "sample_size": 149,
+      "labelled": 106,
+      "reviews_last_year": 120,
+      "reviews_total": 24997
+    },
+    "klaviyo": {
+      "slug": "klaviyo",
+      "rated": true,
+      "rating": 65,
+      "rating_math": "83.4 + 7.0 + 90.2 + 78.6 = 259.2, / 4 = 64.80 -> 65",
+      "parts": [
+        {
+          "key": "review_avg",
+          "label": "Review Avg",
+          "value": 83.4,
+          "math": "4.6x1,360 + 4.6x534 + 4.7x170 + 1.7x365 = 10,132, / 2,429 reviews = 4.17 stars, x20 = 83.4",
+          "parts": [
+            {
+              "name": "G2",
+              "detail": "4.6 from 1,360 reviews",
+              "value": 92.0,
+              "curve": ""
+            },
+            {
+              "name": "Capterra",
+              "detail": "4.6 from 534 reviews",
+              "value": 92.0,
+              "curve": ""
+            },
+            {
+              "name": "Gartner Peer Insights",
+              "detail": "4.7 from 170 reviews",
+              "value": 94.0,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "1.7 from 365 reviews",
+              "value": 34.0,
+              "curve": ""
+            }
+          ]
+        },
+        {
+          "key": "reliable",
+          "label": "Reliable",
+          "value": 7.0,
+          "math": "7.0 x 1.00 for 4 platforms = 7.0",
+          "parts": [
+            {
+              "name": "Widest gap between platforms",
+              "detail": "3.0 stars, Trustpilot at 1.7 against Gartner Peer Insights at 4.7",
+              "value": 7.0,
+              "curve": "16 + (3-2.5)/(3-2.5) x (7-16) = 7.0"
+            },
+            {
+              "name": "Platforms carrying reviews",
+              "detail": "4, which counts for 100% of the agreement figure",
+              "value": 100.0,
+              "curve": "one platform 35%, two 70%, three 88%, four or more 100%"
+            }
+          ]
+        },
+        {
+          "key": "recent",
+          "label": "Recent",
+          "value": 90.2,
+          "math": "0.6 x 99.3 + 0.4 x 76.5 = 90.2",
+          "parts": [
+            {
+              "name": "Days since the newest review",
+              "detail": "2",
+              "value": 99.3,
+              "curve": "100 + (2-0)/(30-0) x (90-100) = 99.3"
+            },
+            {
+              "name": "Written in the last year",
+              "detail": "84 of 144 reviews we read (58%)",
+              "value": 76.5,
+              "curve": "60 + (0.583-0.4)/(0.6-0.4) x (78-60) = 76.5"
+            }
+          ]
+        },
+        {
+          "key": "results",
+          "label": "Result-Specific",
+          "value": 78.6,
+          "math": "72 + (0.251-0.2)/(0.3-0.2) x (85-72) = 78.6",
+          "parts": [
+            {
+              "name": "Reviews naming a checkable outcome",
+              "detail": "29 of 94 reviews we read closely, 25% averaged across platforms",
+              "value": 78.6,
+              "curve": "72 + (0.251-0.2)/(0.3-0.2) x (85-72) = 78.6"
+            },
+            {
+              "name": "Capterra",
+              "detail": "29% of 7 reviews",
+              "value": 28.6,
+              "curve": ""
+            },
+            {
+              "name": "G2",
+              "detail": "14% of 7 reviews",
+              "value": 14.3,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "32% of 80 reviews",
+              "value": 32.5,
+              "curve": ""
+            }
+          ]
+        }
+      ],
+      "eligibility": {
+        "platforms": 4,
+        "reviews": 2429,
+        "recent_reviews": 84,
+        "sample": 144,
+        "labelled": 94
+      },
+      "sample_size": 144,
+      "labelled": 94,
+      "reviews_last_year": 84,
+      "reviews_total": 2429
+    },
+    "adobe-marketo-engage": {
+      "slug": "adobe-marketo-engage",
+      "rated": true,
+      "rating": 58,
+      "rating_math": "83.4 + 33.6 + 75.2 + 41.2 = 233.4, / 4 = 58.35 -> 58",
+      "parts": [
+        {
+          "key": "review_avg",
+          "label": "Review Avg",
+          "value": 83.4,
+          "math": "4.1x3,149 + 4.3x712 + 4.3x1,106 + 2.4x6 = 20,743, / 4,973 reviews = 4.17 stars, x20 = 83.4",
+          "parts": [
+            {
+              "name": "G2",
+              "detail": "4.1 from 3,149 reviews",
+              "value": 82.0,
+              "curve": ""
+            },
+            {
+              "name": "Capterra",
+              "detail": "4.3 from 712 reviews",
+              "value": 86.0,
+              "curve": ""
+            },
+            {
+              "name": "Gartner Peer Insights",
+              "detail": "4.3 from 1,106 reviews",
+              "value": 86.0,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "2.4 from 6 reviews",
+              "value": 48.0,
+              "curve": ""
+            }
+          ]
+        },
+        {
+          "key": "reliable",
+          "label": "Reliable",
+          "value": 33.6,
+          "math": "33.6 x 1.00 for 4 platforms = 33.6",
+          "parts": [
+            {
+              "name": "Widest gap between platforms",
+              "detail": "1.9 stars, Trustpilot at 2.4 against Capterra at 4.3",
+              "value": 33.6,
+              "curve": "48 + (1.9-1.5)/(2-1.5) x (30-48) = 33.6"
+            },
+            {
+              "name": "Platforms carrying reviews",
+              "detail": "4, which counts for 100% of the agreement figure",
+              "value": 100.0,
+              "curve": "one platform 35%, two 70%, three 88%, four or more 100%"
+            }
+          ]
+        },
+        {
+          "key": "recent",
+          "label": "Recent",
+          "value": 75.2,
+          "math": "0.6 x 97.0 + 0.4 x 42.6 = 75.2",
+          "parts": [
+            {
+              "name": "Days since the newest review",
+              "detail": "9",
+              "value": 97.0,
+              "curve": "100 + (9-0)/(30-0) x (90-100) = 97.0"
+            },
+            {
+              "name": "Written in the last year",
+              "detail": "14 of 55 reviews we read (25%)",
+              "value": 42.6,
+              "curve": "42 + (0.255-0.25)/(0.4-0.25) x (60-42) = 42.6"
+            }
+          ]
+        },
+        {
+          "key": "results",
+          "label": "Result-Specific",
+          "value": 41.2,
+          "math": "28 + (0.083-0.05)/(0.1-0.05) x (48-28) = 41.2",
+          "parts": [
+            {
+              "name": "Reviews naming a checkable outcome",
+              "detail": "2 of 21 reviews we read closely, 8% averaged across platforms",
+              "value": 41.2,
+              "curve": "28 + (0.083-0.05)/(0.1-0.05) x (48-28) = 41.2"
+            },
+            {
+              "name": "Capterra",
+              "detail": "0% of 7 reviews",
+              "value": 0.0,
+              "curve": ""
+            },
+            {
+              "name": "G2",
+              "detail": "25% of 8 reviews",
+              "value": 25.0,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "0% of 6 reviews",
+              "value": 0.0,
+              "curve": ""
+            }
+          ]
+        }
+      ],
+      "eligibility": {
+        "platforms": 4,
+        "reviews": 4973,
+        "recent_reviews": 14,
+        "sample": 55,
+        "labelled": 21
+      },
+      "sample_size": 55,
+      "labelled": 21,
+      "reviews_last_year": 14,
+      "reviews_total": 4973
+    },
+    "mailchimp": {
+      "slug": "mailchimp",
+      "rated": true,
+      "rating": 76,
+      "rating_math": "87.3 + 33.6 + 96.1 + 86.6 = 303.6, / 4 = 75.90 -> 76",
+      "parts": [
+        {
+          "key": "review_avg",
+          "label": "Review Avg",
+          "value": 87.3,
+          "math": "4.4x5,429 + 4.5x17,667 + 4.4x1,254 + 2.6x1,490 = 112,781, / 25,840 reviews = 4.36 stars, x20 = 87.3",
+          "parts": [
+            {
+              "name": "G2",
+              "detail": "4.4 from 5,429 reviews",
+              "value": 88.0,
+              "curve": ""
+            },
+            {
+              "name": "Capterra",
+              "detail": "4.5 from 17,667 reviews",
+              "value": 90.0,
+              "curve": ""
+            },
+            {
+              "name": "Gartner Peer Insights",
+              "detail": "4.4 from 1,254 reviews",
+              "value": 88.0,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "2.6 from 1,490 reviews",
+              "value": 52.0,
+              "curve": ""
+            }
+          ]
+        },
+        {
+          "key": "reliable",
+          "label": "Reliable",
+          "value": 33.6,
+          "math": "33.6 x 1.00 for 4 platforms = 33.6",
+          "parts": [
+            {
+              "name": "Widest gap between platforms",
+              "detail": "1.9 stars, Trustpilot at 2.6 against Capterra at 4.5",
+              "value": 33.6,
+              "curve": "48 + (1.9-1.5)/(2-1.5) x (30-48) = 33.6"
+            },
+            {
+              "name": "Platforms carrying reviews",
+              "detail": "4, which counts for 100% of the agreement figure",
+              "value": 100.0,
+              "curve": "one platform 35%, two 70%, three 88%, four or more 100%"
+            }
+          ]
+        },
+        {
+          "key": "recent",
+          "label": "Recent",
+          "value": 96.1,
+          "math": "0.6 x 100.0 + 0.4 x 90.2 = 96.1",
+          "parts": [
+            {
+              "name": "Days since the newest review",
+              "detail": "0",
+              "value": 100.0,
+              "curve": "0 at or below 0, so 100"
+            },
+            {
+              "name": "Written in the last year",
+              "detail": "113 of 146 reviews we read (77%)",
+              "value": 90.2,
+              "curve": "78 + (0.774-0.6)/(0.8-0.6) x (92-78) = 90.2"
+            }
+          ]
+        },
+        {
+          "key": "results",
+          "label": "Result-Specific",
+          "value": 86.6,
+          "math": "85 + (0.32-0.3)/(0.4-0.3) x (93-85) = 86.6",
+          "parts": [
+            {
+              "name": "Reviews naming a checkable outcome",
+              "detail": "35 of 91 reviews we read closely, 32% averaged across platforms",
+              "value": 86.6,
+              "curve": "85 + (0.32-0.3)/(0.4-0.3) x (93-85) = 86.6"
+            },
+            {
+              "name": "Capterra",
+              "detail": "43% of 7 reviews",
+              "value": 42.9,
+              "curve": ""
+            },
+            {
+              "name": "G2",
+              "detail": "12% of 8 reviews",
+              "value": 12.5,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "41% of 76 reviews",
+              "value": 40.8,
+              "curve": ""
+            }
+          ]
+        }
+      ],
+      "eligibility": {
+        "platforms": 4,
+        "reviews": 25840,
+        "recent_reviews": 113,
+        "sample": 146,
+        "labelled": 91
+      },
+      "sample_size": 146,
+      "labelled": 91,
+      "reviews_last_year": 113,
+      "reviews_total": 25840
+    },
+    "activecampaign": {
+      "slug": "activecampaign",
+      "rated": true,
+      "rating": 73,
+      "rating_math": "86.1 + 37.2 + 96.5 + 71.6 = 291.4, / 4 = 72.85 -> 73",
+      "parts": [
+        {
+          "key": "review_avg",
+          "label": "Review Avg",
+          "value": 86.1,
+          "math": "4.4x14,779 + 4.6x2,568 + 4.3x97 + 2.8x1,426 = 81,250, / 18,870 reviews = 4.31 stars, x20 = 86.1",
+          "parts": [
+            {
+              "name": "G2",
+              "detail": "4.4 from 14,779 reviews",
+              "value": 88.0,
+              "curve": ""
+            },
+            {
+              "name": "Capterra",
+              "detail": "4.6 from 2,568 reviews",
+              "value": 92.0,
+              "curve": ""
+            },
+            {
+              "name": "Gartner Peer Insights",
+              "detail": "4.3 from 97 reviews",
+              "value": 86.0,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "2.8 from 1,426 reviews",
+              "value": 56.0,
+              "curve": ""
+            }
+          ]
+        },
+        {
+          "key": "reliable",
+          "label": "Reliable",
+          "value": 37.2,
+          "math": "37.2 x 1.00 for 4 platforms = 37.2",
+          "parts": [
+            {
+              "name": "Widest gap between platforms",
+              "detail": "1.8 stars, Trustpilot at 2.8 against Capterra at 4.6",
+              "value": 37.2,
+              "curve": "48 + (1.8-1.5)/(2-1.5) x (30-48) = 37.2"
+            },
+            {
+              "name": "Platforms carrying reviews",
+              "detail": "4, which counts for 100% of the agreement figure",
+              "value": 100.0,
+              "curve": "one platform 35%, two 70%, three 88%, four or more 100%"
+            }
+          ]
+        },
+        {
+          "key": "recent",
+          "label": "Recent",
+          "value": 96.5,
+          "math": "0.6 x 99.3 + 0.4 x 92.2 = 96.5",
+          "parts": [
+            {
+              "name": "Days since the newest review",
+              "detail": "2",
+              "value": 99.3,
+              "curve": "100 + (2-0)/(30-0) x (90-100) = 99.3"
+            },
+            {
+              "name": "Written in the last year",
+              "detail": "116 of 144 reviews we read (81%)",
+              "value": 92.2,
+              "curve": "92 + (0.806-0.8)/(1-0.8) x (100-92) = 92.2"
+            }
+          ]
+        },
+        {
+          "key": "results",
+          "label": "Result-Specific",
+          "value": 71.6,
+          "math": "62 + (0.198-0.15)/(0.2-0.15) x (72-62) = 71.6",
+          "parts": [
+            {
+              "name": "Reviews naming a checkable outcome",
+              "detail": "32 of 103 reviews we read closely, 20% averaged across platforms",
+              "value": 71.6,
+              "curve": "62 + (0.198-0.15)/(0.2-0.15) x (72-62) = 71.6"
+            },
+            {
+              "name": "Capterra",
+              "detail": "0% of 8 reviews",
+              "value": 0.0,
+              "curve": ""
+            },
+            {
+              "name": "G2",
+              "detail": "25% of 8 reviews",
+              "value": 25.0,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "34% of 87 reviews",
+              "value": 34.5,
+              "curve": ""
+            }
+          ]
+        }
+      ],
+      "eligibility": {
+        "platforms": 4,
+        "reviews": 18870,
+        "recent_reviews": 116,
+        "sample": 144,
+        "labelled": 103
+      },
+      "sample_size": 144,
+      "labelled": 103,
+      "reviews_last_year": 116,
+      "reviews_total": 18870
+    },
+    "brevo": {
+      "slug": "brevo",
+      "rated": true,
+      "rating": 83,
+      "rating_math": "85.2 + 81.6 + 96.6 + 68.0 = 331.4, / 4 = 82.85 -> 83",
+      "parts": [
+        {
+          "key": "review_avg",
+          "label": "Review Avg",
+          "value": 85.2,
+          "math": "4.5x2,621 + 4.6x3,509 + 4.5x182 + 4x7,172 = 57,443, / 13,484 reviews = 4.26 stars, x20 = 85.2",
+          "parts": [
+            {
+              "name": "G2",
+              "detail": "4.5 from 2,621 reviews",
+              "value": 90.0,
+              "curve": ""
+            },
+            {
+              "name": "Capterra",
+              "detail": "4.6 from 3,509 reviews",
+              "value": 92.0,
+              "curve": ""
+            },
+            {
+              "name": "Gartner Peer Insights",
+              "detail": "4.5 from 182 reviews",
+              "value": 90.0,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "4 from 7,172 reviews",
+              "value": 80,
+              "curve": ""
+            }
+          ]
+        },
+        {
+          "key": "reliable",
+          "label": "Reliable",
+          "value": 81.6,
+          "math": "81.6 x 1.00 for 4 platforms = 81.6",
+          "parts": [
+            {
+              "name": "Widest gap between platforms",
+              "detail": "0.6 stars, Trustpilot at 4 against Capterra at 4.6",
+              "value": 81.6,
+              "curve": "85 + (0.6-0.5)/(1-0.5) x (68-85) = 81.6"
+            },
+            {
+              "name": "Platforms carrying reviews",
+              "detail": "4, which counts for 100% of the agreement figure",
+              "value": 100.0,
+              "curve": "one platform 35%, two 70%, three 88%, four or more 100%"
+            }
+          ]
+        },
+        {
+          "key": "recent",
+          "label": "Recent",
+          "value": 96.6,
+          "math": "0.6 x 99.7 + 0.4 x 92.0 = 96.6",
+          "parts": [
+            {
+              "name": "Days since the newest review",
+              "detail": "1",
+              "value": 99.7,
+              "curve": "100 + (1-0)/(30-0) x (90-100) = 99.7"
+            },
+            {
+              "name": "Written in the last year",
+              "detail": "120 of 150 reviews we read (80%)",
+              "value": 92.0,
+              "curve": "78 + (0.8-0.6)/(0.8-0.6) x (92-78) = 92.0"
+            }
+          ]
+        },
+        {
+          "key": "results",
+          "label": "Result-Specific",
+          "value": 68.0,
+          "math": "62 + (0.18-0.15)/(0.2-0.15) x (72-62) = 68.0",
+          "parts": [
+            {
+              "name": "Reviews naming a checkable outcome",
+              "detail": "26 of 99 reviews we read closely, 18% averaged across platforms",
+              "value": 68.0,
+              "curve": "62 + (0.18-0.15)/(0.2-0.15) x (72-62) = 68.0"
+            },
+            {
+              "name": "Capterra",
+              "detail": "12% of 8 reviews",
+              "value": 12.5,
+              "curve": ""
+            },
+            {
+              "name": "G2",
+              "detail": "12% of 8 reviews",
+              "value": 12.5,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "29% of 83 reviews",
+              "value": 28.9,
+              "curve": ""
+            }
+          ]
+        }
+      ],
+      "eligibility": {
+        "platforms": 4,
+        "reviews": 13484,
+        "recent_reviews": 120,
+        "sample": 150,
+        "labelled": 99
+      },
+      "sample_size": 150,
+      "labelled": 99,
+      "reviews_last_year": 120,
+      "reviews_total": 13484
+    },
+    "braze": {
+      "slug": "braze",
+      "rated": true,
+      "rating": 65,
+      "rating_math": "90.2 + 33.6 + 79.0 + 57.5 = 260.3, / 4 = 65.08 -> 65",
+      "parts": [
+        {
+          "key": "review_avg",
+          "label": "Review Avg",
+          "value": 90.2,
+          "math": "4.5x1,689 + 4.7x168 + 4.5x462 + 2.8x3 = 10,478, / 2,322 reviews = 4.51 stars, x20 = 90.2",
+          "parts": [
+            {
+              "name": "G2",
+              "detail": "4.5 from 1,689 reviews",
+              "value": 90.0,
+              "curve": ""
+            },
+            {
+              "name": "Capterra",
+              "detail": "4.7 from 168 reviews",
+              "value": 94.0,
+              "curve": ""
+            },
+            {
+              "name": "Gartner Peer Insights",
+              "detail": "4.5 from 462 reviews",
+              "value": 90.0,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "2.8 from 3 reviews",
+              "value": 56.0,
+              "curve": ""
+            }
+          ]
+        },
+        {
+          "key": "reliable",
+          "label": "Reliable",
+          "value": 33.6,
+          "math": "33.6 x 1.00 for 4 platforms = 33.6",
+          "parts": [
+            {
+              "name": "Widest gap between platforms",
+              "detail": "1.9 stars, Trustpilot at 2.8 against Capterra at 4.7",
+              "value": 33.6,
+              "curve": "48 + (1.9-1.5)/(2-1.5) x (30-48) = 33.6"
+            },
+            {
+              "name": "Platforms carrying reviews",
+              "detail": "4, which counts for 100% of the agreement figure",
+              "value": 100.0,
+              "curve": "one platform 35%, two 70%, three 88%, four or more 100%"
+            }
+          ]
+        },
+        {
+          "key": "recent",
+          "label": "Recent",
+          "value": 79.0,
+          "math": "0.6 x 99.7 + 0.4 x 48.0 = 79.0",
+          "parts": [
+            {
+              "name": "Days since the newest review",
+              "detail": "1",
+              "value": 99.7,
+              "curve": "100 + (1-0)/(30-0) x (90-100) = 99.7"
+            },
+            {
+              "name": "Written in the last year",
+              "detail": "15 of 50 reviews we read (30%)",
+              "value": 48.0,
+              "curve": "42 + (0.3-0.25)/(0.4-0.25) x (60-42) = 48.0"
+            }
+          ]
+        },
+        {
+          "key": "results",
+          "label": "Result-Specific",
+          "value": 57.5,
+          "math": "48 + (0.134-0.1)/(0.15-0.1) x (62-48) = 57.5",
+          "parts": [
+            {
+              "name": "Reviews naming a checkable outcome",
+              "detail": "3 of 17 reviews we read closely, 13% averaged across platforms",
+              "value": 57.5,
+              "curve": "48 + (0.134-0.1)/(0.15-0.1) x (62-48) = 57.5"
+            },
+            {
+              "name": "Capterra",
+              "detail": "14% of 7 reviews",
+              "value": 14.3,
+              "curve": ""
+            },
+            {
+              "name": "G2",
+              "detail": "12% of 8 reviews",
+              "value": 12.5,
+              "curve": ""
+            }
+          ]
+        }
+      ],
+      "eligibility": {
+        "platforms": 4,
+        "reviews": 2322,
+        "recent_reviews": 15,
+        "sample": 50,
+        "labelled": 17
+      },
+      "sample_size": 50,
+      "labelled": 17,
+      "reviews_last_year": 15,
+      "reviews_total": 2322
+    },
+    "iterable": {
+      "slug": "iterable",
+      "rated": true,
+      "rating": 67,
+      "rating_math": "87.9 + 85.9 + 65.1 + 30.4 = 269.3, / 4 = 67.33 -> 67",
+      "parts": [
+        {
+          "key": "review_avg",
+          "label": "Review Avg",
+          "value": 87.9,
+          "math": "4.4x825 + 4.3x63 + 4.4x326 = 5,335, / 1,214 reviews = 4.39 stars, x20 = 87.9",
+          "parts": [
+            {
+              "name": "G2",
+              "detail": "4.4 from 825 reviews",
+              "value": 88.0,
+              "curve": ""
+            },
+            {
+              "name": "Capterra",
+              "detail": "4.3 from 63 reviews",
+              "value": 86.0,
+              "curve": ""
+            },
+            {
+              "name": "Gartner Peer Insights",
+              "detail": "4.4 from 326 reviews",
+              "value": 88.0,
+              "curve": ""
+            }
+          ]
+        },
+        {
+          "key": "reliable",
+          "label": "Reliable",
+          "value": 85.9,
+          "math": "97.6 x 0.88 for 3 platforms = 85.9",
+          "parts": [
+            {
+              "name": "Widest gap between platforms",
+              "detail": "0.1 stars, Capterra at 4.3 against G2 at 4.4",
+              "value": 97.6,
+              "curve": "100 + (0.1-0)/(0.25-0) x (94-100) = 97.6"
+            },
+            {
+              "name": "Platforms carrying reviews",
+              "detail": "3, which counts for 88% of the agreement figure",
+              "value": 88.0,
+              "curve": "one platform 35%, two 70%, three 88%, four or more 100%"
+            }
+          ]
+        },
+        {
+          "key": "recent",
+          "label": "Recent",
+          "value": 65.1,
+          "math": "0.6 x 75.1 + 0.4 x 50.2 = 65.1",
+          "parts": [
+            {
+              "name": "Days since the newest review",
+              "detail": "58",
+              "value": 75.1,
+              "curve": "82 + (58-45)/(60-45) x (74-82) = 75.1"
+            },
+            {
+              "name": "Written in the last year",
+              "detail": "14 of 44 reviews we read (32%)",
+              "value": 50.2,
+              "curve": "42 + (0.318-0.25)/(0.4-0.25) x (60-42) = 50.2"
+            }
+          ]
+        },
+        {
+          "key": "results",
+          "label": "Result-Specific",
+          "value": 30.4,
+          "math": "28 + (0.056-0.05)/(0.1-0.05) x (48-28) = 30.4",
+          "parts": [
+            {
+              "name": "Reviews naming a checkable outcome",
+              "detail": "1 of 17 reviews we read closely, 6% averaged across platforms",
+              "value": 30.4,
+              "curve": "28 + (0.056-0.05)/(0.1-0.05) x (48-28) = 30.4"
+            },
+            {
+              "name": "Capterra",
+              "detail": "0% of 8 reviews",
+              "value": 0.0,
+              "curve": ""
+            },
+            {
+              "name": "G2",
+              "detail": "11% of 9 reviews",
+              "value": 11.1,
+              "curve": ""
+            }
+          ]
+        }
+      ],
+      "eligibility": {
+        "platforms": 3,
+        "reviews": 1214,
+        "recent_reviews": 14,
+        "sample": 44,
+        "labelled": 17
+      },
+      "sample_size": 44,
+      "labelled": 17,
+      "reviews_last_year": 14,
+      "reviews_total": 1214
+    },
+    "monday-com": {
+      "slug": "monday-com",
+      "rated": true,
+      "rating": 72,
+      "rating_math": "87.5 + 18.8 + 94.4 + 86.6 = 287.3, / 4 = 71.83 -> 72",
+      "parts": [
+        {
+          "key": "review_avg",
+          "label": "Review Avg",
+          "value": 87.5,
+          "math": "4.7x17,119 + 4.6x6,086 + 4.5x1,333 + 2.3x3,424 = 122,329, / 27,962 reviews = 4.37 stars, x20 = 87.5",
+          "parts": [
+            {
+              "name": "G2",
+              "detail": "4.7 from 17,119 reviews",
+              "value": 94.0,
+              "curve": ""
+            },
+            {
+              "name": "Capterra",
+              "detail": "4.6 from 6,086 reviews",
+              "value": 92.0,
+              "curve": ""
+            },
+            {
+              "name": "Gartner Peer Insights",
+              "detail": "4.5 from 1,333 reviews",
+              "value": 90.0,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "2.3 from 3,424 reviews",
+              "value": 46.0,
+              "curve": ""
+            }
+          ]
+        },
+        {
+          "key": "reliable",
+          "label": "Reliable",
+          "value": 18.8,
+          "math": "18.8 x 1.00 for 4 platforms = 18.8",
+          "parts": [
+            {
+              "name": "Widest gap between platforms",
+              "detail": "2.4 stars, Trustpilot at 2.3 against G2 at 4.7",
+              "value": 18.8,
+              "curve": "30 + (2.4-2)/(2.5-2) x (16-30) = 18.8"
+            },
+            {
+              "name": "Platforms carrying reviews",
+              "detail": "4, which counts for 100% of the agreement figure",
+              "value": 100.0,
+              "curve": "one platform 35%, two 70%, three 88%, four or more 100%"
+            }
+          ]
+        },
+        {
+          "key": "recent",
+          "label": "Recent",
+          "value": 94.4,
+          "math": "0.6 x 100.0 + 0.4 x 85.9 = 94.4",
+          "parts": [
+            {
+              "name": "Days since the newest review",
+              "detail": "0",
+              "value": 100.0,
+              "curve": "0 at or below 0, so 100"
+            },
+            {
+              "name": "Written in the last year",
+              "detail": "107 of 150 reviews we read (71%)",
+              "value": 85.9,
+              "curve": "78 + (0.713-0.6)/(0.8-0.6) x (92-78) = 85.9"
+            }
+          ]
+        },
+        {
+          "key": "results",
+          "label": "Result-Specific",
+          "value": 86.6,
+          "math": "85 + (0.32-0.3)/(0.4-0.3) x (93-85) = 86.6",
+          "parts": [
+            {
+              "name": "Reviews naming a checkable outcome",
+              "detail": "28 of 94 reviews we read closely, 32% averaged across platforms",
+              "value": 86.6,
+              "curve": "85 + (0.32-0.3)/(0.4-0.3) x (93-85) = 86.6"
+            },
+            {
+              "name": "Capterra",
+              "detail": "17% of 6 reviews",
+              "value": 16.7,
+              "curve": ""
+            },
+            {
+              "name": "G2",
+              "detail": "50% of 6 reviews",
+              "value": 50.0,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "29% of 82 reviews",
+              "value": 29.3,
+              "curve": ""
+            }
+          ]
+        }
+      ],
+      "eligibility": {
+        "platforms": 4,
+        "reviews": 27962,
+        "recent_reviews": 107,
+        "sample": 150,
+        "labelled": 94
+      },
+      "sample_size": 150,
+      "labelled": 94,
+      "reviews_last_year": 107,
+      "reviews_total": 27962
+    },
+    "asana": {
+      "slug": "asana",
+      "rated": true,
+      "rating": 62,
+      "rating_math": "88.5 + 7.0 + 86.7 + 67.4 = 249.6, / 4 = 62.40 -> 62",
+      "parts": [
+        {
+          "key": "review_avg",
+          "label": "Review Avg",
+          "value": 88.5,
+          "math": "4.4x13,853 + 4.5x13,631 + 4.5x2,446 + 1.5x307 = 133,760, / 30,237 reviews = 4.42 stars, x20 = 88.5",
+          "parts": [
+            {
+              "name": "G2",
+              "detail": "4.4 from 13,853 reviews",
+              "value": 88.0,
+              "curve": ""
+            },
+            {
+              "name": "Capterra",
+              "detail": "4.5 from 13,631 reviews",
+              "value": 90.0,
+              "curve": ""
+            },
+            {
+              "name": "Gartner Peer Insights",
+              "detail": "4.5 from 2,446 reviews",
+              "value": 90.0,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "1.5 from 307 reviews",
+              "value": 30.0,
+              "curve": ""
+            }
+          ]
+        },
+        {
+          "key": "reliable",
+          "label": "Reliable",
+          "value": 7.0,
+          "math": "7.0 x 1.00 for 4 platforms = 7.0",
+          "parts": [
+            {
+              "name": "Widest gap between platforms",
+              "detail": "3.0 stars, Trustpilot at 1.5 against Capterra at 4.5",
+              "value": 7.0,
+              "curve": "16 + (3-2.5)/(3-2.5) x (7-16) = 7.0"
+            },
+            {
+              "name": "Platforms carrying reviews",
+              "detail": "4, which counts for 100% of the agreement figure",
+              "value": 100.0,
+              "curve": "one platform 35%, two 70%, three 88%, four or more 100%"
+            }
+          ]
+        },
+        {
+          "key": "recent",
+          "label": "Recent",
+          "value": 86.7,
+          "math": "0.6 x 100.0 + 0.4 x 66.8 = 86.7",
+          "parts": [
+            {
+              "name": "Days since the newest review",
+              "detail": "0",
+              "value": 100.0,
+              "curve": "0 at or below 0, so 100"
+            },
+            {
+              "name": "Written in the last year",
+              "detail": "70 of 147 reviews we read (48%)",
+              "value": 66.8,
+              "curve": "60 + (0.476-0.4)/(0.6-0.4) x (78-60) = 66.8"
+            }
+          ]
+        },
+        {
+          "key": "results",
+          "label": "Result-Specific",
+          "value": 67.4,
+          "math": "62 + (0.177-0.15)/(0.2-0.15) x (72-62) = 67.4",
+          "parts": [
+            {
+              "name": "Reviews naming a checkable outcome",
+              "detail": "33 of 96 reviews we read closely, 18% averaged across platforms",
+              "value": 67.4,
+              "curve": "62 + (0.177-0.15)/(0.2-0.15) x (72-62) = 67.4"
+            },
+            {
+              "name": "Capterra",
+              "detail": "12% of 8 reviews",
+              "value": 12.5,
+              "curve": ""
+            },
+            {
+              "name": "G2",
+              "detail": "0% of 9 reviews",
+              "value": 0.0,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "41% of 79 reviews",
+              "value": 40.5,
+              "curve": ""
+            }
+          ]
+        }
+      ],
+      "eligibility": {
+        "platforms": 4,
+        "reviews": 30237,
+        "recent_reviews": 70,
+        "sample": 147,
+        "labelled": 96
+      },
+      "sample_size": 147,
+      "labelled": 96,
+      "reviews_last_year": 70,
+      "reviews_total": 30237
+    },
+    "clickup": {
+      "slug": "clickup",
+      "rated": true,
+      "rating": 87,
+      "rating_math": "91.5 + 81.6 + 97.7 + 76.3 = 347.1, / 4 = 86.78 -> 87",
+      "parts": [
+        {
+          "key": "review_avg",
+          "label": "Review Avg",
+          "value": 91.5,
+          "math": "4.6x13,689 + 4.6x4,615 + 4.5x756 + 4x653 = 90,212, / 19,713 reviews = 4.58 stars, x20 = 91.5",
+          "parts": [
+            {
+              "name": "G2",
+              "detail": "4.6 from 13,689 reviews",
+              "value": 92.0,
+              "curve": ""
+            },
+            {
+              "name": "Capterra",
+              "detail": "4.6 from 4,615 reviews",
+              "value": 92.0,
+              "curve": ""
+            },
+            {
+              "name": "Gartner Peer Insights",
+              "detail": "4.5 from 756 reviews",
+              "value": 90.0,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "4 from 653 reviews",
+              "value": 80,
+              "curve": ""
+            }
+          ]
+        },
+        {
+          "key": "reliable",
+          "label": "Reliable",
+          "value": 81.6,
+          "math": "81.6 x 1.00 for 4 platforms = 81.6",
+          "parts": [
+            {
+              "name": "Widest gap between platforms",
+              "detail": "0.6 stars, Trustpilot at 4 against G2 at 4.6",
+              "value": 81.6,
+              "curve": "85 + (0.6-0.5)/(1-0.5) x (68-85) = 81.6"
+            },
+            {
+              "name": "Platforms carrying reviews",
+              "detail": "4, which counts for 100% of the agreement figure",
+              "value": 100.0,
+              "curve": "one platform 35%, two 70%, three 88%, four or more 100%"
+            }
+          ]
+        },
+        {
+          "key": "recent",
+          "label": "Recent",
+          "value": 97.7,
+          "math": "0.6 x 99.7 + 0.4 x 94.6 = 97.7",
+          "parts": [
+            {
+              "name": "Days since the newest review",
+              "detail": "1",
+              "value": 99.7,
+              "curve": "100 + (1-0)/(30-0) x (90-100) = 99.7"
+            },
+            {
+              "name": "Written in the last year",
+              "detail": "110 of 127 reviews we read (87%)",
+              "value": 94.6,
+              "curve": "92 + (0.866-0.8)/(1-0.8) x (100-92) = 94.6"
+            }
+          ]
+        },
+        {
+          "key": "results",
+          "label": "Result-Specific",
+          "value": 76.3,
+          "math": "72 + (0.233-0.2)/(0.3-0.2) x (85-72) = 76.3",
+          "parts": [
+            {
+              "name": "Reviews naming a checkable outcome",
+              "detail": "31 of 100 reviews we read closely, 23% averaged across platforms",
+              "value": 76.3,
+              "curve": "72 + (0.233-0.2)/(0.3-0.2) x (85-72) = 76.3"
+            },
+            {
+              "name": "Capterra",
+              "detail": "14% of 7 reviews",
+              "value": 14.3,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "32% of 93 reviews",
+              "value": 32.3,
+              "curve": ""
+            }
+          ]
+        }
+      ],
+      "eligibility": {
+        "platforms": 4,
+        "reviews": 19713,
+        "recent_reviews": 110,
+        "sample": 127,
+        "labelled": 100
+      },
+      "sample_size": 127,
+      "labelled": 100,
+      "reviews_last_year": 110,
+      "reviews_total": 19713
+    },
+    "wrike": {
+      "slug": "wrike",
+      "rated": true,
+      "rating": 79,
+      "rating_math": "85.7 + 74.8 + 70.3 + 87.0 = 317.8, / 4 = 79.45 -> 79",
+      "parts": [
+        {
+          "key": "review_avg",
+          "label": "Review Avg",
+          "value": 85.7,
+          "math": "4.2x4,540 + 4.4x3,034 + 4.4x1,747 + 3.6x218 = 40,889, / 9,539 reviews = 4.29 stars, x20 = 85.7",
+          "parts": [
+            {
+              "name": "G2",
+              "detail": "4.2 from 4,540 reviews",
+              "value": 84.0,
+              "curve": ""
+            },
+            {
+              "name": "Capterra",
+              "detail": "4.4 from 3,034 reviews",
+              "value": 88.0,
+              "curve": ""
+            },
+            {
+              "name": "Gartner Peer Insights",
+              "detail": "4.4 from 1,747 reviews",
+              "value": 88.0,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "3.6 from 218 reviews",
+              "value": 72.0,
+              "curve": ""
+            }
+          ]
+        },
+        {
+          "key": "reliable",
+          "label": "Reliable",
+          "value": 74.8,
+          "math": "74.8 x 1.00 for 4 platforms = 74.8",
+          "parts": [
+            {
+              "name": "Widest gap between platforms",
+              "detail": "0.8 stars, Trustpilot at 3.6 against Capterra at 4.4",
+              "value": 74.8,
+              "curve": "85 + (0.8-0.5)/(1-0.5) x (68-85) = 74.8"
+            },
+            {
+              "name": "Platforms carrying reviews",
+              "detail": "4, which counts for 100% of the agreement figure",
+              "value": 100.0,
+              "curve": "one platform 35%, two 70%, three 88%, four or more 100%"
+            }
+          ]
+        },
+        {
+          "key": "recent",
+          "label": "Recent",
+          "value": 70.3,
+          "math": "0.6 x 100.0 + 0.4 x 25.7 = 70.3",
+          "parts": [
+            {
+              "name": "Days since the newest review",
+              "detail": "0",
+              "value": 100.0,
+              "curve": "0 at or below 0, so 100"
+            },
+            {
+              "name": "Written in the last year",
+              "detail": "22 of 149 reviews we read (15%)",
+              "value": 25.7,
+              "curve": "18 + (0.148-0.1)/(0.25-0.1) x (42-18) = 25.7"
+            }
+          ]
+        },
+        {
+          "key": "results",
+          "label": "Result-Specific",
+          "value": 87.0,
+          "math": "85 + (0.325-0.3)/(0.4-0.3) x (93-85) = 87.0",
+          "parts": [
+            {
+              "name": "Reviews naming a checkable outcome",
+              "detail": "32 of 105 reviews we read closely, 33% averaged across platforms",
+              "value": 87.0,
+              "curve": "85 + (0.325-0.3)/(0.4-0.3) x (93-85) = 87.0"
+            },
+            {
+              "name": "Capterra",
+              "detail": "12% of 8 reviews",
+              "value": 12.5,
+              "curve": ""
+            },
+            {
+              "name": "G2",
+              "detail": "56% of 9 reviews",
+              "value": 55.6,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "30% of 88 reviews",
+              "value": 29.5,
+              "curve": ""
+            }
+          ]
+        }
+      ],
+      "eligibility": {
+        "platforms": 4,
+        "reviews": 9539,
+        "recent_reviews": 22,
+        "sample": 149,
+        "labelled": 105
+      },
+      "sample_size": 149,
+      "labelled": 105,
+      "reviews_last_year": 22,
+      "reviews_total": 9539
+    },
+    "smartsheet": {
+      "slug": "smartsheet",
+      "rated": true,
+      "rating": 65,
+      "rating_math": "88.2 + 5.6 + 80.2 + 86.0 = 260.0, / 4 = 65.00 -> 65",
+      "parts": [
+        {
+          "key": "review_avg",
+          "label": "Review Avg",
+          "value": 88.2,
+          "math": "4.4x22,701 + 4.5x3,536 + 4.5x2,827 + 1.3x121 = 128,675, / 29,185 reviews = 4.41 stars, x20 = 88.2",
+          "parts": [
+            {
+              "name": "G2",
+              "detail": "4.4 from 22,701 reviews",
+              "value": 88.0,
+              "curve": ""
+            },
+            {
+              "name": "Capterra",
+              "detail": "4.5 from 3,536 reviews",
+              "value": 90.0,
+              "curve": ""
+            },
+            {
+              "name": "Gartner Peer Insights",
+              "detail": "4.5 from 2,827 reviews",
+              "value": 90.0,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "1.3 from 121 reviews",
+              "value": 26.0,
+              "curve": ""
+            }
+          ]
+        },
+        {
+          "key": "reliable",
+          "label": "Reliable",
+          "value": 5.6,
+          "math": "5.6 x 1.00 for 4 platforms = 5.6",
+          "parts": [
+            {
+              "name": "Widest gap between platforms",
+              "detail": "3.2 stars, Trustpilot at 1.3 against Capterra at 4.5",
+              "value": 5.6,
+              "curve": "7 + (3.2-3)/(4-3) x (0-7) = 5.6"
+            },
+            {
+              "name": "Platforms carrying reviews",
+              "detail": "4, which counts for 100% of the agreement figure",
+              "value": 100.0,
+              "curve": "one platform 35%, two 70%, three 88%, four or more 100%"
+            }
+          ]
+        },
+        {
+          "key": "recent",
+          "label": "Recent",
+          "value": 80.2,
+          "math": "0.6 x 100.0 + 0.4 x 50.4 = 80.2",
+          "parts": [
+            {
+              "name": "Days since the newest review",
+              "detail": "0",
+              "value": 100.0,
+              "curve": "0 at or below 0, so 100"
+            },
+            {
+              "name": "Written in the last year",
+              "detail": "47 of 147 reviews we read (32%)",
+              "value": 50.4,
+              "curve": "42 + (0.32-0.25)/(0.4-0.25) x (60-42) = 50.4"
+            }
+          ]
+        },
+        {
+          "key": "results",
+          "label": "Result-Specific",
+          "value": 86.0,
+          "math": "85 + (0.312-0.3)/(0.4-0.3) x (93-85) = 86.0",
+          "parts": [
+            {
+              "name": "Reviews naming a checkable outcome",
+              "detail": "37 of 104 reviews we read closely, 31% averaged across platforms",
+              "value": 86.0,
+              "curve": "85 + (0.312-0.3)/(0.4-0.3) x (93-85) = 86.0"
+            },
+            {
+              "name": "Capterra",
+              "detail": "12% of 8 reviews",
+              "value": 12.5,
+              "curve": ""
+            },
+            {
+              "name": "G2",
+              "detail": "44% of 9 reviews",
+              "value": 44.4,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "37% of 87 reviews",
+              "value": 36.8,
+              "curve": ""
+            }
+          ]
+        }
+      ],
+      "eligibility": {
+        "platforms": 4,
+        "reviews": 29185,
+        "recent_reviews": 47,
+        "sample": 147,
+        "labelled": 104
+      },
+      "sample_size": 147,
+      "labelled": 104,
+      "reviews_last_year": 47,
+      "reviews_total": 29185
+    },
+    "notion": {
+      "slug": "notion",
+      "rated": true,
+      "rating": 72,
+      "rating_math": "91.2 + 18.8 + 97.5 + 81.6 = 289.1, / 4 = 72.28 -> 72",
+      "parts": [
+        {
+          "key": "review_avg",
+          "label": "Review Avg",
+          "value": 91.2,
+          "math": "4.6x13,744 + 4.7x2,792 + 4.5x250 + 2.3x424 = 78,445, / 17,210 reviews = 4.56 stars, x20 = 91.2",
+          "parts": [
+            {
+              "name": "G2",
+              "detail": "4.6 from 13,744 reviews",
+              "value": 92.0,
+              "curve": ""
+            },
+            {
+              "name": "Capterra",
+              "detail": "4.7 from 2,792 reviews",
+              "value": 94.0,
+              "curve": ""
+            },
+            {
+              "name": "Gartner Peer Insights",
+              "detail": "4.5 from 250 reviews",
+              "value": 90.0,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "2.3 from 424 reviews",
+              "value": 46.0,
+              "curve": ""
+            }
+          ]
+        },
+        {
+          "key": "reliable",
+          "label": "Reliable",
+          "value": 18.8,
+          "math": "18.8 x 1.00 for 4 platforms = 18.8",
+          "parts": [
+            {
+              "name": "Widest gap between platforms",
+              "detail": "2.4 stars, Trustpilot at 2.3 against Capterra at 4.7",
+              "value": 18.8,
+              "curve": "30 + (2.4-2)/(2.5-2) x (16-30) = 18.8"
+            },
+            {
+              "name": "Platforms carrying reviews",
+              "detail": "4, which counts for 100% of the agreement figure",
+              "value": 100.0,
+              "curve": "one platform 35%, two 70%, three 88%, four or more 100%"
+            }
+          ]
+        },
+        {
+          "key": "recent",
+          "label": "Recent",
+          "value": 97.5,
+          "math": "0.6 x 100.0 + 0.4 x 93.8 = 97.5",
+          "parts": [
+            {
+              "name": "Days since the newest review",
+              "detail": "0",
+              "value": 100.0,
+              "curve": "0 at or below 0, so 100"
+            },
+            {
+              "name": "Written in the last year",
+              "detail": "124 of 147 reviews we read (84%)",
+              "value": 93.8,
+              "curve": "92 + (0.844-0.8)/(1-0.8) x (100-92) = 93.8"
+            }
+          ]
+        },
+        {
+          "key": "results",
+          "label": "Result-Specific",
+          "value": 81.6,
+          "math": "72 + (0.274-0.2)/(0.3-0.2) x (85-72) = 81.6",
+          "parts": [
+            {
+              "name": "Reviews naming a checkable outcome",
+              "detail": "36 of 105 reviews we read closely, 27% averaged across platforms",
+              "value": 81.6,
+              "curve": "72 + (0.274-0.2)/(0.3-0.2) x (85-72) = 81.6"
+            },
+            {
+              "name": "Capterra",
+              "detail": "12% of 8 reviews",
+              "value": 12.5,
+              "curve": ""
+            },
+            {
+              "name": "G2",
+              "detail": "33% of 9 reviews",
+              "value": 33.3,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "36% of 88 reviews",
+              "value": 36.4,
+              "curve": ""
+            }
+          ]
+        }
+      ],
+      "eligibility": {
+        "platforms": 4,
+        "reviews": 17210,
+        "recent_reviews": 124,
+        "sample": 147,
+        "labelled": 105
+      },
+      "sample_size": 147,
+      "labelled": 105,
+      "reviews_last_year": 124,
+      "reviews_total": 17210
+    },
+    "jira": {
+      "slug": "jira",
+      "rated": true,
+      "rating": 60,
+      "rating_math": "87.1 + 5.6 + 93.2 + 52.2 = 238.1, / 4 = 59.52 -> 60",
+      "parts": [
+        {
+          "key": "review_avg",
+          "label": "Review Avg",
+          "value": 87.1,
+          "math": "4.3x7,935 + 4.4x15,446 + 4.4x7,891 + 1.2x174 = 137,012, / 31,446 reviews = 4.36 stars, x20 = 87.1",
+          "parts": [
+            {
+              "name": "G2",
+              "detail": "4.3 from 7,935 reviews",
+              "value": 86.0,
+              "curve": ""
+            },
+            {
+              "name": "Capterra",
+              "detail": "4.4 from 15,446 reviews",
+              "value": 88.0,
+              "curve": ""
+            },
+            {
+              "name": "Gartner Peer Insights",
+              "detail": "4.4 from 7,891 reviews",
+              "value": 88.0,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "1.2 from 174 reviews",
+              "value": 24.0,
+              "curve": ""
+            }
+          ]
+        },
+        {
+          "key": "reliable",
+          "label": "Reliable",
+          "value": 5.6,
+          "math": "5.6 x 1.00 for 4 platforms = 5.6",
+          "parts": [
+            {
+              "name": "Widest gap between platforms",
+              "detail": "3.2 stars, Trustpilot at 1.2 against Capterra at 4.4",
+              "value": 5.6,
+              "curve": "7 + (3.2-3)/(4-3) x (0-7) = 5.6"
+            },
+            {
+              "name": "Platforms carrying reviews",
+              "detail": "4, which counts for 100% of the agreement figure",
+              "value": 100.0,
+              "curve": "one platform 35%, two 70%, three 88%, four or more 100%"
+            }
+          ]
+        },
+        {
+          "key": "recent",
+          "label": "Recent",
+          "value": 93.2,
+          "math": "0.6 x 100.0 + 0.4 x 83.1 = 93.2",
+          "parts": [
+            {
+              "name": "Days since the newest review",
+              "detail": "0",
+              "value": 100.0,
+              "curve": "0 at or below 0, so 100"
+            },
+            {
+              "name": "Written in the last year",
+              "detail": "99 of 147 reviews we read (67%)",
+              "value": 83.1,
+              "curve": "78 + (0.673-0.6)/(0.8-0.6) x (92-78) = 83.1"
+            }
+          ]
+        },
+        {
+          "key": "results",
+          "label": "Result-Specific",
+          "value": 52.2,
+          "math": "48 + (0.115-0.1)/(0.15-0.1) x (62-48) = 52.2",
+          "parts": [
+            {
+              "name": "Reviews naming a checkable outcome",
+              "detail": "30 of 104 reviews we read closely, 11% averaged across platforms",
+              "value": 52.2,
+              "curve": "48 + (0.115-0.1)/(0.15-0.1) x (62-48) = 52.2"
+            },
+            {
+              "name": "Capterra",
+              "detail": "0% of 8 reviews",
+              "value": 0.0,
+              "curve": ""
+            },
+            {
+              "name": "G2",
+              "detail": "0% of 9 reviews",
+              "value": 0.0,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "34% of 87 reviews",
+              "value": 34.5,
+              "curve": ""
+            }
+          ]
+        }
+      ],
+      "eligibility": {
+        "platforms": 4,
+        "reviews": 31446,
+        "recent_reviews": 99,
+        "sample": 147,
+        "labelled": 104
+      },
+      "sample_size": 147,
+      "labelled": 104,
+      "reviews_last_year": 99,
+      "reviews_total": 31446
+    },
+    "basecamp": {
+      "slug": "basecamp",
+      "rated": true,
+      "rating": 71,
+      "rating_math": "84.8 + 26.4 + 85.3 + 87.8 = 284.3, / 4 = 71.08 -> 71",
+      "parts": [
+        {
+          "key": "review_avg",
+          "label": "Review Avg",
+          "value": 84.8,
+          "math": "4.1x5,488 + 4.3x14,434 + 2.3x41 = 84,661, / 19,963 reviews = 4.24 stars, x20 = 84.8",
+          "parts": [
+            {
+              "name": "G2",
+              "detail": "4.1 from 5,488 reviews",
+              "value": 82.0,
+              "curve": ""
+            },
+            {
+              "name": "Capterra",
+              "detail": "4.3 from 14,434 reviews",
+              "value": 86.0,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "2.3 from 41 reviews",
+              "value": 46.0,
+              "curve": ""
+            }
+          ]
+        },
+        {
+          "key": "reliable",
+          "label": "Reliable",
+          "value": 26.4,
+          "math": "30.0 x 0.88 for 3 platforms = 26.4",
+          "parts": [
+            {
+              "name": "Widest gap between platforms",
+              "detail": "2.0 stars, Trustpilot at 2.3 against Capterra at 4.3",
+              "value": 30.0,
+              "curve": "48 + (2-1.5)/(2-1.5) x (30-48) = 30.0"
+            },
+            {
+              "name": "Platforms carrying reviews",
+              "detail": "3, which counts for 88% of the agreement figure",
+              "value": 88.0,
+              "curve": "one platform 35%, two 70%, three 88%, four or more 100%"
+            }
+          ]
+        },
+        {
+          "key": "recent",
+          "label": "Recent",
+          "value": 85.3,
+          "math": "0.6 x 97.3 + 0.4 x 67.3 = 85.3",
+          "parts": [
+            {
+              "name": "Days since the newest review",
+              "detail": "8",
+              "value": 97.3,
+              "curve": "100 + (8-0)/(30-0) x (90-100) = 97.3"
+            },
+            {
+              "name": "Written in the last year",
+              "detail": "38 of 79 reviews we read (48%)",
+              "value": 67.3,
+              "curve": "60 + (0.481-0.4)/(0.6-0.4) x (78-60) = 67.3"
+            }
+          ]
+        },
+        {
+          "key": "results",
+          "label": "Result-Specific",
+          "value": 87.8,
+          "math": "85 + (0.335-0.3)/(0.4-0.3) x (93-85) = 87.8",
+          "parts": [
+            {
+              "name": "Reviews naming a checkable outcome",
+              "detail": "13 of 53 reviews we read closely, 34% averaged across platforms",
+              "value": 87.8,
+              "curve": "85 + (0.335-0.3)/(0.4-0.3) x (93-85) = 87.8"
+            },
+            {
+              "name": "Capterra",
+              "detail": "25% of 8 reviews",
+              "value": 25.0,
+              "curve": ""
+            },
+            {
+              "name": "G2",
+              "detail": "57% of 7 reviews",
+              "value": 57.1,
+              "curve": ""
+            },
+            {
+              "name": "Trustpilot",
+              "detail": "18% of 38 reviews",
+              "value": 18.4,
+              "curve": ""
+            }
+          ]
+        }
+      ],
+      "eligibility": {
+        "platforms": 3,
+        "reviews": 19963,
+        "recent_reviews": 38,
+        "sample": 79,
+        "labelled": 53
+      },
+      "sample_size": 79,
+      "labelled": 53,
+      "reviews_last_year": 38,
+      "reviews_total": 19963
+    }
+  }
+}

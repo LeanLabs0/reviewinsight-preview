@@ -185,6 +185,31 @@
       ],
       "url": "https://www.trustpilot.com/review/braze.com?sort=recency&languages=all",
       "captured_at": "2026-08-12T20:01:24.148877+00:00"
+    },
+    "google": {
+      "portal": "google",
+      "status": "unresolved",
+      "rating": null,
+      "count": null,
+      "quotes": [],
+      "url": null,
+      "captured_at": "2026-08-14T13:55:50.199713+00:00",
+      "about": "office listing, not the product"
+    },
+    "clutch": {
+      "portal": "clutch",
+      "status": "no_listing",
+      "rating": null,
+      "count": null,
+      "quotes": [],
+      "url": null,
+      "captured_at": "2026-08-14T13:55:50.199713+00:00",
+      "about": "services directory",
+      "candidates_rejected": [
+        "https://clutch.co/profile/lea-braze-engineering",
+        "https://clutch.co/profile/covalent-marketing",
+        "https://clutch.co/profile/mh-digital"
+      ]
     }
   }
 }

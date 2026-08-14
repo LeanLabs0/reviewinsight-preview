@@ -290,6 +290,31 @@
           ],
           "url": "https://www.trustpilot.com/review/hubspot.com?sort=recency&languages=all",
           "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "google": {
+          "portal": "google",
+          "status": "unresolved",
+          "rating": null,
+          "count": null,
+          "quotes": [],
+          "url": null,
+          "captured_at": "2026-08-14T13:55:50.199713+00:00",
+          "about": "office listing, not the product"
+        },
+        "clutch": {
+          "portal": "clutch",
+          "status": "no_listing",
+          "rating": null,
+          "count": null,
+          "quotes": [],
+          "url": null,
+          "captured_at": "2026-08-14T13:55:50.199713+00:00",
+          "about": "services directory",
+          "candidates_rejected": [
+            "https://clutch.co/profile/inboundsys",
+            "https://clutch.co/profile/digifianz",
+            "https://clutch.co/profile/alpha-efficiency"
+          ]
         }
       }
     },
@@ -490,6 +515,31 @@
           ],
           "url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
           "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "google": {
+          "portal": "google",
+          "status": "unresolved",
+          "rating": null,
+          "count": null,
+          "quotes": [],
+          "url": null,
+          "captured_at": "2026-08-14T13:55:50.199713+00:00",
+          "about": "office listing, not the product"
+        },
+        "clutch": {
+          "portal": "clutch",
+          "status": "no_listing",
+          "rating": null,
+          "count": null,
+          "quotes": [],
+          "url": null,
+          "captured_at": "2026-08-14T13:55:50.199713+00:00",
+          "about": "services directory",
+          "candidates_rejected": [
+            "https://clutch.co/profile/flowium",
+            "https://clutch.co/profile/nudge-studio",
+            "https://clutch.co/profile/wild-cactus-studio"
+          ]
         }
       }
     },
@@ -690,6 +740,29 @@
           ],
           "url": "https://www.trustpilot.com/review/marketo.com?sort=recency&languages=all",
           "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "google": {
+          "portal": "google",
+          "status": "unresolved",
+          "rating": null,
+          "count": null,
+          "quotes": [],
+          "url": null,
+          "captured_at": "2026-08-14T13:55:50.199713+00:00",
+          "about": "office listing, not the product"
+        },
+        "clutch": {
+          "portal": "clutch",
+          "status": "no_listing",
+          "rating": null,
+          "count": null,
+          "quotes": [],
+          "url": null,
+          "captured_at": "2026-08-14T13:55:50.199713+00:00",
+          "about": "services directory",
+          "candidates_rejected": [
+            "https://clutch.co/profile/corexta"
+          ]
         }
       }
     },
@@ -890,6 +963,31 @@
           ],
           "url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
           "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "google": {
+          "portal": "google",
+          "status": "unresolved",
+          "rating": null,
+          "count": null,
+          "quotes": [],
+          "url": null,
+          "captured_at": "2026-08-14T13:55:50.199713+00:00",
+          "about": "office listing, not the product"
+        },
+        "clutch": {
+          "portal": "clutch",
+          "status": "no_listing",
+          "rating": null,
+          "count": null,
+          "quotes": [],
+          "url": null,
+          "captured_at": "2026-08-14T13:55:50.199713+00:00",
+          "about": "services directory",
+          "candidates_rejected": [
+            "https://clutch.co/profile/108-degrees-digital-marketing",
+            "https://clutch.co/profile/mailbakery",
+            "https://clutch.co/profile/cospark?page=3"
+          ]
         }
       }
     },
@@ -1090,6 +1188,31 @@
           ],
           "url": "https://www.trustpilot.com/review/activecampaign.com?sort=recency&languages=all",
           "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "google": {
+          "portal": "google",
+          "status": "unresolved",
+          "rating": null,
+          "count": null,
+          "quotes": [],
+          "url": null,
+          "captured_at": "2026-08-14T13:55:50.199713+00:00",
+          "about": "office listing, not the product"
+        },
+        "clutch": {
+          "portal": "clutch",
+          "status": "no_listing",
+          "rating": null,
+          "count": null,
+          "quotes": [],
+          "url": null,
+          "captured_at": "2026-08-14T13:55:50.199713+00:00",
+          "about": "services directory",
+          "candidates_rejected": [
+            "https://clutch.co/profile/flowout",
+            "https://clutch.co/profile/growth-today",
+            "https://clutch.co/profile/og-web-solutions"
+          ]
         }
       }
     },
@@ -1290,6 +1413,31 @@
           ],
           "url": "https://www.trustpilot.com/review/brevo.com?sort=recency&languages=all",
           "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "google": {
+          "portal": "google",
+          "status": "unresolved",
+          "rating": null,
+          "count": null,
+          "quotes": [],
+          "url": null,
+          "captured_at": "2026-08-14T13:55:50.199713+00:00",
+          "about": "office listing, not the product"
+        },
+        "clutch": {
+          "portal": "clutch",
+          "status": "no_listing",
+          "rating": null,
+          "count": null,
+          "quotes": [],
+          "url": null,
+          "captured_at": "2026-08-14T13:55:50.199713+00:00",
+          "about": "services directory",
+          "candidates_rejected": [
+            "https://clutch.co/profile/lemonfive",
+            "https://clutch.co/profile/retentioncontrolcom",
+            "https://clutch.co/profile/haf-werbeagentur-gmbh"
+          ]
         }
       }
     },
@@ -1480,6 +1628,31 @@
           ],
           "url": "https://www.trustpilot.com/review/braze.com?sort=recency&languages=all",
           "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "google": {
+          "portal": "google",
+          "status": "unresolved",
+          "rating": null,
+          "count": null,
+          "quotes": [],
+          "url": null,
+          "captured_at": "2026-08-14T13:55:50.199713+00:00",
+          "about": "office listing, not the product"
+        },
+        "clutch": {
+          "portal": "clutch",
+          "status": "no_listing",
+          "rating": null,
+          "count": null,
+          "quotes": [],
+          "url": null,
+          "captured_at": "2026-08-14T13:55:50.199713+00:00",
+          "about": "services directory",
+          "candidates_rejected": [
+            "https://clutch.co/profile/lea-braze-engineering",
+            "https://clutch.co/profile/covalent-marketing",
+            "https://clutch.co/profile/mh-digital"
+          ]
         }
       }
     },
@@ -1639,6 +1812,33 @@
           "quotes": [],
           "url": "https://www.trustpilot.com/review/iterable.com?sort=recency&languages=all",
           "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "google": {
+          "portal": "google",
+          "status": "ok",
+          "rating": 4.1,
+          "count": 13,
+          "quotes": [],
+          "url": "https://iterable.com/",
+          "captured_at": "2026-08-14T13:55:50.199713+00:00",
+          "about": "office listing, not the product",
+          "category": "Software company",
+          "matched_on": "Iterable"
+        },
+        "clutch": {
+          "portal": "clutch",
+          "status": "no_listing",
+          "rating": null,
+          "count": null,
+          "quotes": [],
+          "url": null,
+          "captured_at": "2026-08-14T13:55:50.199713+00:00",
+          "about": "services directory",
+          "candidates_rejected": [
+            "https://clutch.co/profile/unlocking-growth",
+            "https://clutch.co/profile/inflectiv",
+            "https://clutch.co/profile/eucalypt-media?page=2"
+          ]
         }
       }
     },
@@ -1839,6 +2039,31 @@
           ],
           "url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
           "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "google": {
+          "portal": "google",
+          "status": "unresolved",
+          "rating": null,
+          "count": null,
+          "quotes": [],
+          "url": null,
+          "captured_at": "2026-08-14T13:55:50.199713+00:00",
+          "about": "office listing, not the product"
+        },
+        "clutch": {
+          "portal": "clutch",
+          "status": "no_listing",
+          "rating": null,
+          "count": null,
+          "quotes": [],
+          "url": null,
+          "captured_at": "2026-08-14T13:55:50.199713+00:00",
+          "about": "services directory",
+          "candidates_rejected": [
+            "https://clutch.co/profile/callcto-digital-transformation-system-integration-it-consulting-atlassian-bitrix24-nvidia",
+            "https://clutch.co/profile/meta-lean",
+            "https://clutch.co/profile/lucid-day"
+          ]
         }
       }
     },
@@ -2039,6 +2264,31 @@
           ],
           "url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
           "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "google": {
+          "portal": "google",
+          "status": "unresolved",
+          "rating": null,
+          "count": null,
+          "quotes": [],
+          "url": null,
+          "captured_at": "2026-08-14T13:55:50.199713+00:00",
+          "about": "office listing, not the product"
+        },
+        "clutch": {
+          "portal": "clutch",
+          "status": "no_listing",
+          "rating": null,
+          "count": null,
+          "quotes": [],
+          "url": null,
+          "captured_at": "2026-08-14T13:55:50.199713+00:00",
+          "about": "services directory",
+          "candidates_rejected": [
+            "https://clutch.co/profile/asana-partners",
+            "https://clutch.co/profile/cirface",
+            "https://clutch.co/profile/cloudfresh"
+          ]
         }
       }
     },
@@ -2239,6 +2489,33 @@
           ],
           "url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
           "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "google": {
+          "portal": "google",
+          "status": "ok",
+          "rating": 3.9,
+          "count": 86,
+          "quotes": [],
+          "url": "http://clickup.com/",
+          "captured_at": "2026-08-14T13:55:50.199713+00:00",
+          "about": "office listing, not the product",
+          "category": "Software company",
+          "matched_on": "ClickUp headquarters"
+        },
+        "clutch": {
+          "portal": "clutch",
+          "status": "no_listing",
+          "rating": null,
+          "count": null,
+          "quotes": [],
+          "url": null,
+          "captured_at": "2026-08-14T13:55:50.199713+00:00",
+          "about": "services directory",
+          "candidates_rejected": [
+            "https://clutch.co/profile/clickup-marketing",
+            "https://clutch.co/profile/zenpilot?page",
+            "https://clutch.co/profile/upficient"
+          ]
         }
       }
     },
@@ -2439,6 +2716,31 @@
           ],
           "url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
           "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "google": {
+          "portal": "google",
+          "status": "unresolved",
+          "rating": null,
+          "count": null,
+          "quotes": [],
+          "url": null,
+          "captured_at": "2026-08-14T13:55:50.199713+00:00",
+          "about": "office listing, not the product"
+        },
+        "clutch": {
+          "portal": "clutch",
+          "status": "no_listing",
+          "rating": null,
+          "count": null,
+          "quotes": [],
+          "url": null,
+          "captured_at": "2026-08-14T13:55:50.199713+00:00",
+          "about": "services directory",
+          "candidates_rejected": [
+            "https://clutch.co/profile/achievan",
+            "https://clutch.co/profile/cannatract",
+            "https://clutch.co/profile/digitize-info-system"
+          ]
         }
       }
     },
@@ -2639,6 +2941,31 @@
           ],
           "url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
           "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "google": {
+          "portal": "google",
+          "status": "unresolved",
+          "rating": null,
+          "count": null,
+          "quotes": [],
+          "url": null,
+          "captured_at": "2026-08-14T13:55:50.199713+00:00",
+          "about": "office listing, not the product"
+        },
+        "clutch": {
+          "portal": "clutch",
+          "status": "no_listing",
+          "rating": null,
+          "count": null,
+          "quotes": [],
+          "url": null,
+          "captured_at": "2026-08-14T13:55:50.199713+00:00",
+          "about": "services directory",
+          "candidates_rejected": [
+            "https://clutch.co/profile/achievan",
+            "https://clutch.co/profile/agrasen-technologies",
+            "https://clutch.co/profile/lake-digital"
+          ]
         }
       }
     },
@@ -2839,6 +3166,33 @@
           ],
           "url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
           "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "google": {
+          "portal": "google",
+          "status": "ok",
+          "rating": 3.6,
+          "count": 41,
+          "quotes": [],
+          "url": "http://www.notion.com/",
+          "captured_at": "2026-08-14T13:55:50.199713+00:00",
+          "about": "office listing, not the product",
+          "category": "Corporate office",
+          "matched_on": "Notion headquarters"
+        },
+        "clutch": {
+          "portal": "clutch",
+          "status": "no_listing",
+          "rating": null,
+          "count": null,
+          "quotes": [],
+          "url": null,
+          "captured_at": "2026-08-14T13:55:50.199713+00:00",
+          "about": "services directory",
+          "candidates_rejected": [
+            "https://clutch.co/profile/proper-notion",
+            "https://clutch.co/profile/notion-technologies",
+            "https://clutch.co/profile/neu-notion"
+          ]
         }
       }
     },
@@ -3039,6 +3393,31 @@
           ],
           "url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
           "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "google": {
+          "portal": "google",
+          "status": "unresolved",
+          "rating": null,
+          "count": null,
+          "quotes": [],
+          "url": null,
+          "captured_at": "2026-08-14T13:55:50.199713+00:00",
+          "about": "office listing, not the product"
+        },
+        "clutch": {
+          "portal": "clutch",
+          "status": "no_listing",
+          "rating": null,
+          "count": null,
+          "quotes": [],
+          "url": null,
+          "captured_at": "2026-08-14T13:55:50.199713+00:00",
+          "about": "services directory",
+          "candidates_rejected": [
+            "https://clutch.co/profile/utarel",
+            "https://clutch.co/profile/systemology-australia",
+            "https://clutch.co/profile/triangu"
+          ]
         }
       }
     },
@@ -3214,6 +3593,31 @@
           ],
           "url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all",
           "captured_at": "2026-08-12T20:01:24.148877+00:00"
+        },
+        "google": {
+          "portal": "google",
+          "status": "unresolved",
+          "rating": null,
+          "count": null,
+          "quotes": [],
+          "url": null,
+          "captured_at": "2026-08-14T13:55:50.199713+00:00",
+          "about": "office listing, not the product"
+        },
+        "clutch": {
+          "portal": "clutch",
+          "status": "no_listing",
+          "rating": null,
+          "count": null,
+          "quotes": [],
+          "url": null,
+          "captured_at": "2026-08-14T13:55:50.199713+00:00",
+          "about": "services directory",
+          "candidates_rejected": [
+            "https://clutch.co/profile/basecamp-consulting-solutions",
+            "https://clutch.co/profile/basecamp-studios",
+            "https://clutch.co/profile/basecamp-advertising"
+          ]
         }
       }
     }

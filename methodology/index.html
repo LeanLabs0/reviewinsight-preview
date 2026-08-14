@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Methodology | ReviewInsight</title>
 <meta name="description" content="How ReviewInsight reads and publishes review data.">
-<link rel="stylesheet" href="../ri.css?v=0f34db892f">
+<link rel="stylesheet" href="../ri.css?v=7aa2be2667">
 </head>
 <body>
 <header class="mast"><div class="wrap">
@@ -21,39 +21,32 @@
 <main class="wrap">
 <div class="crumb"><a href="../index.html">Home</a></div>
 <h1>Methodology</h1>
-<div class="lede">What we read, how the score is worked out, and what we deliberately
+<div class="lede">What we read, how the rating is worked out, and what we deliberately
 do not do. Every figure on the site can be rebuilt from the numbers on the vendor pages.</div>
 
 <section class="section rule-top">
   <h2>Where the data comes from</h2>
-  <p>For every vendor we read four platforms and record the average rating, the number
-  of reviews, and a sample of review text with its date. Each figure carries the page
-  it came from and the day we checked it. Nothing is typed in by hand.</p>
+  <p>For every company we read each review platform that carries it and record the
+  average rating, the review count, and a sample of the review text with dates. Every
+  figure carries the page it came from and the day we checked. Nothing is typed by hand.</p>
   <div class="tscroll"><table>
 <thead><tr><th>Platform</th><th class="n">Vendors covered</th><th>What we take</th></tr></thead>
 <tbody><tr><td>G2</td><td class='n'>16 of 16</td><td class='small'>Rating, review count, review text with dates</td></tr><tr><td>Capterra</td><td class='n'>16 of 16</td><td class='small'>Rating, review count, review text with dates</td></tr><tr><td>Gartner Peer Insights</td><td class='n'>15 of 16</td><td class='small'>Rating, review and rating counts, review headlines with dates. Bodies are login-gated.</td></tr><tr><td>Trustpilot</td><td class='n'>15 of 16</td><td class='small'>Rating, review count, review text with dates</td></tr></tbody></table></div>
 </section>
 
 <section class="section rule-top">
-  <h2>The score</h2>
-  <p>Two things decide it. What reviewers rate a product, and how much that rating
-  can be trusted. We publish both, and the second one adjusts the first.</p>
-  <div class="formula">rating   = the four sites' own averages, averaged, x20</div>
-  <div class="formula">evidence = 0.30 Recent + 0.25 Reliable + 0.25 Results + 0.20 Resonance</div>
-  <div class="formula">score    = 50 + (rating - 50) x evidence / 100</div>
-  <p>A product with perfect evidence scores exactly what reviewers rate it. A product
-  with no usable evidence sits at 50, because we do not know anything about it. Everything
-  else lands in between, moved away from the middle only as far as its evidence earns.</p>
-  <div class="formula">score = (Recent + Reliable + Results&#8209;specific + Resonance) / 4</div>
-  <ul class="dims">
-    <li><b>Recent</b><span class="small">How strong the review evidence is in the last 180 days.</span></li>
-    <li><b>Reliable</b><span class="small">Whether the evidence holds up: do the written reviews match their star ratings, does the rating pattern look natural, do reviews arrive steadily or in bursts.</span></li>
-    <li><b>Results&#8209;specific</b><span class="small">How often reviewers name a concrete outcome you could check, rather than saying it saves time.</span></li>
-    <li><b>Resonance</b><span class="small">Whether reviewers recommend the product or merely tolerate it.</span></li>
+  <h2>The rating</h2>
+  <p>Four parts, weighted equally, averaged into one number out of 100.</p>
+  <div class="formula">ReviewInsight Rating = (Review Avg + Reliable + Recent + Result-Specific) / 4</div>
+    <ul class="dims">
+    <li><b>Review Avg</b><span class="small">The average star rating across every review we can see, counted review by review. A platform carrying more reviews therefore carries more of the average.</span></li>
+    <li><b>Reliable</b><span class="small">Whether the platforms tell the same story. A wide gap between them brings this down sharply, because that gap is what review gaming looks like. Being found on only one platform brings it down too, since nothing corroborates it. Differences in review count never count against a company.</span></li>
+    <li><b>Recent</b><span class="small">Strong for a review written in the last 30 days, falling away with every day since the newest one.</span></li>
+    <li><b>Result&#8209;Specific</b><span class="small">How often reviewers name an outcome a stranger could check, instead of rating the company vaguely.</span></li>
   </ul>
-  <p class="small muted" style="margin-top:14px">A vendor with fewer than two sites
-  carrying reviews, under 15 reviews, or under 5 reviews in the last year will be
-  shown as Not Rated rather than given a number.</p>
+  <p class="small muted" style="margin-top:14px">A company needs reviews on at least two
+  platforms, 15 reviews in total, and 5 written in the last year. Below that it is shown
+  as Not Rated rather than given a number.</p>
 </section>
 
 <section class="section rule-top">
@@ -61,16 +54,17 @@ do not do. Every figure on the site can be rebuilt from the numbers on the vendo
   <div class="tscroll"><table>
   <thead><tr><th>Part</th><th>Measured from</th></tr></thead>
   <tbody>
+    <tr><td>Review Avg</td><td>Every rating on every platform, weighted by how many
+      reviews sit behind it, so a platform with more reviews carries more of the
+      average.</td></tr>
+    <tr><td>Reliable</td><td>How far apart the platforms are on the same company, and
+      how many platforms carry it at all.</td></tr>
     <tr><td>Recent</td><td>How many days since the newest review, and what share of the
       reviews we hold were written in the last year.</td></tr>
-    <tr><td>Reliable</td><td>How far apart the sites' star ratings are, and how often a
-      review's wording matches the stars it was given.</td></tr>
-    <tr><td>Results-specific</td><td>The share of reviews naming an outcome a stranger
+    <tr><td>Result-Specific</td><td>The share of reviews naming an outcome a stranger
       could check. A number, a time saved, a tool replaced. Not "saves time".</td></tr>
-    <tr><td>Resonance</td><td>Whether reviewers recommend the product, approve of it,
-      tolerate it, or warn you off. Averaged per site, then across sites.</td></tr>
   </tbody></table></div>
-  <p class="small muted">Two of the four need the review text read. A model labels each
+  <p class="small muted">One of the four needs the review text read. A model labels each
   review and has to quote the exact words behind its label; if those words are not
   literally in the review, the label is thrown away. Every calculation is done in code,
   never by the model.</p>
@@ -83,10 +77,10 @@ do not do. Every figure on the site can be rebuilt from the numbers on the vendo
 <section class="section rule-top">
   <h2>What we will not do</h2>
   <ul class="dims">
-    <li><b>No paid placement</b><span class="small">A vendor cannot buy a rank, a badge, or a better score. There is no vendor tier to sell.</span></li>
+    <li><b>No paid placement</b><span class="small">A company cannot buy a rank or a better rating. There is no tier to sell.</span></li>
     <li><b>No invented numbers</b><span class="small">If we cannot read a figure we show that we could not, with the counts we do have. We never fill a gap with an estimate.</span></li>
-    <li><b>No republished reviews</b><span class="small">Quotes are trimmed to 40 words, attributed, dated, and linked to the original. Reviewer names are dropped when we read the page, so we never store them.</span></li>
-    <li><b>No hidden arithmetic</b><span class="small">Every score will show its inputs and its sum on the page, so you can redo it.</span></li>
+    <li><b>No republished reviews</b><span class="small">Quotes are trimmed to 40 words and linked back to the review they came from, with the date. Reviewer names are dropped when we read the page, so we never store them.</span></li>
+    <li><b>No hidden arithmetic</b><span class="small">Every rating shows its inputs and its sum on the page, so you can redo it.</span></li>
   </ul>
 </section>
 
@@ -100,11 +94,11 @@ do not do. Every figure on the site can be rebuilt from the numbers on the vendo
 <footer class="foot"><div class="wrap">
   <div>
     <h4>ReviewInsight</h4>
-    <p>Independent review intelligence for B2B software buyers. We read G2,
-    Capterra, Gartner Peer Insights and Trustpilot side by side and publish what
-    they agree and disagree on. Vendors cannot pay for placement.</p>
-    <p class="tiny" style="margin-top:10px">Editorial and independent. Vendors cannot
-    buy a listing, a rank, or a removal.</p>
+    <p>Independent review intelligence for B2B buyers. We read the major review
+    platforms together and publish one rating per company, with the arithmetic
+    behind it.</p>
+    <p class="tiny" style="margin-top:10px">Editorial and independent. No company can
+    pay to be listed or to change its rating.</p>
   </div>
   <div>
     <h4>Browse</h4>

@@ -80,15 +80,15 @@ p { margin-bottom: 12px; }
 .crumb { font-size: 13px; color: var(--ink-2); margin-bottom: 10px; }
 
 /* ---------- score ---------- */
-.scorebox {
+.ratingbox {
   border: 1.5px solid var(--rule-strong); padding: 12px 16px;
   display: inline-flex; flex-direction: column; align-items: center;
   min-width: 82px;
 }
-.scorebox .v { font-family: var(--mono); font-size: 30px; font-weight: 600; line-height: 1; }
-.scorebox .d { font-size: 11px; color: var(--ink-2); margin-top: 2px; }
-.scorebox.pending { border-style: dashed; border-color: var(--ink-3); }
-.scorebox.pending .v { font-size: 20px; color: var(--ink-3); letter-spacing: .04em; }
+.ratingbox .v { font-family: var(--mono); font-size: 30px; font-weight: 600; line-height: 1; }
+.ratingbox .d { font-size: 11px; color: var(--ink-2); margin-top: 2px; }
+.ratingbox.pending { border-style: dashed; border-color: var(--ink-3); }
+.ratingbox.pending .v { font-size: 20px; color: var(--ink-3); letter-spacing: .04em; }
 
 .score-inline { font-family: var(--mono); font-weight: 600; }
 
@@ -195,11 +195,11 @@ tbody tr:hover { background: var(--paper-sunk); }
 .foot p { font-size: 13px; color: var(--ink-2); max-width: 380px; }
 
 /* ---------- score panel ---------- */
-.scorebox.big { min-width: 108px; padding: 16px 20px; }
-.scorebox.big .v { font-size: 44px; }
-.scorepanel { border: 1px solid var(--rule); padding: 20px; }
-.scoretop { display: grid; grid-template-columns: auto 1fr; gap: 22px; align-items: start; margin-bottom: 22px; }
-@media (max-width: 640px) { .scoretop { grid-template-columns: 1fr; } }
+.ratingbox.big { min-width: 108px; padding: 16px 20px; }
+.ratingbox.big .v { font-size: 44px; }
+.ratingpanel { border: 1px solid var(--rule); padding: 20px; }
+.ratingtop { display: grid; grid-template-columns: auto 1fr; gap: 22px; align-items: start; margin-bottom: 22px; }
+@media (max-width: 640px) { .ratingtop { grid-template-columns: 1fr; } }
 .dimrow { padding: 12px 0; border-top: 1px solid var(--rule); }
 .dimhd { display: flex; align-items: baseline; gap: 10px; margin-bottom: 6px; }
 .dimhd .dimval { margin-left: auto; font-size: 17px; font-weight: 600; }
@@ -429,3 +429,5 @@ main.wrap > .crumb:first-child { margin-bottom: 14px; }
 .catlist.twocol { columns: 2; column-gap: 36px; }
 .catlist.twocol li { break-inside: avoid; }
 @media (max-width: 700px) { .catlist.twocol { columns: 1; } }
+tr.ctx td { color: var(--ink-2); }
+tr.ctx td:first-child::after { content: " (context only)"; font-size: 11px; color: var(--ink-3); }

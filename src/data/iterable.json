@@ -154,6 +154,33 @@
       "quotes": [],
       "url": "https://www.trustpilot.com/review/iterable.com?sort=recency&languages=all",
       "captured_at": "2026-08-12T20:01:24.148877+00:00"
+    },
+    "google": {
+      "portal": "google",
+      "status": "ok",
+      "rating": 4.1,
+      "count": 13,
+      "quotes": [],
+      "url": "https://iterable.com/",
+      "captured_at": "2026-08-14T13:55:50.199713+00:00",
+      "about": "office listing, not the product",
+      "category": "Software company",
+      "matched_on": "Iterable"
+    },
+    "clutch": {
+      "portal": "clutch",
+      "status": "no_listing",
+      "rating": null,
+      "count": null,
+      "quotes": [],
+      "url": null,
+      "captured_at": "2026-08-14T13:55:50.199713+00:00",
+      "about": "services directory",
+      "candidates_rejected": [
+        "https://clutch.co/profile/unlocking-growth",
+        "https://clutch.co/profile/inflectiv",
+        "https://clutch.co/profile/eucalypt-media?page=2"
+      ]
     }
   }
 }

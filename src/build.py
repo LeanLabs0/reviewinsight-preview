@@ -541,8 +541,9 @@ def page_home() -> None:
   <div class="eyebrow">Rankings</div>
   <div>
     <h2>Highest rated</h2>
-    <p class="intro">Companies are ranked by their ReviewInsight Rating. Pick a category
-    to rank within it.</p>
+    <p class="intro">Companies are ranked by their ReviewInsight Rating. A rating measures
+    the review evidence behind a company, so it compares like with like inside a category.
+    Across categories it tells you whose reviews are stronger, not whose product is better.</p>
     {ranking}
   </div>
 </div></section>
@@ -897,6 +898,26 @@ do not do. Every figure on the site can be rebuilt from the numbers on the vendo
   <p>Four parts, weighted equally, averaged into one number out of 100.</p>
   <div class="formula">ReviewInsight Rating = (Review Avg + Reliable + Recent + Result-Specific) / 4</div>
   {score_explainer()}
+</section>
+
+<section class="section rule-top">
+  <h2>Which platforms count</h2>
+  <p>Not every platform reviews every kind of company, so the set depends on what a
+  company sells.</p>
+  <div class="tscroll"><table>
+  <thead><tr><th>Kind of company</th><th>Platforms that count</th><th>Shown but not counted</th></tr></thead>
+  <tbody>
+    <tr><td>Software products</td><td>G2, Capterra, Gartner Peer Insights, Trustpilot</td>
+      <td>Google Business Profile</td></tr>
+    <tr><td>Service companies</td><td>Clutch, Trustpilot, Google Business Profile</td>
+      <td></td></tr>
+  </tbody></table></div>
+  <p class="small muted">A software company's Google listing is its office, and the people
+  rating it are rating a building and an employer rather than the product, so it is shown
+  for context and left out of the rating. For an agency or consultancy the Google listing
+  is the business itself, so it counts. Clutch lists service providers and carries no
+  entry for a software product, which is why it appears for one kind of company and not
+  the other.</p>
 </section>
 
 <section class="section rule-top">

@@ -1,0 +1,143 @@
+{
+  "slug": "ignite-visibility",
+  "name": "Ignite Visibility",
+  "domain": "ignitevisibility.com",
+  "category": "digital-marketing",
+  "category_name": "Digital Marketing",
+  "captured_at": "2026-08-14T14:57:51.834651+00:00",
+  "kind": "services",
+  "portals": {
+    "clutch": {
+      "portal": "clutch",
+      "status": "ok",
+      "rating": 4.8,
+      "count": 175,
+      "sub_ratings": {
+        "Quality": "5.0",
+        "Schedule": "5.0",
+        "Cost": "5.0",
+        "Willing to Refer": "5.0"
+      },
+      "quotes": [
+        {
+          "portal": "Clutch",
+          "review_id": null,
+          "date": "Nov 2022",
+          "rating": 5.0,
+          "title": null,
+          "text": "Their communication style is awesome.",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://clutch.co/profile/ignite-visibility",
+          "sample_order": "page"
+        },
+        {
+          "portal": "Clutch",
+          "review_id": null,
+          "date": "Aug 2025",
+          "rating": 5.0,
+          "title": null,
+          "text": "Ignite Visibility is unfailingly professional and a pleasure to work with toward our shared goal.",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://clutch.co/profile/ignite-visibility",
+          "sample_order": "page"
+        },
+        {
+          "portal": "Clutch",
+          "review_id": null,
+          "date": "Jan 2017",
+          "rating": 5.0,
+          "title": null,
+          "text": "They stay organized, communicate clearly, and always keep us on track.",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://clutch.co/profile/ignite-visibility",
+          "sample_order": "page"
+        },
+        {
+          "portal": "Clutch",
+          "review_id": null,
+          "date": "Feb 2025",
+          "rating": 5.0,
+          "title": null,
+          "text": "I was impressed by Ignite Visibility's quality of service, quality of deliverables, and speed of response.",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://clutch.co/profile/ignite-visibility",
+          "sample_order": "page"
+        }
+      ],
+      "url": "https://clutch.co/profile/ignite-visibility",
+      "captured_at": "2026-08-14T14:57:51.834651+00:00"
+    },
+    "trustpilot": {
+      "portal": "trustpilot",
+      "status": "no_listing",
+      "rating": null,
+      "count": null,
+      "quotes": [],
+      "url": null,
+      "captured_at": "2026-08-14T14:57:51.834651+00:00"
+    },
+    "google": {
+      "portal": "google",
+      "status": "ok",
+      "rating": 4.7,
+      "count": 121,
+      "quotes": [
+        {
+          "portal": "Google Business Profile",
+          "review_id": null,
+          "date": "2026-08-06",
+          "rating": 5,
+          "title": null,
+          "text": "Amanda Blackmore comes to every call well-prepared and consistently provides thoughtful recommendations that align with our company's needs. We've had great success partnering with her and her team over the past few years, and we truly value the expertise, support\u2026",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://ignitevisibility.com/",
+          "sample_order": "newest"
+        },
+        {
+          "portal": "Google Business Profile",
+          "review_id": null,
+          "date": "2026-08-03",
+          "rating": 5,
+          "title": null,
+          "text": "We've been working with Ignite Visibility and I can honestly say it's been a great experience. Amanda Blackmore has been fantastic to work with. She's easy to talk to, gives honest feedback, and isn't afraid to tell you what you\u2026",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://ignitevisibility.com/",
+          "sample_order": "newest"
+        },
+        {
+          "portal": "Google Business Profile",
+          "review_id": null,
+          "date": "2026-07-31",
+          "rating": 5,
+          "title": null,
+          "text": "We work with Amanda Blackmore she has been nothing but the best for my company and its marketing needs. They have pushed more visibility to my company and help increase sales in a slow market.",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://ignitevisibility.com/",
+          "sample_order": "newest"
+        },
+        {
+          "portal": "Google Business Profile",
+          "review_id": null,
+          "date": "2026-07-14",
+          "rating": 1,
+          "title": null,
+          "text": "This review relates to Ignite Visibility\u2019s current affiliation with Socius Marketing, which now publicly identifies itself as \u201cSocius Marketing by Ignite Visibility.\u201d Our company was a Socius client for SEO and paid-advertising management. We experienced delayed SEO deliverables, unreliable conversion\u2026",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://ignitevisibility.com/",
+          "sample_order": "newest"
+        }
+      ],
+      "url": "https://ignitevisibility.com/",
+      "captured_at": "2026-08-14T14:57:51.834651+00:00",
+      "category": "Internet marketing service"
+    }
+  }
+}

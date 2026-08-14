@@ -78,7 +78,10 @@ def parse_date(s: str | None) -> datetime | None:
     for pat, fmt in ((r"^\d{4}-\d{2}-\d{2}$", "%Y-%m-%d"),
                      (r"^\d{1,2}/\d{1,2}/\d{4}$", "%m/%d/%Y"),
                      (r"^[A-Z][a-z]+ \d{1,2}, \d{4}$", "%B %d, %Y"),
-                     (r"^[A-Z][a-z]{2} \d{1,2}, \d{4}$", "%b %d, %Y")):
+                     (r"^[A-Z][a-z]{2} \d{1,2}, \d{4}$", "%b %d, %Y"),
+                     # Clutch dates a review to the month the work started
+                     (r"^[A-Z][a-z]{2} \d{4}$", "%b %Y"),
+                     (r"^[A-Z][a-z]+ \d{4}$", "%B %Y")):
         if re.match(pat, s.strip()):
             try:
                 return datetime.strptime(s.strip(), fmt)
@@ -104,8 +107,9 @@ def site_mean(rows, value):
 
 
 def compute(slug: str, v: dict, reviews: list[dict]) -> dict:
+    allowed = RATING_PLATFORMS[v.get("kind", "software")]
     sites = [(m["label"], v["portals"][k]) for k, m in PORTAL_META.items()
-             if k in RATING_PLATFORMS and k in v["portals"]
+             if k in allowed and k in v["portals"]
              and v["portals"][k].get("rating") is not None
              and v["portals"][k].get("count")]
 
@@ -221,7 +225,19 @@ PORTAL_META = {
 #
 # For a category of B2B service companies both would be primary sources, and
 # this set is where they turn on.
-RATING_PLATFORMS = {"g2", "capterra", "gartner", "trustpilot"}
+# Which platforms count depends on what kind of company it is.
+#
+# For a software product, G2, Capterra and Gartner are where the product is
+# reviewed. Its Google listing is an office, and the people rating it are
+# rating a building, so it is shown but excluded. Clutch does not list
+# software at all.
+#
+# For a service company the opposite holds. There is no G2 entry, and the
+# Google listing IS the business, so it counts.
+RATING_PLATFORMS = {
+    "software": {"g2", "capterra", "gartner", "trustpilot"},
+    "services": {"clutch", "trustpilot", "google"},
+}
 
 
 def main() -> None:

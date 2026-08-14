@@ -1,0 +1,192 @@
+{
+  "slug": "ninjapromo",
+  "name": "NinjaPromo",
+  "domain": "ninjapromo.io",
+  "category": "digital-marketing",
+  "category_name": "Digital Marketing",
+  "captured_at": "2026-08-14T14:57:51.834651+00:00",
+  "kind": "services",
+  "portals": {
+    "clutch": {
+      "portal": "clutch",
+      "status": "ok",
+      "rating": 4.9,
+      "count": 96,
+      "sub_ratings": {
+        "Quality": "5.0",
+        "Schedule": "5.0",
+        "Cost": "5.0",
+        "Willing to Refer": "5.0"
+      },
+      "quotes": [
+        {
+          "portal": "Clutch",
+          "review_id": null,
+          "date": "Nov 2021",
+          "rating": 5.0,
+          "title": null,
+          "text": "Their insights into the industry and our target audiences continue to surprise us.",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://clutch.co/profile/ninja-promo",
+          "sample_order": "page"
+        },
+        {
+          "portal": "Clutch",
+          "review_id": null,
+          "date": "Feb 2023",
+          "rating": 5.0,
+          "title": null,
+          "text": "The uniqueness of Ninja Promo is their subscription model of cooperation.",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://clutch.co/profile/ninja-promo",
+          "sample_order": "page"
+        },
+        {
+          "portal": "Clutch",
+          "review_id": null,
+          "date": "Jan 2025",
+          "rating": 5.0,
+          "title": null,
+          "text": "They think and act like part of our product and revenue team.",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://clutch.co/profile/ninja-promo",
+          "sample_order": "page"
+        },
+        {
+          "portal": "Clutch",
+          "review_id": null,
+          "date": "Nov 2025",
+          "rating": 5.0,
+          "title": null,
+          "text": "Everything ran smoothly and efficiently.",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://clutch.co/profile/ninja-promo",
+          "sample_order": "page"
+        }
+      ],
+      "url": "https://clutch.co/profile/ninja-promo",
+      "captured_at": "2026-08-14T14:57:51.834651+00:00"
+    },
+    "trustpilot": {
+      "portal": "trustpilot",
+      "status": "ok",
+      "rating": 4.1,
+      "count": 40,
+      "quotes": [
+        {
+          "portal": "Trustpilot",
+          "review_id": null,
+          "date": "2026-07-07",
+          "rating": 5,
+          "title": "We had a product update and our\u2026",
+          "text": "We had a product update and our marketing was all over the place. NinjaPromo helped us clean up the story, make it simpler, and stop trying to say 10 things at once. After that , content and ads got so\u2026",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://www.trustpilot.com/review/ninjapromo.io?sort=recency&languages=all",
+          "sample_order": "recency"
+        },
+        {
+          "portal": "Trustpilot",
+          "review_id": null,
+          "date": "2026-05-05",
+          "rating": 5,
+          "title": "We worked with NinjaPromo for 6 months\u2026",
+          "text": "We worked with NinjaPromo for 6 months on Paid acquisition and landing page optimization and we\u2019re continuing the collaboration. Their team helped us structure campaigns, test tons of creatives, and improve lead quality which helped us reduce the CPL by\u2026",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://www.trustpilot.com/review/ninjapromo.io?sort=recency&languages=all",
+          "sample_order": "recency"
+        },
+        {
+          "portal": "Trustpilot",
+          "review_id": null,
+          "date": "2026-04-23",
+          "rating": 5,
+          "title": "True Heavyweights in Digital Strategy\u2026",
+          "text": "True Heavyweights in Digital Strategy and Traffic Generation Working with the Ninja Promo team on our comprehensive promotion was a game changer as their results exceeded all expectations. They do not just set up ads but dive deep into the\u2026",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://www.trustpilot.com/review/ninjapromo.io?sort=recency&languages=all",
+          "sample_order": "recency"
+        },
+        {
+          "portal": "Trustpilot",
+          "review_id": null,
+          "date": "2026-03-09",
+          "rating": 5,
+          "title": "They explain things clearly without\u2026",
+          "text": "They explain things clearly without drowning us in marketing jargon",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://www.trustpilot.com/review/ninjapromo.io?sort=recency&languages=all",
+          "sample_order": "recency"
+        }
+      ],
+      "url": "https://www.trustpilot.com/review/ninjapromo.io?sort=recency&languages=all",
+      "captured_at": "2026-08-14T14:57:51.834651+00:00"
+    },
+    "google": {
+      "portal": "google",
+      "status": "ok",
+      "rating": 4.6,
+      "count": 45,
+      "quotes": [
+        {
+          "portal": "Google Business Profile",
+          "review_id": null,
+          "date": "2026-08-14",
+          "rating": 5,
+          "title": null,
+          "text": "Very happy with the service and communication. The team was responsive and made the process easy.",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://ninjapromo.io/",
+          "sample_order": "newest"
+        },
+        {
+          "portal": "Google Business Profile",
+          "review_id": null,
+          "date": "2026-08-13",
+          "rating": 5,
+          "title": null,
+          "text": "The team was helpful and knowledgeable. Everything was handled smoothly and professionally.",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://ninjapromo.io/",
+          "sample_order": "newest"
+        },
+        {
+          "portal": "Google Business Profile",
+          "review_id": null,
+          "date": "2026-08-12",
+          "rating": 5,
+          "title": null,
+          "text": "As a startup, we needed a team that could help us grow without spending more than necessary on ads. NinjaPromo reviewed our existing campaigns, suggested a better approach, and continued making improvements along the way. We noticed our campaigns becoming\u2026",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://ninjapromo.io/",
+          "sample_order": "newest"
+        },
+        {
+          "portal": "Google Business Profile",
+          "review_id": null,
+          "date": "2026-08-12",
+          "rating": 5,
+          "title": null,
+          "text": "Great experience working with this team! They are professional, creative, and understand how to turn ideas into effective marketing content. The content creation process was smooth, and the final work was engaging, polished, and suited to our marketing needs. Very\u2026",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://ninjapromo.io/",
+          "sample_order": "newest"
+        }
+      ],
+      "url": "https://ninjapromo.io/",
+      "captured_at": "2026-08-14T14:57:51.834651+00:00",
+      "category": "Marketing agency"
+    }
+  }
+}

@@ -666,7 +666,13 @@
       "role": "Customer Service Representative",
       "company_size": "51-200 employees",
       "source_url": "https://www.capterra.com/p/155423/Appboy/reviews/",
-      "sample_order": "page"
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Some limitations or friction with custom event handling, identity management, or naming conventions."
+      }
     },
     {
       "portal": "Capterra",
@@ -850,7 +856,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/braze.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Really poor customer service. This is a technical product, but the technical support doesn't really seem to know what they're doing, nor do they seem to try terribly hard to figure it out."
+      }
     }
   ]
 }

@@ -1540,7 +1540,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/activecampaign.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "It seems to do most of the things I want it to do and I'm learning more about how it can help me streamline my business. It is quite expensive for a small business but I like what I know!"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -1780,7 +1786,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/activecampaign.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "No dia 13 de novembro de 2025, assim que identificamos a renova\u00e7\u00e3o anual, entrei em contato solicitando o cancelamento imediato do plano e o estorno da cobran\u00e7a.",
+        "resonance_evidence": "Estou registrando esta reclama\u00e7\u00e3o porque venho tentando resolver esse problema h\u00e1 meses, sem solu\u00e7\u00e3o efetiva, apesar de in\u00fameros contatos"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -2086,7 +2098,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/activecampaign.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "AC is the best for automated email campaigns"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -2224,7 +2242,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/activecampaign.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Pronto cambiaremos de plataforma"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -2236,7 +2260,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/activecampaign.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "It has me thinking about just canceling my account altogether"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -2266,7 +2296,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/activecampaign.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "This is a great campaign site"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -2278,7 +2314,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/activecampaign.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "reporting and customer support need substantial improvement"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -2398,7 +2440,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/activecampaign.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "For the plan I'm on two years ago they charged me $2700. Last year, same features, same contacts, it went to $3600. Now this year they're saying that for the same features, same contact limit again, it's going to be $4700",
+        "resonance_evidence": "I'm actively seeking a new platform to migrate to"
+      }
     },
     {
       "portal": "Trustpilot",

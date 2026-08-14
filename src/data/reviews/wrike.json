@@ -156,7 +156,13 @@
       "role": "Furniture",
       "company_size": "Mid-Market (51-1000 emp.)",
       "source_url": "https://www.g2.com/products/wrike/reviews",
-      "sample_order": "most_recent"
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "I like how wrike uses simple interface and great user experience technique"
+      }
     },
     {
       "portal": "G2",
@@ -880,7 +886,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "it fell short where it mattered most"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -1594,7 +1606,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/wrike.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Wrike has been a nightmare from start to finish"
+      }
     },
     {
       "portal": "Trustpilot",

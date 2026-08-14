@@ -186,7 +186,13 @@
       "role": "Higher Education",
       "company_size": "Mid-Market (51-1000 emp.)",
       "source_url": "https://www.g2.com/products/basecamp/reviews",
-      "sample_order": "most_helpful"
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "There's nothing that I find the least bit objectionable about this product"
+      }
     },
     {
       "portal": "G2",
@@ -432,7 +438,13 @@
       "role": "Verified User in Computer & Network Security",
       "company_size": "Mid-Market (51-1000 emp.)",
       "source_url": "https://www.g2.com/products/basecamp/reviews",
-      "sample_order": "lowest_rated"
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "My hatred for Basecamp burns with the fury of a thousand suns"
+      }
     },
     {
       "portal": "G2",
@@ -894,7 +906,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/basecamp.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "total car crash"
+      }
     },
     {
       "portal": "Trustpilot",

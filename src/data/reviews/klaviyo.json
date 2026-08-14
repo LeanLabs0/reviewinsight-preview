@@ -12,7 +12,13 @@
       "role": "Junior AI Engineer",
       "company_size": "Mid-Market (51-1000 emp.)",
       "source_url": "https://www.g2.com/products/klaviyo/reviews",
-      "sample_order": "most_recent"
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "It has saved me a lot of time and made managing campaigns much easier",
+        "resonance_evidence": "What I like most about Klaviyo is how simple it makes email marketing"
+      }
     },
     {
       "portal": "G2",
@@ -78,7 +84,13 @@
       "role": "Marketing and Advertising",
       "company_size": "Small-Business (50 or fewer emp.)",
       "source_url": "https://www.g2.com/products/klaviyo/reviews",
-      "sample_order": "most_recent"
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "What I like most about Klaviyo is how easy it makes it to build targeted email campaigns"
+      }
     },
     {
       "portal": "G2",
@@ -378,7 +390,13 @@
       "role": "Marketing and Advertising",
       "company_size": "Small-Business (50 or fewer emp.)",
       "source_url": "https://www.g2.com/products/klaviyo/reviews",
-      "sample_order": "highest_rated"
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "I love everything about Klaviyo"
+      }
     },
     {
       "portal": "G2",
@@ -408,7 +426,13 @@
       "role": "Marketing assistant",
       "company_size": "Small-Business (50 or fewer emp.)",
       "source_url": "https://www.g2.com/products/klaviyo/reviews",
-      "sample_order": "highest_rated"
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "super easy to use"
+      }
     },
     {
       "portal": "G2",
@@ -528,7 +552,13 @@
       "role": "Owner",
       "company_size": "Small-Business (50 or fewer emp.)",
       "source_url": "https://www.g2.com/products/klaviyo/reviews",
-      "sample_order": "lowest_rated"
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "We had to spend 1200 for an email that had generated $200 in revenue",
+        "resonance_evidence": "Stay away and use someone else!"
+      }
     },
     {
       "portal": "G2",
@@ -1078,7 +1108,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "After signing up and paying $70, I was required to enable MFA/2FA",
+        "resonance_evidence": "I was completely locked out of my account while my campaign was running"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -1156,7 +1192,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Worst customer service, will freeze your account and shut down your campaigns even after 5 years of service"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -1648,7 +1690,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Un support incroyablement nul. R\u00e9silier l'abonnement ? Une mission proche de l'impossible. R\u00e9cup\u00e9rer des factures , Mission impossible, 2 mois que je bataille pour r\u00e9cup\u00e9rer deux factures. Service \u00e0 fuir"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -1708,7 +1756,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "what I experienced was nothing but scam, cheating, and non-transparency"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -1786,7 +1840,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "What an absolutely shitty customer service! They keep increasing their prices as customers service gets crappier by the day."
+      }
     },
     {
       "portal": "Trustpilot",
@@ -1840,7 +1900,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "Going from $39/month to over $200/month overnight",
+        "resonance_evidence": "Going from $39/month to over $200/month overnight due to a change in business model is unacceptable."
+      }
     },
     {
       "portal": "Trustpilot",
@@ -1852,7 +1918,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Do not subscribe to Klaviyo - worst tool ever."
+      }
     },
     {
       "portal": "Trustpilot",
@@ -2134,7 +2206,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "It's getting ridiculous."
+      }
     },
     {
       "portal": "Trustpilot",
@@ -2428,7 +2506,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/klaviyo.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "It feels like a company that's lost its way"
+      }
     }
   ]
 }

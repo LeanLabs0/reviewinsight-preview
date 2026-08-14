@@ -1,0 +1,192 @@
+{
+  "slug": "smartsites",
+  "name": "SmartSites",
+  "domain": "smartsites.com",
+  "category": "digital-marketing",
+  "category_name": "Digital Marketing",
+  "captured_at": "2026-08-14T14:57:51.834651+00:00",
+  "kind": "services",
+  "portals": {
+    "clutch": {
+      "portal": "clutch",
+      "status": "ok",
+      "rating": 4.9,
+      "count": 364,
+      "sub_ratings": {
+        "Quality": "4.0",
+        "Schedule": "4.0",
+        "Cost": "5.0",
+        "Willing to Refer": "4.5"
+      },
+      "quotes": [
+        {
+          "portal": "Clutch",
+          "review_id": null,
+          "date": "Aug 2022",
+          "rating": 5.0,
+          "title": null,
+          "text": "They have great communication, fast response times, and excellent service.",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://clutch.co/profile/smartsites",
+          "sample_order": "page"
+        },
+        {
+          "portal": "Clutch",
+          "review_id": null,
+          "date": "Jan 2022",
+          "rating": 5.0,
+          "title": null,
+          "text": "Their ability to understand my needs is exceptional.",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://clutch.co/profile/smartsites",
+          "sample_order": "page"
+        },
+        {
+          "portal": "Clutch",
+          "review_id": null,
+          "date": "Jan 2026",
+          "rating": 5.0,
+          "title": null,
+          "text": "We are impressed by their consistency and clarity in communication, goals, and vision.",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://clutch.co/profile/smartsites",
+          "sample_order": "page"
+        },
+        {
+          "portal": "Clutch",
+          "review_id": null,
+          "date": "Apr 2025",
+          "rating": 5.0,
+          "title": null,
+          "text": "I found their professionalism outstanding.",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://clutch.co/profile/smartsites",
+          "sample_order": "page"
+        }
+      ],
+      "url": "https://clutch.co/profile/smartsites",
+      "captured_at": "2026-08-14T14:57:51.834651+00:00"
+    },
+    "trustpilot": {
+      "portal": "trustpilot",
+      "status": "ok",
+      "rating": 4.1,
+      "count": 8,
+      "quotes": [
+        {
+          "portal": "Trustpilot",
+          "review_id": null,
+          "date": "2025-09-09",
+          "rating": 5,
+          "title": "Amazing",
+          "text": "Agriculture Growing my rice wheat rates",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://www.trustpilot.com/review/smartsites.com?sort=recency&languages=all",
+          "sample_order": "recency"
+        },
+        {
+          "portal": "Trustpilot",
+          "review_id": null,
+          "date": "2025-08-31",
+          "rating": 5,
+          "title": "Very good service",
+          "text": "Very good service",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://www.trustpilot.com/review/smartsites.com?sort=recency&languages=all",
+          "sample_order": "recency"
+        },
+        {
+          "portal": "Trustpilot",
+          "review_id": null,
+          "date": "2025-02-28",
+          "rating": 5,
+          "title": "SmartSites did sem and SEO for Indy\u2026",
+          "text": "SmartSites did sem and SEO for Indy Auto Man car dealership with great results.",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://www.trustpilot.com/review/smartsites.com?sort=recency&languages=all",
+          "sample_order": "recency"
+        },
+        {
+          "portal": "Trustpilot",
+          "review_id": null,
+          "date": "2024-07-16",
+          "rating": 5,
+          "title": "These other reviews are whack",
+          "text": "These other reviews are whack. Smartsites is a reputable business. I've been working with them for over a year and they have nothing to do with telegraph or crypto.",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://www.trustpilot.com/review/smartsites.com?sort=recency&languages=all",
+          "sample_order": "recency"
+        }
+      ],
+      "url": "https://www.trustpilot.com/review/smartsites.com?sort=recency&languages=all",
+      "captured_at": "2026-08-14T14:57:51.834651+00:00"
+    },
+    "google": {
+      "portal": "google",
+      "status": "ok",
+      "rating": 4.9,
+      "count": 894,
+      "quotes": [
+        {
+          "portal": "Google Business Profile",
+          "review_id": null,
+          "date": "2026-08-12",
+          "rating": 5,
+          "title": null,
+          "text": "Tony and the SmartSites team have been wonderful to work with so far! They've gone above and beyond to research and answer some of my questions and help us figure out how best to address technical issues we've faced.",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://www.smartsites.com/",
+          "sample_order": "newest"
+        },
+        {
+          "portal": "Google Business Profile",
+          "review_id": null,
+          "date": "2026-08-11",
+          "rating": 5,
+          "title": null,
+          "text": "Axelle is truly kind and quick with feedback. She always makes an effort to proactively resolve any questions or issues I bring up, and she communicates well with her own team too. Whenever there are any updates or important details\u2026",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://www.smartsites.com/",
+          "sample_order": "newest"
+        },
+        {
+          "portal": "Google Business Profile",
+          "review_id": null,
+          "date": "2026-08-07",
+          "rating": 5,
+          "title": null,
+          "text": "Diane is great to work with. SmartSites tailored their work to suit my needs and accomplished the goals better than anyone I had contracted with in the past for my website.",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://www.smartsites.com/",
+          "sample_order": "newest"
+        },
+        {
+          "portal": "Google Business Profile",
+          "review_id": null,
+          "date": "2026-08-06",
+          "rating": 5,
+          "title": null,
+          "text": "Have been with Smartsites \"Ben\" And have had nothing but a great experience and definitely is a valuable asset. Would Highly Recommend.",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://www.smartsites.com/",
+          "sample_order": "newest"
+        }
+      ],
+      "url": "https://www.smartsites.com/",
+      "captured_at": "2026-08-14T14:57:51.834651+00:00",
+      "category": "Internet marketing service"
+    }
+  }
+}

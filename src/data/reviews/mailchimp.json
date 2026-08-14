@@ -84,7 +84,13 @@
       "role": "Managing Director",
       "company_size": "Small-Business (50 or fewer emp.)",
       "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews",
-      "sample_order": "most_recent"
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "It's got amazing customer support. It's easy to use, and you won't really need another tool"
+      }
     },
     {
       "portal": "G2",
@@ -114,7 +120,13 @@
       "role": "Email Marketing Executive",
       "company_size": "Mid-Market (51-1000 emp.)",
       "source_url": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews",
-      "sample_order": "most_recent"
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "the automation features save me a lot of manual effort",
+        "resonance_evidence": "the automation features save me a lot of manual effort. I also appreciate that the campaign reports are clear and easy to understand"
+      }
     },
     {
       "portal": "G2",
@@ -648,7 +660,13 @@
       "role": "Operator",
       "company_size": "201-500 employees",
       "source_url": "https://www.capterra.com/p/110228/MailChimp/reviews/",
-      "sample_order": "page"
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "the overall functionality and ease of use make it a reliable and effective marketing platform"
+      }
     },
     {
       "portal": "Capterra",
@@ -1024,7 +1042,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Pratique commerciale frauduleuse, exp\u00e9rience client nulle"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -1036,7 +1060,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I can't login. It's impossible"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -1048,7 +1078,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "empfinde ich das Unternehmen als sehr verbraucherunfreundlich"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -1084,7 +1120,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "I wasted $45",
+        "resonance_evidence": "my account was restricted, and I received no customer support"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -1234,7 +1276,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Kan IKKE anbefales!"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -1816,7 +1864,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/mailchimp.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "For over a week all my marketing is not working",
+        "resonance_evidence": "BEWARE, this could happen to you"
+      }
     },
     {
       "portal": "Trustpilot",

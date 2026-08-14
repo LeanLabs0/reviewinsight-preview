@@ -270,7 +270,13 @@
       "role": "Communication",
       "company_size": "Small-Business (50 or fewer emp.)",
       "source_url": "https://www.g2.com/products/brevo-marketing-platform/reviews",
-      "sample_order": "most_helpful"
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Everything has been perfect, so far"
+      }
     },
     {
       "portal": "G2",
@@ -336,7 +342,13 @@
       "role": null,
       "company_size": "Small-Business (50 or fewer emp.)",
       "source_url": "https://www.g2.com/products/brevo-marketing-platform/reviews",
-      "sample_order": "most_helpful"
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "I have yet to find something I dislike in all honesty"
+      }
     },
     {
       "portal": "G2",
@@ -934,7 +946,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/brevo.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Brevo has exceeded my expectations"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -1918,7 +1936,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/brevo.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "vous vous dites je vais payer 20 euros par mois mais chaque action que vous allez faire vous aller recevoir des factures d\u00e9lirantes",
+        "resonance_evidence": "si vous voulez vous retrouvez avec des factures de 500 euros qui viennent de nul part alors vous pouvez essayez Brevo"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -2014,7 +2038,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/brevo.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "l'avoir test\u00e9, c'est l'avoir adopt\u00e9 !"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -2224,7 +2254,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/brevo.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Very disappointed in Brevo!"
+      }
     },
     {
       "portal": "Trustpilot",

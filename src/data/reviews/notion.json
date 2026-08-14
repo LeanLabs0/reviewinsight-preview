@@ -156,7 +156,13 @@
       "role": "HR Manager",
       "company_size": "Small-Business (50 or fewer emp.)",
       "source_url": "https://www.g2.com/products/notion/reviews",
-      "sample_order": "most_recent"
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "Everything is hassle-free"
+      }
     },
     {
       "portal": "G2",
@@ -276,7 +282,13 @@
       "role": "Education Management",
       "company_size": "Small-Business (50 or fewer emp.)",
       "source_url": "https://www.g2.com/products/notion/reviews",
-      "sample_order": "most_helpful"
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "I love how customizable it is"
+      }
     },
     {
       "portal": "G2",
@@ -850,7 +862,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "I've used Notion for years and am a huge advocate for this template-based, user-friendly software"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -1012,7 +1030,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Awful company. Do not subscribe."
+      }
     },
     {
       "portal": "Trustpilot",
@@ -1324,7 +1348,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "La atenci\u00f3n al cliente es evasiva"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -1882,7 +1912,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "Great for replacing Evernotes and generic list apps.",
+        "resonance_evidence": "Free version is great for taking notes and tracking personal to-do lists."
+      }
     },
     {
       "portal": "Trustpilot",
@@ -2068,7 +2104,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/notion.so?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "leaving me on the Free Plan for almost a month until I contacted support",
+        "resonance_evidence": "Proceed with caution before subscribing."
+      }
     },
     {
       "portal": "Trustpilot",

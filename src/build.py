@@ -27,12 +27,33 @@ FLOORS: dict = RATED["floors"]
 
 VENDORS: dict = DATA["vendors"]
 CATS: dict = DATA["categories"]
-# platforms that feed the rating
+ALL_PORTALS = [("g2", "G2"), ("capterra", "Capterra"),
+               ("gartner", "Gartner Peer Insights"), ("trustpilot", "Trustpilot"),
+               ("clutch", "Clutch"), ("google", "Google Business Profile")]
+# which platforms count depends on what the company sells. A software vendor's
+# Google listing is its office; a services company's Google listing is the
+# business itself.
+RATED_BY_KIND = {"software": {"g2", "capterra", "gartner", "trustpilot"},
+                 "services": {"clutch", "trustpilot", "google"}}
+
+
+def kind_of(v) -> str:
+    return v.get("kind", "software")
+
+
+def PORTALS_FOR(v):
+    allowed = RATED_BY_KIND[kind_of(v)]
+    return [(k, l) for k, l in ALL_PORTALS if k in allowed]
+
+
+def CONTEXT_FOR(v):
+    allowed = RATED_BY_KIND[kind_of(v)]
+    return [(k, l) for k, l in ALL_PORTALS
+            if k not in allowed and (v["portals"].get(k) or {}).get("rating") is not None]
+
+
 PORTALS = [("g2", "G2"), ("capterra", "Capterra"),
            ("gartner", "Gartner Peer Insights"), ("trustpilot", "Trustpilot")]
-# collected and shown, but a company's Google listing rates its office rather
-# than its product, so it sits outside the rating
-CONTEXT_PORTALS = [("google", "Google Business Profile"), ("clutch", "Clutch")]
 CAPTURED = datetime.fromisoformat(DATA["generated_at"]).strftime("%d %B %Y")
 QUARTER = "2026-Q3"
 CSS_V = hashlib.sha256(
@@ -43,8 +64,8 @@ e = html.escape
 
 # ------------------------------------------------------------ derived facts
 def portals_with_data(v) -> list[tuple[str, str, dict]]:
-    return [(k, lbl, v["portals"][k]) for k, lbl in PORTALS
-            if v["portals"][k].get("rating") is not None]
+    return [(k, lbl, v["portals"][k]) for k, lbl in PORTALS_FOR(v)
+            if (v["portals"].get(k) or {}).get("rating") is not None]
 
 
 def total_reviews(v) -> int:
@@ -72,7 +93,9 @@ def qdate(q) -> datetime | None:
     for pat, fmt in ((r"^\d{4}-\d{2}-\d{2}$", "%Y-%m-%d"),
                      (r"^\d{1,2}/\d{1,2}/\d{4}$", "%m/%d/%Y"),
                      (r"^[A-Z][a-z]+ \d{1,2}, \d{4}$", "%B %d, %Y"),
-                     (r"^[A-Z][a-z]{2} \d{1,2}, \d{4}$", "%b %d, %Y")):
+                     (r"^[A-Z][a-z]{2} \d{1,2}, \d{4}$", "%b %d, %Y"),
+                     (r"^[A-Z][a-z]{2} \d{4}$", "%b %Y"),
+                     (r"^[A-Z][a-z]+ \d{4}$", "%B %Y")):
         if re.match(pat, d):
             try:
                 return datetime.strptime(d, fmt)
@@ -95,8 +118,8 @@ def all_quotes(v) -> list:
     source actually sounds like.
     """
     out = []
-    for key, _ in PORTALS:
-        qs = list(v["portals"][key].get("quotes") or [])
+    for key in v["portals"]:
+        qs = list((v["portals"].get(key) or {}).get("quotes") or [])
         qs.sort(key=lambda q: qdate(q) or datetime(1970, 1, 1), reverse=True)
         out += qs[:2]
     out.sort(key=lambda q: qdate(q) or datetime(1970, 1, 1), reverse=True)
@@ -168,7 +191,7 @@ def shell(depth: int, title: str, desc: str, body: str, nav: str = "",
   </div>
   <div>
     <h4>Sources we read</h4>
-    <ul>{''.join(f'<li>{e(lbl)}</li>' for _, lbl in PORTALS)}</ul>
+    <ul>{''.join(f'<li>{e(lbl)}</li>' for _, lbl in ALL_PORTALS)}</ul>
   </div>
 </div></footer>
 </body>
@@ -321,8 +344,8 @@ across the {s['n']} platforms carrying it, from {e(s['lo'][0])} at
 
 def sources_table(v) -> str:
     rows = []
-    for key, lbl in PORTALS:
-        p = v["portals"][key]
+    for key, lbl in PORTALS_FOR(v):
+        p = v["portals"].get(key) or {}
         if p.get("rating") is None:
             rows.append(
                 f'<tr><td>{e(lbl)}</td><td colspan="3" class="muted">No listing found</td>'
@@ -341,7 +364,7 @@ def sources_table(v) -> str:
             f'<td class="tiny">{e(p["captured_at"][:10])}</td>'
             f'<td><a href="{e(p["url"])}" rel="nofollow noopener" target="_blank">Open&nbsp;&#8599;</a></td></tr>')
     extra = []
-    for key, lbl in CONTEXT_PORTALS:
+    for key, lbl in CONTEXT_FOR(v):
         p = v["portals"].get(key) or {}
         if p.get("rating") is None:
             continue
@@ -350,9 +373,9 @@ def sources_table(v) -> str:
             f'<td class="n">{p["count"]:,}</td><td class="tiny">{e(p["captured_at"][:10])}</td>'
             + (f'<td><a href="{e(p["url"])}" rel="nofollow noopener" target="_blank">Open&nbsp;&#8599;</a></td></tr>'
                if p.get("url") else '<td class="muted">not listed</td></tr>'))
-    note = ('<p class="tiny muted">The Google listing rates this company as a place of '
-            'business, not as a product, so it is shown here but kept out of the rating.</p>'
-            if extra else '')
+    note = ('<p class="tiny muted">Shown for context and kept out of the rating, because '
+            'a software product&rsquo;s Google listing rates its office rather than the '
+            'product.</p>' if extra else '')
     return f"""<div class="tscroll"><table>
 <thead><tr><th>Platform</th><th class="n">Rating</th><th class="n">Reviews</th>
 <th>Checked</th><th>Source</th></tr></thead>
@@ -558,7 +581,8 @@ def page_home() -> None:
       {''.join(f'<a href="categories/{c}/index.html">{e(m["name"])}</a>'
                + (", " if i == 0 else "") for i, (c, m) in enumerate(CATS.items()))}</p>
     <div class="plainlist taxonomy">{''.join(
-        f'<a href="categories/{t["slug"]}/index.html">{e(t["name"])}</a>' for t in TAXONOMY)}</div>
+        f'<a href="categories/{t["slug"]}/index.html">{e(t["name"])}</a>'
+        for t in TAXONOMY if t["slug"] not in CATS)}</div>
     <p class="tiny muted" style="margin-top:14px">{len(TAXONOMY)} industries. Nothing is
     published for an industry until every company in it has been read across the platforms that carry it.</p>
   </div>
@@ -637,7 +661,8 @@ def page_categories() -> None:
         f'<span class="num">{len(cat_vendors(c))} vendors</span></li>' for c, m in CATS.items())
     rest = "".join(
         f'<li><a href="{t["slug"]}/index.html">{e(t["name"])}</a>'
-        f'<span class="num muted">not yet rated</span></li>' for t in TAXONOMY)
+        f'<span class="num muted">not yet rated</span></li>'
+        for t in TAXONOMY if t["slug"] not in CATS)
     body = f"""<div class="crumb"><a href="../index.html">Home</a></div>
 <h1>Categories</h1>
 <div class="lede">Two categories carry rated companies today. The rest of the industry
@@ -921,12 +946,12 @@ do not do. Every figure on the site can be rebuilt from the numbers on the vendo
 
 def sources_note() -> str:
     rows = "".join(
-        f"<tr><td>{e(lbl)}</td><td class='n'>{sum(1 for v in VENDORS.values() if v['portals'][k].get('rating') is not None)}"
+        f"<tr><td>{e(lbl)}</td><td class='n'>{sum(1 for v in VENDORS.values() if (v['portals'].get(k) or {}).get('rating') is not None)}"
         f" of {len(VENDORS)}</td><td class='small'>"
         f"{'Rating, review count, review text with dates' if k != 'gartner' else 'Rating, review and rating counts, review headlines with dates. Bodies are login-gated.'}"
-        f"</td></tr>" for k, lbl in PORTALS)
+        f"</td></tr>" for k, lbl in ALL_PORTALS)
     return f"""<div class="tscroll"><table>
-<thead><tr><th>Platform</th><th class="n">Vendors covered</th><th>What we take</th></tr></thead>
+<thead><tr><th>Platform</th><th class="n">Companies covered</th><th>What we take</th></tr></thead>
 <tbody>{rows}</tbody></table></div>"""
 
 
@@ -934,10 +959,11 @@ def page_quarterly() -> None:
     rows = "".join(
         f'<tr><td><a href="../../vendors/{v["slug"]}/index.html">{e(v["name"])}</a></td>'
         f'<td class="small">{e(v["category_name"])}</td>'
-        + "".join(f'<td class="n">{v["portals"][k]["rating"] or "n/a"}</td>' for k, _ in PORTALS)
+        + "".join(f'<td class="n">{(v["portals"].get(k) or {}).get("rating") or "n/a"}</td>'
+                  for k, _ in ALL_PORTALS)
         + f'<td class="n">{total_reviews(v):,}</td></tr>'
         for v in sorted(VENDORS.values(), key=lambda x: x["name"].lower()))
-    heads = "".join(f'<th class="n">{e(l)}</th>' for _, l in PORTALS)
+    heads = "".join(f'<th class="n">{e(l)}</th>' for _, l in ALL_PORTALS)
     body = f"""<div class="crumb"><a href="../../index.html">Home</a></div>
 <h1>{QUARTER} index</h1>
 <div class="lede">Every rating we captured on {CAPTURED}, in one table. This page is
@@ -966,6 +992,8 @@ def main() -> None:
     page_quarterly()
 
     for t in TAXONOMY:
+        if t["slug"] in CATS:      # now a real category, so it gets the real page
+            continue
         page_industry(t)
 
     pairs = set()

@@ -84,7 +84,13 @@
       "role": "Verified User in Marketing and Advertising",
       "company_size": "Small-Business (50 or fewer emp.)",
       "source_url": "https://www.g2.com/products/clickup/reviews",
-      "sample_order": "highest_rated"
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "I wish I had found it sooner"
+      }
     },
     {
       "portal": "G2",
@@ -2038,7 +2044,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/clickup.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "makes me less confident in the company as a long-term vendor"
+      }
     },
     {
       "portal": "Trustpilot",

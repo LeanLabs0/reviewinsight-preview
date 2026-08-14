@@ -96,7 +96,13 @@
       "role": "Verified User in Information Technology and Services",
       "company_size": "Mid-Market (51-1000 emp.)",
       "source_url": "https://www.g2.com/products/adobe-marketo-engage/reviews",
-      "sample_order": "most_recent"
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "very useful"
+      }
     },
     {
       "portal": "G2",

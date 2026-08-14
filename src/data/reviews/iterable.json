@@ -588,7 +588,13 @@
       "role": "Pete C.",
       "company_size": null,
       "source_url": "https://www.g2.com/products/iterable/reviews",
-      "sample_order": "lowest_rated"
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "makes it impossible for me to recommend Iterable confidently."
+      }
     },
     {
       "portal": "G2",

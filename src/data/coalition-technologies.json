@@ -1,0 +1,142 @@
+{
+  "slug": "coalition-technologies",
+  "name": "Coalition Technologies",
+  "domain": "coalitiontechnologies.com",
+  "category": "digital-marketing",
+  "category_name": "Digital Marketing",
+  "captured_at": "2026-08-14T14:57:51.834651+00:00",
+  "kind": "services",
+  "portals": {
+    "clutch": {
+      "portal": "clutch",
+      "status": "ok",
+      "rating": 4.8,
+      "count": 163,
+      "sub_ratings": {
+        "Quality": "5.0",
+        "Schedule": "5.0",
+        "Cost": "5.0",
+        "Willing to Refer": "5.0"
+      },
+      "quotes": [
+        {
+          "portal": "Clutch",
+          "review_id": null,
+          "date": "Nov 2023",
+          "rating": 5.0,
+          "title": null,
+          "text": "We appreciated how they took the time to understand our unique business, allowing them to service our needs better.",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://clutch.co/profile/coalition-technologies",
+          "sample_order": "page"
+        },
+        {
+          "portal": "Clutch",
+          "review_id": null,
+          "date": "Oct 2024",
+          "rating": 5.0,
+          "title": null,
+          "text": "We appreciated that the design team learned a bit about our selling process and had good suggestions.",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://clutch.co/profile/coalition-technologies",
+          "sample_order": "page"
+        },
+        {
+          "portal": "Clutch",
+          "review_id": null,
+          "date": "Jan 2024",
+          "rating": 5.0,
+          "title": null,
+          "text": "They feel like an extension of our business.",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://clutch.co/profile/coalition-technologies",
+          "sample_order": "page"
+        },
+        {
+          "portal": "Clutch",
+          "review_id": null,
+          "date": "Apr 2024",
+          "rating": 5.0,
+          "title": null,
+          "text": "If you\u2019re considering an SEO partner, we wholeheartedly recommend Coalition Technologies.",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://clutch.co/profile/coalition-technologies",
+          "sample_order": "page"
+        }
+      ],
+      "url": "https://clutch.co/profile/coalition-technologies",
+      "captured_at": "2026-08-14T14:57:51.834651+00:00"
+    },
+    "trustpilot": {
+      "portal": "trustpilot",
+      "status": "ok",
+      "rating": 3.8,
+      "count": 23,
+      "quotes": [
+        {
+          "portal": "Trustpilot",
+          "review_id": null,
+          "date": "2026-06-10",
+          "rating": 1,
+          "title": "Spend 10 months, $18,000. And got nothing from Coalition Technologies.",
+          "text": "Spent 10 months, $18,000. And got nothing from Coalition Technologies. Extremely disorganized, they do very little work. The report they present to me twice a month, shows nothing. All they focus on is creating content using keywords that only robots\u2026",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://www.trustpilot.com/review/coalitiontechnologies.com?sort=recency&languages=all",
+          "sample_order": "recency"
+        },
+        {
+          "portal": "Trustpilot",
+          "review_id": null,
+          "date": "2026-06-09",
+          "rating": 1,
+          "title": "Very expensive and poor work",
+          "text": "Very expensive and poor work. On every meeting there are 15 people from their team and they will charge you for that also :D",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://www.trustpilot.com/review/coalitiontechnologies.com?sort=recency&languages=all",
+          "sample_order": "recency"
+        },
+        {
+          "portal": "Trustpilot",
+          "review_id": null,
+          "date": "2026-06-07",
+          "rating": 5,
+          "title": "Pleasure Treasurz",
+          "text": "They provided a detailed analysis of our site, pointed out areas where we could improve visibility and traffic, and offered practical suggestions that were specific to our business. Their feedback gave us a much clearer understanding of how to attract\u2026",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://www.trustpilot.com/review/coalitiontechnologies.com?sort=recency&languages=all",
+          "sample_order": "recency"
+        },
+        {
+          "portal": "Trustpilot",
+          "review_id": null,
+          "date": "2026-05-15",
+          "rating": 5,
+          "title": "The personal touch and fantastic\u2026",
+          "text": "The personal touch and fantastic support has been invaluable to us. We've loved working with Coalition.",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://www.trustpilot.com/review/coalitiontechnologies.com?sort=recency&languages=all",
+          "sample_order": "recency"
+        }
+      ],
+      "url": "https://www.trustpilot.com/review/coalitiontechnologies.com?sort=recency&languages=all",
+      "captured_at": "2026-08-14T14:57:51.834651+00:00"
+    },
+    "google": {
+      "portal": "google",
+      "status": "no_listing",
+      "rating": null,
+      "count": null,
+      "quotes": [],
+      "url": null,
+      "captured_at": "2026-08-14T14:57:51.834651+00:00"
+    }
+  }
+}

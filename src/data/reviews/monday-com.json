@@ -30,7 +30,13 @@
       "role": "HR Manager",
       "company_size": "Enterprise (> 1000 emp.)",
       "source_url": "https://www.g2.com/products/monday-com/reviews",
-      "sample_order": "most_recent"
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": true,
+        "resonance": "satisfied",
+        "results_evidence": "AI cuts down on the time I use to handle various clients updates, renewal and reviews as spreadsheet are managed on a single dashboard",
+        "resonance_evidence": "has improved my time management"
+      }
     },
     {
       "portal": "G2",
@@ -126,7 +132,13 @@
       "role": "Managing Director",
       "company_size": "Mid-Market (51-1000 emp.)",
       "source_url": "https://www.g2.com/products/monday-com/reviews",
-      "sample_order": "most_recent"
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "this amazing platform"
+      }
     },
     {
       "portal": "G2",
@@ -138,7 +150,13 @@
       "role": "Senior Specialist- Research And Development Engineer",
       "company_size": "Small-Business (50 or fewer emp.)",
       "source_url": "https://www.g2.com/products/monday-com/reviews",
-      "sample_order": "most_recent"
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "It helps me track my workflow more easily"
+      }
     },
     {
       "portal": "G2",
@@ -708,7 +726,13 @@
       "role": "Application Developer",
       "company_size": "201-500 employees",
       "source_url": "https://www.capterra.com/p/147657/monday-com/reviews/",
-      "sample_order": "page"
+      "sample_order": "page",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "significantly compressed our project lifecycles",
+        "resonance_evidence": "The AI integrations have been a game-changer for me"
+      }
     },
     {
       "portal": "Capterra",
@@ -828,7 +852,13 @@
       "role": "Brand Manager",
       "company_size": "11-50 employees",
       "source_url": "https://www.capterra.com/p/147657/monday-com/reviews/",
-      "sample_order": "page"
+      "sample_order": "page",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "the process feels more complicated than it needs to be"
+      }
     },
     {
       "portal": "Gartner Peer Insights",
@@ -868,7 +898,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "things move significantly slower",
+        "resonance_evidence": "I used to love this app. Now I hate it."
+      }
     },
     {
       "portal": "Trustpilot",
@@ -2008,7 +2044,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "The platform is generally fine, but it still lacks some essential core features"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -2242,7 +2284,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "Questo \u00e8 di gran lunga il pi\u00f9 intuitivo e completo"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -2374,7 +2422,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "WORST CUSTOMER SUPPORT ever!"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -2500,7 +2554,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "I love this for project management"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -2530,7 +2590,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/monday.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Monday CRM is awful"
+      }
     },
     {
       "portal": "Trustpilot",

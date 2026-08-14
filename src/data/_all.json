@@ -44,7 +44,8 @@
           "Iterable",
           "iterable.com"
         ]
-      ]
+      ],
+      "kind": "software"
     },
     "project-management": {
       "name": "Project Management",
@@ -89,7 +90,54 @@
           "Basecamp",
           "basecamp.com"
         ]
-      ]
+      ],
+      "kind": "software"
+    },
+    "digital-marketing": {
+      "name": "Digital Marketing",
+      "vendors": [
+        [
+          "webfx",
+          "WebFX",
+          "webfx.com"
+        ],
+        [
+          "smartsites",
+          "SmartSites",
+          "smartsites.com"
+        ],
+        [
+          "disruptive-advertising",
+          "Disruptive Advertising",
+          "disruptiveadvertising.com"
+        ],
+        [
+          "ninjapromo",
+          "NinjaPromo",
+          "ninjapromo.io"
+        ],
+        [
+          "lounge-lizard",
+          "Lounge Lizard",
+          "loungelizard.com"
+        ],
+        [
+          "thrive-internet-marketing-agency",
+          "Thrive Internet Marketing Agency",
+          "thriveagency.com"
+        ],
+        [
+          "coalition-technologies",
+          "Coalition Technologies",
+          "coalitiontechnologies.com"
+        ],
+        [
+          "ignite-visibility",
+          "Ignite Visibility",
+          "ignitevisibility.com"
+        ]
+      ],
+      "kind": "services"
     }
   },
   "vendors": {
@@ -3618,6 +3666,1295 @@
             "https://clutch.co/profile/basecamp-studios",
             "https://clutch.co/profile/basecamp-advertising"
           ]
+        }
+      }
+    },
+    "webfx": {
+      "slug": "webfx",
+      "name": "WebFX",
+      "domain": "webfx.com",
+      "category": "digital-marketing",
+      "category_name": "Digital Marketing",
+      "captured_at": "2026-08-14T14:57:51.834651+00:00",
+      "kind": "services",
+      "portals": {
+        "clutch": {
+          "portal": "clutch",
+          "status": "ok",
+          "rating": 4.9,
+          "count": 450,
+          "sub_ratings": {
+            "Quality": "5.0",
+            "Schedule": "5.0",
+            "Cost": "5.0",
+            "Willing to Refer": "4.0"
+          },
+          "quotes": [
+            {
+              "portal": "Clutch",
+              "review_id": null,
+              "date": "Apr 2017",
+              "rating": 5.0,
+              "title": null,
+              "text": "They made it a priority to understand our unique business.",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://clutch.co/profile/webfx",
+              "sample_order": "page"
+            },
+            {
+              "portal": "Clutch",
+              "review_id": null,
+              "date": "Sep 2024",
+              "rating": 5.0,
+              "title": null,
+              "text": "We've been impressed by their level of support, communication, and the quality of the partnership relationship.",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://clutch.co/profile/webfx",
+              "sample_order": "page"
+            },
+            {
+              "portal": "Clutch",
+              "review_id": null,
+              "date": "Aug 2025",
+              "rating": 5.0,
+              "title": null,
+              "text": "Everything has been amazing.",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://clutch.co/profile/webfx",
+              "sample_order": "page"
+            },
+            {
+              "portal": "Clutch",
+              "review_id": null,
+              "date": "Nov 2025",
+              "rating": 4.5,
+              "title": null,
+              "text": "The willingness to meet and discuss large ideas and not immediately dismiss them stands out.",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://clutch.co/profile/webfx",
+              "sample_order": "page"
+            }
+          ],
+          "url": "https://clutch.co/profile/webfx",
+          "captured_at": "2026-08-14T14:57:51.834651+00:00"
+        },
+        "trustpilot": {
+          "portal": "trustpilot",
+          "status": "ok",
+          "rating": 2.6,
+          "count": 18,
+          "quotes": [
+            {
+              "portal": "Trustpilot",
+              "review_id": null,
+              "date": "2026-07-02",
+              "rating": 1,
+              "title": "Disappointing Experience as an Established Business",
+              "text": "I was excited to speak with WebFX because my business has been established for more than five years, and I was looking to switch from my current SEO provider. Unfortunately, I was disappointed to learn that WebFX would not work\u2026",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://www.trustpilot.com/review/webfx.com?sort=recency&languages=all",
+              "sample_order": "recency"
+            },
+            {
+              "portal": "Trustpilot",
+              "review_id": null,
+              "date": "2026-02-06",
+              "rating": 1,
+              "title": "My experience with WebFx has been horrible",
+              "text": "My experience with WebFx has been completely horrible. They charge a bunch of money and get very little work done. They charge around $400 for 500-word pages. Add a bunch of add-ons you will never use, and you cannot get\u2026",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://www.trustpilot.com/review/webfx.com?sort=recency&languages=all",
+              "sample_order": "recency"
+            },
+            {
+              "portal": "Trustpilot",
+              "review_id": null,
+              "date": "2025-04-19",
+              "rating": 1,
+              "title": "These clowns can't handle the simplest\u2026",
+              "text": "These clowns can't handle the simplest tasks. Basically, I'll I needed was for them to get my website backlinks for some new pages. They would not even talk to me and referred me to some third rate SEO company with\u2026",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://www.trustpilot.com/review/webfx.com?sort=recency&languages=all",
+              "sample_order": "recency"
+            },
+            {
+              "portal": "Trustpilot",
+              "review_id": null,
+              "date": "2025-03-06",
+              "rating": 5,
+              "title": "Great company: I follow for my enhancement",
+              "text": "Great company, I am following this company for last 5 years and their blogs are really helpful as well as work as a guide for me. In learning SEO and Digital Marketing.",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://www.trustpilot.com/review/webfx.com?sort=recency&languages=all",
+              "sample_order": "recency"
+            }
+          ],
+          "url": "https://www.trustpilot.com/review/webfx.com?sort=recency&languages=all",
+          "captured_at": "2026-08-14T14:57:51.834651+00:00"
+        },
+        "google": {
+          "portal": "google",
+          "status": "no_listing",
+          "rating": null,
+          "count": null,
+          "quotes": [],
+          "url": null,
+          "captured_at": "2026-08-14T14:57:51.834651+00:00"
+        }
+      }
+    },
+    "smartsites": {
+      "slug": "smartsites",
+      "name": "SmartSites",
+      "domain": "smartsites.com",
+      "category": "digital-marketing",
+      "category_name": "Digital Marketing",
+      "captured_at": "2026-08-14T14:57:51.834651+00:00",
+      "kind": "services",
+      "portals": {
+        "clutch": {
+          "portal": "clutch",
+          "status": "ok",
+          "rating": 4.9,
+          "count": 364,
+          "sub_ratings": {
+            "Quality": "4.0",
+            "Schedule": "4.0",
+            "Cost": "5.0",
+            "Willing to Refer": "4.5"
+          },
+          "quotes": [
+            {
+              "portal": "Clutch",
+              "review_id": null,
+              "date": "Aug 2022",
+              "rating": 5.0,
+              "title": null,
+              "text": "They have great communication, fast response times, and excellent service.",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://clutch.co/profile/smartsites",
+              "sample_order": "page"
+            },
+            {
+              "portal": "Clutch",
+              "review_id": null,
+              "date": "Jan 2022",
+              "rating": 5.0,
+              "title": null,
+              "text": "Their ability to understand my needs is exceptional.",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://clutch.co/profile/smartsites",
+              "sample_order": "page"
+            },
+            {
+              "portal": "Clutch",
+              "review_id": null,
+              "date": "Jan 2026",
+              "rating": 5.0,
+              "title": null,
+              "text": "We are impressed by their consistency and clarity in communication, goals, and vision.",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://clutch.co/profile/smartsites",
+              "sample_order": "page"
+            },
+            {
+              "portal": "Clutch",
+              "review_id": null,
+              "date": "Apr 2025",
+              "rating": 5.0,
+              "title": null,
+              "text": "I found their professionalism outstanding.",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://clutch.co/profile/smartsites",
+              "sample_order": "page"
+            }
+          ],
+          "url": "https://clutch.co/profile/smartsites",
+          "captured_at": "2026-08-14T14:57:51.834651+00:00"
+        },
+        "trustpilot": {
+          "portal": "trustpilot",
+          "status": "ok",
+          "rating": 4.1,
+          "count": 8,
+          "quotes": [
+            {
+              "portal": "Trustpilot",
+              "review_id": null,
+              "date": "2025-09-09",
+              "rating": 5,
+              "title": "Amazing",
+              "text": "Agriculture Growing my rice wheat rates",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://www.trustpilot.com/review/smartsites.com?sort=recency&languages=all",
+              "sample_order": "recency"
+            },
+            {
+              "portal": "Trustpilot",
+              "review_id": null,
+              "date": "2025-08-31",
+              "rating": 5,
+              "title": "Very good service",
+              "text": "Very good service",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://www.trustpilot.com/review/smartsites.com?sort=recency&languages=all",
+              "sample_order": "recency"
+            },
+            {
+              "portal": "Trustpilot",
+              "review_id": null,
+              "date": "2025-02-28",
+              "rating": 5,
+              "title": "SmartSites did sem and SEO for Indy\u2026",
+              "text": "SmartSites did sem and SEO for Indy Auto Man car dealership with great results.",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://www.trustpilot.com/review/smartsites.com?sort=recency&languages=all",
+              "sample_order": "recency"
+            },
+            {
+              "portal": "Trustpilot",
+              "review_id": null,
+              "date": "2024-07-16",
+              "rating": 5,
+              "title": "These other reviews are whack",
+              "text": "These other reviews are whack. Smartsites is a reputable business. I've been working with them for over a year and they have nothing to do with telegraph or crypto.",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://www.trustpilot.com/review/smartsites.com?sort=recency&languages=all",
+              "sample_order": "recency"
+            }
+          ],
+          "url": "https://www.trustpilot.com/review/smartsites.com?sort=recency&languages=all",
+          "captured_at": "2026-08-14T14:57:51.834651+00:00"
+        },
+        "google": {
+          "portal": "google",
+          "status": "ok",
+          "rating": 4.9,
+          "count": 894,
+          "quotes": [
+            {
+              "portal": "Google Business Profile",
+              "review_id": null,
+              "date": "2026-08-12",
+              "rating": 5,
+              "title": null,
+              "text": "Tony and the SmartSites team have been wonderful to work with so far! They've gone above and beyond to research and answer some of my questions and help us figure out how best to address technical issues we've faced.",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://www.smartsites.com/",
+              "sample_order": "newest"
+            },
+            {
+              "portal": "Google Business Profile",
+              "review_id": null,
+              "date": "2026-08-11",
+              "rating": 5,
+              "title": null,
+              "text": "Axelle is truly kind and quick with feedback. She always makes an effort to proactively resolve any questions or issues I bring up, and she communicates well with her own team too. Whenever there are any updates or important details\u2026",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://www.smartsites.com/",
+              "sample_order": "newest"
+            },
+            {
+              "portal": "Google Business Profile",
+              "review_id": null,
+              "date": "2026-08-07",
+              "rating": 5,
+              "title": null,
+              "text": "Diane is great to work with. SmartSites tailored their work to suit my needs and accomplished the goals better than anyone I had contracted with in the past for my website.",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://www.smartsites.com/",
+              "sample_order": "newest"
+            },
+            {
+              "portal": "Google Business Profile",
+              "review_id": null,
+              "date": "2026-08-06",
+              "rating": 5,
+              "title": null,
+              "text": "Have been with Smartsites \"Ben\" And have had nothing but a great experience and definitely is a valuable asset. Would Highly Recommend.",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://www.smartsites.com/",
+              "sample_order": "newest"
+            }
+          ],
+          "url": "https://www.smartsites.com/",
+          "captured_at": "2026-08-14T14:57:51.834651+00:00",
+          "category": "Internet marketing service"
+        }
+      }
+    },
+    "disruptive-advertising": {
+      "slug": "disruptive-advertising",
+      "name": "Disruptive Advertising",
+      "domain": "disruptiveadvertising.com",
+      "category": "digital-marketing",
+      "category_name": "Digital Marketing",
+      "captured_at": "2026-08-14T14:57:51.834651+00:00",
+      "kind": "services",
+      "portals": {
+        "clutch": {
+          "portal": "clutch",
+          "status": "ok",
+          "rating": 4.8,
+          "count": 369,
+          "sub_ratings": {
+            "Quality": "1.5",
+            "Schedule": "2.0",
+            "Cost": "1.5",
+            "Willing to Refer": "1.0"
+          },
+          "quotes": [
+            {
+              "portal": "Clutch",
+              "review_id": null,
+              "date": "Jan 2020",
+              "rating": 5.0,
+              "title": null,
+              "text": "They consistently deliver on the results that others only promise.",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://clutch.co/profile/disruptive-advertising",
+              "sample_order": "page"
+            },
+            {
+              "portal": "Clutch",
+              "review_id": null,
+              "date": "Jan 2025",
+              "rating": 5.0,
+              "title": null,
+              "text": "Disruptive Advertising's staff is amazing and very nice.",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://clutch.co/profile/disruptive-advertising",
+              "sample_order": "page"
+            },
+            {
+              "portal": "Clutch",
+              "review_id": null,
+              "date": "Dec 2025",
+              "rating": 4.5,
+              "title": null,
+              "text": "What impressed me most about Disruptive Advertising was the combination of deep expertise and genuine partnership.",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://clutch.co/profile/disruptive-advertising",
+              "sample_order": "page"
+            },
+            {
+              "portal": "Clutch",
+              "review_id": null,
+              "date": "Sep 2025",
+              "rating": 5.0,
+              "title": null,
+              "text": "Disruptive Advertising's project management is excellent and dependable.",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://clutch.co/profile/disruptive-advertising",
+              "sample_order": "page"
+            }
+          ],
+          "url": "https://clutch.co/profile/disruptive-advertising",
+          "captured_at": "2026-08-14T14:57:51.834651+00:00"
+        },
+        "trustpilot": {
+          "portal": "trustpilot",
+          "status": "ok",
+          "rating": 3.3,
+          "count": 1,
+          "quotes": [
+            {
+              "portal": "Trustpilot",
+              "review_id": null,
+              "date": "2026-07-16",
+              "rating": 2,
+              "title": "Never trust or waste your money on this company!!",
+              "text": "Honestly, these people seemed completely dishonest! They take your money and then fail to deliver what was promised! Such a COMPLETE WASTE OF MONEY!! Never trust or do business with this company!!",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://www.trustpilot.com/review/disruptiveadvertising.com?sort=recency&languages=all",
+              "sample_order": "recency"
+            }
+          ],
+          "url": "https://www.trustpilot.com/review/disruptiveadvertising.com?sort=recency&languages=all",
+          "captured_at": "2026-08-14T14:57:51.834651+00:00"
+        },
+        "google": {
+          "portal": "google",
+          "status": "ok",
+          "rating": 4.7,
+          "count": 297,
+          "quotes": [
+            {
+              "portal": "Google Business Profile",
+              "review_id": null,
+              "date": "2026-07-14",
+              "rating": 5,
+              "title": null,
+              "text": "Amazing",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://disruptiveadvertising.com/",
+              "sample_order": "newest"
+            },
+            {
+              "portal": "Google Business Profile",
+              "review_id": null,
+              "date": "2026-06-23",
+              "rating": 1,
+              "title": null,
+              "text": "They made it very known that they DO NOT work with anyone for less than $5k a month. When I asked what they could do for us, they shut us down and wouldn't even take the time to build their\u2026",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://disruptiveadvertising.com/",
+              "sample_order": "newest"
+            },
+            {
+              "portal": "Google Business Profile",
+              "review_id": null,
+              "date": "2026-05-22",
+              "rating": 5,
+              "title": null,
+              "text": "How are you please give your email address",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://disruptiveadvertising.com/",
+              "sample_order": "newest"
+            },
+            {
+              "portal": "Google Business Profile",
+              "review_id": null,
+              "date": "2026-02-12",
+              "rating": 5,
+              "title": null,
+              "text": "I joined Disruptive Advertising a couple of months ago to help build our YouTube channel and expand our social media presence, and I couldn\u2019t be more grateful for the team I\u2019ve been assigned. Jordin and Paul have been absolutely incredible\u2026",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://disruptiveadvertising.com/",
+              "sample_order": "newest"
+            }
+          ],
+          "url": "https://disruptiveadvertising.com/",
+          "captured_at": "2026-08-14T14:57:51.834651+00:00",
+          "category": "Internet marketing service"
+        }
+      }
+    },
+    "ninjapromo": {
+      "slug": "ninjapromo",
+      "name": "NinjaPromo",
+      "domain": "ninjapromo.io",
+      "category": "digital-marketing",
+      "category_name": "Digital Marketing",
+      "captured_at": "2026-08-14T14:57:51.834651+00:00",
+      "kind": "services",
+      "portals": {
+        "clutch": {
+          "portal": "clutch",
+          "status": "ok",
+          "rating": 4.9,
+          "count": 96,
+          "sub_ratings": {
+            "Quality": "5.0",
+            "Schedule": "5.0",
+            "Cost": "5.0",
+            "Willing to Refer": "5.0"
+          },
+          "quotes": [
+            {
+              "portal": "Clutch",
+              "review_id": null,
+              "date": "Nov 2021",
+              "rating": 5.0,
+              "title": null,
+              "text": "Their insights into the industry and our target audiences continue to surprise us.",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://clutch.co/profile/ninja-promo",
+              "sample_order": "page"
+            },
+            {
+              "portal": "Clutch",
+              "review_id": null,
+              "date": "Feb 2023",
+              "rating": 5.0,
+              "title": null,
+              "text": "The uniqueness of Ninja Promo is their subscription model of cooperation.",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://clutch.co/profile/ninja-promo",
+              "sample_order": "page"
+            },
+            {
+              "portal": "Clutch",
+              "review_id": null,
+              "date": "Jan 2025",
+              "rating": 5.0,
+              "title": null,
+              "text": "They think and act like part of our product and revenue team.",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://clutch.co/profile/ninja-promo",
+              "sample_order": "page"
+            },
+            {
+              "portal": "Clutch",
+              "review_id": null,
+              "date": "Nov 2025",
+              "rating": 5.0,
+              "title": null,
+              "text": "Everything ran smoothly and efficiently.",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://clutch.co/profile/ninja-promo",
+              "sample_order": "page"
+            }
+          ],
+          "url": "https://clutch.co/profile/ninja-promo",
+          "captured_at": "2026-08-14T14:57:51.834651+00:00"
+        },
+        "trustpilot": {
+          "portal": "trustpilot",
+          "status": "ok",
+          "rating": 4.1,
+          "count": 40,
+          "quotes": [
+            {
+              "portal": "Trustpilot",
+              "review_id": null,
+              "date": "2026-07-07",
+              "rating": 5,
+              "title": "We had a product update and our\u2026",
+              "text": "We had a product update and our marketing was all over the place. NinjaPromo helped us clean up the story, make it simpler, and stop trying to say 10 things at once. After that , content and ads got so\u2026",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://www.trustpilot.com/review/ninjapromo.io?sort=recency&languages=all",
+              "sample_order": "recency"
+            },
+            {
+              "portal": "Trustpilot",
+              "review_id": null,
+              "date": "2026-05-05",
+              "rating": 5,
+              "title": "We worked with NinjaPromo for 6 months\u2026",
+              "text": "We worked with NinjaPromo for 6 months on Paid acquisition and landing page optimization and we\u2019re continuing the collaboration. Their team helped us structure campaigns, test tons of creatives, and improve lead quality which helped us reduce the CPL by\u2026",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://www.trustpilot.com/review/ninjapromo.io?sort=recency&languages=all",
+              "sample_order": "recency"
+            },
+            {
+              "portal": "Trustpilot",
+              "review_id": null,
+              "date": "2026-04-23",
+              "rating": 5,
+              "title": "True Heavyweights in Digital Strategy\u2026",
+              "text": "True Heavyweights in Digital Strategy and Traffic Generation Working with the Ninja Promo team on our comprehensive promotion was a game changer as their results exceeded all expectations. They do not just set up ads but dive deep into the\u2026",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://www.trustpilot.com/review/ninjapromo.io?sort=recency&languages=all",
+              "sample_order": "recency"
+            },
+            {
+              "portal": "Trustpilot",
+              "review_id": null,
+              "date": "2026-03-09",
+              "rating": 5,
+              "title": "They explain things clearly without\u2026",
+              "text": "They explain things clearly without drowning us in marketing jargon",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://www.trustpilot.com/review/ninjapromo.io?sort=recency&languages=all",
+              "sample_order": "recency"
+            }
+          ],
+          "url": "https://www.trustpilot.com/review/ninjapromo.io?sort=recency&languages=all",
+          "captured_at": "2026-08-14T14:57:51.834651+00:00"
+        },
+        "google": {
+          "portal": "google",
+          "status": "ok",
+          "rating": 4.6,
+          "count": 45,
+          "quotes": [
+            {
+              "portal": "Google Business Profile",
+              "review_id": null,
+              "date": "2026-08-14",
+              "rating": 5,
+              "title": null,
+              "text": "Very happy with the service and communication. The team was responsive and made the process easy.",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://ninjapromo.io/",
+              "sample_order": "newest"
+            },
+            {
+              "portal": "Google Business Profile",
+              "review_id": null,
+              "date": "2026-08-13",
+              "rating": 5,
+              "title": null,
+              "text": "The team was helpful and knowledgeable. Everything was handled smoothly and professionally.",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://ninjapromo.io/",
+              "sample_order": "newest"
+            },
+            {
+              "portal": "Google Business Profile",
+              "review_id": null,
+              "date": "2026-08-12",
+              "rating": 5,
+              "title": null,
+              "text": "As a startup, we needed a team that could help us grow without spending more than necessary on ads. NinjaPromo reviewed our existing campaigns, suggested a better approach, and continued making improvements along the way. We noticed our campaigns becoming\u2026",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://ninjapromo.io/",
+              "sample_order": "newest"
+            },
+            {
+              "portal": "Google Business Profile",
+              "review_id": null,
+              "date": "2026-08-12",
+              "rating": 5,
+              "title": null,
+              "text": "Great experience working with this team! They are professional, creative, and understand how to turn ideas into effective marketing content. The content creation process was smooth, and the final work was engaging, polished, and suited to our marketing needs. Very\u2026",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://ninjapromo.io/",
+              "sample_order": "newest"
+            }
+          ],
+          "url": "https://ninjapromo.io/",
+          "captured_at": "2026-08-14T14:57:51.834651+00:00",
+          "category": "Marketing agency"
+        }
+      }
+    },
+    "lounge-lizard": {
+      "slug": "lounge-lizard",
+      "name": "Lounge Lizard",
+      "domain": "loungelizard.com",
+      "category": "digital-marketing",
+      "category_name": "Digital Marketing",
+      "captured_at": "2026-08-14T14:57:51.834651+00:00",
+      "kind": "services",
+      "portals": {
+        "clutch": {
+          "portal": "clutch",
+          "status": "ok",
+          "rating": 4.8,
+          "count": 43,
+          "sub_ratings": {
+            "Quality": "5.0",
+            "Schedule": "5.0",
+            "Cost": "5.0",
+            "Willing to Refer": "5.0"
+          },
+          "quotes": [
+            {
+              "portal": "Clutch",
+              "review_id": null,
+              "date": "Oct 2023",
+              "rating": 5.0,
+              "title": null,
+              "text": "Lounge Lizard really knew how to integrate our work and images in a manner that made our vision come to life.",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://clutch.co/profile/lounge-lizard",
+              "sample_order": "page"
+            },
+            {
+              "portal": "Clutch",
+              "review_id": null,
+              "date": "Jan 2024",
+              "rating": 5.0,
+              "title": null,
+              "text": "I\u2019m impressed with their combination of talent and responsiveness.",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://clutch.co/profile/lounge-lizard",
+              "sample_order": "page"
+            },
+            {
+              "portal": "Clutch",
+              "review_id": null,
+              "date": "Feb 2023",
+              "rating": 4.5,
+              "title": null,
+              "text": "Our project lead always communicated timelines to us to keep us on track.",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://clutch.co/profile/lounge-lizard",
+              "sample_order": "page"
+            },
+            {
+              "portal": "Clutch",
+              "review_id": null,
+              "date": "Aug 2023",
+              "rating": 4.0,
+              "title": null,
+              "text": "They have awesome SEO capabilities.",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://clutch.co/profile/lounge-lizard",
+              "sample_order": "page"
+            }
+          ],
+          "url": "https://clutch.co/profile/lounge-lizard",
+          "captured_at": "2026-08-14T14:57:51.834651+00:00"
+        },
+        "trustpilot": {
+          "portal": "trustpilot",
+          "status": "ok",
+          "rating": 4,
+          "count": 3,
+          "quotes": [
+            {
+              "portal": "Trustpilot",
+              "review_id": null,
+              "date": "2026-06-24",
+              "rating": 5,
+              "title": "Lounge Lizard Worldwide has provided\u2026",
+              "text": "Lounge Lizard Worldwide has provided marketing consulting services to my company for over 10 years and has helped us get better google rankings and more customer bookings",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://www.trustpilot.com/review/loungelizard.com?sort=recency&languages=all",
+              "sample_order": "recency"
+            },
+            {
+              "portal": "Trustpilot",
+              "review_id": null,
+              "date": "2026-06-23",
+              "rating": 5,
+              "title": "20 years of brand marketing excellence...",
+              "text": "For over 20 years I've been bringing my portfolio clients to Ken and his digital team of magicians at Lounge Lizard! Our teams, across 12 industries, have continued to count on designs and strategies that build a story (and an\u2026",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://www.trustpilot.com/review/loungelizard.com?sort=recency&languages=all",
+              "sample_order": "recency"
+            },
+            {
+              "portal": "Trustpilot",
+              "review_id": null,
+              "date": "2026-06-23",
+              "rating": 5,
+              "title": "If youre considering working with\u2026",
+              "text": "If youre considering working with Lounge Lizard, don\u2019t waste time. Pull the trigger. They are regarded as the best for good reason.",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://www.trustpilot.com/review/loungelizard.com?sort=recency&languages=all",
+              "sample_order": "recency"
+            }
+          ],
+          "url": "https://www.trustpilot.com/review/loungelizard.com?sort=recency&languages=all",
+          "captured_at": "2026-08-14T14:57:51.834651+00:00"
+        },
+        "google": {
+          "portal": "google",
+          "status": "ok",
+          "rating": 4.6,
+          "count": 330,
+          "quotes": [
+            {
+              "portal": "Google Business Profile",
+              "review_id": null,
+              "date": "2026-08-02",
+              "rating": 3,
+              "title": null,
+              "text": "Very cool stuff, but exorbitant prices. I understand pricing the retro, handmade items at $400+ but a mid quality folding chair for $20? Or a 'old wooden chair' for $27? Essentially, if you're not ready to drop $300 on a\u2026",
+              "role": null,
+              "company_size": null,
+              "source_url": "http://www.pdxloungelizard.com/",
+              "sample_order": "newest"
+            },
+            {
+              "portal": "Google Business Profile",
+              "review_id": null,
+              "date": "2026-07-06",
+              "rating": 5,
+              "title": null,
+              "text": "Amazing collection of lamps! Nice furniture in general, couches were very affordably priced.",
+              "role": null,
+              "company_size": null,
+              "source_url": "http://www.pdxloungelizard.com/",
+              "sample_order": "newest"
+            },
+            {
+              "portal": "Google Business Profile",
+              "review_id": null,
+              "date": "2026-07-05",
+              "rating": 5,
+              "title": null,
+              "text": "Trisha (?) was so nice and helpful and we could not be happier with our adorable couch, shelving unit and chair! Kate delivered on time and we were so happy to support a local business!",
+              "role": null,
+              "company_size": null,
+              "source_url": "http://www.pdxloungelizard.com/",
+              "sample_order": "newest"
+            },
+            {
+              "portal": "Google Business Profile",
+              "review_id": null,
+              "date": "2026-06-11",
+              "rating": 3,
+              "title": null,
+              "text": "I have been here a bunch of times. They do have a parking lot. They have a ton of furnitire, lamps, coffee tables and a lot of lamp shades. One time a few months ago things seemed pretty dirty and\u2026",
+              "role": null,
+              "company_size": null,
+              "source_url": "http://www.pdxloungelizard.com/",
+              "sample_order": "newest"
+            }
+          ],
+          "url": "http://www.pdxloungelizard.com/",
+          "captured_at": "2026-08-14T14:57:51.834651+00:00",
+          "category": "Antique furniture store"
+        }
+      }
+    },
+    "thrive-internet-marketing-agency": {
+      "slug": "thrive-internet-marketing-agency",
+      "name": "Thrive Internet Marketing Agency",
+      "domain": "thriveagency.com",
+      "category": "digital-marketing",
+      "category_name": "Digital Marketing",
+      "captured_at": "2026-08-14T14:57:51.834651+00:00",
+      "kind": "services",
+      "portals": {
+        "clutch": {
+          "portal": "clutch",
+          "status": "ok",
+          "rating": 4.6,
+          "count": 109,
+          "sub_ratings": {
+            "Quality": "4.0",
+            "Schedule": "5.0",
+            "Cost": "3.5",
+            "Willing to Refer": "5.0"
+          },
+          "quotes": [
+            {
+              "portal": "Clutch",
+              "review_id": null,
+              "date": "Aug 2025",
+              "rating": 5.0,
+              "title": null,
+              "text": "They go above and beyond to create a good customer experience, which we appreciate.",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://clutch.co/profile/thrive-internet-marketing-agency",
+              "sample_order": "page"
+            },
+            {
+              "portal": "Clutch",
+              "review_id": null,
+              "date": "Oct 2025",
+              "rating": 4.0,
+              "title": null,
+              "text": "I really appreciated how friendly and responsive they always were.",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://clutch.co/profile/thrive-internet-marketing-agency",
+              "sample_order": "page"
+            },
+            {
+              "portal": "Clutch",
+              "review_id": null,
+              "date": "Sep 2025",
+              "rating": 4.0,
+              "title": null,
+              "text": "Thrive Internet Marketing Agency's culture and willingness to address things immediately and swiftly are impressive.",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://clutch.co/profile/thrive-internet-marketing-agency",
+              "sample_order": "page"
+            },
+            {
+              "portal": "Clutch",
+              "review_id": null,
+              "date": "Apr 2025",
+              "rating": 5.0,
+              "title": null,
+              "text": "Everyone at Thrive puts their best foot forward in their work.",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://clutch.co/profile/thrive-internet-marketing-agency",
+              "sample_order": "page"
+            }
+          ],
+          "url": "https://clutch.co/profile/thrive-internet-marketing-agency",
+          "captured_at": "2026-08-14T14:57:51.834651+00:00"
+        },
+        "trustpilot": {
+          "portal": "trustpilot",
+          "status": "ok",
+          "rating": 4.4,
+          "count": 41,
+          "quotes": [
+            {
+              "portal": "Trustpilot",
+              "review_id": null,
+              "date": "2026-07-28",
+              "rating": 5,
+              "title": "ANDREW, RALPH, TIM & NESAN!!!",
+              "text": "From my very first experience with Andrew to my later interactions with Ralph, Tim, and Nesan, I have absolutely fallen in love with this company and the way they do business. The website is essentially complete now, and it looks\u2026",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://www.trustpilot.com/review/thriveagency.com?sort=recency&languages=all",
+              "sample_order": "recency"
+            },
+            {
+              "portal": "Trustpilot",
+              "review_id": null,
+              "date": "2026-07-24",
+              "rating": 5,
+              "title": "Initial call with Andrew E",
+              "text": "Initial call with Andrew E . Was outstanding. He had so much insight and understanding of what I was looking for and how to direct me towards my goals using my web presence on top of the pros/cons or building\u2026",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://www.trustpilot.com/review/thriveagency.com?sort=recency&languages=all",
+              "sample_order": "recency"
+            },
+            {
+              "portal": "Trustpilot",
+              "review_id": null,
+              "date": "2026-07-17",
+              "rating": 5,
+              "title": "They were expensive but great and worth\u2026",
+              "text": "They were expensive but great and worth it they landed me lot of good jobs I was getting calls left and right they helped me out a lot with being on a lot of the social media and put together\u2026",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://www.trustpilot.com/review/thriveagency.com?sort=recency&languages=all",
+              "sample_order": "recency"
+            },
+            {
+              "portal": "Trustpilot",
+              "review_id": null,
+              "date": "2026-06-28",
+              "rating": 1,
+              "title": "Underwhelming services",
+              "text": "I was sold on what they could deliver for my business, unfortunately I had to cancel my contract with them as didnt achieve any of the results and objectives I had.",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://www.trustpilot.com/review/thriveagency.com?sort=recency&languages=all",
+              "sample_order": "recency"
+            }
+          ],
+          "url": "https://www.trustpilot.com/review/thriveagency.com?sort=recency&languages=all",
+          "captured_at": "2026-08-14T14:57:51.834651+00:00"
+        },
+        "google": {
+          "portal": "google",
+          "status": "no_listing",
+          "rating": null,
+          "count": null,
+          "quotes": [],
+          "url": null,
+          "captured_at": "2026-08-14T14:57:51.834651+00:00"
+        }
+      }
+    },
+    "coalition-technologies": {
+      "slug": "coalition-technologies",
+      "name": "Coalition Technologies",
+      "domain": "coalitiontechnologies.com",
+      "category": "digital-marketing",
+      "category_name": "Digital Marketing",
+      "captured_at": "2026-08-14T14:57:51.834651+00:00",
+      "kind": "services",
+      "portals": {
+        "clutch": {
+          "portal": "clutch",
+          "status": "ok",
+          "rating": 4.8,
+          "count": 163,
+          "sub_ratings": {
+            "Quality": "5.0",
+            "Schedule": "5.0",
+            "Cost": "5.0",
+            "Willing to Refer": "5.0"
+          },
+          "quotes": [
+            {
+              "portal": "Clutch",
+              "review_id": null,
+              "date": "Nov 2023",
+              "rating": 5.0,
+              "title": null,
+              "text": "We appreciated how they took the time to understand our unique business, allowing them to service our needs better.",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://clutch.co/profile/coalition-technologies",
+              "sample_order": "page"
+            },
+            {
+              "portal": "Clutch",
+              "review_id": null,
+              "date": "Oct 2024",
+              "rating": 5.0,
+              "title": null,
+              "text": "We appreciated that the design team learned a bit about our selling process and had good suggestions.",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://clutch.co/profile/coalition-technologies",
+              "sample_order": "page"
+            },
+            {
+              "portal": "Clutch",
+              "review_id": null,
+              "date": "Jan 2024",
+              "rating": 5.0,
+              "title": null,
+              "text": "They feel like an extension of our business.",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://clutch.co/profile/coalition-technologies",
+              "sample_order": "page"
+            },
+            {
+              "portal": "Clutch",
+              "review_id": null,
+              "date": "Apr 2024",
+              "rating": 5.0,
+              "title": null,
+              "text": "If you\u2019re considering an SEO partner, we wholeheartedly recommend Coalition Technologies.",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://clutch.co/profile/coalition-technologies",
+              "sample_order": "page"
+            }
+          ],
+          "url": "https://clutch.co/profile/coalition-technologies",
+          "captured_at": "2026-08-14T14:57:51.834651+00:00"
+        },
+        "trustpilot": {
+          "portal": "trustpilot",
+          "status": "ok",
+          "rating": 3.8,
+          "count": 23,
+          "quotes": [
+            {
+              "portal": "Trustpilot",
+              "review_id": null,
+              "date": "2026-06-10",
+              "rating": 1,
+              "title": "Spend 10 months, $18,000. And got nothing from Coalition Technologies.",
+              "text": "Spent 10 months, $18,000. And got nothing from Coalition Technologies. Extremely disorganized, they do very little work. The report they present to me twice a month, shows nothing. All they focus on is creating content using keywords that only robots\u2026",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://www.trustpilot.com/review/coalitiontechnologies.com?sort=recency&languages=all",
+              "sample_order": "recency"
+            },
+            {
+              "portal": "Trustpilot",
+              "review_id": null,
+              "date": "2026-06-09",
+              "rating": 1,
+              "title": "Very expensive and poor work",
+              "text": "Very expensive and poor work. On every meeting there are 15 people from their team and they will charge you for that also :D",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://www.trustpilot.com/review/coalitiontechnologies.com?sort=recency&languages=all",
+              "sample_order": "recency"
+            },
+            {
+              "portal": "Trustpilot",
+              "review_id": null,
+              "date": "2026-06-07",
+              "rating": 5,
+              "title": "Pleasure Treasurz",
+              "text": "They provided a detailed analysis of our site, pointed out areas where we could improve visibility and traffic, and offered practical suggestions that were specific to our business. Their feedback gave us a much clearer understanding of how to attract\u2026",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://www.trustpilot.com/review/coalitiontechnologies.com?sort=recency&languages=all",
+              "sample_order": "recency"
+            },
+            {
+              "portal": "Trustpilot",
+              "review_id": null,
+              "date": "2026-05-15",
+              "rating": 5,
+              "title": "The personal touch and fantastic\u2026",
+              "text": "The personal touch and fantastic support has been invaluable to us. We've loved working with Coalition.",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://www.trustpilot.com/review/coalitiontechnologies.com?sort=recency&languages=all",
+              "sample_order": "recency"
+            }
+          ],
+          "url": "https://www.trustpilot.com/review/coalitiontechnologies.com?sort=recency&languages=all",
+          "captured_at": "2026-08-14T14:57:51.834651+00:00"
+        },
+        "google": {
+          "portal": "google",
+          "status": "no_listing",
+          "rating": null,
+          "count": null,
+          "quotes": [],
+          "url": null,
+          "captured_at": "2026-08-14T14:57:51.834651+00:00"
+        }
+      }
+    },
+    "ignite-visibility": {
+      "slug": "ignite-visibility",
+      "name": "Ignite Visibility",
+      "domain": "ignitevisibility.com",
+      "category": "digital-marketing",
+      "category_name": "Digital Marketing",
+      "captured_at": "2026-08-14T14:57:51.834651+00:00",
+      "kind": "services",
+      "portals": {
+        "clutch": {
+          "portal": "clutch",
+          "status": "ok",
+          "rating": 4.8,
+          "count": 175,
+          "sub_ratings": {
+            "Quality": "5.0",
+            "Schedule": "5.0",
+            "Cost": "5.0",
+            "Willing to Refer": "5.0"
+          },
+          "quotes": [
+            {
+              "portal": "Clutch",
+              "review_id": null,
+              "date": "Nov 2022",
+              "rating": 5.0,
+              "title": null,
+              "text": "Their communication style is awesome.",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://clutch.co/profile/ignite-visibility",
+              "sample_order": "page"
+            },
+            {
+              "portal": "Clutch",
+              "review_id": null,
+              "date": "Aug 2025",
+              "rating": 5.0,
+              "title": null,
+              "text": "Ignite Visibility is unfailingly professional and a pleasure to work with toward our shared goal.",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://clutch.co/profile/ignite-visibility",
+              "sample_order": "page"
+            },
+            {
+              "portal": "Clutch",
+              "review_id": null,
+              "date": "Jan 2017",
+              "rating": 5.0,
+              "title": null,
+              "text": "They stay organized, communicate clearly, and always keep us on track.",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://clutch.co/profile/ignite-visibility",
+              "sample_order": "page"
+            },
+            {
+              "portal": "Clutch",
+              "review_id": null,
+              "date": "Feb 2025",
+              "rating": 5.0,
+              "title": null,
+              "text": "I was impressed by Ignite Visibility's quality of service, quality of deliverables, and speed of response.",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://clutch.co/profile/ignite-visibility",
+              "sample_order": "page"
+            }
+          ],
+          "url": "https://clutch.co/profile/ignite-visibility",
+          "captured_at": "2026-08-14T14:57:51.834651+00:00"
+        },
+        "trustpilot": {
+          "portal": "trustpilot",
+          "status": "no_listing",
+          "rating": null,
+          "count": null,
+          "quotes": [],
+          "url": null,
+          "captured_at": "2026-08-14T14:57:51.834651+00:00"
+        },
+        "google": {
+          "portal": "google",
+          "status": "ok",
+          "rating": 4.7,
+          "count": 121,
+          "quotes": [
+            {
+              "portal": "Google Business Profile",
+              "review_id": null,
+              "date": "2026-08-06",
+              "rating": 5,
+              "title": null,
+              "text": "Amanda Blackmore comes to every call well-prepared and consistently provides thoughtful recommendations that align with our company's needs. We've had great success partnering with her and her team over the past few years, and we truly value the expertise, support\u2026",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://ignitevisibility.com/",
+              "sample_order": "newest"
+            },
+            {
+              "portal": "Google Business Profile",
+              "review_id": null,
+              "date": "2026-08-03",
+              "rating": 5,
+              "title": null,
+              "text": "We've been working with Ignite Visibility and I can honestly say it's been a great experience. Amanda Blackmore has been fantastic to work with. She's easy to talk to, gives honest feedback, and isn't afraid to tell you what you\u2026",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://ignitevisibility.com/",
+              "sample_order": "newest"
+            },
+            {
+              "portal": "Google Business Profile",
+              "review_id": null,
+              "date": "2026-07-31",
+              "rating": 5,
+              "title": null,
+              "text": "We work with Amanda Blackmore she has been nothing but the best for my company and its marketing needs. They have pushed more visibility to my company and help increase sales in a slow market.",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://ignitevisibility.com/",
+              "sample_order": "newest"
+            },
+            {
+              "portal": "Google Business Profile",
+              "review_id": null,
+              "date": "2026-07-14",
+              "rating": 1,
+              "title": null,
+              "text": "This review relates to Ignite Visibility\u2019s current affiliation with Socius Marketing, which now publicly identifies itself as \u201cSocius Marketing by Ignite Visibility.\u201d Our company was a Socius client for SEO and paid-advertising management. We experienced delayed SEO deliverables, unreliable conversion\u2026",
+              "role": null,
+              "company_size": null,
+              "source_url": "https://ignitevisibility.com/",
+              "sample_order": "newest"
+            }
+          ],
+          "url": "https://ignitevisibility.com/",
+          "captured_at": "2026-08-14T14:57:51.834651+00:00",
+          "category": "Internet marketing service"
         }
       }
     }

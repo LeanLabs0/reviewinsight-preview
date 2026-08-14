@@ -594,7 +594,13 @@
       "role": "Verified User in Glass, Ceramics & Concrete",
       "company_size": "Small-Business (50 or fewer emp.)",
       "source_url": "https://www.g2.com/products/hubspot-marketing-hub/reviews",
-      "sample_order": "lowest_rated"
+      "sample_order": "lowest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "I found another platform that is more suitable for my business (and much cheaper)"
+      }
     },
     {
       "portal": "G2",
@@ -1102,7 +1108,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/hubspot.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "I had to pay an additional \u00a3200 a month just to contact a few thousand more of my own customers",
+        "resonance_evidence": "Utterly disgusting abuse of trust"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -1534,7 +1546,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/hubspot.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "This company is an absolute CON"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -1684,7 +1702,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/hubspot.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Notre entreprise vous d\u00e9conseille ce logiciel"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -2038,7 +2062,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/hubspot.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Ich w\u00fcrde in Zukunft definitiv vorsichtiger sein und kann diese Erfahrung leider nicht positiv bewerten"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -2458,7 +2488,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/hubspot.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Worst decision"
+      }
     },
     {
       "portal": "Trustpilot",

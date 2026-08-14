@@ -1,0 +1,180 @@
+{
+  "slug": "lounge-lizard",
+  "name": "Lounge Lizard",
+  "domain": "loungelizard.com",
+  "category": "digital-marketing",
+  "category_name": "Digital Marketing",
+  "captured_at": "2026-08-14T14:57:51.834651+00:00",
+  "kind": "services",
+  "portals": {
+    "clutch": {
+      "portal": "clutch",
+      "status": "ok",
+      "rating": 4.8,
+      "count": 43,
+      "sub_ratings": {
+        "Quality": "5.0",
+        "Schedule": "5.0",
+        "Cost": "5.0",
+        "Willing to Refer": "5.0"
+      },
+      "quotes": [
+        {
+          "portal": "Clutch",
+          "review_id": null,
+          "date": "Oct 2023",
+          "rating": 5.0,
+          "title": null,
+          "text": "Lounge Lizard really knew how to integrate our work and images in a manner that made our vision come to life.",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://clutch.co/profile/lounge-lizard",
+          "sample_order": "page"
+        },
+        {
+          "portal": "Clutch",
+          "review_id": null,
+          "date": "Jan 2024",
+          "rating": 5.0,
+          "title": null,
+          "text": "I\u2019m impressed with their combination of talent and responsiveness.",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://clutch.co/profile/lounge-lizard",
+          "sample_order": "page"
+        },
+        {
+          "portal": "Clutch",
+          "review_id": null,
+          "date": "Feb 2023",
+          "rating": 4.5,
+          "title": null,
+          "text": "Our project lead always communicated timelines to us to keep us on track.",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://clutch.co/profile/lounge-lizard",
+          "sample_order": "page"
+        },
+        {
+          "portal": "Clutch",
+          "review_id": null,
+          "date": "Aug 2023",
+          "rating": 4.0,
+          "title": null,
+          "text": "They have awesome SEO capabilities.",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://clutch.co/profile/lounge-lizard",
+          "sample_order": "page"
+        }
+      ],
+      "url": "https://clutch.co/profile/lounge-lizard",
+      "captured_at": "2026-08-14T14:57:51.834651+00:00"
+    },
+    "trustpilot": {
+      "portal": "trustpilot",
+      "status": "ok",
+      "rating": 4,
+      "count": 3,
+      "quotes": [
+        {
+          "portal": "Trustpilot",
+          "review_id": null,
+          "date": "2026-06-24",
+          "rating": 5,
+          "title": "Lounge Lizard Worldwide has provided\u2026",
+          "text": "Lounge Lizard Worldwide has provided marketing consulting services to my company for over 10 years and has helped us get better google rankings and more customer bookings",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://www.trustpilot.com/review/loungelizard.com?sort=recency&languages=all",
+          "sample_order": "recency"
+        },
+        {
+          "portal": "Trustpilot",
+          "review_id": null,
+          "date": "2026-06-23",
+          "rating": 5,
+          "title": "20 years of brand marketing excellence...",
+          "text": "For over 20 years I've been bringing my portfolio clients to Ken and his digital team of magicians at Lounge Lizard! Our teams, across 12 industries, have continued to count on designs and strategies that build a story (and an\u2026",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://www.trustpilot.com/review/loungelizard.com?sort=recency&languages=all",
+          "sample_order": "recency"
+        },
+        {
+          "portal": "Trustpilot",
+          "review_id": null,
+          "date": "2026-06-23",
+          "rating": 5,
+          "title": "If youre considering working with\u2026",
+          "text": "If youre considering working with Lounge Lizard, don\u2019t waste time. Pull the trigger. They are regarded as the best for good reason.",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://www.trustpilot.com/review/loungelizard.com?sort=recency&languages=all",
+          "sample_order": "recency"
+        }
+      ],
+      "url": "https://www.trustpilot.com/review/loungelizard.com?sort=recency&languages=all",
+      "captured_at": "2026-08-14T14:57:51.834651+00:00"
+    },
+    "google": {
+      "portal": "google",
+      "status": "ok",
+      "rating": 4.6,
+      "count": 330,
+      "quotes": [
+        {
+          "portal": "Google Business Profile",
+          "review_id": null,
+          "date": "2026-08-02",
+          "rating": 3,
+          "title": null,
+          "text": "Very cool stuff, but exorbitant prices. I understand pricing the retro, handmade items at $400+ but a mid quality folding chair for $20? Or a 'old wooden chair' for $27? Essentially, if you're not ready to drop $300 on a\u2026",
+          "role": null,
+          "company_size": null,
+          "source_url": "http://www.pdxloungelizard.com/",
+          "sample_order": "newest"
+        },
+        {
+          "portal": "Google Business Profile",
+          "review_id": null,
+          "date": "2026-07-06",
+          "rating": 5,
+          "title": null,
+          "text": "Amazing collection of lamps! Nice furniture in general, couches were very affordably priced.",
+          "role": null,
+          "company_size": null,
+          "source_url": "http://www.pdxloungelizard.com/",
+          "sample_order": "newest"
+        },
+        {
+          "portal": "Google Business Profile",
+          "review_id": null,
+          "date": "2026-07-05",
+          "rating": 5,
+          "title": null,
+          "text": "Trisha (?) was so nice and helpful and we could not be happier with our adorable couch, shelving unit and chair! Kate delivered on time and we were so happy to support a local business!",
+          "role": null,
+          "company_size": null,
+          "source_url": "http://www.pdxloungelizard.com/",
+          "sample_order": "newest"
+        },
+        {
+          "portal": "Google Business Profile",
+          "review_id": null,
+          "date": "2026-06-11",
+          "rating": 3,
+          "title": null,
+          "text": "I have been here a bunch of times. They do have a parking lot. They have a ton of furnitire, lamps, coffee tables and a lot of lamp shades. One time a few months ago things seemed pretty dirty and\u2026",
+          "role": null,
+          "company_size": null,
+          "source_url": "http://www.pdxloungelizard.com/",
+          "sample_order": "newest"
+        }
+      ],
+      "url": "http://www.pdxloungelizard.com/",
+      "captured_at": "2026-08-14T14:57:51.834651+00:00",
+      "category": "Antique furniture store"
+    }
+  }
+}

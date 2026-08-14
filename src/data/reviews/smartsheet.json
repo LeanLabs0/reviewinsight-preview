@@ -174,7 +174,13 @@
       "role": "Wellness Coach &amp; Fitness Trainer",
       "company_size": "Small-Business (50 or fewer emp.)",
       "source_url": "https://www.g2.com/products/smartsheet/reviews",
-      "sample_order": "most_helpful"
+      "sample_order": "most_helpful",
+      "label": {
+        "results_specific": true,
+        "resonance": "lukewarm",
+        "results_evidence": "I got a reply within 3 hours.",
+        "resonance_evidence": "It's solid."
+      }
     },
     {
       "portal": "G2",
@@ -2074,7 +2080,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "When I actually put in the credit card information, it charged me $18.00",
+        "resonance_evidence": "So disingenuous and fraudulent"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -2086,7 +2098,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "I have spent 4 hours so far trying to get the sales manager, Derek Krause to email me back",
+        "resonance_evidence": "The stonewalling is impenetrable"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -2116,7 +2134,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "We spent >5k to get the enterprise license",
+        "resonance_evidence": "Worst Customer Service in UK"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -2128,7 +2152,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "I've waited a week to get another automated response",
+        "resonance_evidence": "Customer support is HORRIBLE or maybe a better term is NON-EXISTENT"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -2140,7 +2170,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "The worst experience of my life"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -2152,7 +2188,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "advocate",
+        "results_evidence": "I searched high and low back in 2017 for an effective platform that would grow with any type of business. I'm a small business owner, under 10 million. I was under 1 million back in 2017.",
+        "resonance_evidence": "I plan on utilizing smartsheet for life"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -2164,7 +2206,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "I recommend."
+      }
     },
     {
       "portal": "Trustpilot",
@@ -2248,7 +2296,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/smartsheet.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "it is COMPLETELY USELESS!"
+      }
     },
     {
       "portal": "Trustpilot",

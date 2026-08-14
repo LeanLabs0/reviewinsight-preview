@@ -1,0 +1,156 @@
+{
+  "slug": "disruptive-advertising",
+  "name": "Disruptive Advertising",
+  "domain": "disruptiveadvertising.com",
+  "category": "digital-marketing",
+  "category_name": "Digital Marketing",
+  "captured_at": "2026-08-14T14:57:51.834651+00:00",
+  "kind": "services",
+  "portals": {
+    "clutch": {
+      "portal": "clutch",
+      "status": "ok",
+      "rating": 4.8,
+      "count": 369,
+      "sub_ratings": {
+        "Quality": "1.5",
+        "Schedule": "2.0",
+        "Cost": "1.5",
+        "Willing to Refer": "1.0"
+      },
+      "quotes": [
+        {
+          "portal": "Clutch",
+          "review_id": null,
+          "date": "Jan 2020",
+          "rating": 5.0,
+          "title": null,
+          "text": "They consistently deliver on the results that others only promise.",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://clutch.co/profile/disruptive-advertising",
+          "sample_order": "page"
+        },
+        {
+          "portal": "Clutch",
+          "review_id": null,
+          "date": "Jan 2025",
+          "rating": 5.0,
+          "title": null,
+          "text": "Disruptive Advertising's staff is amazing and very nice.",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://clutch.co/profile/disruptive-advertising",
+          "sample_order": "page"
+        },
+        {
+          "portal": "Clutch",
+          "review_id": null,
+          "date": "Dec 2025",
+          "rating": 4.5,
+          "title": null,
+          "text": "What impressed me most about Disruptive Advertising was the combination of deep expertise and genuine partnership.",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://clutch.co/profile/disruptive-advertising",
+          "sample_order": "page"
+        },
+        {
+          "portal": "Clutch",
+          "review_id": null,
+          "date": "Sep 2025",
+          "rating": 5.0,
+          "title": null,
+          "text": "Disruptive Advertising's project management is excellent and dependable.",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://clutch.co/profile/disruptive-advertising",
+          "sample_order": "page"
+        }
+      ],
+      "url": "https://clutch.co/profile/disruptive-advertising",
+      "captured_at": "2026-08-14T14:57:51.834651+00:00"
+    },
+    "trustpilot": {
+      "portal": "trustpilot",
+      "status": "ok",
+      "rating": 3.3,
+      "count": 1,
+      "quotes": [
+        {
+          "portal": "Trustpilot",
+          "review_id": null,
+          "date": "2026-07-16",
+          "rating": 2,
+          "title": "Never trust or waste your money on this company!!",
+          "text": "Honestly, these people seemed completely dishonest! They take your money and then fail to deliver what was promised! Such a COMPLETE WASTE OF MONEY!! Never trust or do business with this company!!",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://www.trustpilot.com/review/disruptiveadvertising.com?sort=recency&languages=all",
+          "sample_order": "recency"
+        }
+      ],
+      "url": "https://www.trustpilot.com/review/disruptiveadvertising.com?sort=recency&languages=all",
+      "captured_at": "2026-08-14T14:57:51.834651+00:00"
+    },
+    "google": {
+      "portal": "google",
+      "status": "ok",
+      "rating": 4.7,
+      "count": 297,
+      "quotes": [
+        {
+          "portal": "Google Business Profile",
+          "review_id": null,
+          "date": "2026-07-14",
+          "rating": 5,
+          "title": null,
+          "text": "Amazing",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://disruptiveadvertising.com/",
+          "sample_order": "newest"
+        },
+        {
+          "portal": "Google Business Profile",
+          "review_id": null,
+          "date": "2026-06-23",
+          "rating": 1,
+          "title": null,
+          "text": "They made it very known that they DO NOT work with anyone for less than $5k a month. When I asked what they could do for us, they shut us down and wouldn't even take the time to build their\u2026",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://disruptiveadvertising.com/",
+          "sample_order": "newest"
+        },
+        {
+          "portal": "Google Business Profile",
+          "review_id": null,
+          "date": "2026-05-22",
+          "rating": 5,
+          "title": null,
+          "text": "How are you please give your email address",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://disruptiveadvertising.com/",
+          "sample_order": "newest"
+        },
+        {
+          "portal": "Google Business Profile",
+          "review_id": null,
+          "date": "2026-02-12",
+          "rating": 5,
+          "title": null,
+          "text": "I joined Disruptive Advertising a couple of months ago to help build our YouTube channel and expand our social media presence, and I couldn\u2019t be more grateful for the team I\u2019ve been assigned. Jordin and Paul have been absolutely incredible\u2026",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://disruptiveadvertising.com/",
+          "sample_order": "newest"
+        }
+      ],
+      "url": "https://disruptiveadvertising.com/",
+      "captured_at": "2026-08-14T14:57:51.834651+00:00",
+      "category": "Internet marketing service"
+    }
+  }
+}

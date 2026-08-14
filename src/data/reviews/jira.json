@@ -12,7 +12,13 @@
       "role": "Adarsh V.",
       "company_size": "Small-Business (50 or fewer emp.)",
       "source_url": "https://www.g2.com/products/jira/reviews",
-      "sample_order": "most_recent"
+      "sample_order": "most_recent",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "It's been very handy for me once I got the hang of it."
+      }
     },
     {
       "portal": "G2",
@@ -366,7 +372,13 @@
       "role": "Computer Software",
       "company_size": "Mid-Market (51-1000 emp.)",
       "source_url": "https://www.g2.com/products/jira/reviews",
-      "sample_order": "highest_rated"
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "satisfied",
+        "results_evidence": null,
+        "resonance_evidence": "Some of the best features"
+      }
     },
     {
       "portal": "G2",
@@ -396,7 +408,13 @@
       "role": "Verified User in Computer Software",
       "company_size": "Mid-Market (51-1000 emp.)",
       "source_url": "https://www.g2.com/products/jira/reviews",
-      "sample_order": "highest_rated"
+      "sample_order": "highest_rated",
+      "label": {
+        "results_specific": false,
+        "resonance": "advocate",
+        "results_evidence": null,
+        "resonance_evidence": "you can automate virtually everything in your workflow"
+      }
     },
     {
       "portal": "G2",
@@ -1138,7 +1156,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "i bought one workspace for 24USD and they billed us for 216USD",
+        "resonance_evidence": "Scam company"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -1366,7 +1390,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Stay absolutely clear of this dodgy company"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -1414,7 +1444,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Nie wieder!"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -1426,7 +1462,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "they immidiately charged my credit card with a monthly subscription",
+        "resonance_evidence": "I feel robbed"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -1510,7 +1552,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "I used the loom account to record A SINGLE video, on their 'free version' and was automatically enrolled to the most expensive service after only 14 days",
+        "resonance_evidence": "AVOID ATLASSIAN AND LOOM AT ALL COSTS!!!!"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -1972,7 +2020,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "this company has taken a subscription payment from my account, at ten times the amount I was previously paying",
+        "resonance_evidence": "woke up to a bank alert this morning"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -2290,7 +2344,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "It took me hours just to find the buried settings",
+        "resonance_evidence": "I deeply regret ever signing up for Atlassian"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -2458,7 +2518,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "There is no way to contact support online except if you are signed in"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -2470,7 +2536,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/atlassian.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "NEVER AGAIN"
+      }
     },
     {
       "portal": "Trustpilot",

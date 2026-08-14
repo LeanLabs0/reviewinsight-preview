@@ -1,0 +1,142 @@
+{
+  "slug": "webfx",
+  "name": "WebFX",
+  "domain": "webfx.com",
+  "category": "digital-marketing",
+  "category_name": "Digital Marketing",
+  "captured_at": "2026-08-14T14:57:51.834651+00:00",
+  "kind": "services",
+  "portals": {
+    "clutch": {
+      "portal": "clutch",
+      "status": "ok",
+      "rating": 4.9,
+      "count": 450,
+      "sub_ratings": {
+        "Quality": "5.0",
+        "Schedule": "5.0",
+        "Cost": "5.0",
+        "Willing to Refer": "4.0"
+      },
+      "quotes": [
+        {
+          "portal": "Clutch",
+          "review_id": null,
+          "date": "Apr 2017",
+          "rating": 5.0,
+          "title": null,
+          "text": "They made it a priority to understand our unique business.",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://clutch.co/profile/webfx",
+          "sample_order": "page"
+        },
+        {
+          "portal": "Clutch",
+          "review_id": null,
+          "date": "Sep 2024",
+          "rating": 5.0,
+          "title": null,
+          "text": "We've been impressed by their level of support, communication, and the quality of the partnership relationship.",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://clutch.co/profile/webfx",
+          "sample_order": "page"
+        },
+        {
+          "portal": "Clutch",
+          "review_id": null,
+          "date": "Aug 2025",
+          "rating": 5.0,
+          "title": null,
+          "text": "Everything has been amazing.",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://clutch.co/profile/webfx",
+          "sample_order": "page"
+        },
+        {
+          "portal": "Clutch",
+          "review_id": null,
+          "date": "Nov 2025",
+          "rating": 4.5,
+          "title": null,
+          "text": "The willingness to meet and discuss large ideas and not immediately dismiss them stands out.",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://clutch.co/profile/webfx",
+          "sample_order": "page"
+        }
+      ],
+      "url": "https://clutch.co/profile/webfx",
+      "captured_at": "2026-08-14T14:57:51.834651+00:00"
+    },
+    "trustpilot": {
+      "portal": "trustpilot",
+      "status": "ok",
+      "rating": 2.6,
+      "count": 18,
+      "quotes": [
+        {
+          "portal": "Trustpilot",
+          "review_id": null,
+          "date": "2026-07-02",
+          "rating": 1,
+          "title": "Disappointing Experience as an Established Business",
+          "text": "I was excited to speak with WebFX because my business has been established for more than five years, and I was looking to switch from my current SEO provider. Unfortunately, I was disappointed to learn that WebFX would not work\u2026",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://www.trustpilot.com/review/webfx.com?sort=recency&languages=all",
+          "sample_order": "recency"
+        },
+        {
+          "portal": "Trustpilot",
+          "review_id": null,
+          "date": "2026-02-06",
+          "rating": 1,
+          "title": "My experience with WebFx has been horrible",
+          "text": "My experience with WebFx has been completely horrible. They charge a bunch of money and get very little work done. They charge around $400 for 500-word pages. Add a bunch of add-ons you will never use, and you cannot get\u2026",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://www.trustpilot.com/review/webfx.com?sort=recency&languages=all",
+          "sample_order": "recency"
+        },
+        {
+          "portal": "Trustpilot",
+          "review_id": null,
+          "date": "2025-04-19",
+          "rating": 1,
+          "title": "These clowns can't handle the simplest\u2026",
+          "text": "These clowns can't handle the simplest tasks. Basically, I'll I needed was for them to get my website backlinks for some new pages. They would not even talk to me and referred me to some third rate SEO company with\u2026",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://www.trustpilot.com/review/webfx.com?sort=recency&languages=all",
+          "sample_order": "recency"
+        },
+        {
+          "portal": "Trustpilot",
+          "review_id": null,
+          "date": "2025-03-06",
+          "rating": 5,
+          "title": "Great company: I follow for my enhancement",
+          "text": "Great company, I am following this company for last 5 years and their blogs are really helpful as well as work as a guide for me. In learning SEO and Digital Marketing.",
+          "role": null,
+          "company_size": null,
+          "source_url": "https://www.trustpilot.com/review/webfx.com?sort=recency&languages=all",
+          "sample_order": "recency"
+        }
+      ],
+      "url": "https://www.trustpilot.com/review/webfx.com?sort=recency&languages=all",
+      "captured_at": "2026-08-14T14:57:51.834651+00:00"
+    },
+    "google": {
+      "portal": "google",
+      "status": "no_listing",
+      "rating": null,
+      "count": null,
+      "quotes": [],
+      "url": null,
+      "captured_at": "2026-08-14T14:57:51.834651+00:00"
+    }
+  }
+}

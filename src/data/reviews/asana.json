@@ -2014,7 +2014,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "This company is a scam."
+      }
     },
     {
       "portal": "Trustpilot",
@@ -2062,7 +2068,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "Spent over 1 month trying to fix the issue.",
+        "resonance_evidence": "I will never use Asana again, and I will shout it to the roof that their customer service and technical support are terrible!!"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -2074,7 +2086,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "The experience has left me feeling ignored, powerless, and deeply disappointed."
+      }
     },
     {
       "portal": "Trustpilot",
@@ -2104,7 +2122,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": true,
+        "resonance": "detractor",
+        "results_evidence": "They will remove money from your account automatically 1 year later",
+        "resonance_evidence": "I'm only giving one star because I can't leave 0 stars"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -2128,7 +2152,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "detractor",
+        "results_evidence": null,
+        "resonance_evidence": "Absolutely incompetent guys"
+      }
     },
     {
       "portal": "Trustpilot",
@@ -2194,7 +2224,13 @@
       "role": null,
       "company_size": null,
       "source_url": "https://www.trustpilot.com/review/asana.com?sort=recency&languages=all",
-      "sample_order": "recency"
+      "sample_order": "recency",
+      "label": {
+        "results_specific": false,
+        "resonance": "lukewarm",
+        "results_evidence": null,
+        "resonance_evidence": "however, some featiures are not free, which can be a bit frustrating"
+      }
     },
     {
       "portal": "Trustpilot",

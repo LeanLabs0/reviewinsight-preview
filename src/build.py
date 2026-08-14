@@ -326,7 +326,7 @@ def sources_table(v) -> str:
         if p.get("rating") is None:
             rows.append(
                 f'<tr><td>{e(lbl)}</td><td colspan="3" class="muted">No listing found</td>'
-                f'<td class="muted">&mdash;</td></tr>')
+                f'<td class="muted">not listed</td></tr>')
             continue
         extra = ""
         if key == "gartner" and p.get("ratings_count") and p["ratings_count"] != p["count"]:
@@ -349,7 +349,7 @@ def sources_table(v) -> str:
             f'<tr class="ctx"><td>{e(lbl)}</td><td class="n">{p["rating"]}</td>'
             f'<td class="n">{p["count"]:,}</td><td class="tiny">{e(p["captured_at"][:10])}</td>'
             + (f'<td><a href="{e(p["url"])}" rel="nofollow noopener" target="_blank">Open&nbsp;&#8599;</a></td></tr>'
-               if p.get("url") else '<td class="muted">&mdash;</td></tr>'))
+               if p.get("url") else '<td class="muted">not listed</td></tr>'))
     note = ('<p class="tiny muted">The Google listing rates this company as a place of '
             'business, not as a product, so it is shown here but kept out of the rating.</p>'
             if extra else '')
@@ -694,7 +694,7 @@ def page_vendors_index() -> None:
         f'<td class="small">{e(v["category_name"])}</td>'
         f'<td class="n">{total_reviews(v):,}</td>'
         f'<td class="n">{len(portals_with_data(v))}</td>'
-        f'<td class="n">{spread(v)["points"] if spread(v) else "&mdash;"}</td></tr>'
+        f'<td class="n">{spread(v)["points"] if spread(v) else "n/a"}</td></tr>'
         for v in sorted(VENDORS.values(), key=lambda x: -(rating_of(x) or -1)))
     body = f"""<div class="crumb"><a href="../index.html">Home</a></div>
 <h1>All vendors</h1>
@@ -934,7 +934,7 @@ def page_quarterly() -> None:
     rows = "".join(
         f'<tr><td><a href="../../vendors/{v["slug"]}/index.html">{e(v["name"])}</a></td>'
         f'<td class="small">{e(v["category_name"])}</td>'
-        + "".join(f'<td class="n">{v["portals"][k]["rating"] or "&mdash;"}</td>' for k, _ in PORTALS)
+        + "".join(f'<td class="n">{v["portals"][k]["rating"] or "n/a"}</td>' for k, _ in PORTALS)
         + f'<td class="n">{total_reviews(v):,}</td></tr>'
         for v in sorted(VENDORS.values(), key=lambda x: x["name"].lower()))
     heads = "".join(f'<th class="n">{e(l)}</th>' for _, l in PORTALS)

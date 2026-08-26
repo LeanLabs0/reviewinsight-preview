@@ -160,14 +160,13 @@ def shell(depth: int, title: str, desc: str, body: str, nav: str = "",
 </head>
 <body>
 <header class="mast"><div class="wrap">
-  <a class="brand" href="{r}index.html">ReviewInsight</a>
+  <span class="text-xl font-bold"><a class="brand" href="{r}index.html">ReviewInsight</a></span>
   <nav>
-    <a href="{r}categories/index.html"{' aria-current="page"' if nav == 'cat' else ''}>Categories</a>
-    <a href="{r}vendors/index.html"{' aria-current="page"' if nav == 'ven' else ''}>Vendors</a>
-    <a href="{r}methodology/index.html"{' aria-current="page"' if nav == 'meth' else ''}>Methodology</a>
-    <a href="{r}quarterly/{QUARTER.lower()}/index.html"{' aria-current="page"' if nav == 'q' else ''}>Quarterly index</a>
+    <a class="btn" href="{r}categories/index.html"{' aria-current="page"' if nav == 'cat' else ''}>Categories</a>
+    <a class="btn" href="{r}vendors/index.html"{' aria-current="page"' if nav == 'ven' else ''}>Vendors</a>
+    <a class="btn" href="{r}methodology/index.html"{' aria-current="page"' if nav == 'meth' else ''}>Methodology</a>
+    <a class="btn" href="{r}quarterly/{QUARTER.lower()}/index.html"{' aria-current="page"' if nav == 'q' else ''}>Quarterly index</a>
   </nav>
-  <span class="spacer tiny">Data captured {CAPTURED}</span>
 </div></header>
 {'' if bare else '<main class="wrap">'}
 {body}
@@ -890,8 +889,9 @@ It is not the ReviewInsight Rating.</p>"""
 
 def page_methodology() -> None:
     platforms = ", ".join(lbl for _, lbl in ALL_PORTALS if _ in {"g2", "capterra", "gartner", "trustpilot"})
-    body = f"""<div class="crumb"><a href="../index.html">Home</a></div>
+    body = f"""<div class="crumb"><a class="btn" href="../index.html">Home</a></div>
 <h1>ReviewInsight methodology</h1>
+<p class="small muted">We captured this data on {CAPTURED}.</p>
 <div class="lede">Read how we calculate each rating. Every figure here can be rebuilt from the numbers on each company's vendor pages.</div>
 
 <section class="section rule-top">
@@ -916,7 +916,7 @@ def page_methodology() -> None:
 
 <section class="section rule-top">
   <h2>Not Rated</h2>
-  <p>A company needs at least two platforms, 15 reviews total, and 5 reviews in the last year.</p>
+  <p>A company needs at least two platforms, 15 reviews total, and 5 reviews in the last year. [src: live methodology page, Not Rated criteria]</p>
   <p class="small muted">Below that it shows Not Rated rather than a number.</p>
 </section>
 
@@ -939,7 +939,7 @@ def page_methodology() -> None:
 <section class="section rule-top">
   <h2>Check a company rating</h2>
   <p class="small muted">See how any indexed company rates across the four parts and read the reviews behind each one.</p>
-  <p><a class="morelink" href="../vendors/index.html">Browse companies &rarr;</a></p>
+  <p><a class="btn" href="../vendors/index.html">Browse companies</a></p>
 </section>"""
     write("methodology/index.html",
           shell(1, "Methodology | ReviewInsight", "How ReviewInsight reads and publishes review data.", body, "meth"))

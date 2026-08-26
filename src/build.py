@@ -898,7 +898,6 @@ def page_methodology() -> None:
   <h2>Where we read the data</h2>
   <p>We read public vendor pages for every company. Each platform contributes its rating, review count, and review text with dates.</p>
   <p>The platforms: {platforms}.</p>
-  <p class="small muted">We check these pages through DataForSEO and Firecrawl, and record what we find.</p>
 </section>
 
 <section class="section rule-top">
@@ -916,8 +915,7 @@ def page_methodology() -> None:
 
 <section class="section rule-top">
   <h2>Not Rated</h2>
-  <p>A company needs at least two platforms, 15 reviews total, and 5 reviews in the last year. [src: live methodology page, Not Rated criteria]</p>
-  <p class="small muted">Below that it shows Not Rated rather than a number.</p>
+  <p>A company needs at least two platforms, 15 reviews total, and 5 reviews in the last year.</p>
 </section>
 
 <section class="section rule-top">

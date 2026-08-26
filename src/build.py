@@ -920,12 +920,24 @@ def page_methodology() -> None:
 
 <section class="section rule-top">
   <h2>What we refuse</h2>
-  <ul class="dims">
-    <li><b>Paid placement</b><span class="small">A company cannot buy a rank or a better rating.</span></li>
-    <li><b>Invented numbers</b><span class="small">If we cannot read a figure we show that we could not. We never fill a gap with an estimate.</span></li>
-    <li><b>No quotes over 40 words</b><span class="small">Quotes are trimmed and linked back to the review they came from, with the date.</span></li>
-    <li><b>Hidden math</b><span class="small">Every figure is rebuildable from the numbers on the vendor pages.</span></li>
-  </ul>
+  <div class="rgrid">
+    <div class="rcard">
+      <b>Paid placement</b>
+      <p class="small">A company cannot buy a rank or a better rating.</p>
+    </div>
+    <div class="rcard">
+      <b>Invented numbers</b>
+      <p class="small">If we cannot read a figure we show that we could not. We never fill a gap with an estimate.</p>
+    </div>
+    <div class="rcard">
+      <b>No quotes over 40 words</b>
+      <p class="small">Quotes are trimmed and linked back to the review they came from, with the date.</p>
+    </div>
+    <div class="rcard">
+      <b>Hidden math</b>
+      <p class="small">Every figure is rebuildable from the numbers on the vendor pages.</p>
+    </div>
+  </div>
 </section>
 
 <section class="section rule-top">

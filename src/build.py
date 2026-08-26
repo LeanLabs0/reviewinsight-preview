@@ -915,26 +915,26 @@ def page_methodology() -> None:
 
 <section class="section rule-top">
   <h2>Not Rated</h2>
-  <p>A company needs at least two platforms, 15 reviews total, and 5 reviews in the last year.</p>
+  <p>A company needs at least two platforms, fifteen reviews total, and five reviews in the last year.</p>
 </section>
 
 <section class="section rule-top">
   <h2>What we refuse</h2>
   <div class="rgrid">
     <div class="rcard">
-      <b>Paid placement</b>
+      <h3>Paid placement</h3>
       <p class="small">A company cannot buy a rank or a better rating.</p>
     </div>
     <div class="rcard">
-      <b>Invented numbers</b>
+      <h3>Invented numbers</h3>
       <p class="small">If we cannot read a figure we show that we could not. We never fill a gap with an estimate.</p>
     </div>
     <div class="rcard">
-      <b>No quotes over 40 words</b>
+      <h3>No quotes over 40 words</h3>
       <p class="small">Quotes are trimmed and linked back to the review they came from, with the date.</p>
     </div>
     <div class="rcard">
-      <b>Hidden math</b>
+      <h3>Hidden math</h3>
       <p class="small">Every figure is rebuildable from the numbers on the vendor pages.</p>
     </div>
   </div>

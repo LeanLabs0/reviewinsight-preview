@@ -269,17 +269,26 @@ def rating_note_at(depth: int) -> str:
             f'<a href="{"../" * depth}methodology/index.html">How the rating works</a></p>')
 
 
-def score_explainer() -> str:
-    """Methodology page only."""
-    return """  <ul class="dims">
-    <li><b>Review Avg</b><span class="small">The average star rating across every review we can see, counted review by review. A platform carrying more reviews therefore carries more of the average.</span></li>
-    <li><b>Reliable</b><span class="small">Whether the platforms tell the same story. A wide gap between them brings this down sharply, because that gap is what review gaming looks like. Being found on only one platform brings it down too, since nothing corroborates it. Differences in review count never count against a company.</span></li>
-    <li><b>Recent</b><span class="small">Strong for a review written in the last 30 days, falling away with every day since the newest one.</span></li>
-    <li><b>Result&#8209;Specific</b><span class="small">How often reviewers name an outcome a stranger could check, instead of rating the company vaguely.</span></li>
-  </ul>
-  <p class="small muted" style="margin-top:14px">A company needs reviews on at least two
-  platforms, 15 reviews in total, and 5 written in the last year. Below that it is shown
-  as Not Rated rather than given a number.</p>"""
+def four_ratings_cards() -> str:
+    """2x2 grid of rating cards for methodology page."""
+    return """<div class="rgrid">
+    <div class="rcard">
+      <b>Review Average</b>
+      <p class="small">A platform with more reviews carries more of this rating, because we count every review once rather than averaging the platform averages.</p>
+    </div>
+    <div class="rcard">
+      <b>Reliable</b>
+      <p class="small">Whether the platforms tell the same story. A wide gap between them brings this rating down sharply. A company found on only one platform also scores lower here. Nothing corroborates it. Differences in review count never count against a company.</p>
+    </div>
+    <div class="rcard">
+      <b>Recent</b>
+      <p class="small">Reviews from the last year count. Lifetime totals do not. This rating measures how many reviews came in recently and how much of the total base they represent.</p>
+    </div>
+    <div class="rcard">
+      <b>Result-Specific</b>
+      <p class="small">How often reviewers name an outcome a stranger could check. A number, a time saved, a tool replaced. Not vibes.</p>
+    </div>
+  </div>"""
 
 
 def spread_inline(v) -> str:
@@ -880,86 +889,57 @@ It is not the ReviewInsight Rating.</p>"""
 
 
 def page_methodology() -> None:
+    platforms = ", ".join(lbl for _, lbl in ALL_PORTALS if _ in {"g2", "capterra", "gartner", "trustpilot"})
     body = f"""<div class="crumb"><a href="../index.html">Home</a></div>
-<h1>Methodology</h1>
-<div class="lede">What we read, how the rating is worked out, and what we deliberately
-do not do. Every figure on the site can be rebuilt from the numbers on the vendor pages.</div>
+<h1>ReviewInsight methodology</h1>
+<div class="lede">Read how we calculate each rating. Every figure here can be rebuilt from the numbers on each company's vendor pages.</div>
 
 <section class="section rule-top">
-  <h2>Where the data comes from</h2>
-  <p>For every company we read each review platform that carries it and record the
-  average rating, the review count, and a sample of the review text with dates. Every
-  figure carries the page it came from and the day we checked. Nothing is typed by hand.</p>
-  {sources_note()}
+  <h2>Where we read the data</h2>
+  <p>We read public vendor pages for every company. Each platform contributes its rating, review count, and review text with dates.</p>
+  <p>The platforms: {platforms}.</p>
+  <p class="small muted">We check these pages through DataForSEO and Firecrawl, and record what we find.</p>
 </section>
 
 <section class="section rule-top">
-  <h2>The rating</h2>
-  <p>Four parts, weighted equally, averaged into one number out of 100.</p>
-  <div class="formula">ReviewInsight Rating = (Review Avg + Reliable + Recent + Result-Specific) / 4</div>
-  {score_explainer()}
+  <h2>The four ratings</h2>
+  <p>Each ReviewInsight Rating averages four parts, weighted equally. Every part is a whole number from 1 to 100.</p>
+  {four_ratings_cards()}
 </section>
 
 <section class="section rule-top">
-  <h2>Which platforms count</h2>
-  <p>Not every platform reviews every kind of company, so the set depends on what a
-  company sells.</p>
-  <div class="tscroll"><table>
-  <thead><tr><th>Kind of company</th><th>Platforms that count</th><th>Shown but not counted</th></tr></thead>
-  <tbody>
-    <tr><td>Software products</td><td>G2, Capterra, Gartner Peer Insights, Trustpilot</td>
-      <td>Google Business Profile</td></tr>
-    <tr><td>Service companies</td><td>Clutch, Trustpilot, Google Business Profile</td>
-      <td></td></tr>
-  </tbody></table></div>
-  <p class="small muted">A software company's Google listing is its office, and the people
-  rating it are rating a building and an employer rather than the product, so it is shown
-  for context and left out of the rating. For an agency or consultancy the Google listing
-  is the business itself, so it counts. Clutch lists service providers and carries no
-  entry for a software product, which is why it appears for one kind of company and not
-  the other.</p>
+  <h2>Overall Rating</h2>
+  <p>The ReviewInsight Rating averages four parts, weighted equally.</p>
+  <div class="formula">ReviewInsight Rating = (Review Average + Reliable + Recent + Result-Specific) / 4</div>
+  <p class="small muted" style="margin-top:12px">Every part is a whole number from 1 to 100.</p>
 </section>
 
 <section class="section rule-top">
-  <h2>Where each number comes from</h2>
-  <div class="tscroll"><table>
-  <thead><tr><th>Part</th><th>Measured from</th></tr></thead>
-  <tbody>
-    <tr><td>Review Avg</td><td>Every rating on every platform, weighted by how many
-      reviews sit behind it, so a platform with more reviews carries more of the
-      average.</td></tr>
-    <tr><td>Reliable</td><td>How far apart the platforms are on the same company, and
-      how many platforms carry it at all.</td></tr>
-    <tr><td>Recent</td><td>How many days since the newest review, and what share of the
-      reviews we hold were written in the last year.</td></tr>
-    <tr><td>Result-Specific</td><td>The share of reviews naming an outcome a stranger
-      could check. A number, a time saved, a tool replaced. Not "saves time".</td></tr>
-  </tbody></table></div>
-  <p class="small muted">One of the four needs the review text read. A model labels each
-  review and has to quote the exact words behind its label; if those words are not
-  literally in the review, the label is thrown away. Every calculation is done in code,
-  never by the model.</p>
-  <p class="small muted">G2 gives us no working pagination, so we read it through four
-  sort orders. Two of those return the best and worst reviews on purpose, so we use them
-  for quotes and keep them out of every rate. Gartner keeps review text behind a login,
-  so it contributes ratings and dates but not tone.</p>
+  <h2>Not Rated</h2>
+  <p>A company needs at least two platforms, 15 reviews total, and 5 reviews in the last year.</p>
+  <p class="small muted">Below that it shows Not Rated rather than a number.</p>
 </section>
 
 <section class="section rule-top">
-  <h2>What we will not do</h2>
+  <h2>What we refuse</h2>
   <ul class="dims">
-    <li><b>No paid placement</b><span class="small">A company cannot buy a rank or a better rating. There is no tier to sell.</span></li>
-    <li><b>No invented numbers</b><span class="small">If we cannot read a figure we show that we could not, with the counts we do have. We never fill a gap with an estimate.</span></li>
-    <li><b>No republished reviews</b><span class="small">Quotes are trimmed to 40 words and linked back to the review they came from, with the date. Reviewer names are dropped when we read the page, so we never store them.</span></li>
-    <li><b>No hidden arithmetic</b><span class="small">Every rating shows its inputs and its sum on the page, so you can redo it.</span></li>
+    <li><b>Paid placement</b><span class="small">A company cannot buy a rank or a better rating.</span></li>
+    <li><b>Invented numbers</b><span class="small">If we cannot read a figure we show that we could not. We never fill a gap with an estimate.</span></li>
+    <li><b>No quotes over 40 words</b><span class="small">Quotes are trimmed and linked back to the review they came from, with the date.</span></li>
+    <li><b>Hidden math</b><span class="small">Every figure is rebuildable from the numbers on the vendor pages.</span></li>
   </ul>
 </section>
 
 <section class="section rule-top">
   <h2>Known gaps</h2>
-  <p class="small">Gartner Peer Insights puts most review bodies behind a login. We use its
-  headline, rating and date, and do not touch the gated text. Two vendors in this preview
-  have no listing on one platform, which we show rather than hide.</p>
+  <p class="small">Gartner Peer Insights puts review text behind a login. We use its rating and date, and do not touch the gated text.</p>
+  <p class="small muted">Two vendors in this preview have no listing on one platform. We show the gap rather than hide it.</p>
+</section>
+
+<section class="section rule-top">
+  <h2>Check a company rating</h2>
+  <p class="small muted">See how any indexed company rates across the four parts and read the reviews behind each one.</p>
+  <p><a class="morelink" href="../vendors/index.html">Browse companies &rarr;</a></p>
 </section>"""
     write("methodology/index.html",
           shell(1, "Methodology | ReviewInsight", "How ReviewInsight reads and publishes review data.", body, "meth"))

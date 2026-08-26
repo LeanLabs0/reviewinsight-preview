@@ -269,8 +269,8 @@ def rating_note_at(depth: int) -> str:
 
 
 def four_ratings_cards() -> str:
-    """2x2 grid of rating cards for methodology page."""
-    return """<div class="rgrid-2x2">
+    """4-column grid of rating cards for methodology page."""
+    return """<div class="rgrid">
     <div class="rcard">
       <b>Review Average</b>
       <p class="small">Count every review once, not the platform averages. More reviews carry more of this rating.</p>

@@ -41,18 +41,10 @@ The examples below show high and low ratings for three of the four parts.
 ### Reliable
 
 ### ClickUp
-82/100 [src: https://leanlabs0.github.io/reviewinsight-preview/].
-Trustpilot 4 [src: https://leanlabs0.github.io/reviewinsight-preview/].
-Gartner 4.5 [src: https://leanlabs0.github.io/reviewinsight-preview/].
-G2 4.6 [src: https://leanlabs0.github.io/reviewinsight-preview/].
-Capterra 4.6 [src: https://leanlabs0.github.io/reviewinsight-preview/].
+82. G2 4.6, Capterra 4.6, Gartner 4.5, Trustpilot 4. [src: https://leanlabs0.github.io/reviewinsight-preview/]
 
 ### Smartsheet
-6/100 [src: https://leanlabs0.github.io/reviewinsight-preview/].
-Trustpilot 1.3 [src: https://leanlabs0.github.io/reviewinsight-preview/].
-G2 4.4 [src: https://leanlabs0.github.io/reviewinsight-preview/].
-Capterra 4.5 [src: https://leanlabs0.github.io/reviewinsight-preview/].
-Gartner 4.5 [src: https://leanlabs0.github.io/reviewinsight-preview/].
+6. Trustpilot 1.3 vs Capterra 4.5. [src: https://leanlabs0.github.io/reviewinsight-preview/]
 
 ### Recent
 

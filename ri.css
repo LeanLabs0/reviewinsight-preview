@@ -274,10 +274,13 @@ tbody tr:hover { background: var(--paper-sunk); }
 @media (max-width: 520px) { .rgrid { grid-template-columns: 1fr; } }
 .rgrid-2x2 { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; margin-top: 14px; }
 @media (max-width: 520px) { .rgrid-2x2 { grid-template-columns: 1fr; } }
+.rgrid-2 { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; margin-top: 14px; }
+@media (max-width: 700px) { .rgrid-2 { grid-template-columns: 1fr; } }
 .rcard { border-top: 2px solid var(--rule-strong); padding-top: 12px; }
 .rcard b { display: block; font-size: 15px; }
 .rcard span { display: block; margin-bottom: 8px; }
 .rcard p { margin-bottom: 0; color: var(--ink-2); }
+.rcard h3 { font-size: 15px; font-weight: 600; margin-bottom: 8px; }
 
 /* ---------- banded sections with a left-margin label ---------- */
 .band { padding: 64px 0; }

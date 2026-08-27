@@ -484,9 +484,19 @@ tr.ctx td:first-child::after { content: " (context only)"; font-size: 11px; colo
 
 /* result-specific quote */
 .exquote blockquote { font-size: 15px; line-height: 1.55; margin-bottom: 8px; }
-.exquote mark { background: rgba(14,138,95,.16); color: inherit; padding: 1px 3px; border-radius: 3px; }
+mark { background: rgba(14,138,95,.16); color: inherit; padding: 1px 3px; border-radius: 3px; }
 
 /* attribution list, Kevin's format */
 .attribs { list-style: none; margin-top: 12px; font-size: 12px; color: var(--ink-2); }
 .attribs li { padding: 2px 0; font-variant-numeric: tabular-nums; }
 .exhead p:empty { display: none; }
+
+/* ---------- side-by-side comparison ---------- */
+.cmptab th { text-transform: none; letter-spacing: 0; font-size: 13px; }
+.cmptab thead th { font-size: 14px; font-weight: 600; color: var(--ink); }
+.cmptab tbody th { font-weight: 500; color: var(--ink-2); white-space: nowrap; }
+.cmptab td { text-align: right; font-family: var(--mono); font-variant-numeric: tabular-nums; }
+.cmptab td a { font-family: var(--font); }
+.cmptab .tcol { background: var(--paper-sunk); }
+.cmptab thead .tcol { border-bottom: 2px solid var(--rule-strong); }
+.cmptab .big { font-size: 17px; }

@@ -40,33 +40,27 @@ The examples below show high and low scores for three of the four parts.
 
 ### Reliable
 
-**ClickUp**  
-Four platforms: G2 4.6, Capterra 4.6, Gartner 4.5, Trustpilot 4. Part score: 82.  
-[src: https://leanlabs0.github.io/reviewinsight-preview/]
+### ClickUp
+Four platforms: G2 4.6, Capterra 4.6, Gartner 4.5, Trustpilot 4. Part score: 82. [src: https://leanlabs0.github.io/reviewinsight-preview/]
 
-**Smartsheet**  
-Wide gap: Trustpilot 1.3 vs Capterra 4.5. Part score: 6.  
-[src: https://leanlabs0.github.io/reviewinsight-preview/]
+### Smartsheet
+Wide gap: Trustpilot 1.3 vs Capterra 4.5. Part score: 6. [src: https://leanlabs0.github.io/reviewinsight-preview/]
 
 ### Recent
 
-**ClickUp**  
-Most reviews from the last year. Part score: 98.  
-[src: https://leanlabs0.github.io/reviewinsight-preview/]
+### ClickUp
+98 [src: https://leanlabs0.github.io/reviewinsight-preview/]
 
-**Coalition Technologies**  
-Fewer recent reviews. Part score: 64.  
-[src: https://leanlabs0.github.io/reviewinsight-preview/]
+### Coalition Technologies
+64 [src: https://leanlabs0.github.io/reviewinsight-preview/]
 
 ### Result-Specific
 
-**Wrike**  
-Reviewers name specific outcomes. Part score: 85.  
-[src: https://leanlabs0.github.io/reviewinsight-preview/]
+### Wrike
+85 [src: https://leanlabs0.github.io/reviewinsight-preview/]
 
-**Iterable**  
-Fewer specific results mentioned. Part score: 30.  
-[src: https://leanlabs0.github.io/reviewinsight-preview/]
+### Iterable
+30 [src: https://leanlabs0.github.io/reviewinsight-preview/]
 
 ---
 

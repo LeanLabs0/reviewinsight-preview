@@ -36,15 +36,21 @@ How often reviewers name an outcome a stranger could check. A number, a time sav
 
 ## Example Pairs
 
-The examples below show high and low scores for three of the four parts.
+The examples below show high and low ratings for three of the four parts.
 
 ### Reliable
 
 ### ClickUp
-Four platforms: G2 4.6, Capterra 4.6, Gartner 4.5, Trustpilot 4. Part score: 82. [src: https://leanlabs0.github.io/reviewinsight-preview/]
+82 [src: https://leanlabs0.github.io/reviewinsight-preview/].
+G2 4.6 [src: https://leanlabs0.github.io/reviewinsight-preview/].
+Capterra 4.6 [src: https://leanlabs0.github.io/reviewinsight-preview/].
+Gartner 4.5 [src: https://leanlabs0.github.io/reviewinsight-preview/].
+Trustpilot 4 [src: https://leanlabs0.github.io/reviewinsight-preview/].
 
 ### Smartsheet
-Wide gap: Trustpilot 1.3 vs Capterra 4.5. Part score: 6. [src: https://leanlabs0.github.io/reviewinsight-preview/]
+6 [src: https://leanlabs0.github.io/reviewinsight-preview/].
+Trustpilot 1.3 [src: https://leanlabs0.github.io/reviewinsight-preview/].
+Capterra 4.5 [src: https://leanlabs0.github.io/reviewinsight-preview/].
 
 ### Recent
 

@@ -49,18 +49,18 @@ Wide gap: Trustpilot 1.3 vs Capterra 4.5. Part score: 6. [src: https://leanlabs0
 ### Recent
 
 ### ClickUp
-98 [src: https://leanlabs0.github.io/reviewinsight-preview/]
+98 [src: https://leanlabs0.github.io/reviewinsight-preview/].
 
 ### Coalition Technologies
-64 [src: https://leanlabs0.github.io/reviewinsight-preview/]
+64 [src: https://leanlabs0.github.io/reviewinsight-preview/].
 
 ### Result-Specific
 
 ### Wrike
-85 [src: https://leanlabs0.github.io/reviewinsight-preview/]
+85 [src: https://leanlabs0.github.io/reviewinsight-preview/].
 
 ### Iterable
-30 [src: https://leanlabs0.github.io/reviewinsight-preview/]
+30 [src: https://leanlabs0.github.io/reviewinsight-preview/].
 
 ---
 

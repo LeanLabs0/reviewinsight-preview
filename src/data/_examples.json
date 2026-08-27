@@ -1,0 +1,20 @@
+{
+  "name": "Iron Mountain",
+  "captured_at": "2026-08-27T13:52:34.570586+00:00",
+  "portals": {
+    "trustpilot": {
+      "label": "Trustpilot",
+      "rating": 1.4,
+      "count": 165,
+      "url": "https://www.trustpilot.com/review/ironmountain.com?languages=all",
+      "captured_at": "2026-08-27T13:52:34.570586+00:00"
+    },
+    "gartner": {
+      "label": "Gartner Peer Insights",
+      "rating": 4.6,
+      "count": 5,
+      "url": "https://www.gartner.com/reviews/product/iron-mountain-data-centers",
+      "captured_at": "2026-08-27T13:52:34.570586+00:00"
+    }
+  }
+}

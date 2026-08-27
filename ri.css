@@ -274,13 +274,10 @@ tbody tr:hover { background: var(--paper-sunk); }
 @media (max-width: 520px) { .rgrid { grid-template-columns: 1fr; } }
 .rgrid-2x2 { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; margin-top: 14px; }
 @media (max-width: 520px) { .rgrid-2x2 { grid-template-columns: 1fr; } }
-.rgrid-2 { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; margin-top: 14px; }
-@media (max-width: 700px) { .rgrid-2 { grid-template-columns: 1fr; } }
 .rcard { border-top: 2px solid var(--rule-strong); padding-top: 12px; }
 .rcard b { display: block; font-size: 15px; }
 .rcard span { display: block; margin-bottom: 8px; }
 .rcard p { margin-bottom: 0; color: var(--ink-2); }
-.rcard h3 { font-size: 15px; font-weight: 600; margin-bottom: 8px; }
 
 /* ---------- banded sections with a left-margin label ---------- */
 .band { padding: 64px 0; }
@@ -437,12 +434,59 @@ main.wrap > .crumb:first-child { margin-bottom: 14px; }
 tr.ctx td { color: var(--ink-2); }
 tr.ctx td:first-child::after { content: " (context only)"; font-size: 11px; color: var(--ink-3); }
 
-/* ---------- methodology comparison rows ---------- */
-.comparison-row {
-  display: grid; grid-template-columns: 1fr 1fr; gap: 32px;
-  margin-bottom: 16px;
+/* ---------- methodology example cards ---------- */
+.excard { border: 1px solid var(--rule); border-radius: var(--r); padding: 22px; margin-top: 18px; background: var(--paper); }
+.exhead h3 { font-size: 20px; margin-bottom: 2px; }
+.exhead p { margin-bottom: 14px; }
+.exhead:empty, .exhead h3:empty { display: none; }
+.exgrid { display: grid; grid-template-columns: 1fr 1fr; gap: 26px; }
+@media (max-width: 860px) { .exgrid { grid-template-columns: 1fr; } }
+.exhalf { min-width: 0; padding: 16px 18px; border: 1px solid var(--rule); border-radius: 8px; background: var(--paper-sunk); }
+.exhalf.weak { }
+.exhalf-head { display: flex; align-items: center; gap: 10px; margin-bottom: 14px; flex-wrap: wrap; }
+.exhalf-head h4 { font-size: 16px; font-weight: 600; }
+.exhalf-head a { color: var(--ink); }
+.exhalf-head a:hover { color: var(--accent); }
+
+.extag {
+  font-size: 11px; font-weight: 600; letter-spacing: .05em; text-transform: uppercase;
+  padding: 3px 10px; border-radius: 999px; border: 1px solid; white-space: nowrap;
+  font-variant-numeric: tabular-nums;
 }
-@media (max-width: 700px) { .comparison-row { grid-template-columns: 1fr; } }
-.comparison-col {
-  display: flex; flex-direction: column; gap: 16px; align-items: flex-start;
+.extag.strong { color: #0e8a5f; border-color: rgba(14,138,95,.35); background: rgba(14,138,95,.09); }
+.extag.weak { color: var(--flag); border-color: var(--flag); background: var(--flag-bg); }
+
+/* gap track: shaded span between lowest and highest platform */
+.gaptrack { position: relative; height: 40px; margin: 6px 0 2px; }
+.gaptrack .gaxis { position: absolute; top: 19px; left: 0; right: 0; height: 2px; background: var(--rule); }
+.gspan { position: absolute; top: 15px; height: 10px; background: var(--ink); opacity: .16; border-radius: 5px; }
+.exhalf.weak .gspan { background: var(--flag); opacity: .3; }
+.gpt {
+  position: absolute; top: 12px; width: 16px; height: 16px; margin-left: -8px;
+  border: 2px solid var(--rule-strong); background: var(--paper); border-radius: 50%;
 }
+.gtick { position: absolute; top: 30px; transform: translateX(-50%); font-size: 11px; color: var(--ink-3); font-family: var(--mono); }
+.gtick:first-of-type { transform: none; }
+.gapleg { display: flex; justify-content: space-between; gap: 10px; font-size: 13px; margin-top: 10px; }
+.gapleg b { font-weight: 600; }
+
+/* recency track: one dot per review across twelve months */
+.rectrack { position: relative; height: 44px; margin-top: 4px; }
+.rectrack .gaxis { top: 17px; }
+.rpt {
+  position: absolute; top: 13px; width: 9px; height: 9px; margin-left: -4px;
+  border-radius: 50%; background: var(--ink); opacity: .3;
+}
+.rpt.new { width: 15px; height: 15px; top: 10px; margin-left: -7px; opacity: 1;
+  background: var(--paper); border: 2.5px solid var(--ink); }
+.rectrack .gtick { top: 30px; }
+.rectrack .gtick:last-of-type { transform: translateX(-100%); }
+
+/* result-specific quote */
+.exquote blockquote { font-size: 15px; line-height: 1.55; margin-bottom: 8px; }
+.exquote mark { background: rgba(14,138,95,.16); color: inherit; padding: 1px 3px; border-radius: 3px; }
+
+/* attribution list, Kevin's format */
+.attribs { list-style: none; margin-top: 12px; font-size: 12px; color: var(--ink-2); }
+.attribs li { padding: 2px 0; font-variant-numeric: tabular-nums; }
+.exhead p:empty { display: none; }

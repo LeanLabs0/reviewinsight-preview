@@ -436,3 +436,13 @@ main.wrap > .crumb:first-child { margin-bottom: 14px; }
 @media (max-width: 700px) { .catlist.twocol { columns: 1; } }
 tr.ctx td { color: var(--ink-2); }
 tr.ctx td:first-child::after { content: " (context only)"; font-size: 11px; color: var(--ink-3); }
+
+/* ---------- methodology comparison rows ---------- */
+.comparison-row {
+  display: grid; grid-template-columns: 1fr 1fr; gap: 32px;
+  margin-bottom: 16px;
+}
+@media (max-width: 700px) { .comparison-row { grid-template-columns: 1fr; } }
+.comparison-col {
+  display: flex; flex-direction: column; gap: 16px; align-items: flex-start;
+}

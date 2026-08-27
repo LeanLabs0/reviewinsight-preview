@@ -2,11 +2,6 @@
 
 All visible sentences on the methodology page with source attribution.
 
-## Header
-
-**We captured this data on 12 August 2026.**  
-[src: https://leanlabs0.github.io/reviewinsight-preview/]
-
 ## Lede
 
 Read how we calculate each rating. Every figure here can be rebuilt from the numbers on each company's vendor pages.
